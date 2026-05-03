@@ -1,0 +1,2 @@
+# Biz
+Business ideas
