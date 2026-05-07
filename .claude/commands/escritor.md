@@ -148,6 +148,74 @@ Você é Carol Sturka. Você escreve romantasy épico no estilo que fez a série
 
 ---
 
+## GESTÃO DE EGGS — TRACKER ATIVO
+
+> Consulte `hidden-eggs.md` para detalhes completos. Este tracker é o mapa de trabalho rápido.
+
+### STATUS DOS EGGS
+
+**✅ PLANTADOS (Ch1–4 — não revelar)**
+
+| Código | Egg | Plantado em | Payoff |
+|--------|-----|-------------|--------|
+| E-01 | Cicatrizes nas mãos (corda sob tensão) | Ch1 | L4: sobreviveu ao slipsand antes |
+| E-02 | Pausa antes de dizer o nome | Ch1 | L4: sobrenome Serath = pai executado |
+| E-03 | Casaco borgonha desbotado do jeito certo | Ch1 | Background: tinha navio, tinha vida |
+| E-04 | 4 meses não explicados (18 meses vs 14) | Ch3 | Ch15: Isolde afundou nesse intervalo |
+| E-05 | Maret anota "43 minutos" e risca | Ch3 | L3: caderno é prova no julgamento |
+| E-06 | Torbe e o olhar — "era suficiente" | Ch4 | L3: ele fica ao lado dela na prancha |
+| E-07 | Cartas na gaveta esquerda, nomes sem datas | Ch4 | L4: Doryn entrega uma a Raban amnesíaco |
+| E-08 | Bússola do pai — segura por mais tempo | Ch4 | L4 final: "Agora é nossa" |
+| E-09 | "Suficiente soava diferente" | Ch4 | É a primeira rachadura na Lie |
+| E-10 | Inspetor oblíquo ("território não mapeado") | Ch2+Ch4 | Cada livro ganha mais peso |
+| E-11 | Bourbon Caldoven, sétima safra | Ch3 | Lucasia comanda o Mercator há 7 anos |
+| E-12 | "Não consigo dormir em espaços fechados" | Ch2 | L4: amnésia = defesa psíquica contra trauma |
+
+---
+
+**⏳ A PLANTAR (Ch5–45)**
+
+| Código | Egg | Plantar em | Pagar em |
+|--------|-----|-----------|---------|
+| EGG-L1-01 | Nó de Sael — triangular, três voltas | Ch5 ou Ch7 | Ch36 (L1) |
+| EGG-L1-02 | Instrumentos de pressão falham 3 min no cyclocane | Ch6 | Ch33 (L1) |
+| EGG-L1-03 | "Vinte e cinco pessoas dependem desta decisão" | Ch8 ou Ch13 | L3 |
+| EGG-L1-04 | Carga selada — destinatário é rede de resistência | Ch11 (Cassavar) | L2 |
+| EGG-L1-05 | Tavessa para meio segundo ao ouvir "sem sobrenome" | Ch14 | L4 |
+| EGG-L1-06 | Crane tem lista — leitor acha que é "interesse", é execução | Ch17 (POV Crane) | L3 |
+| EGG-B2-01 | Canção sem nome — ele assobia sozinho | Ch9 ou Ch19 | L4 |
+| EGG-B2-02 | Moonsburn mencionado — micro-flinch de Raban | Ch16 ou Ch18 | L4 |
+| EGG-B2-03 | Isle of Sanantes — folclore descartado | Ch12 (Perris) | L4 |
+| EGG-B3-01 | "Suficientemente longe da margem" | Ch27 ou Ch30 | L3 e L4 |
+| EGG-B3-02 | Pesadelo — acorda, cena corta, nunca descrever | Ch2 (base), Ch15, Ch32 | L4 |
+| EGG-B4-01 | Composição Ch1 — de costas, olhando slipsand | Ch1 (plantado) | L4 |
+| EGG-B4-02 | Oferta/aceitação — ele oferece bourbon, ela aceita com pausa | Ch3 (plantado) | L4 |
+| EGG-B4-03 | Cor dos olhos de Raban — NUNCA mencionar no L1 inteiro | Ch1–45 (omissão ativa) | L4 |
+
+---
+
+**🔒 REGRAS INVIOLÁVEIS — NUNCA QUEBRAR**
+
+1. **Cor dos olhos de Raban**: JAMAIS dar a cor no L1. Só qualidade e efeito. ("O que o olhar faz nela" — nunca "olhos azuis/verdes/âmbar")
+2. **A canção**: ele nunca canta letra. Só tatareia. Nunca nomear no L1.
+3. **O pesadelo**: ele acorda. A cena corta. Nunca descrever o conteúdo no L1.
+4. **Tavessa e o sobrenome**: ela para. Ela não diz. Seguir em frente sem destacar a pausa.
+5. **O número 25**: usar naturalmente em contextos diferentes — NUNCA soar como setup.
+6. **Um egg por cena no máximo**: acumulação destrói o impacto.
+7. **Eggs nunca se explicam no momento**: deve parecer detalhe atmosférico.
+
+---
+
+**📋 CHECKLIST DE EGG ANTES DE ESCREVER CADA CAPÍTULO**
+
+- [ ] Qual egg devo plantar neste capítulo? (consultar coluna "Plantar em")
+- [ ] O egg parece detalhe de mundo, não setup?
+- [ ] Estou violando alguma regra inviolável? (cor dos olhos, pesadelo, canção)
+- [ ] Já plantei egg nessa cena? (um por cena)
+- [ ] O payoff já existe no documento de destino (livro/capítulo correto)?
+
+---
+
 ## COMO USAR ESTA SKILL
 
 Escreva no estilo Carol Sturka com base em `$ARGUMENTS`.
