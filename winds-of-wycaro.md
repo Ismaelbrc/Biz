@@ -1564,3 +1564,109 @@ Ficou com a testa na madeira do navio que era a única coisa no mundo que era co
 Depois desceu.
 
 ---
+
+## Capítulo 10 — Cassavar no Horizonte
+
+*Raban*
+
+---
+
+Ele viu Cassavar antes de qualquer outro a bordo.
+
+Não porque estivesse olhando — estava sempre olhando. Era o hábito que havia sobrevivido a dezoito meses de tentativa deliberada de se tornar passageiro: a verificação constante do horizonte, o catálogo inconsciente de o que está lá, o que está se movendo, o que mudou nos últimos dez minutos. Capitães faziam isso. Ele havia tentado parar durante um mês inteiro em Sanvel, havia ficado acordado olhando para o teto de pensões que não eram o *Isolde* e havia concluído que alguns hábitos não eram hábitos. Eram estrutura.
+
+Então ele verificava o horizonte porque o horizonte precisava ser verificado, e foi ele quem viu as torres de pedra preta de Cassavar recortando o céu amarantino da manhã antes que qualquer instrumento de bordo registrasse.
+
+Torres de pedra. Aquele amarantino específico que era o céu de Cassavar às sete horas — mais quente que o slipsand aberto, menos puro, com a névoa de porto que nenhuma cidade conseguia evitar completamente. Dois faróis menores na entrada do canal de atracação, ainda acesos a esta hora porque Cassavar não apagava os faróis de dia. A cidade havia aprendido que nevoeiro de areia chegava sem aviso e que navios perdidos eram navios não pagando taxa portuária.
+
+Terceira vez. Era a terceira vez que ele via esse horizonte.
+
+A primeira havia sido aos vinte e quatro anos, com o *Isolde* em sua terceira rota — carregando especiaria do sul para os distribuidores do Quarteirão Mandoviano, uma rota comum, lucrativa, sem nada que indicasse que Cassavar seria um lugar que ele precisaria conhecer de dentro em vez de só de passagem. Havia ficado três dias. Havia aprendido que a cidade tinha camadas — o porto para quem chegava, o Quarteirão para quem sabia o que procurar, e algo abaixo do Quarteirão que levava tempo e dinheiro e o tipo de confiança que não se comprava para alcançar.
+
+A segunda vez havia sido aos trinta e um, dois anos antes do naufrágio, com o *Isolde* carregando uma carga que ele havia aceito sem perguntar suficientes perguntas e que havia resultado numa noite inteira a bordo enquanto os inspetores do Inspetor vasculhavam o porão. Nada havia sido encontrado — porque ele havia tido sorte, não porque a carga fosse limpa, e havia aprendido naquela noite que havia uma diferença entre as duas coisas que era importante não confundir.
+
+Nessa segunda visita, havia ouvido o nome de Crane pela primeira vez.
+
+Crane era do tipo de pessoa cuja reputação chegava antes dele em qualquer sala. Não porque fosse espetacularmente cruel — havia crueldade espetacular suficiente no serviço do Inspetor para que ela se tornasse banal. Crane era metodicamente cruel, que era mais eficiente e mais difícil de documentar. Ele organizava as coisas com uma precisão administrativa que tornava os resultados parecerem inevitáveis em vez de escolhidos.
+
+Crane sabia que ele estava em Cassavar. Não havia razão para que não soubesse — o nome *Raban Serath* em Cassavar havia significado coisas diferentes em momentos diferentes, e agora significava *único sobrevivente do Isolde, procurando a irmã, inconvenientemente persistente*. Crane era o tipo de homem que mantinha listas. O tipo de homem que sabia onde colocar cada nome numa lista.
+
+Raban havia construído um plano para isso. O plano era bom — tinha redundâncias, tinha rotas de saída, tinha a ajuda de alguém que conhecia Cassavar de dentro e que tinha recursos que ele não tinha. O plano havia ficado melhor quando a capitã havia entrado nele, o que era algo que ele havia registrado e não havia examinado muito de perto porque examinar muito de perto era o tipo de coisa que tornava as contradições mais difíceis de carregar.
+
+Suas mãos apoiavam o corrimão. A madeira estava aquecendo com o sol que subia — mais quente do que havia estado nos dias de slipsand aberto, o calor de Cassavar chegando antes da cidade, como um aviso. O curativo na mão direita estava seguro. Doryn havia feito bem o trabalho.
+
+Ele pensou em Dara.
+
+Não era raro — ela aparecer nos pensamentos. Havia aprendido que tentar impedir o aparecimento era menos eficiente do que simplesmente observar e deixar que o pensamento completasse seu arco. Dara havia gostado de Cassavar. Havia passado a segunda visita numa taberna do Quarteirão enquanto ele ficava de plantão no *Isolde*, e havia voltado com histórias suficientes para três jantares de tripulação. Ela tinha esse talento — entrar num lugar como visitante e sair com a impressão de que havia morado lá há anos. Era o talento oposto ao dele, que entrava em lugares aprendendo as saídas antes de aprender o que havia dentro.
+
+*Complementares*, ela havia dito uma vez. *Você aprende como sair, eu aprendo por que entrar.*
+
+Ele havia rido disso na época. Havia sido antes de entender que essa era a distinção que importava.
+
+Sael tinha o talento de Dara. Ela entrava. Ela aprendia por que estar num lugar antes de aprender como sair. Era o que a havia levado a descobrir o que havia descoberto — qualquer coisa que fosse, qualquer informação que o Inspetor achasse valiosa o suficiente para colocá-la numa lista. E era o que a havia mantido viva e em movimento por quatorze meses: ela sabia como se tornar parte de um lugar rápido o suficiente para que persegui-la parecesse perseguir alguém de dentro.
+
+Ele havia ensinado a ela como usar documentos falsos porque a havia achado uma vez praticando a assinatura de outra pessoa num caderno e havia decidido que era melhor ensinar bem do que deixar que aprendesse mal. Havia sido antes do *Isolde*. Antes de saber que essa habilidade seria o que a manteria fora das mãos de Crane.
+
+Às vezes ele pensava nos efeitos das decisões pequenas. Nas coisas que você ensinava sem saber que estava ensinando para uma emergência específica. No jeito que o futuro usava o passado sem avisar.
+
+Cassavar crescia no horizonte. As torres mais altas — do arquivo histórico e do quartel-general do Inspetor, ambos propositalmente imponentes — estavam visíveis agora sem que ele precisasse procurar. A cidade não havia mudado. As cidades como Cassavar nunca mudavam — apenas acumulavam.
+
+Ouviu passos ao lado.
+
+"Primeira vez em Cassavar?" Maret ficou no corrimão ao lado dele, olhando para o horizonte com a expressão de alguém que havia dormido bem e que achava o mundo interessante por padrão. Ela tinha essa qualidade que ele havia notado desde o primeiro dia — a curiosidade que não performava, que era simplesmente o estado em que ela existia.
+
+"Terceira," ele disse.
+
+"Hmm." Ela considerou isso. "A capitã tem três favores guardados aqui. Ela nunca usou os três ao mesmo tempo."
+
+Ele virou para olhá-la.
+
+Maret estava olhando para Cassavar com a expressão de quem havia acabado de mencionar que ia chover — informação útil, oferecida sem drama, sem implicação explícita. Como se houvesse qualquer coisa nessa informação que fosse simples.
+
+"Só uma observação," ela disse.
+
+Foi embora.
+
+Ele ficou com a observação.
+
+*Ela nunca usou os três ao mesmo tempo.* Ele havia recebido a oferta do terceiro favor com o mesmo tom que havia recebido a informação sobre a formação Valdrek — útil, eficiente, dentro da lógica de uma capitã que processava recursos com a precisão de quem sabia o custo de cada variável. Havia aceitado porque faria sentido recusar, e porque havia aprendido, em dezoito meses de movimento, a aceitar ajuda competente quando era oferecida e a não transformar aceitação em dívida emocional.
+
+*Ela nunca usou os três ao mesmo tempo.*
+
+O que isso significava sobre a ajuda que estava recebendo.
+
+Ele não respondeu à própria pergunta, porque responder criaria um contexto que tornaria mais difícil o que vinha depois — desembarcar em Cassavar, executar o plano, encontrar Sael, agradecer de forma que encerrasse o que precisava ser encerrado e seguir em movimento. Era um plano bom. Tinha redundâncias. Não havia espaço nele para a variável que Maret havia acabado de nomear.
+
+Mas havia aprendido, nos últimos seis dias, que algumas variáveis não consultavam o plano.
+
+O Mercator se movia. O slipsand pós-tempestade havia normalizado — o amarantino comum, as correntes regulares, o calor de Cassavar substituindo o calor de slipsand aberto. Em algum ponto nos próximos seis horas eles entrariam no canal de atracação. Os inspetores portuários subiriam a bordo. A capitã os manejaria com a eficiência aprendida de alguém que havia passado sete anos aprendendo o sistema de Cassavar de dentro.
+
+E depois ele desembarcaria. Com o plano. Com o nome de Nasso. Com o contato de Tavessa e os três favores que nunca haviam sido usados todos ao mesmo tempo.
+
+Ele olhou para as torres de Cassavar por mais um momento.
+
+Em algum lugar nessa cidade, havia um rastro que tinha quatorze meses e que terminava em Nasso. Em algum lugar além dessa cidade, havia uma pessoa que havia passado quatorze meses se movendo na direção certa sem voltar atrás, porque *Sael não voltava atrás* — isso havia sido verdade aos dez anos e havia sido verdade aos vinte e cinco e ele não tinha razão para acreditar que havia mudado.
+
+Ele havia perdido o *Isolde* e a tripulação e dois anos de sua própria vida e, nessa sequência, havia perdido Sael também — não da mesma forma, não com a definitividade de um naufrágio, mas de uma forma que durava mais porque não havia encerramento, apenas ausência contínua. Havia passado dezoito meses em movimento porque parar significava sentir o peso de tudo que havia parado de existir ao mesmo tempo.
+
+Mas Sael não havia parado de existir. Ela estava em movimento — o tipo de movimento propositado, de quem sabe por que está indo, que era o oposto do tipo de movimento que ele havia estado fazendo.
+
+Quando ele a encontrasse, precisaria ter alguma resposta para isso. Para a diferença entre o movimento dela e o dele.
+
+Cassavar estava a quatro horas.
+
+Ele ficou no corrimão até que as torres fossem grandes o suficiente para distinguir as janelas. Então foi verificar seus pertences no porão de carga — o mínimo que carregava desde o *Isolde*, o suficiente para mover sem planejar, o tipo de bagagem que dizia tudo sobre quanto tempo uma pessoa esperava ficar em qualquer lugar.
+
+O Mercator se movia abaixo dele, sólido, constante, com aquela qualidade de coisa que sabe o que é e não precisa decidir a cada momento.
+
+Ele não havia sentido isso em dezoito meses.
+
+Não examinou o pensamento. Fechou a escotilha do porão. Foi para o convés.
+
+Cassavar estava esperando.
+
+---
+
+*Fim da Parte 1: O Vento Ladrão*
+
+---
