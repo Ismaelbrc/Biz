@@ -3696,3 +3696,147 @@ Havia voltado.
 Havia ficado no deck com ele mais quarenta minutos, em silêncio, olhando o slipsand leste que não retinha memória mas que existia independente do que havia acontecido nele.
 
 ---
+
+## Capítulo 32 — O Que Ele Não Diz
+
+*Raban*
+
+---
+
+Ela havia ido embora.
+
+Havia ido da mesma forma que havia ido no deck de observação depois que ele havia dito o nome dela — movimento como resposta a exposição, que era o padrão que ele havia aprendido a reconhecer nela. Havia voltado, desta vez, o que era diferente. Havia ficado mais quarenta minutos em silêncio que eram diferentes do silêncio anterior — não o silêncio de duas pessoas que não tinham o que dizer, mas o silêncio de duas pessoas que haviam dito suficiente e estavam deixando o que havia sido dito existir.
+
+Ele havia ficado no deck depois que ela foi.
+
+O slipsand leste havia claramente ficado mais escuro com a noite — aquele roxo profundo que era a assinatura de território menos visitado, que ele havia aprendido a ler como o slipsand lendo de volta para você, informação trocada entre navegador e areia ao longo de tempo suficiente.
+
+Havia algo que não havia dito.
+
+Havia dito: *você escolheu a culpa que confirma o que já acreditava.* Havia dito porque era verdade e porque ela precisava ouvir e porque havia chegado à conclusão de que não dizer verdades que a pessoa precisava ouvir não era proteção — era a forma mais cara de covardia.
+
+O que não havia dito: que ele havia feito a mesma coisa.
+
+Dezoito meses. Havia passado dezoito meses dizendo para si mesmo que o *Isolde* havia afundado porque havia errado — a rota, a leitura da tempestade, a decisão de não ancorar mais cedo quando os instrumentos haviam começado a se comportar de forma que ele havia arquivado como anomalia meteorológica.
+
+Havia errado essas coisas. Era verdade que havia errado.
+
+O que havia ficado em arquivo não examinado era: os instrumentos haviam parado três minutos antes da tempestade. Os instrumentos do *Mercator* haviam parado três minutos durante o cyclocane. As mesmas três minutos. A mesma interrupção abrupta seguida de retomada sem evidência de falha.
+
+Havia duas explicações possíveis. A primeira era coincidência — instrumentos do mesmo fabricante, da mesma época, com o mesmo ponto de falha. A segunda era que havia alguma coisa que causava a interrupção de instrumentos de pressão em condições específicas, e essa alguma coisa havia estado presente nos estreitos robrionianos e havia estado presente no cyclocane do *Mercator*.
+
+A segunda explicação tinha uma implicação que ele havia evitado examinar porque examinar transformava possibilidade em probabilidade e probabilidade era perigosa de formas específicas.
+
+A implicação era que o *Isolde* não havia afundado por erro. Havia afundado porque alguém havia enviado uma tempestade.
+
+Havia outro nome para isso: assassinato.
+
+Havia passado dezoito meses carregando culpa de acidente. A culpa havia sido útil — havia dado forma ao que havia acontecido, havia criado uma narrativa onde havia responsabilidade e portanto havia causa e portanto havia algum controle sobre o que havia sido completamente fora de controle. *Fiz algo errado. Se houvesse feito diferente, teria sobrevivido.*
+
+Culpa de acidente era ainda culpa — ainda havia o peso, ainda havia os nomes, ainda havia Dara e Emis e os outros dezenove que não haviam chegado à margem. Mas era culpa que ele entendia, que podia carregar, que tinha a estrutura de coisa com bordas definidas.
+
+Culpa de assassinato não tinha bordas.
+
+Se havia sido assassinato — se o Inspetor havia induzido a tempestade, se havia sido decisão de alguém e não falha de julgamento sua — então a culpa não explicava o que havia acontecido. A culpa não havia sido o resultado de um erro que poderia ter sido evitado. Havia sido o resultado de alguém que havia decidido que o *Isolde* precisava afundar.
+
+Sem culpa para carregar. Só perda. Só raiva.
+
+E Sael — Sael havia descoberto alguma coisa sobre os cyclocanes artificiais que o Inspetor não queria que chegasse a outras pessoas. Havia descoberto o suficiente para estar em lista com prazo de validade.
+
+O que havia descoberto era a resposta para a segunda explicação.
+
+Ele havia arquivado o pensamento nos dezoito meses de movimento porque mover-se era mais fácil do que chegar ao fim do pensamento. Esta noite havia ficado parado.
+
+A raiva chegou de forma específica — não explosiva, mas a raiva de longa duração que havia estado arquivada junto com a culpa e que havia sido mais fácil de manter arquivada enquanto havia culpa para acessar em vez.
+
+Vinte e um nomes.
+
+Havia passado dezoito meses carregando vinte e um nomes como peso da culpa. O peso não havia mudado. Mas havia a diferença entre carregar peso de coisa que havia feito e carregar peso de coisa que havia sido feita para ele. A diferença não tornava mais leve. Tornava mais clara a direção onde o peso apontava.
+
+Havia acordado quando o céu ainda estava escuro.
+
+Havia dormido — o que não era garantido em noites como esta. Havia acordado com o pesadelo no limite do pensamento consciente, na fronteira onde sempre interrompia antes que formasse imagem clara. Havia interrompido. Havia ficado deitado.
+
+Havia ficado de pé e ido ao deck antes que o cálculo chegasse a conclusão, porque havia aprendido que às vezes o deck era o melhor lugar para terminar cálculos.
+
+O slipsand leste rolava com a qualidade específica de antes do amanhecer. Havia aprendido isso no *Isolde* — havia aprendido muitas coisas no *Isolde* que ainda usava, que era parte do problema e parte da resposta.
+
+Havia seis dias até Velne.
+
+---
+
+## Capítulo 33 — Terceiro Cyclocane
+
+*Lucasia / Raban*
+
+---
+
+*Lucasia*
+
+O cyclocane menor chegou ao décimo sétimo dia.
+
+Menor não significava simples — a parede de slipsand tinha cento e cinquenta metros em vez de trezentos, a duração seria vinte e cinco minutos em vez de quarenta, e o Mercator estava em rota irregular sem as formações de terreno que tornavam as âncoras de areia mais eficientes. Menor era relativo. Ainda era cyclocane.
+
+"*Cyclocane!*" Ela havia sentido a pressão cair às cinco da manhã e havia acordado a tripulação com o protocolo de sempre — três batidas, duas batidas, vinte e cinco pessoas que sabiam o que fazer antes de estarem completamente acordadas.
+
+Raban havia chegado ao convés com a mesma antecipação de antes — não perguntou, ficou disponível, tinha ângulo para tudo que precisava.
+
+Desta vez ela havia dito: "Leme."
+
+Havia sido a primeira vez. Havia sido decisão tomada antes de ser verificada — o tipo de decisão que acontecia quando havia confiança suficiente para preceder o cálculo. Havia chegado ao leme e havia dito *leme* para ele com o tom de quem estava distribuindo recurso que sabia ser correto.
+
+---
+
+*Raban*
+
+O leme do Mercator era diferente do leme do *Isolde*.
+
+A diferença era a história no leme. A forma como a madeira havia sido trabalhada pelo contato de sete anos de uma capitã específica. A forma como o navio respondia ao leme desta forma — que era diferente da forma que havia respondido quando havia corrigido ao lado dela no primeiro cyclocane.
+
+Respondia a ele também.
+
+Havia sido surpresa — havia esperado ter que recalibrar. O Mercator não havia tido resistência. Havia respondido como slipsand que havia aprendido mais de uma linguagem: havia a linguagem dela, e havia outra coisa que o navio reconhecia em qualquer um que soubesse ler slipsand da forma que ambos sabiam.
+
+Havia trabalhado no leme.
+
+Ela havia ficado a dois metros à direita — disponível, com ângulo para a tripulação, sem interferir. Havia havido, nos vinte e cinco minutos do cyclocane, uma comunicação sem palavras — havia visto o ângulo da pressão mudar antes dos instrumentos e havia ajustado, e ela havia visto que havia ajustado e havia reposicionado as âncoras dois segundos depois, que havia sido o tempo correto para que os dois ajustes funcionassem em conjunto.
+
+A tripulação havia notado. Havia visto nos rostos — não surpresa, mas o reconhecimento de algo que já estava acontecendo e que havia se tornado visível.
+
+---
+
+*Lucasia*
+
+Quando o cyclocane passou, havia silêncio.
+
+"Você leu o vento antes de mim," ela disse.
+
+"Por dois segundos."
+
+"Em slipsand, dois segundos são o navio."
+
+Havia dito com o tom de fato de navegação porque era fato de navegação. Havia também a qualidade de alguém verificando o que havia visto.
+
+"Como você faz isso?" ela perguntou.
+
+"O *Isolde* estava sempre em rota mais arriscada do que o necessário," ele disse. "Territórios menos mapeados, formações sem documentação, o tipo de rota onde os instrumentos eram o segundo recurso em vez do primeiro." Uma pausa. "Aprendi a ler o vento por sobrevivência. Quando o instrumento vai falhar antes de avisar, você aprende a encontrar outro aviso."
+
+Ela havia ficado com isso.
+
+"Eu aprendi da mesma forma," ela disse.
+
+Havia algo no dizer isso — não a informação, mas a qualidade de alguém oferecendo equivalência. *Você não é o único que aprendeu assim. Eu aprendi assim também.* Era o tipo de coisa que se dizia quando havia chegado a um ponto onde a equivalência parecia importante de estabelecer.
+
+Ela havia chegado a esse ponto.
+
+"Vento de leste," ele disse, levemente — a informação, antes que ela precisasse processar o que havia dito sobre aprender.
+
+Ela virou para o horizonte. Vento de leste era a assinatura de Velne. Chegava antes do porto como aviso de que a margem estava próxima.
+
+Cinco dias.
+
+---
+
+*Fim da Parte 3: O Que o Fogo Faz*
+
+---
