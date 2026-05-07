@@ -914,3 +914,189 @@ Estava tudo bem. O navio estava intacto.
 Ela não tinha certeza do resto.
 
 ---
+
+## Capítulo 6 — Cyclocane
+
+*Lucasia*
+
+---
+
+Ela sentiu a pressão cair às quatro e quarenta da manhã.
+
+Não pelos instrumentos — os instrumentos vieram dois minutos depois, ponteiros descendo com a urgência calibrada de mecanismos que não têm pressa porque não entendem o que estão medindo. Ela sentiu pelos ouvidos. Por um ajuste quase imperceptível na forma como o ar entrava pelos pulmões. Por um aperto nas têmporas que ela havia aprendido a distinguir de dor de cabeça quando tinha vinte e dois anos e o pai havia dito: *quando sentir isso, acorda todo mundo.*
+
+Ela estava de pé antes de terminar o pensamento.
+
+O deck estava quieto. O slipsand corria abaixo com a fluidez preguiçosa das quatro da manhã, roxo-escuro, refletindo uma faixa de lua que estava desaparecendo atrás de nuvens que ela havia notado ontem à tarde mas que haviam parecido inofensivas. Não eram. Ela havia sido descuidada. Havia arquivado as nuvens como *possível* e seguido com o dia.
+
+Não era hora de se punir por isso. Mais tarde. Se houvesse mais tarde.
+
+"*Cyclocane!*" Ela bateu três vezes na porta da câmara de Doryn — o código que ele havia estabelecido no primeiro dia em que trabalhou para o pai dela, quando ela tinha oito anos e ainda achava que cyclocanes eram excitantes. *Três pancadas. Não duas. Três.* "Acorda todo mundo. Agora."
+
+A resposta de Doryn foi o som de seus pés no chão. Isso era suficiente.
+
+Ela foi ao leme.
+
+O Mercator respondia diferente quando a pressão caia. Era sutil — uma hesitação de meio segundo quando ela corrigia o ângulo, como se o navio também estivesse ouvindo o ar e avaliando. Ela não havia encontrado instrumentos que medissem isso. Era a diferença entre conhecer um navio e *conhecer* um navio, e ela havia passado sete anos neste convés aprendendo cada respiração do Mercator.
+
+A tripulação emergiu do porão com a coordenação de pessoas que praticavam isso porque tinham que praticar, porque no slipsand aberto a distância entre um procedimento ensaiado e o caos total era exactamente a largura de uma má decisão. Perwick nas velas de estibordo. Juna e Corvel nas âncoras de areia. Maret no instrumento de pressão do convés superior — ela viu a jovem subir correndo, caderno de navegação na mão por algum motivo que Lucasia não tinha tempo de questionar.
+
+Torbe apareceu ao lado dela no leme sem que ela precisasse pedir.
+
+"Seção nordeste," ele disse. Não era pergunta.
+
+"Nordeste. Vai virar para oeste quando chegar a duzentos metros." Ela havia visto cyclocanes se comportar assim nessa região antes — a curvatura das correntes de areia funcionava como paredes de canalização, redirecionando a espiral. "Vamos precisar virar vinte graus para estibordo antes que ele chegue."
+
+"Se virarmos cedo—"
+
+"Se esperarmos vamos perder a janela." Ela já estava ajustando o leme. "Vinte graus. Agora."
+
+O Mercator girou com aquela obediência pesada que ela amava — o navio grande demais para ser ágil mas preciso o suficiente para ser elegante quando você sabia o que estava pedindo.
+
+Foi então que ela viu o muro.
+
+Não havia metáfora melhor. Era literalmente um muro — de slipsand roxo-preto, comprimido pela espiral do cyclocane até uma densidade que transformava a areia em algo que se movia como líquido e soava como pedra moendo pedra. Trezentos metros de altura. Avançando a quarenta quilômetros por hora. O som chegou antes da imagem ter tempo de assentar — um rugido baixo, mais sentido no peito do que ouvido com os ouvidos, como o Mercator inteiro vibrando em frequência de advertência.
+
+Ela havia visto cyclocanes antes. Isso não tornava mais fácil olhar para um.
+
+"*Velas!*" ela gritou, e não precisava gritar — a tripulação já estava nas velas, Perwick puxando o cabo de recolhimento de estibordo com os dois pés no convés e o peso do corpo inteiro na corda. Se as velas ficassem abertas, o vento comprimido do cyclocane as transformaria em âncoras invertidas. O Mercator rolaria.
+
+Ela não ia deixar o Mercator rolar.
+
+"Capitã." A voz de Doryn, calibrada para o volume exato necessário. Ele estava no convés principal, olhando para a linha de estibordo anterior — a amarra número três, não a que o passageiro havia consertado de manhã, mas a seguinte, que estava vibrando com uma frequência que ela reconheceu antes de processar conscientemente: tensão próxima do limite. Se o cyclocane chegasse enquanto aquela amarra estava assim, a linha ia partir. Uma linha de navio sob tensão máxima não parte — *chicoteia*. E uma linha que chicoteava no convés cheio de tripulação—
+
+"Eu vi," ela disse.
+
+Quem estava mais perto? Ela fez o cálculo em menos de um segundo: Perwick nas velas, Juna e Corvel nas âncoras, Maret no convés superior, Torbe no leme. Halve estava— ela não sabia onde estava Halve, o que era um problema, Halve havia estado invisível desde Sanvel.
+
+O muro de areia estava a duzentos metros.
+
+*Alguém precisa pegar aquela linha.*
+
+Ela já estava se movendo quando viu que não precisava.
+
+Raban estava no convés de estibordo.
+
+Ela não soube de onde ele havia saído — do porão, provavelmente, porque ele não dormia em espaços fechados e havia passado a noite no deck de observação, mas isso não era o ponto. O ponto era que ele estava lá, de borgonha desbotado contra o vento que estava começando a chegar como a frente de uma coisa muito maior, e estava olhando para a linha número três com a expressão de alguém que já fez os mesmos cálculos que ela.
+
+Ele foi para a linha.
+
+"*Isso é trabalho da minha tripulação!*" ela gritou, porque era — porque tinha que ser, porque passageiros no convés durante cyclocane eram variáveis não calculadas e variáveis não calculadas matavam pessoas — mas a voz sumiu no rugido que estava crescendo agora, o muro a cem metros, a areia fazendo aquele som de pedra-sobre-pedra que você sentia nos dentes.
+
+Ele olhou para ela uma vez. Não era desafio. Era comunicação — *sua tripulação está ocupada.*
+
+Estava. Ela sabia que estava.
+
+Ela voltou ao leme.
+
+O cyclocane chegou.
+
+Não havia forma honesta de descrever quarenta minutos de cyclocane que transmitisse o que era estar dentro de um. Havia o vento — não vento como ela conhecia, mas pressão física, algo que empurrava contra o corpo com a intenção de um muro em movimento. Havia a areia, que não caía mas *batia*, horizontal e com velocidade suficiente para deixar marcas na madeira tratada do convés. Havia o som, que passou de rugido para algo além da capacidade dos ouvidos de categorizar — não silêncio, mas frequência demais para processar, o tipo de som que se tornava ausência de sentido.
+
+E havia o trabalho. Porque o Mercator precisava ser mantido na posição e o leme precisava de alguém que soubesse o que estava pedindo e ela era essa pessoa, havia sido essa pessoa durante sete anos, e ela manteve o ângulo com as mãos e os pés e o peso do corpo quando necessário e não pensou em nada além do próximo segundo.
+
+Exceto que pensou.
+
+Não com palavras. Com a parte do cérebro que processa informação visual sem consultar o raciocínio — ela sabia onde Raban estava no convés da mesma forma que sabia onde estava cada membro da tripulação, por localização periférica, por som, por ausência de alarme. Quando a âncora de areia de bombordo começou a arrastar — ela sentiu o Mercator hesitar, aquela mesma hesitação de meio segundo que havia aprendido a reconhecer, agora com significado diferente — ela gritou para Juna.
+
+Juna estava com a âncora de estibordo.
+
+Ela não podia largar estibordo para pegar bombordo.
+
+E então, sem que ela tivesse que calcular ou gritar ou tomar nenhuma decisão além de manter o leme, Raban estava em bombordo. Ela o viu na visão periférica — borgonha escuro contra o cinza do cyclocane, movendo-se com aquela economia de esforço que ela havia notado no primeiro dia e não havia conseguido de parar de notar. Ele não correu. Não havia onde correr num convés em tempestade. Ele se moveu *através* do vento, usando ângulos em vez de força, e chegou à âncora de bombordo antes que ela pudesse recalcular se era possível chegar à âncora de bombordo.
+
+Ele e Juna trabalharam a âncora juntos.
+
+Ela não sabia as palavras que trocaram. O vento tornava qualquer comunicação verbal abaixo de um grito inútil, e nenhum dos dois gritou. Mas a âncora estabilizou — ela sentiu no leme, sentiu no Mercator inteiro, aquela diferença entre um navio que está cedendo e um navio que decidiu não ceder.
+
+Foi nesse momento que os instrumentos pararam.
+
+Ela notou porque havia olhado para o manômetro de convés — o instinto de verificar pressão durante cyclocane era tão incorporado que acontecia sem decisão consciente. O ponteiro estava parado. Não no zero, não no máximo. Simplesmente *parado*, como se o mecanismo tivesse esquecido o que estava fazendo.
+
+O velocímetro de areia também. O termômetro de pressão de bombordo.
+
+Ela fez um catálogo rápido: todos os instrumentos de pressão. Nenhum dos de navegação. O compasso continuava funcionando. O relógio de bordo continuava funcionando. Mas qualquer coisa que medisse pressão do slipsand ou do ar havia simplesmente parado de responder.
+
+O Mercator era mantido com perfeição. Isso não deveria acontecer.
+
+Ela não teve tempo de examinar isso. O leme precisava dela. Ela guardou o pensamento no lugar onde guardava coisas que precisavam ser examinadas depois — o compartimento mental que havia desenvolvido durante anos de decisões impossíveis em sequência, o lugar onde ficavam as coisas que eram importantes mas não agora, *agora* era outra coisa.
+
+Três minutos depois, os instrumentos voltaram.
+
+Ela não conseguia ter certeza do tempo — não com o cyclocane — mas tinha sido exatamente isso. Três minutos. Ela havia contado porque havia percebido que estava contando, sem saber por quê. Ponteiros retomando movimento como se nada tivesse interrompido, como se os três minutos não tivessem existido.
+
+O Mercator era mantido com perfeição.
+
+Aquilo não deveria ter acontecido.
+
+*Depois*, ela disse para si mesma. *Examine depois.*
+
+O cyclocane virou para oeste, exatamente como ela havia previsto, e levou mais vinte e três minutos para se afastar o suficiente para que o vento caísse abaixo do nível onde manter posição exigia esforço constante. E então ficou quieto com aquela qualidade específica do silêncio pós-tempestade — não ausência de som, mas som que havia esquecido como se comportar e estava se reorganizando.
+
+Ela soltou o leme.
+
+Suas mãos doíam. Ela não havia percebido.
+
+"Tripulação." Sua voz saiu mais áspera do que havia planejado — a areia fazia isso, entrava pelos pulmões e deixava o som ralado por dias. "Relatório."
+
+Começaram da proa para a popa, como sempre. Ninguém ferido. Perwick havia raspado o joelho numa queda mas estava de pé. A vela de estibordo tinha um rasgo de quarenta centímetros que precisava de reparo mas não era emergência. As âncoras de areia estavam sólidas. O casco havia tomado impacto mas o Mercator era construído para exatamente isso — o som da vistoria de Torbe, batendo metodicamente na madeira dos flancos, era o som mais tranquilizador que ela conhecia.
+
+"*Intacto*," Torbe disse, de algum lugar abaixo.
+
+O Mercator estava intacto.
+
+Ela ficou parada no leme por um momento mais longo do que era necessário. O slipsand estava se recuperando ao redor deles — a areia que o cyclocane havia erguido e comprimido e redirecionado voltando agora ao estado de fluxo normal, o roxo-escuro clareando para o amarantino padrão enquanto a luz do amanhecer começava a chegar de leste. O céu acima tinha aquela cor específica que Maret anotava toda manhã — âmbar-azul, único, sem pintura que fizesse jus.
+
+Ela respirou uma vez, completa.
+
+Raban estava no convés de bombordo, de costas para ela, olhando a âncora de areia que ele e Juna haviam estabilizado. Ela viu o momento em que ele se afastou da âncora e ficou de pé — e viu, também, que ele estava segurando a mão direita de uma forma específica. A posição de alguém que está verificando o dano sem chamar atenção para o fato de que está verificando o dano.
+
+A linha. A linha número três que ele havia segurado durante o cyclocane.
+
+Uma linha sob tensão máxima não era uma corda. Era algo diferente — mais próximo de um fio de metal do que de fibra, com bordas que cortavam quando a tensão era distribuída errada, quando havia um momento de hesitação, quando a mão estava no ângulo errado. Ela havia visto o que aquilo fazia em mãos desprotegidas.
+
+"Raban."
+
+Ele virou. O rosto estava coberto de areia fina — todos estavam, o cyclocane deixava isso, aquela camada de pó amarantino que levava dias para sair completamente dos cabelos e das sobrancelhas. Os olhos, naquela poeira, faziam alguma coisa que ela não conseguia nomear.
+
+Ela não nomeou.
+
+"Mão direita," ela disse.
+
+Uma pausa. Ele abriu a mão — relutante não era a palavra certa, era mais o gesto de alguém que havia decidido que não havia razão para negar o que era óbvio. A palma tinha um corte diagonal, não profundo, mas longo. Do tipo que a tensão de uma linha fazia quando você a segurava errado por tempo demais.
+
+"Kit médico está com Doryn," ela disse.
+
+"Estou bem."
+
+"Não perguntei se estava bem." Ela disse isso com o mesmo tom que usava para qualquer instrução de navegação — informação, não julgamento. "Kit médico está com Doryn. Câmara de primeiro-oficial, estibordo."
+
+Ela virou de volta para o leme antes que ele pudesse responder.
+
+"*Maret!*" ela chamou, para cima, para o convés superior onde sabia que a jovem ainda estava. "Pressão normalizada?"
+
+"Sim, capitã." Uma pausa. "Capitã — os instrumentos de pressão. Durante o cyclocane, por cerca de três minutos—"
+
+"Eu vi." Ela já havia subido para verificar os próprios instrumentos. Todos funcionando. Ponteiros nos lugares certos, leituras consistentes com o que ela esperava da pressão pós-tempestade. Nenhuma evidência de que haviam parado. "Faça nota no log."
+
+"Já fiz."
+
+Ela não esperava menos de Maret.
+
+O sol estava subindo, e com ele o calor — aquele calor de Wycaro que não aquecia mas *cobria*, que se instalava sobre o slipsand como um segundo elemento e ficava. A tripulação trabalhava ao redor dela no silêncio eficiente do pós-crise, cada pessoa sabendo o que precisava fazer sem precisar de mais instruções porque ela havia passado sete anos garantindo que soubessem. Perwick na vela rasgada. Torbe completando a vistoria do casco. Halve — ela finalmente o localizou, emergindo do porão com o rosto de alguém que havia passado o cyclocane escondido, o que ela anotaria mentalmente para abordar depois, não com raiva mas porque tripulação que desaparecia durante tempestade era tripulação que precisava de uma conversa específica.
+
+Depois.
+
+Agora havia o sol e o slipsand e o Mercator intacto ao redor dela, e ela ficou no leme mais um momento do que precisava porque o leme era o lugar onde ela sabia exatamente quem era e o que custava e o que valia.
+
+A mão de Raban valia.
+
+Ela havia pensado isso — não com palavras, mas havia pensado, no meio do cyclocane, quando havia visto ele na posição errada com a linha de tensão errada. Havia pensado antes de poder impedir, que era o tipo de coisa que não deveria ser pensada sobre um passageiro que ia desembarcar em Cassavar e nunca mais seria relevante para o Mercator.
+
+Ela não foi embora com esse pensamento. Ela o guardou no mesmo compartimento onde havia guardado os instrumentos. O compartimento onde ficavam as coisas que eram importantes mas não agora.
+
+*Depois*, ela disse para si mesma, pela segunda vez naquela manhã.
+
+O slipsand rolava abaixo, amarantino e preguiçoso, como se o cyclocane nunca tivesse existido.
+
+---
