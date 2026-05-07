@@ -642,3 +642,275 @@ Ela não examinou esse pensamento.
 Ela foi dormir.
 
 ---
+
+## Capítulo 5 — Como um Capitão Lê um Deck
+
+*Maret*
+
+---
+
+A vigia matinal começava ao quinto sino, que era quando o slipsand estava mais frio e o céu sobre Wycaro tinha aquela cor específica de âmbar-azul que não existia em nenhum outro lugar do mundo. Maret sabia disso porque havia procurado, antes de entrar no Mercator, numa biblioteca de Sanvel que cheirava a papel velho e ao cachimbo de spicefruit de alguém há muito esquecido. Não havia pinturas daquele céu. Nenhum viajante havia pensado em descrevê-lo. Era o tipo de beleza que as pessoas que viviam com ela esqueciam de mencionar.
+
+Maret não havia esquecido. Ela registrava no caderno de navegação toda manhã — o que significava que tinha aproximadamente mil e cem entradas que diziam *céu amarantino, quinto sino* em várias combinações com direção do vento e leituras de pressão. Doryn uma vez havia olhado para uma dessas entradas e não dito nada. O silêncio dele significava que estava bem.
+
+Ela verificava o manômetro de bombordo quando ouviu passos atrás de si.
+
+Soube, antes de virar, que não era tripulação. Tripulação andava no Mercator como respirava — automaticamente, com o ritmo particular que o navio exigia. Esses passos eram cuidadosos. Alguém memorizando.
+
+*O passageiro. Claro.*
+
+Ela não virou. Esperou.
+
+Raban apareceu no limite do seu campo de visão, chegou ao corrimão de estibordo e ficou de costas para ela, olhando o slipsand que rolava abaixo — roxo escuro sob a luz ainda baixa do amanhecer, ondas lentas de areia que pareciam respirar. Não olhou para ela. Maret não havia esperado que olhasse; a capitã havia dito, e Maret havia ouvido através da porta da câmara, que ele era o tipo de homem que memorizava rostos por sobrevivência. Um homem assim sabia exatamente onde estavam todos os outros antes de deixar seu próprio rosto aparecer.
+
+Não. Ela estava inventando histórias. Era o que Doryn sempre dizia: *Maret, você está inventando histórias.* E ela sempre respondia: *Doryn, as histórias são o que você encontra quando para de olhar só para os instrumentos.*
+
+Raban ficou no corrimão por talvez dois minutos. Depois se moveu.
+
+A amarra de estibordo norte — a segunda da proa, que estava frouxa desde Sanvel, que ela havia notado ontem e anotado para o próximo turno porque o próximo turno era de Perwick e era função de Perwick, não dela — estava frouxa ainda.
+
+Ele parou diante dela.
+
+*Passageiros não tocam no equipamento.* Era a regra. A capitã havia dito. Maret havia ouvido. A tripulação toda havia ouvido, através de Halve, que havia contado para todos com aquela voz de quem carrega culpa como comida pesada — densa e difícil de engolir em pedaços grandes.
+
+Raban olhou para a amarra. Olhou para o slipsand lá embaixo. Fez os cálculos — ela viu o momento exato, os olhos percorrendo distância e ângulo de tensão — e então agiu.
+
+Ele amarrou.
+
+Não foi rápido, não foi descuidado. Foi o tipo de movimento que existe apenas em pessoas que fizeram aquilo tanta vezes que as mãos sabem sem pedir permissão ao cérebro. As cicatrizes nas palmas — ela havia notado no dia anterior, todos haviam notado, era impossível não notar — se moveram contra a corda com a precisão de quem conhecia aquela conversa de cor.
+
+Quando terminou, voltou ao corrimão e ficou de costas para ela de novo. O slipsand rolava. O amanhecer avançava um milímetro por segundo.
+
+Maret olhou para a amarra. Depois para ele. Depois para o convés superior, onde a capitã havia aparecido no limite do seu campo de visão — ela não sabia dizer quando, a capitã tinha essa capacidade irritante de materializar-se em lugares sem anunciar — e estava verificando alguma coisa no instrumento de pressão superior com a atenção total de alguém que não estava olhando para mais nada.
+
+Exceto que estava.
+
+Maret havia passado dois anos aprendendo como a capitã olhava as coisas. Havia uma diferença entre a capitã ignorando algo e a capitã processando algo enquanto fingia ignorar. O ângulo dos ombros. A pausa imperceptível antes de virar a cabeça. Ela havia catalogado essas diferenças sem perceber que estava fazendo isso — que era o tipo de coisa que acontecia quando você passava dois anos num navio com vinte e cinco pessoas e nada para fazer além de navegar e prestar atenção.
+
+A capitã havia visto.
+
+E havia voltado para os instrumentos sem dizer nada.
+
+Maret fez mentalmente uma nota. Depois foi verificar a amarra de estibordo.
+
+* * *
+
+O nó era triangular.
+
+Ela ficou olhando para ele por mais tempo do que era necessário para qualquer propósito prático. Três voltas. A geometria do laço formando um ângulo que nenhum dos onze nós-padrão de duneship que ela conhecia formavam — e ela os conhecia todos, havia passado as primeiras três semanas no Mercator amarrando e desamarrando cordas até Torbe dizer que estava bem, que ela sabia, que precisava parar de insistir.
+
+*De onde vem esse nó?*
+
+Era a pergunta certa. Não *é seguro?* — era seguro, ela podia ver isso pela tensão na corda e pelo ângulo de distribuição de peso. Não *devo reportar?* — o que ela reportaria? *Capitã, o passageiro consertou a amarra com um nó que não reconheço?* A capitã já sabia sobre a amarra. Sobre o nó, Maret suspeitava que a capitã também já sabia, ou saberia logo, porque a capitã sabia tudo que acontecia no Mercator antes que acontecesse.
+
+*De onde vem esse nó?*
+
+Do leste, ela imaginou. Das regiões onde o slipsand não era roxo mas vermelho-escuro como vinho antigo, onde as correntes de areia se comportavam de forma diferente e os amarres precisavam responder a pressões que os duneships de rota padrão nunca encontravam. Ela havia lido sobre isso. Havia pedido para Doryn encontrar mapas das regiões leste, que Doryn havia encontrado com a expressão de alguém que não pergunta por quê mas arquiva o pedido.
+
+Ela se perguntou quantas outras coisas Raban carregava de algum lugar do leste.
+
+Depois parou de se perguntar, porque estava inventando histórias de novo, e foi verificar o manômetro de bombordo que era, afinal, o que ela estava fazendo quando tudo isso havia começado.
+
+* * *
+
+À tarde, Raban estava no convés de carga com Torbe.
+
+Maret descobriu isso por acidente — ela descia para buscar as anotações de peso que havia deixado na câmara de carga e os ouviu antes de vê-los. A voz de Torbe era inconfundível: baixa, grossa, com aquela qualidade de quem passou tempo suficiente no slipsand para que a areia ficasse nas cordas vocais. Ele não falava muito. Quando falava, valia prestar atenção.
+
+Ele estava rindo.
+
+Maret parou no último degrau da escada. Não porque fosse espionar — ela simplesmente ficou tão surpresa que os pés pararam sozinhos.
+
+Torbe ria com a frequência de um eclipse lunar. Maret havia presenciado isso duas vezes em dois anos, e ambas em circunstâncias específicas: quando Perwick havia caído dentro de uma caixa de spicefruit durante manobra de ancoragem — culpa de Perwick, completamente evitável, mas objetivamente engraçado — e quando ela própria havia passado o manifesto de carga para a inspeção portuária de Sanvel de cabeça para baixo e a inspetora havia assinado sem perceber.
+
+Desta vez, ela não sabia o que havia causado o riso. Ficou no último degrau e ouviu.
+
+"— não é o deslocamento que importa," Raban estava dizendo, com aquela voz que ela havia catalogado mentalmente como *bourbon com profundidade*, o tipo de voz que fazia você prestar atenção antes de processar o que estava sendo dito. "É o *momento* do deslocamento. Se o vento mudar às quatro horas, você tem vinte minutos antes de a carga começar a derivar para bombordo. Não trinta. Não quinze. Vinte. Se redistribuir antes de vinte, está lutando contra um movimento que ainda não aconteceu."
+
+Silêncio.
+
+"Às quatro horas, a carga de bombordo pesa mais," Torbe disse. Não era pergunta. Era verificação.
+
+"Às quatro horas, sim. Às cinco, já compensou."
+
+"Então você não redistribui."
+
+"Você não redistribui."
+
+Torbe considerou isso. Maret, no último degrau, pensou: *isso é algo que eu deveria saber.* Pensou também: *isso é algo que Torbe provavelmente já sabia e está verificando de outra forma.* E pensou, por fim: *esse homem passou os últimos dois dias sendo avaliado e está agora avaliando de volta, e nenhum dos dois percebeu que trocaram de papel.*
+
+À distância, o slipsand soava como respiração. Maret ouviu — e quase perdeu — um som que não deveria estar procurando: Raban tagarelava baixinho alguma melodia enquanto ajustava alguma coisa com as mãos, um fragmento de som sem letra, sem início reconhecível, sem nome que ela pudesse dar. Não era nenhuma canção que ela conhecia. Durou menos de dez segundos. Ele parou quando Torbe voltou a falar.
+
+"Você capitaneou," Torbe disse.
+
+Maret segurou a respiração.
+
+"Sim," disse Raban.
+
+A pausa depois disso foi diferente. Maret a reconheceu mesmo sem entender completamente — era o tipo de silêncio que envolve um nome antes de ser dito, quando você já sabe que o nome vai mudar a temperatura do ar ao redor dele. Ela sabia sobre o *Isolde*. Todo navegador de slipsand sabia sobre o Isolde — afundado nos estreitos robrionianos, tempestade sem aviso, tripulação perdida. Havia uma placa num porto de Sanvel. Ela havia lido o nome uma vez sem pensar muito nisso.
+
+"Que navio?" Torbe perguntou.
+
+"*Isolde*."
+
+O silêncio que veio depois disso durou exatamente o tempo que levava para um nome com esse peso assentar.
+
+Maret desceu o último degrau em silêncio. Quando apareceu no convés de carga, Torbe trabalhava ao lado de Raban com a postura de alguém que havia tomado uma decisão silenciosa. Ele não olhou para ela. Ela foi buscar as anotações de peso sem dizer nada.
+
+Na parede ao lado das caixas de carga, havia uma pequena marca de slipsand no madeiramento — uma mancha amarantina que não saía, que Maret havia tentado limpar quando embaracou no Mercator e que Torbe havia dito para deixar. *Faz parte do navio.* Ela nunca havia entendido completamente o que isso significava.
+
+Agora estava começando a entender que Torbe carregava coisas que nunca falava, e que alguns desses silêncios eram sobre Fen, e que o jeito que ele tratava a capitã — com aquela gentileza excessiva que ela havia notado mas nunca nomeado — era a forma dele de fazer algo que não tinha outro nome senão reparação. Pela coisa que ele havia encontrado no porão naquela noite de motim, seis anos atrás, e que havia mudado tudo.
+
+Ela pegou as anotações e subiu.
+
+* * *
+
+Ela encontrou Doryn na câmara de cartas.
+
+Ele estava sobre os mapas com aquela concentração que tornava qualquer interrupção parecer vandalismo, mas ela interrompeu mesmo assim porque era isso que ela fazia, e Doryn sabia disso havia dois anos e ainda assim a mantinha na tripulação — o que ela interpretava como aprovação.
+
+"Raban era o capitão do *Isolde*," ela disse.
+
+Doryn não levantou os olhos dos mapas. "Eu sei."
+
+"Você *sabe?*" Ela fechou a porta atrás de si. "Desde quando?"
+
+"Desde que ele disse o nome em Sanvel." Uma pausa. "A capitã também sabe."
+
+Maret ficou parada processando isso. Eles sabiam. Os dois. Há dois dias. E nenhum dos dois havia dito nada — nem um ao outro que ela pudesse confirmar, nem à tripulação, nem a ela.
+
+"Por que não—"
+
+"Porque não é da nossa conta." Doryn levantou os olhos. Cinquenta e dois anos de slipsand faziam isso com um rosto — não envelheciam no sentido comum, gravavam. Cada tempestade, cada porto, cada decisão difícil deixava algo. O rosto de Doryn parecia um mapa de tudo que havia sobrevivido. "Ele nos disse o suficiente para sabermos o que é. Não disse o suficiente para que nos metêssemos."
+
+"Mas Torbe acabou de—"
+
+"Torbe faz as coisas no tempo dele." Ele voltou aos mapas. "Sempre fez."
+
+Maret cruzou os braços. Às vezes conversar com Doryn era como navegar sem bússola — você sabia que estava indo na direção certa mas as referências eram todas internas e nenhuma delas tinha rótulo.
+
+"Você acha que ele é perigoso?"
+
+Silêncio longo. Doryn traçou uma rota com o dedo sem marcar nada — o gesto de alguém verificando o que já memorizou.
+
+"Não para o Mercator," ele disse, por fim.
+
+"Então para quê?"
+
+Outra pausa. Desta vez ela reconheceu o padrão — ele estava escolhendo com cuidado. Não porque não soubesse. Mas porque sabia demais e estava decidindo o quanto dar.
+
+"Você conheceu Fen?" ele perguntou.
+
+A pergunta a pegou de surpresa. Fen era um nome que ninguém pronunciava no Mercator. Ela sabia o que havia acontecido — o motim de Drek, seis anos atrás, antes dela embarcar — da mesma forma que sabia sobre tempestades famosas e naufrágios históricos: como informação abstrata que existia num arquivo separado da realidade cotidiana. Fen havia sido o primeiro-oficial. Havia morrido. A capitã havia fechado alguma coisa dentro de si mesma depois disso, e essa coisa nunca havia reaberto completamente.
+
+"Não," ela disse. "Embarquei depois."
+
+"Fen era bom." Simples. Como se isso explicasse tudo. Talvez explicasse. "A capitã deixou ele se aproximar. Ele morreu. Ela decidiu que as duas coisas estavam conectadas."
+
+Maret ficou quieta.
+
+"Não estão," Doryn acrescentou, ainda nos mapas. "Mas convencer alguém disso, depois de dor suficiente, é outra questão."
+
+Ela saiu da câmara pensando em coisas que nunca havia pensado antes sobre a capitã — não sobre ela como pessoa, mas sobre o sistema inteiro que havia construído ao redor de si mesma. As paredes que tinham a funcionalidade perfeita de uma boa embarcação e a utilidade equivalente de manter o interior protegido e o exterior afastado. Maret havia pensado que entendia esse sistema. Havia achado que era simplesmente quem a capitã era.
+
+Não era. Era o que a capitã havia construído depois de perder alguém que não deveria ter perdido.
+
+Ela subiu ao deck principal com esse pensamento e quase colidiu com Halve.
+
+Ele se desculpou antes de ela poder processar o impacto. Estava com aquela expressão que mantinha desde Sanvel — nervoso, olhos um pouco grandes demais, evitando mirar em qualquer direção específica por mais de um segundo. Halve em condições normais não era exatamente sereno, mas Halve desde Sanvel era uma versão mais contraída de si mesmo, como alguém que se preparou para uma consequência que ainda não chegou e não conseguia relaxar enquanto esperava.
+
+"Você está bem?" ela perguntou.
+
+"Ótimo," ele disse, já se afastando. "Completamente ótimo."
+
+Ela o observou ir. A culpa tinha cheiro — ela havia lido isso em algum lugar, um navegador velho que escrevia sobre a psicologia de tripulações em situações difíceis. Havia achado exagerado na época.
+
+Agora entendia o que o homem queria dizer.
+
+* * *
+
+Raban estava no deck de popa quando ela o encontrou, sentado numa das caixas de equipamento com um pedaço de corda curto nas mãos — sem propósito aparente além de manter os dedos ocupados. A luz do entardecer deixava o slipsand cor de vinho roxo, e havia calor ainda no ar, o tipo de calor residual que Wycaro segurava até o último momento antes de liberar para a noite.
+
+Ela não havia planejado abordá-lo. Havia planejado passar, verificar os amarres de popa, voltar para a câmara de navegação antes do jantar. O plano durou até ela ver o nó nas mãos dele — triangular, três voltas, exatamente como o que havia deixado na amarra de estibordo.
+
+"De onde vem esse nó?" ela perguntou.
+
+Ele levantou os olhos. Ela havia se preparado para alguma coisa — frieza, ou a avaliação rápida que havia visto nele antes, aquela forma de catalogar pessoas antes de decidir se eram seguras. Em vez disso, ele apenas disse: "Do leste. Regiões onde o slipsand corre diferente."
+
+"Mostra."
+
+Era mais direto do que havia planejado. Mas ele não pareceu incomodado — estendeu o pedaço de corda na direção dela.
+
+"A técnica começa diferente," ele disse. "Não começa com uma volta. Começa com o ângulo."
+
+Ela pegou a corda. Ele guiou — não tocando as mãos dela, mas descrevendo com precisão o que havia de errado em cada tentativa. Havia algo de pedagogo nisso que ela não havia esperado; a maioria dos navegadores experientes explicava mal porque havia aprendido por repetição e não por compreensão. Raban ensinava como alguém que havia, em algum momento, precisado explicar a mesma coisa para alguém que não sabia nada.
+
+"Você ensinou isso antes," ela disse.
+
+"Minha irmã não sabia nenhum nó quando entrou para o navio," ele disse. "Levou três semanas."
+
+Ela ficou quieta. A irmã — Sael, ela sabia o suficiente sobre a razão pela qual ele estava no Mercator para saber o nome. Mas não havia ouvido ele mencionar assim, de forma tão casual, tão sem guarda. *Minha irmã.* Como se fosse simples. Como se o passado não fosse um lugar de onde essa informação tivesse que ser cuidadosamente extraída.
+
+Ela fez o terceiro nó. Não estava certo ainda.
+
+"Mais firme na segunda volta," ele disse. "Você está segurando como se fosse ceder. A corda não cede se você não ceder primeiro."
+
+Ela tentou de novo.
+
+"Por que você entrou para navegação?" ele perguntou.
+
+A pergunta chegou sem preparação. *Por que você.* Não *faz quanto tempo*, não *de onde é*, não nenhuma das perguntas que eram sobre a função dela em vez de sobre ela.
+
+Ninguém perguntava sobre ela. Ela era parte da tripulação, segunda navegadora, a que fazia perguntas que ninguém mais ousava fazer — era isso que as pessoas viam quando olhavam para Maret. Não o porquê.
+
+"Eu—" ela começou. Parou.
+
+Ele não preencheu o silêncio. Deixou.
+
+"Meu pai era cartógrafo," ela disse, por fim. "Fazia mapas de regiões que nunca visitou, baseado em relatos de outros. Tinha uma coleção de cartas que navegadores traziam — sempre pedindo mais detalhes, sempre querendo saber o que os mapas não capturavam." Ela olhou para o nó na mão. "Eu queria ir aos lugares. Não fazer os mapas de lugares que nunca vi."
+
+Ela esperava que ele dissesse algo sobre isso. Uma observação. Um comentário. Talvez a pergunta óbvia de acompanhamento: *e você foi?*
+
+Em vez disso, ele disse: "O nó está certo."
+
+Ela olhou. Estava.
+
+Ela havia aprendido um nó que não existia em nenhum dos onze padrões. Do leste. Das regiões onde o slipsand corria diferente.
+
+Quando levantou os olhos, Raban já havia voltado ao horizonte — olhando o slipsand cor de vinho do entardecer com aquela expressão que ela havia tentado catalogar o dia inteiro sem conseguir rotular completamente. Era a expressão de alguém que carrega algo pesado o suficiente para que a postura mude, mas não pesado o suficiente para dobrar.
+
+Ela entendeu, então. Subitamente e com uma clareza que a incomodou.
+
+Havia entendido por que a capitã estava sendo cuidadosa. Havia entendido, de forma intelectual, como você entende regras de segurança — eram sensatas, havia razões, você as seguia.
+
+Agora entendia de outra forma. De dentro.
+
+E entendia também que a capitã não estava sendo cuidadosa o suficiente. Não porque a capitã fosse fraca — a capitã nunca era fraca. Mas porque algumas coisas não avisavam quando cruzavam as defesas. Entravam pela lateral enquanto você estava olhando para o instrumento de pressão e consertavam a amarra frouxa sem pedir permissão.
+
+* * *
+
+À noite, ela abriu o caderno de bordo.
+
+As anotações de navegação vinham primeiro: pressão, vento, velocidade estimada de corrente de areia, ajustes de rota. Depois as anotações pessoais, que ela mantinha separadas com uma linha fina no papel e que ninguém precisava ler mas que ela precisava registrar porque era como processava coisas. Doryn não comentava sobre as anotações pessoais. O silêncio dele significava que estava bem.
+
+Ela escreveu: *43 minutos — ele e a capitã no deck de observação, noite 3.*
+
+Olhou para o que havia escrito.
+
+Lembrou do slipsand roxo-escuro lá embaixo, do bourbon Caldoven que a capitã havia aceitado depois de uma pausa, do jeito que os dois haviam ficado no corrimão sem conversar durante mais tempo do que era necessário para qualquer coisa que não fosse a conversa em si.
+
+Pensou em Fen. Pensou em Doryn dizendo *ela decidiu que as duas coisas estavam conectadas.*
+
+Pensou num nó triangular, três voltas, que não existia em nenhum manual.
+
+Risou a linha.
+
+Porque se alguém lesse, ficaria complicado.
+
+Fechou o caderno. Apagou a luz. Ficou deitada ouvindo o Mercator se mover sobre o slipsand — aquele som particular de casco plano sobre areia que ela havia aprendido a distinguir em frequências, que lhe dizia, sem precisar dos instrumentos, se estava tudo bem.
+
+Estava tudo bem. O navio estava intacto.
+
+Ela não tinha certeza do resto.
+
+---
