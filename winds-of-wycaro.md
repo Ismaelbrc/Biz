@@ -290,3 +290,355 @@ O slipsand rolava lá embaixo, roxo e antigo e absolutamente indiferente.
 Raban ficou no deck de observação até o amanhecer, calculando rotas que não estavam em nenhum mapa.
 
 ---
+
+## Capítulo 3 — Wyld Bourbon e Pior Decisão
+
+O deck de observação era dela.
+
+Não havia nenhuma lei a bordo que formalizasse isso. Nenhuma ordem de serviço, nenhuma entrada no livro de regras do *Mercator* que dissesse *este espaço pertence à capitã e à capitã somente*. Mas havia sete anos de precedente, e sete anos no slipsand equivalem a lei tanto quanto qualquer coisa escrita.
+
+Ela descobriu isso no terceiro sino da segunda noite — quando subiu os degraus esperando o silêncio habitual e encontrou a garrafa primeiro.
+
+Ela estava no corrimão de popa, a garrafa, apoiada com a familiaridade de algo que pertence ali. Ao lado dela, com as mãos no corrimão e os olhos no horizonte roxo do slipsand aberto, estava Raban.
+
+Lucasia ficou parada no último degrau.
+
+Ele não se virou. Ou não ouviu seus passos — improvável, dado o que ela havia observado sobre ele — ou ouviu e decidiu que a reação mais estratégica era nenhuma. Ela considerou ambas as possibilidades por exatamente o tempo que levava para subir o último degrau e atravessar o deck.
+
+Ela sentou no corrimão lateral.
+
+Porque era o navio dela. Ela sentava onde quisesse.
+
+Raban olhou para ela de soslaio. O sorriso da antessala estava lá — o ligeiro, o que não anunciava nada de bom.
+
+— Capitã — disse ele.
+
+— Sua garrafa está no meu corrimão.
+
+— É. — Ele a pegou e ofereceu. — Wyld bourbon. Boa safra.
+
+Ela olhou para a garrafa.
+
+A safra estava escrita no rótulo em letras pequenas: *Destilaria Caldoven, sétimo ano de prensagem*. Ela conhecia a Caldoven. Todo navegador de rota comercial que passava por Sanvel conhecia — ficava num beco do porto velho, vendia caro, não aceitava barganha. Era o tipo de bourbon que você comprava quando tinha dinheiro de sobra ou quando precisava de alguma coisa que justificava o custo.
+
+Ela aceitou a garrafa.
+
+A pausa antes de aceitar não era hesitação. Era cálculo: o que isso significava, o que não significava, se havia alguma razão táctica para recusar. Não havia. Ela bebeu, devolveu.
+
+O bourbon descia como prometido — suave primeiro, depois um calor que subia devagar e ficava.
+
+— Você conhece Cassavar — disse ela. Não era pergunta.
+
+Ele inclinou a cabeça. Confirmação mínima.
+
+— O Quarteirão Mandoviano. A autoridade portuária no distrito leste. — Ela manteve o tom neutro, o tom de inventário. — Os distribuidores de rota irregular que operam na área do cais sul.
+
+Uma pausa pequena. — *Conhecia* os distribuidores. As rotas mudam.
+
+— Quanto tempo desde a última vez?
+
+— Dezoito meses. — Ele bebeu da garrafa. — Cassavar muda depressa em dezoito meses.
+
+— Muda. Mas a estrutura das autoridades é a mesma — a corrupção tem padrão, não improvisa. — Ela olhou o horizonte. O slipsand aberto à noite era diferente do porto: mais amplo, mais silencioso, a luminescência mais intensa sem os muros para contê-la. — Você não está indo *para* Cassavar.
+
+Ele não respondeu imediatamente.
+
+— Não? — disse ele, depois.
+
+— Você fala de Cassavar como escala. O destino é outro. — Ela pegou a garrafa que ele havia abaixado no corrimão entre os dois, bebeu, devolveu. — O leste.
+
+Outro silêncio. Desta vez ela o sentiu mudar de qualidade — não o silêncio de alguém calculando resposta, mas o silêncio de alguém que acaba de recalibrar o que está lidando.
+
+— *Perceptiva* — disse ele.
+
+— Não é elogio.
+
+— Não era elogio. Era observação.
+
+O vento mudou ligeiramente — ela sentiu no rosto antes de sentir na vela, o que significava que a corrente de pressão estava girando três graus a leste da previsão. Ela arquivou. Verificaria os instrumentos em meia hora.
+
+— Por que o leste — disse ela.
+
+Ele ficou olhando o slipsand por um momento.
+
+— Tenho uma irmã — disse ele. A voz era a mesma de sempre — baixa, controlada, sem inflexão desnecessária. A voz de relatório. — Ela desapareceu há catorze meses. Tenho um rastro que leva ao leste através de Cassavar.
+
+Ela ouviu o que ele disse.
+
+Depois ouviu o que ele não disse.
+
+Catorze meses de rastro. Dezoito meses desde a última vez em Cassavar. Havia quatro meses entre esses dois números que ele havia deixado no ar sem preencher — quatro meses de vida de que ele não havia dado conta, um espaço de tempo anterior ao desaparecimento da irmã que havia saltado com precisão cirúrgica. Não por acidente. Ninguém que fala com o cuidado que Raban fala deixa lacunas por acidente.
+
+Ela não perguntou sobre os quatro meses.
+
+Ela tinha suas próprias lacunas. Sabia o valor de não ter alguém vasculhando nelas.
+
+— Como ela se chama — disse Lucasia.
+
+Algo mudou na linha dos ombros dele. Quase imperceptível. Ela notou porque estava olhando para os ombros — a forma como carregavam o peso de qualquer coisa que ele estava dizendo — e quando disse o nome da irmã, o peso mudou. Ficou mais real. Menos relatório.
+
+— Sael — disse ele. — Cinco anos mais nova. Trabalhava rotas de carga no sul. — Pausa. — Ela é inteligente. Adaptável. Se ainda está—
+
+Ele parou.
+
+Recomeçou.
+
+— Ela está viva. Eu sei disso.
+
+Ele disse como dizia as coisas que havia decidido que eram verdade independente de evidência contrária — com a firmeza de quem transformou o desejo em axioma porque a alternativa não servia.
+
+Ela conhecia essa firmeza. Havia usado ela mesma, às quatro da manhã, quando o *Mercator* estava passando pelo estreito de Cassavar com vento de tempestade e ela havia dito para si mesma *este navio não afunda esta noite* com o mesmo tom.
+
+Ela olhou para as mãos dele.
+
+Ele segurava a garrafa de Caldoven pela base — dedos ao redor do vidro sem apertar, polegar ligeiramente separado dos outros. Mão firme. O navio oscilava levemente na corrente de pressão e o bourbon não se mexia mais do que o necessário no interior da garrafa porque ele absorvia o movimento no pulso, automaticamente, sem pensar. Era o gesto de alguém que havia bebido em slipsand aberto por anos. Em conveses que balançavam. Em situações em que soltar a garrafa era uma opção cara.
+
+— Tenho um contato em Cassavar — disse ela. — Harbor-master. Ela conhece os distribuidores do distrito leste, os nomes atuais, as rotas irregulares que funcionam agora. — Lucasia pegou a garrafa, bebeu a última porção, deixou no corrimão entre eles. — Ela me deve três favores.
+
+Raban ficou quieto por um momento.
+
+— Por quê — disse ele.
+
+— Porque seu manifesto é provavelmente falsificado e estou adicionando ao seu débito.
+
+Ele riu.
+
+Foi breve — um som baixo, genuíno, o tipo que escapa antes que a pessoa decida se vai rir ou não. Ela o registrou contra a vontade, arquivou na seção errada, percebeu que havia arquivado na seção errada, e não fez nada a respeito porque fazer alguma coisa a respeito requeria reconhecer que havia uma seção errada.
+
+— Meu manifesto é válido — disse ele, quando o riso passou.
+
+— Halve o emitiu sem autorização e você o aceitou sabendo disso.
+
+— Eu aceitei um documento que me dava passagem legítima num navio com rota útil.
+
+— Semântica.
+
+— Precisão — disse ele. — Há diferença.
+
+Ela se endireitou do corrimão. O vento havia mudado mais dois graus — ela precisava verificar os instrumentos. E havia dito o que havia vindo dizer, mais ou menos. A conversa havia ido além do que ela havia planejado, mas isso era problema dela, não dele.
+
+— O nome dela é Tavessa — disse Lucasia. — Harbor-master de Cassavar, escritório no cais norte. Diga que vem da minha parte.
+
+— Tudo bem.
+
+Ela foi para a escada.
+
+— Capitã Vael.
+
+Ela parou. Não se virou.
+
+— Você sempre faz isso?
+
+— O quê.
+
+— Oferece contatos — disse ele — a estranhos que embarcaram ilegalmente no seu navio.
+
+Ela considerou.
+
+— Não — disse ela.
+
+Ela desceu.
+
+---
+
+Abaixo, no turno de meia-noite, Maret havia parado de fingir que estava conferindo a leitura de pressão do instrumento de bombordo.
+
+O instrumento estava bem. Ela o havia checado há vinte minutos. Ela estava checando de novo porque o deck de observação ficava visível daqui se você olhasse no ângulo certo, e ela havia olhado no ângulo certo por coincidência, e então por não-coincidência.
+
+A capitã havia ficado lá em cima por quarenta e três minutos.
+
+Maret escreveu o número na margem do caderno de bordo — não na coluna certa, só na margem, onde ela às vezes escrevia coisas que não eram dados de navegação mas que pareciam importantes de registrar. Depois riscou porque era o tipo de coisa que ficava complicada se alguém lesse.
+
+Ela foi verificar o instrumento de estibordo.
+
+Esse também estava bem.
+
+---
+
+## Capítulo 4 — O Que o Mercator Guarda
+
+Às quatro da manhã, o *Mercator* respirava diferente.
+
+Lucasia sabia disso há sete anos — o jeito que o navio mudava quando a maioria dormia, quando o peso das pessoas acordadas diminuía e restavam só os instrumentos, o casco, o slipsand e o vento empurrando as velas a um terço da capacidade. Havia uma contração nos cabos que ela só ouvia nessa hora, um assentamento nas juntas da madeira que parecia o navio ajustando o próprio peso depois de um dia de trabalho. Como alguém que solta os ombros quando fica sozinho.
+
+Ela andava descalça nessa hora. Havia descoberto cedo que o convés de madeira transmitia informação diferente através das solas dos pés do que através das botas — temperatura, vibração, a variação mínima de pressão que antecedia mudança de corrente em quarenta minutos. Eram dados que ela não sabia nomear mas que o corpo processava antes da cabeça.
+
+O convés principal primeiro. Ela o percorreu de proa a popa com as mãos levemente abertas, sem tocar em nada, só sentindo o ar — a diferença entre a temperatura de bombordo e estibordo era de meio grau nesta noite, o que significava vento lateral mais frio chegando da direção das Pedras Negras de Dassyr. Ela arquivou. Ajuste de vela pela manhã.
+
+A câmara de navegação cheirava a óleo de instrumento e a papel velho — os mapas mais antigos ficavam aqui, enrolados em tubos de madeira, alguns com a letra do pai nas margens. Ela não os abria com frequência. Não porque fossem dolorosos, exatamente. Porque eram precisos: cada anotação, cada correção de rota na margem de papiro envelhecido representava uma decisão que ele havia tomado e que ela havia herdado sem poder perguntar o raciocínio.
+
+*Por que você escolheu esta rota e não a norte*, ela havia perguntado uma vez, com doze anos, olhando um mapa que não entendia completamente.
+
+*Porque a norte tem recife de areia compacta no terceiro dia*, o pai havia dito. *E porque eu conheço este navio e sei o que ele aguenta.*
+
+*Como você sabe o que ele aguenta?*
+
+*Você aprende. Você presta atenção. E quando errar — e vai errar — você presta ainda mais atenção.*
+
+Ela havia errado. Várias vezes. Havia prestado atenção em cada uma.
+
+---
+
+Tinha catorze anos quando ele a levou ao leme pela primeira vez em slipsand aberto — não porto, não canal, areia viva com corrente de pressão e vento de sudeste. O *Mercator* era maior do que qualquer coisa que ela havia controlado, o leme mais pesado do que esperava, e a areia não era como a água dos livros de navegação que havia lido porque a água tinha inércia previsível e o slipsand tinha outra coisa inteiramente.
+
+— *Você está lutando com ela* — o pai havia dito, ao lado dela mas sem pegar o leme.
+
+— Ela não cede.
+
+— Ela cede diferente. — Ele ficou olhando o horizonte enquanto ela lutava. — No oceano, você luta a água. A água empurra de volta — é resistência constante, você aprende a força certa e aplica. O slipsand não tem memória. Cada grão é independente do anterior. Você não vence a areia; você persuade cada grão individualmente.
+
+— Isso não faz sentido.
+
+— *Para de lutar.*
+
+Ela havia parado, por um segundo, por frustração mais do que obediência — e o *Mercator* havia encontrado o ângulo sozinho.
+
+Não completamente. Não com a precisão que levaria mais dez anos a construir. Mas havia algo no casco que procurava equilíbrio como água procura nível, e quando ela parou de forçar, ele encontrou.
+
+*Ah*, ela havia pensado.
+
+O pai não havia dito mais nada. Não era o tipo de homem que repetia pontos já feitos.
+
+Ela entendeu aquela lição completamente aos vinte e quatro anos, na primeira tempestade depois que ele morreu, quando o *Mercator* estava girando numa corrente de pressão dupla e ela tinha duas opções: lutar o navio de volta para o ângulo que queria — o que ia partir o leme — ou soltar e deixar o navio encontrar o ângulo que aguentava, e confiar que aquilo era suficiente.
+
+Ela havia soltado.
+
+O *Mercator* havia encontrado o ângulo.
+
+Ela havia chorado depois, a sós na câmara do capitão, porque parecia que ele havia ensinado ela a atravessar aquela tempestade específica anos antes de ela existir.
+
+---
+
+O porão de provisões cheirava a mandovian spicefruit e a cera de proteção de madeira. Ela verificou a fixação dos caixotes — todos corretos, amarrações sem folga, nenhum deslocamento na última hora. Às quatro da manhã o porão estava frio e silencioso, o que era o estado natural das coisas, o que era bom.
+
+Ela subiu.
+
+Torbe estava no convés principal quando ela voltou.
+
+Ele era o tipo de presença que não precisava de explicação — ali porque não estava dormindo, verificando alguma amarra que havia ouvido chirpar no turno das três, ou simplesmente ali porque às vezes ficava. Quarenta anos, rosto marcado pelo slipsand, mãos que faziam o trabalho do convés há mais tempo do que o *Mercator* existia na sua versão atual. Havia servido com o pai dela. Estava a bordo na noite do motim de Drek.
+
+Eles se olharam.
+
+— Torbe — disse ela.
+
+— Capitã.
+
+Não havia nada mais a dizer. Ele a olhava da forma que só ele olhava — com o peso específico de alguém que esteve presente numa noite que ela nunca descrevia, que havia ficado do lado correto de uma porta quando havia dois lados, que havia carregado Fen do convés porque ninguém mais havia conseguido fazer aquilo sem parar.
+
+Ela sabia o que ele pensava quando a olhava assim.
+
+Ele sabia que ela sabia.
+
+Era suficiente. Era sempre suficiente.
+
+— Temperatura de bombordo caindo — disse ela. — Vento das Pedras Negras. Ajuste de vela às seis.
+
+— Vou deixar o turno de manhã avisado.
+
+Ela foi.
+
+---
+
+*Fen.*
+
+Ela não pensava o nome em voz alta há muito tempo. Havia um processo que havia desenvolvido nos primeiros anos depois do motim de Drek — um sistema de compartimentalização que funcionava como o sistema de estanques de um navio, cada memória numa câmara fechada, e a câmara de Fen havia sido selada com mais cuidado do que as outras.
+
+Mas às quatro da manhã num navio silencioso, os estanques às vezes abriam sozinhos.
+
+Fen Calvert havia servido com o pai durante doze anos antes de o pai morrer. Era dez anos mais velho do que ela, experiente, o tipo de primeiro-oficial que um capitão jovem e novo deveria ter: sólido, sem agenda, capaz de dizer *não* quando necessário sem transformar em confronto. Ela o havia herdado com o navio e no começo havia sido apenas profissional — ela dava ordens, ele executava, a hierarquia funcionava.
+
+O erro havia sido gradual.
+
+Não havia uma noite em que ela havia decidido confiar em Fen. Foi mais lento do que isso — uma consulta aqui, uma dúvida compartilhada ali, a descoberta de que havia alguém a bordo que entendia o que era carregar um navio e não poder mostrar que o peso era pesado. Aos poucos ela havia deixado Fen ver as rachaduras. Não as grandes — as pequenas, as que toda capitã tem e que só existem porque o trabalho é difícil e não porque a capitã seja inadequada.
+
+Drek era o segundo-piloto. Um homem de trinta anos com ambições maiores do que o espaço que ocupava e a inteligência para identificar o momento certo.
+
+Ele havia encontrado o momento numa noite em que ela havia, na frente de Fen, admitido incerteza sobre a rota norte.
+
+*A capitã hesita*, havia dito Drek para quem quisesse ouvir, nos dias seguintes. *A capitã tem dúvidas. A capitã vai nos matar a todos na rota errada enquanto o Inspetor fecha as passagens leste.*
+
+O motim durou quatro horas.
+
+Fen havia ficado do lado dela. Sem vacilação, sem negociação — simplesmente ficado. Bloqueado a câmara do capitão quando Drek tentou entrar. Segurado a posição no convés quando a coisa ficou física.
+
+Drek matou Fen com uma faca que Fen não havia visto chegar.
+
+Lucasia havia dominado o motim trinta minutos depois.
+
+Drek havia ido para o slipsand.
+
+Ela tinha vinte e seis anos e havia ficado no deck olhando o slipsand fechar sobre Drek sem sentir absolutamente nada, e depois havia entrado na câmara do capitão e ficado sentada no escuro por muito tempo entendendo o que havia aprendido.
+
+*Variáveis que você ama são variáveis que você não consegue calcular.*
+
+*Distância não é frieza. É a única forma responsável de comandar.*
+
+Havia sido uma lição cara. Ela não pretendia aprendê-la duas vezes.
+
+---
+
+Às cinco da manhã ela estava na câmara do capitão.
+
+A gaveta esquerda da escrivaninha ela abriu pelo hábito — não o hábito de pegar o que estava dentro, o hábito de checar se estava lá. Estava. Um conjunto de cartas dobradas, cada uma com um nome na frente escrito na sua própria letra, guardadas na sequência em que haviam sido escritas mas sem data porque datas tornavam as coisas mais reais do que ela precisava que fossem.
+
+Ela não as lia. Não as havia enviado. Continuava escrevendo-as porque havia aprendido, em algum ponto, que havia coisas que precisavam sair do sistema de alguma forma — e que se não podiam sair pela boca precisavam ir a algum lugar.
+
+As cartas eram esse algum lugar.
+
+Ela fechou a gaveta.
+
+---
+
+A bússola ficava na prateleira acima da escrivaninha, ao lado do sextante do pai. Era menor que a maioria — feita para bolso, não para mesa de navegação. Havia mais slipsand nela do que em qualquer bússola nova, impregnado no metal do aro externo, no encaixe da tampa. O roxo amarantino que nunca saía completamente.
+
+Ela a pegava toda noite. A segurava por trinta segundos, a devolvia.
+
+Esta noite ela a segurou por mais tempo.
+
+Não por alguma razão identificável. A bússola estava igual a sempre — agulha calibrada, movimento suave, norte apontando norte. O metal frio aquecia depressa na palma da mão. Ela ficou olhando a agulha oscilar até encontrar o assentamento, aquela quietude final de instrumento que havia decidido.
+
+*Norte.*
+
+Sempre norte. Independente de como o navio girava, independente do cyclocane ou da corrente ou de qualquer força que tentasse redirecionar — a agulha encontrava o norte e ficava.
+
+Ela a devolveu à prateleira.
+
+Abriu o manifesto.
+
+---
+
+A mesma linha de ontem. As caixas de especiaria mandoviana, peso total, destinatário em Cassavar.
+
+Ela pegou a pena. Tinha uma anotação a fazer sobre o ajuste de vela da manhã — temperatura de bombordo, projeção de velocidade com o vento das Pedras Negras, hora estimada de chegada em Cassavar com margem de cyclocane.
+
+Ela escreveu: *vento sudeste, ajuste de três graus, ETA Cassavar—*
+
+Parou.
+
+Olhou para o que havia escrito antes da última palavra.
+
+*Raban. Dezoito meses. Quatro meses não explicados.*
+
+Ela não havia escrito isso. Havia escrito a sequência de navegação, as letras eram as mesmas que usava para coordenadas, e de alguma forma o resultado havia sido aquilo.
+
+Ela riscou com três linhas horizontais. Completo, irrecuperável.
+
+Fechou o manifesto.
+
+Apagou a lanterna.
+
+---
+
+No escuro da câmara do capitão, com o slipsand rolando lá embaixo e o casco respirando no ritmo das quatro da manhã, ela ficou sentada por um tempo que não mediu.
+
+O *Mercator* a conhecia melhor do que qualquer pessoa viva.
+
+Isso havia sido suficiente durante sete anos.
+
+Ela ficou no escuro ouvindo o navio respirar e pensou, sem querer, que a palavra *suficiente* soava diferente esta noite. Não menos verdadeira. Só diferente. Como algo que havia sido exato a vida toda e de repente tinha meio grau de margem de erro.
+
+Ela não examinou esse pensamento.
+
+Ela foi dormir.
+
+---
