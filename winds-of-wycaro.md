@@ -2874,3 +2874,271 @@ O *Mercator* ganhou o slipsand aberto.
 *Fim da Parte 2: A Cidade*
 
 ---
+
+## PARTE 3 — O QUE O FOGO FAZ
+
+---
+
+## Capítulo 23 — Decisão de Rota
+
+*Lucasia*
+
+---
+
+Ela nunca havia votado com a tripulação.
+
+Não era ideologia — era estrutura. Votação requeria consenso, e consenso requeria que todas as opiniões tivessem peso igual, e num navio as opiniões não tinham peso igual porque as pessoas não tinham experiência igual e experiência era o que tornava uma opinião navegável em vez de apenas desejável. O pai havia ensinado isso. *Você ouve todos, você decide sozinha, e a decisão tem que ser boa o suficiente para que eles sigam mesmo quando discordam.*
+
+Ela havia seguido esse método por sete anos.
+
+Desta vez havia convocado reunião no deck principal.
+
+Doryn havia ouvido a convocação com a expressão de alguém que estava verificando se havia entendido corretamente. Maret havia ouvido com a expressão de alguém que havia entendido perfeitamente e estava tentando não deixar a expressão mostrar o quanto estava animada. Torbe havia ouvido sem expressão, que era a forma de Torbe de dizer *estou processando*.
+
+Eram vinte e cinco pessoas no deck quando ela ficou de frente para todos.
+
+Vinte e cinco. Ela sempre os contava — era hábito de sete anos, a verificação que precedia qualquer decisão de consequência. Todos presentes. Todos olhando para ela com a atenção específica de tripulação que havia aprendido que reunião no deck significava algo além de comunicado de rota.
+
+"A rota para Velne," ela disse. Sem preâmbulo — eles sabiam o contexto porque Cassavar havia sido visível demais para que não soubessem. "Requer desvio de doze dias da rota comercial. Há navio de perseguição a dois dias atrás de nós. Os homens do Inspetor rastrearam o Mercator saindo de Cassavar em direção leste — isso significa que esta rota tem risco aumentado por tempo indefinido."
+
+Silêncio. Ela havia esperado silêncio.
+
+"Pago dobro por risco aumentado, a partir de hoje." Ela havia calculado isso — tinha reservas suficientes para seis meses se a rota comercial fosse completamente perdida, o que era o cenário mais pessimista e que ela havia planejado porque planejava sempre para o cenário mais pessimista. "A alternativa: quem prefere ficar em Cassavar fica. O Mercator passa em Velne e recolhe em retorno."
+
+Silêncio mais longo.
+
+Ela havia dado a opção genuinamente — não como gesto, não como pergunta retórica, mas como opção real que podia ser aceita. Havia vinte e cinco pessoas com vidas que não eram a rota leste e com razões para preferir outra coisa, e essas razões eram válidas, e ela havia aprendido na noite de Drek que havia formas de tornar pessoas responsáveis por escolhas que não tinham sido dadas a elas.
+
+Esta era a escolha dela. Não delas.
+
+"Quando a capitã pergunta se alguém quer ficar," Maret disse, do segundo fileira, com a voz de quem está estabelecendo um fato de conhecimento geral, "a resposta é não."
+
+Houve riso. Não barulhento — o tipo de riso que acontece quando uma verdade é dita de forma que resolve a tensão de dizê-la. Perwick estava sorrindo. Juna havia cruzado os braços com a postura de alguém cujas dúvidas haviam sido resolvidas antes de se formarem completamente.
+
+Ela olhou para Torbe. Torbe assentiu — único gesto, suficiente.
+
+Ela olhou para Doryn. Doryn estava olhando para a tripulação com aquela expressão que ela havia aprendido a ler como aprovação silenciosa, que era diferente de concordância e mais valiosa.
+
+Ela olhou para Raban, que estava no limite do grupo — não dentro, porque não era tripulação, mas próximo o suficiente para ter ouvido tudo. Ele estava olhando para ela com aquela qualidade de atenção que ela havia catalogado e ainda não havia conseguido classificar completamente.
+
+"Então a rota é decidida," ela disse. "Dobro por risco a partir de agora. Qualquer dúvida sobre a rota vem a mim ou a Doryn. Retornem aos postos."
+
+A tripulação dispersou com o som específico de vinte e cinco pessoas que sabiam o que fazer e iam fazer. Ela havia ouvido esse som sete anos.
+
+Era o som que ela mais gostava no mundo.
+
+Maret passou por ela e disse, sem parar, como se fosse informação de navegação: "Boa reunião, capitã." E foi ao posto.
+
+Doryn ficou.
+
+"Funciona?" ele perguntou.
+
+Ela soube o que ele estava perguntando — não sobre a rota, sobre a votação.
+
+"Para esta situação," ela disse. "Não como método."
+
+Ele considerou isso. "Por quê não como método?"
+
+"Porque minha obrigação não é dar a eles o que querem. É tomar decisões que os mantenham vivos." Uma pausa. "Desta vez o que eles queriam e o que os mantinha vivos eram a mesma coisa. Não é sempre."
+
+Doryn ficou quieto por um momento com aquela expressão que ela havia aprendido a ler como *você está certa mas há algo mais nessa afirmação que vale examinar mais tarde*.
+
+Ele foi ao posto sem dizer isso.
+
+Ela ficou no deck por um momento. O slipsand era o slipsand leste — diferente do slipsand que ela conhecia de cor, com correntes mais profundas e dunas maiores e aquele calor específico de território menos navegado que chegava antes do horizonte para avisar. Havia dois dias de slipsand aberto antes que o Mercator entrasse nas rotas irregulares.
+
+Ela havia escolhido isso.
+
+Havia escolhido com as reservas, com o dobro de risco, com os vinte e cinco e a opção real e o som de dispersão que era o som que mais gostava no mundo.
+
+Não havia examinado o que mais havia escolhido quando havia escolhido isso. O que havia escolhido que não estava no manifesto. O que havia escolhido que não se explicava como eficiência.
+
+Havia tempo para não examinar isso.
+
+O slipsand leste rolava. A rota estava decidida.
+
+---
+
+## Capítulo 24 — O Que Raban Vê
+
+*Raban*
+
+---
+
+Ela estava no leme quando o sol saiu.
+
+Ele havia acordado antes do amanhecer — o hábito que não havia abandonado, que provavelmente nunca ia abandonar, o corpo ainda operando pelo horário de capitão que ele havia tentado por dezoito meses convencer de que não era mais capitão. Havia ficado na cama por um tempo ouvindo o Mercator se mover abaixo, depois havia subido ao deck porque ouvir e ver eram coisas diferentes e na rota leste ouvir não era suficiente.
+
+Ela estava no leme.
+
+Não havia nada de incomum nisso — ela estava sempre no leme quando havia alguma coisa para ler no horizonte, e horizonte leste no amanhecer tinha coisas para ler. Mas havia alguma coisa no jeito que ela comandava que ele havia aprendido a observar com a atenção específica de alguém que reconhecia alguma coisa familiar numa forma diferente.
+
+O jeito que ela comandava era econômico.
+
+Não era a palavra certa — era a palavra aproximada. Havia capitães que eram eficientes mas que a eficiência era visível, que você conseguia ver os cálculos acontecendo, que a decisão chegava com a qualidade de coisa processada. Lucasia comandava de forma que a decisão parecia já ter sido tomada antes que a situação chegasse — como se houvesse uma conversa constante entre ela e o Mercator que precedia tudo, que ela estava sempre com três passos de antecedência não porque calculava mais rápido mas porque havia parado de calcular e havia começado a saber.
+
+A tripulação não obedecia por medo. Ele havia confirmado isso nos primeiros dois dias — havia olhado para o padrão de obediência, que era diferente do padrão de medo, que era mais lento e mais verificável e que tinha a qualidade de pessoas que faziam porque haviam sido punidas por não fazer. A tripulação do Mercator obedecia com a rapidez de pessoas que confiavam que a instrução era certa antes de verificar se era certa, porque haviam verificado suficientes vezes no passado e a resposta havia sido sempre sim.
+
+Era o tipo de autoridade que se construía. Não se recebia.
+
+Ele havia amado o *Isolde* de forma diferente. Havia capitaneado o *Isolde* com a impulsividade específica de quem começa jovem — com mais confiança do que era justificável nos primeiros dois anos, com mais erros do que havia admitido a si mesmo até anos depois, com o tipo de amor por navio que era parcialmente amor e parcialmente necessidade de provar alguma coisa que ele não havia conseguido nomear mas que havia sentido toda vez que o *Isolde* respondia a uma decisão difícil com a forma que havia pedido.
+
+Lucasia amava o Mercator diferente. Havia sobrevivido a perder o pai e havia assumido e havia construído de volta — não o navio, que estava intacto, mas a autoridade, que havia sido questionada desde o primeiro dia porque ela havia sido nova e jovem e porque a tripulação antiga havia aprendido a linguagem do pai e não da filha. Havia construído de volta com a paciência de alguém que não tinha opção de não construir.
+
+Havia levado sete anos. O resultado estava no leme daquela manhã.
+
+Torbe apareceu ao lado dele com dois copos de café.
+
+Raban havia aprendido que Torbe distribuía café de forma que não era distribuição aleatória — havia padrão, havia contexto, havia o tipo de gesto que vinha de alguém que havia observado suficiente para saber o que era necessário antes que fosse pedido. Ele havia recebido café de Torbe três vezes desde Sanvel, e as três vezes havia sido exatamente quando havia precisado.
+
+"Obrigado," ele disse.
+
+Torbe ficou ao lado dele por um momento olhando para o deck.
+
+"Ela não gosta quando as pessoas ficam paradas," Torbe disse.
+
+Ele olhou para o leme. Ela estava olhando para o horizonte, não para eles. Mas havia algo no ângulo dos ombros — a diferença entre capitã que não estava prestando atenção em algo e capitã que estava fingindo não estar prestando atenção em algo.
+
+"Ela não gosta quando as pessoas existem," Raban disse.
+
+Torbe considerou isso com a seriedade de alguém que examina distinções antes de concordar ou discordar.
+
+"É uma distinção importante," Torbe disse, por fim.
+
+Raban bebeu o café. Era bom — melhor do que esperava de provisões de navio, o que significava que alguém havia comprado bem em Cassavar ou havia guardado bem, e a qualidade do café de bordo era o tipo de detalhe que dizia algo sobre a forma que o navio era mantido.
+
+"Por quanto tempo você está no Mercator?" ele perguntou.
+
+"Desde o pai dela." Torbe segurava o copo com as mãos que eram as mãos de alguém que havia passado décadas em convés — calejadas, com aquele aumento de espessura nas palmas que vinha de corda e trabalho, não de combate. "Trinta anos."
+
+"Você a viu crescer."
+
+"Vi." Uma pausa. "É diferente, saber alguém assim." Torbe olhou para o horizonte com aquela atenção específica de pessoas do slipsand, que era a atenção que via tudo sem fixar em nada. "Você sabe o que custou. Os outros sabem o resultado. São coisas diferentes."
+
+Raban pensou no *Isolde*. Em Dara — que havia sabido desde o primeiro ano, que havia visto os erros e havia ficado, que havia sabido o que havia custado antes de haver resultado para ver.
+
+"É diferente," ele disse.
+
+Eles ficaram em silêncio por um tempo. O slipsand leste rolava com aquelas correntes mais profundas que ele havia mencionado à capitã nos mapas — mais lentas na superfície, mais rápidas embaixo, o tipo de slipsand onde um navio que soubesse ler as correntes profundas ganhava velocidade que não aparecia nos instrumentos de superfície.
+
+O Mercator estava ganhando essa velocidade.
+
+Ela havia sentido. Ele havia visto o micro-ajuste no leme — dois graus para estibordo, aproveitando o fluxo subterrâneo que ele havia descrito e que ela havia processado e aplicado antes que ele terminasse de descrever.
+
+Era a terceira vez que ela fazia isso — processava informação que ele dava sobre slipsand que havia navegado e aplicava de forma que ele não havia especificado porque não havia precisado especificar, porque havia entendido a estrutura e deduzido a aplicação.
+
+Era o tipo de inteligência que não se anunciava. Aparecia e funcionava.
+
+"Ela vai ficar no leme até quando?" ele perguntou.
+
+"Até que o horizonte esteja limpo o suficiente para que Doryn fique no lugar dela." Torbe terminou o café. "Às vezes mais tempo."
+
+"Por quê mais tempo?"
+
+Uma pausa. "Porque o leme é onde ela sabe quem é." Torbe pegou o copo vazio de Raban. "O mesmo que você no deck dianteiro."
+
+Ele ficou parado.
+
+Torbe foi embora com os dois copos.
+
+Raban ficou no deck dianteiro até que o sol estivesse alto o suficiente para que o slipsand leste ficasse visível nas correntes profundas — a diferença de cor entre superfície e fundo, o amarantino claro de cima e o roxo mais escuro de baixo, que era a assinatura específica de território menos navegado onde a areia havia tido tempo de estratificar.
+
+*O mesmo que você no deck dianteiro.*
+
+Havia dezoito meses que ele estava no deck dianteiro de navios que não eram seus, olhando para horizontes que eram outros. Havia acreditado, durante dezoito meses, que era o passageiro mais permanente do sistema de portos de slipsand — que o movimento era a condição, não o meio.
+
+Torbe havia dito algo que não havia calculado.
+
+Ele não examinou o que havia dito. Havia o slipsand leste e o horizonte e a rota para Velne e Sael em algum lugar no leste profundo fazendo alguma coisa que era mais corajosa do que qualquer coisa que ele havia feito em dezoito meses.
+
+Era suficiente para agora.
+
+---
+
+## Capítulo 25 — Spicefruit e Mapas
+
+*Lucasia*
+
+---
+
+O terceiro dia de rota leste trouxe o slipsand acidentado — dunas maiores do que o slipsand de rota padrão, com aquelas formações de pressão lateral que tornavam a navegação menos questão de velocidade e mais questão de leitura. Ela havia ajustado a rota duas vezes antes do meio-dia, consultando os mapas e o que havia aprendido de Raban sobre as correntes secundárias.
+
+O que havia aprendido de Raban havia sido suficientemente útil para que ela tivesse transcrito nos mapas.
+
+Ela estava na câmara do capitão às três da tarde, com os mapas abertos e as notas atualizadas e o problema específico de uma formação de pressão que aparecia nos próximos doze horas e que não estava em nenhum mapa que ela possuía de forma detalhada o suficiente, quando ele bateu.
+
+Três vezes. Ela havia aprendido o padrão.
+
+"Entre."
+
+Ele entrou. Tinha mandovian spicefruit — dois, do estoque de carga que era tecnicamente dela, que ele havia pegado sem pedir, que ela deveria mencionar. Pôs um na mesa ao lado dos mapas sem cerimônia, como se fosse natural trazer spicefruit para alguém que estava trabalhando.
+
+Era natural. Era o problema.
+
+Ela não mencionou o spicefruit.
+
+"Formação de pressão," ela disse. Apontou para o mapa. "Amanhã cedo. Os mapas têm a formação mas não têm as correntes secundárias da borda sul."
+
+Ele ficou sobre o mapa. Havia a distância usual — ele não tocava os mapas, mas havia chegado ao ponto onde ela já não notava a distância, o que era informação que ela havia arquivado e que estava deixando ficar no arquivo.
+
+"A borda sul da formação tem correntes de retorno," ele disse. "Slipsand que sobe depois de cair na formação e volta na direção contrária. Se você pegar a borda, o Mercator vai desacelerar antes que os instrumentos registrem."
+
+"Como você contorna?"
+
+"Pelo centro." Ele indicou — com o queixo, o hábito que ela havia notado na primeira vez que haviam estado juntos sobre mapas. "A formação tem passagem central de baixa pressão. Não está nos mapas porque a maioria dos navegadores evita o centro por princípio — parece mais arriscado."
+
+"Mas não é."
+
+"É diferente. Mais estreito. Mais rápido. Menos turbulência lateral."
+
+Ela transcreveu. O spicefruit estava ao lado da mão — ela havia começado a comer sem perceber quando havia começado, que era o tipo de detalhe que ficava fora do registro consciente quando havia mapas para ler.
+
+Eles ficaram nos mapas.
+
+Não havia conversa deliberada — havia o trabalho, que era a rota e as formações e as correntes secundárias que ele havia navegado com o *Isolde* e que ela não havia navegado e que eram a diferença entre os mapas que ela possuía e o terreno que existia. Ele completava lacunas. Ela transcrevia. As perguntas que ela fazia eram sobre as rotas e ele respondia sobre as rotas e às vezes a resposta abria outra pergunta e essa resposta abria outra.
+
+Era o tipo de trabalho que consumia o tempo sem que o tempo fosse notado.
+
+Quando ela levantou os olhos para verificar a luz da janela, estava escurecendo.
+
+Ela calculou. Havia entrado na câmara às três. A luz sugeria quase seis.
+
+Três horas.
+
+Ela olhou para ele. Ele havia chegado ao mesmo cálculo simultaneamente — ela viu no micro-ajuste da expressão, a consciência de quanto tempo havia passado chegando ao rosto de alguém que não havia prestado atenção no tempo porque havia estado em outra coisa.
+
+Havia estado em outra coisa há três horas.
+
+O que havia estado em outra coisa era trabalho — era rota e corrente e transcrição, que eram coisas legítimas para estar fazendo numa câmara com mapas. Mas havia também a forma que era diferente de trabalho solitário, que era o silêncio de duas pessoas trabalhando na mesma direção sem precisar verificar se estavam na mesma direção porque haviam chegado a um ponto onde isso era assumido.
+
+Ela havia estado em outra coisa com alguém.
+
+Não havia feito isso em sete anos. Havia feito com Fen, às vezes — havia ficado na câmara do capitão com Fen trabalhando em mapas ou em rotas, o tipo de trabalho que era melhor em companhia que em solidão, e havia sido natural, e depois havia deixado de ser natural porque Fen havia morrido e a câmara havia voltado a ser só dela.
+
+Esta câmara ainda era só dela.
+
+Mas havia três horas que não era.
+
+"Ficou escuro," ela disse.
+
+"Ficou." Ele olhou para os mapas. "A passagem central da formação — se você começar às quatro da manhã, pega o ângulo de corrente certo."
+
+"Quatro da manhã." Ela fechou o mapa superior. Verificou as anotações que havia feito. Havia informação suficiente para três formações que não estavam nos seus mapas antes desta tarde.
+
+Havia spicefruit comido sem ter percebido quando havia começado.
+
+"Obrigado," ela disse.
+
+Era a segunda vez que dizia isso para ele. Ela havia notado a primeira. Notou a segunda.
+
+Ele foi embora com a mesma facilidade com que havia chegado — sem anunciar, sem criar evento, como alguém que havia feito uma coisa natural e ia fazer a próxima coisa natural. A porta fechou.
+
+Ela ficou com os mapas.
+
+As anotações nas margens tinham a letra dela mas o conhecimento dele. Era um mapa que não havia existido esta manhã e que existia agora porque haviam estado na mesma câmara por três horas sem que nenhum dos dois iniciasse conversa.
+
+Havia sido natural.
+
+Isso era, precisamente, o problema.
+
+---
