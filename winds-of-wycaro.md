@@ -1100,3 +1100,155 @@ Ela não foi embora com esse pensamento. Ela o guardou no mesmo compartimento on
 O slipsand rolava abaixo, amarantino e preguiçoso, como se o cyclocane nunca tivesse existido.
 
 ---
+
+## Capítulo 7 — Kit Médico
+
+*Raban*
+
+---
+
+A câmara do primeiro-oficial cheirava a madeira de sandalo e algo levemente metálico — o kit médico, aberto sobre a mesa, com aquela organização que dizia tudo sobre a pessoa que o mantinha. Não havia nada fora do lugar. Cada atadura no compartimento correto, cada frasco etiquetado com a letra precisa de alguém que havia aprendido que precisão em pequenas coisas era o que tornava as grandes coisas possíveis.
+
+Raban sentou onde Doryn indicou e colocou a mão direita sobre a mesa.
+
+O corte não era grave. Ele havia verificado isso enquanto ainda estava no convés, discretamente, com o ângulo do corpo coberto pelo casaco — o tipo de avaliação que se aprende quando você passa anos em situações onde mostrar dano é mostrar fraqueza, e mostrar fraqueza é informar às pessoas erradas qual é o ângulo de ataque. Não profundo. Longo. A linha havia feito isso no momento exato em que a tensão havia redistribuído — um segundo de hesitação com a mão errada e ele havia sentido o corte antes de sentir a dor, que era a ordem correta das coisas quando o corpo entendia que dor era informação secundária.
+
+Doryn examinou sem comentar. Limpou com alguma coisa que ardeu de forma controlada — a dor calibrada de um antisséptico eficiente — e começou a atadura com os movimentos de alguém que havia feito isso suficientes vezes para que as mãos soubessem sem consultar.
+
+O silêncio era do tipo que avalia.
+
+Raban havia aprendido a distinguir silêncios. O silêncio de alguém que não tinha nada para dizer. O silêncio de alguém que estava esperando o momento certo para dizer. O silêncio de alguém que já havia decidido o que precisava saber e estava aguardando confirmação. Doryn estava no terceiro tipo. Raban deixou o silêncio existir, porque interrompê-lo seria dar ao outro homem mais do que ele havia pedido.
+
+Fora, o slipsand havia voltado ao seu estado pós-tempestade — mais denso que o normal por algumas horas, as correntes profundas ainda se reorganizando depois da compressão do cyclocane. Ele podia sentir isso no movimento do navio. O Mercator reagia diferente ao slipsand denso, com aquela hesitação específica nas correntes de pressão que capitães experientes reconheciam antes dos instrumentos. Ele havia sentido isso durante o cyclocane — o navio falando para quem soubesse ouvir.
+
+Ele havia ouvido.
+
+Era isso que estava errado.
+
+"Você capitaneou," Doryn disse.
+
+Não era pergunta. Era o tipo de afirmação que existe apenas quando a resposta é óbvia e o que se quer não é confirmação mas observação do que a confirmação faz à pessoa sendo observada.
+
+"Sim," Raban disse.
+
+"Que navio?"
+
+A pausa antes de responder foi menor do que havia sido nas outras vezes. Dezesseis meses de prática deveriam ter tornado isso mais fácil. Não havia. O nome existia num lugar específico dentro dele — não na memória, que era onde as coisas iam quando você as processava, mas num lugar anterior, num lugar que não havia processado nada e não pretendia processar, que simplesmente guardava o peso intacto para que ele o carregasse sem entender exatamente o que estava carregando.
+
+"*Isolde*."
+
+Doryn parou.
+
+Não foi dramático. Foi o tipo de pausa que acontece quando um nome aterrissa com peso suficiente para que o movimento ao redor dele precise de um momento para se reorganizar. As mãos de Doryn retomaram o curativo depois de exatamente isso — um momento. Mas ele havia parado. Raban havia visto.
+
+Todo navegador de slipsand conhecia o Isolde. Não da forma que se conhecem histórias de naufrágio — distantes, abstratas, informação que você arquiva sob *tragédia documentada* e não volta a acessar. O Isolde havia afundado nos estreitos robrionianos havia dezoito meses. A tempestade havia chegado sem aviso de instrumentos. A tripulação havia morrido. Era o tipo de coisa que ficava nos portos, no tom de voz das pessoas mais velhas quando falavam sobre as rotas do leste, no jeito que navegadores experientes verificavam os instrumentos duas vezes antes de entrar nos estreitos.
+
+O nome carregava isso tudo.
+
+"Você é o único sobrevivente," Doryn disse.
+
+Também não era pergunta.
+
+"Sim."
+
+O silêncio depois disso foi diferente dos anteriores. Não era o silêncio de avaliação — era o silêncio de alguém que havia recebido uma informação de peso específico e estava dando a ela o espaço que merecia, sem pressa para preenchê-lo com conforto ou com perguntas ou com qualquer das coisas que as pessoas normalmente colocavam no espaço depois de uma palavra como *sim* dita daquela forma.
+
+Raban olhou para a janela estreita da câmara. O slipsand lá fora era o amarantino comum da manhã avançando, sem nada no tom que recordasse o roxo-preto do cyclocane de duas horas atrás. Isso era uma coisa sobre o slipsand que ele havia aprendido a respeitar e a temer em medidas iguais: não guardava memória. O que acontecia nele desaparecia com a próxima corrente.
+
+O que acontecia *com* ele permanecia.
+
+Dara havia morrido com o *Isolde*. Ela era sua primeira-oficial, vinte e sete anos, com um filho em Sanvel que tinha dois anos na época e que tinha três agora e que não lembraria do rosto do pai porque duas anos era muito cedo para lembrar rostos. Ele sabia o nome do filho. Havia aprendido numa das muitas noites em que a tripulação ficava no deck de observação falando de casas e de pessoas que esperavam em terra. Ela falava do filho com aquela leveza específica de quem ama de forma absolutamente certa, sem hesitação, como se o amor fosse um fato geográfico em vez de uma escolha.
+
+Ele não havia pensado no nome do filho em semanas. Agora estava pensando.
+
+Isso era o que o cyclocane havia feito.
+
+Havia dezoito meses que ele havia construído um sistema. Movimento — o primeiro elemento do sistema, o mais importante, porque em movimento você não ficava parado num lugar longo o suficiente para que as coisas o encontrassem. Porto a porto, navio a navio, trabalho a trabalho. Não o tipo de trabalho que exigia que ele fosse capitão — qualquer trabalho de convés, qualquer trabalho de carga, qualquer coisa que o mantivesse útil e em movimento e sem o nível de responsabilidade que tornava necessário pensar sobre o nível de responsabilidade que havia tido antes.
+
+Era um bom sistema. Havia funcionado por dezoito meses.
+
+E então havia uma amarra frouxa num convés que não era seu e sua mãos haviam se movido antes de consultar o sistema, e havia uma âncora de areia dragging sob um cyclocane e ele havia avaliado a situação com a rapidez de alguém que passou seis anos responsável por um navio e vinte e cinco tripulantes, e havia agido, e o navio havia ficado intacto, e agora estava sentado numa câmara com um primeiro-oficial que sabia seu nome.
+
+Suas mãos haviam lembrado o que fazer.
+
+Essa era a parte que o incomodava, não o corte. Suas mãos haviam lembrado como se os dezoito meses não existissem. Como se o *Isolde* não tivesse afundado. Como se Dara ainda existisse e o filho dela não precisasse aprender a esquecer um rosto.
+
+"Isso vai deixar marca," Doryn disse, sobre o corte.
+
+"Já tenho marcas."
+
+Uma pausa. Doryn olhou para as palmas — para as outras cicatrizes, as antigas, que ele não havia perguntado sobre antes e não perguntou agora. Apenas verificou que o curativo estava seguro e que a pressão estava correta e que a mão faria o que precisava fazer pelos próximos dias.
+
+"Sim," Doryn disse, por fim. "Suponho que tem."
+
+Ele terminou o curativo. Fechou o kit médico com os mesmos movimentos precisos de quando havia aberto — cada coisa no lugar, cada frasco no compartimento certo. Havia algo de ritual nisso que Raban reconheceu sem nomear. Rituais de competência. A forma como as pessoas que tinham trabalhos difíceis mantinham ordem nas margens para que a desordem do centro fosse suportável.
+
+Raban havia tido rituais assim. A verificação do leme ao amanhecer. A ronda do casco antes de cada saída de porto. O café que ele fazia ele mesmo, sempre, porque havia descoberto que a tripulação dormia melhor sabendo que o capitão estava acordado o suficiente para fazer café.
+
+Havia dezoito meses que ele não fazia café para ninguém.
+
+Doryn fechou o kit. Ficou de pé — cinco décadas de slipsand no rosto, cinquenta e dois anos de decisões que não eram simples mas que precisavam ser tomadas de qualquer forma. Ele era a única pessoa a bordo do Mercator além da capitã que havia trabalhado com o pai dela. Raban havia deduzido isso na primeira hora — há formas de se mover num navio que são aprendidas de capitão específico, idiossincrasias que passam como vocabulário de um para o outro, e Doryn se movia no Mercator com a linguagem corporal de alguém que havia aprendido suas regras antes de a capitã atual existir.
+
+"Ela vai saber," Doryn disse. A porta da câmara estava à sua frente. Ele não havia aberto ainda.
+
+Raban olhou para a mão enfaixada. A dor estava chegando agora — ela sempre chegava depois, quando o perigo havia passado e o corpo se lembrava que doer era uma opção disponível. "Já sabe."
+
+Outro silêncio. Diferente de todos os anteriores — este era o silêncio de alguém que havia recebido uma resposta que não esperava mas que, ao receber, reconheceu como correta.
+
+"Então," Doryn disse, sem inflexão particular, "suponho que você sabe o que está fazendo."
+
+Ele abriu a porta e foi embora.
+
+Raban ficou sentado na câmara do primeiro-oficial com o kit médico fechado sobre a mesa e o slipsand amarantino na janela estreita e o som do navio se movendo ao redor dele — o som específico que ele havia passado as últimas horas aprendendo, que era diferente do som do *Isolde* mas que tinha a mesma qualidade de presença, de coisa viva com peso e demandas próprias.
+
+*Você sabe o que está fazendo.*
+
+Não. Ele não sabia. Ele havia sabido uma vez — havia sabido durante seis anos, havia acordado todo dia com um entendimento razoavelmente claro do que significava ser responsável por um navio e por vinte e cinco pessoas e por rotas através de slipsand que não perdoava erros de avaliação. Havia sabido até a manhã em que os instrumentos não haviam avisado e o *Isolde* havia virado para entrar nos estreitos robrionianos e o vento havia mudado de uma forma que não deveria ser possível.
+
+Depois, na margem, sozinho, com a areia ainda nos pulmões e o nome de cada membro da tripulação fazendo aquela lista silenciosa que não parava — depois disso, ele havia deixado de saber.
+
+Havia dezoito meses que ele estava deixando de saber com toda a consistência disponível.
+
+E então havia uma amarra frouxa e suas mãos haviam se movido.
+
+Ele levantou a mão direita — a enfaixada, com o corte que iria deixar marca junto com todas as outras marcas — e olhou para ela por um tempo. Para as cicatrizes antigas. Para o curativo novo sobre elas. Para a forma como a mão ficava fechada levemente mesmo relaxada, o hábito de quem passou anos segurando cordas e lemes e a responsabilidade implícita de coisas que precisam ser mantidas no curso.
+
+Sael estava em algum lugar em Cassavar, ou além de Cassavar, com os homens do Inspetor atrás dela por alguma razão que ela havia descoberto e que havia sido importante o suficiente para que ela não voltasse atrás mesmo sabendo que ele estaria procurando.
+
+Isso era a coisa sobre Sael: ela nunca voltava atrás.
+
+Haviam crescido com essa característica dela sendo simultaneamente o que ele mais admirava e o que mais o apavorava, e os dezoito meses desde o *Isolde* não haviam mudado esse cálculo. Ela havia sobrevivido — Perris havia dito, Sael havia aparecido em Cassavar, mal mas viva, com documentos falsificados e a recusa absoluta de ser razão de perigo para alguém que a protegesse.
+
+*Se eu fico, você corre risco.* Era exatamente o que Sael diria.
+
+Era exatamente o que ele havia pensado, no *Isolde*, quando havia entendido que o navio ia afundar e havia olhado para os rostos ao redor dele e feito os cálculos que nenhum capitão deveria ter que fazer mas que todo capitão, em algum momento, fez de qualquer forma.
+
+Ele havia sobrevivido. Isso não havia sido uma escolha. Havia sido a areia — um bolso de slipsand compacto abaixo de onde ele havia caído, suficientemente firme para amortecer, suficientemente instável para que qualquer segundo de hesitação tivesse terminado diferente. Ele havia chegado à margem porque o slipsand havia decidido, naquele momento específico, que havia uma margem para alcançar.
+
+Não porque ele merecia alcançá-la.
+
+Essa distinção havia importado, nos primeiros meses. Havia parado de importar quando ficou claro que não havia distinção que mudasse o resultado — ele estava vivo, a tripulação não estava, e nenhuma quantidade de mérito ou falta de mérito alterava essa geometria.
+
+O que havia mudado, em dezoito meses de movimento, era que ele havia parado de examinar a geometria. Havia ficado em movimento. Havia colocado um porto entre ele e o próximo porto e depois outro porto entre esse e o seguinte, e havia aprendido que a velocidade suficiente tornava as coisas difusas o suficiente para não precisar de nitidez.
+
+E então havia uma capitã num deck de observação que aceitou bourbon depois de uma pausa, e uma tripulação de vinte e cinco que operava com a coordenação de um organismo inteiro, e um cyclocane que havia chegado às cinco da manhã e as mãos haviam lembrado o que fazer.
+
+Raban abriu e fechou a mão enfaixada. A dor era clara agora, localizada, do tipo que informa sem paralisar.
+
+Ele havia prometido a si mesmo, no dia em que havia deixado a margem dos estreitos robrionianos com a areia ainda nos pulmões e os nomes ainda na cabeça, que não voltaria a ser responsável por mais ninguém além de Sael. Encontrar Sael. Depois o que viesse.
+
+Era um plano suficientemente simples. Havia sustentado dezoito meses.
+
+Mas a amarra havia estado frouxa, e a capitã havia estado no leme, e a tripulação havia estado ocupada, e suas mãos não haviam consultado o plano.
+
+Ele se levantou. O kit médico ficou sobre a mesa — Doryn o recolheria, ou não, era a câmara de Doryn e Doryn fazia as coisas no tempo de Doryn. A janela mostrava slipsand amarantino e um céu que estava ficando mais claro, que era o tipo de céu que prometia calor e que, no slipsand aberto, sempre cumpria o que prometia.
+
+Cassavar estava a dois dias.
+
+Dois dias era tempo suficiente para manter o sistema funcionando. Dois dias de não-capitão, de passageiro, de alguém que estava apenas atravessando porque havia outra margem do outro lado que precisava ser alcançada.
+
+Suas mãos sabiam outra coisa.
+
+Ele saiu da câmara sem resolver essa contradição, porque havia aprendido, em dezoito meses, que algumas contradições não eram para resolver — eram para carregar, junto com tudo mais, enquanto o próximo porto aparecia no horizonte.
+
+---
