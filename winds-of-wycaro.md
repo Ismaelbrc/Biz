@@ -1964,3 +1964,335 @@ Ela havia dito isso. Havia dito de forma diferente, mas havia dito.
 Não havia mais nada a dizer depois disso, então ela não disse.
 
 ---
+
+## Capítulo 14 — Tavessa
+
+*Lucasia*
+
+---
+
+O escritório de Tavessa tinha uma janela que ocupava a parede inteira voltada para os docks, o que era ou ostentação ou pragmatismo, dependendo de como você lia o poder. Lucasia havia decidido, na primeira visita, que era as duas coisas ao mesmo tempo — Tavessa era o tipo de pessoa que transformava vantagem prática em declaração estética e vice-versa sem perceber que estava fazendo as duas coisas.
+
+A mesa era de ébano de slipsand — madeira que havia crescido nas margens onde a areia e o solo se encontravam, negra com veios amarantinos que corriam como correntes interiores. Cara. Funcional. Impecavelmente organizada.
+
+Tavessa estava atrás da mesa quando eles entraram, e o que ela fez primeiro foi olhar para a capitã com aquele afeto reservado que Lucasia havia aprendido, ao longo de três anos de favores e informação trocados, era a forma mais real que Tavessa tinha de mostrar afeto. Não efusivo. Não distante. O afeto de alguém que admirava de longe uma coisa que não entendia completamente e havia desistido de entender mas não de admirar.
+
+"Lucasia," ela disse. A voz era grave, calibrada, o tipo de voz que havia aprendido que graves eram mais difíceis de ignorar que agudos.
+
+"Tavessa." Ela fez um gesto para Raban. "Raban, sem sobrenome."
+
+Tavessa olhou para Raban.
+
+Parou por meio segundo.
+
+Não foi nada — não foi visível para alguém que não estivesse prestando atenção, que fosse qualquer outra pessoa na sala exceto Lucasia, que havia passado sete anos aprendendo a ler o que acontecia nos meios segundos de silêncio. Uma pausa antes de estender a mão. Uma fração de algo que passou pelo rosto com a velocidade de pensamento controlado.
+
+"Raban," Tavessa disse. Só o nome. Nenhum sobrenome pedido.
+
+Ela sabia o sobrenome. Lucasia viu isso com a clareza de uma leitura de pressão — não sabia como sabia, mas sabia que sabia, e sabia que estava guardando, e sabia que estava guardando porque Raban claramente não queria que fosse dito.
+
+Tavessa seguiu em frente.
+
+"Seu passageiro tem a postura de capitão," ela disse, instalando-se de volta na cadeira com o tipo de fluência de movimento de quem controlava espaços sem esforço.
+
+"Ex," Lucasia disse.
+
+"Hm." Tavessa entrelacou os dedos sobre a mesa. "O *Isolde*." Não era pergunta. Era confirmação de informação que ela já possuía — a forma de Tavessa dizer *eu sei mais do que você acha que eu sei*, que era sua forma favorita de estabelecer a assimetria que tornava suas informações valiosas.
+
+Raban não reagiu visivelmente. Ela havia aprendido que ele não regia visivelmente a coisas que não esperava.
+
+"Você me chamou para três favores de uma vez," Tavessa disse, voltando para Lucasia. "Isso é incomum."
+
+"A situação é incomum."
+
+"Conte-me a situação."
+
+Lucasia contou — a versão compacta, sem detalhes que não eram necessários para que Tavessa entendesse o que estava sendo pedido. Sael. O rastro de quatorze meses. Cassavar como última localização confirmada. Nasso como próximo passo. A necessidade de navegação limpa nos próximos dois dias.
+
+Tavessa ouviu sem interromper, o que era uma forma de respeito que ela não distribuía para todos.
+
+Quando Lucasia terminou, Tavessa ficou quieta por um momento — não o silêncio de quem está pensando, mas o silêncio de quem já pensou e está decidindo quanto dar de uma vez.
+
+"O Inspetor está consolidando as rotas leste," ela disse. "Isso você provavelmente já sabe. O que talvez não saiba: Crane está em Cassavar especificamente para isso. Não é inspeção de rotina. Ele tem uma lista de nomes — pessoas que precisam ser removidas das rotas leste antes que a consolidação se complete."
+
+Lucasia notou Raban ficar imóvel — não tenso, mas a qualidade específica de atenção total que ela havia aprendido a distinguir de tensão.
+
+"Sael Serath foi adicionada à lista de pessoas de interesse há quatro meses," Tavessa continuou. Havia alguma coisa na voz — não pena, que seria condescendência, mas o cuidado de quem estava entregando informação de peso e sabia o peso. "Pessoas de interesse não são pessoas para execução imediata. São pessoas com informação que o Inspetor quer. O que significa—"
+
+"Que ela encontrou alguma coisa," Raban disse.
+
+"Que ela encontrou alguma coisa que o Inspetor não quer que chegue a outras pessoas." Tavessa olhou para ele. "Isso é, ao mesmo tempo, boas e más notícias. Boa: ela está viva porque tem valor viva. Má: o valor tem prazo — quando o Inspetor obtiver a informação, o prazo expira."
+
+O silêncio que seguiu tinha uma qualidade específica de recalibração — o tipo de silêncio que acontecia quando uma pessoa atualizava a urgência de algo que já achava urgente.
+
+"Os três favores," Tavessa disse, voltando para Lucasia. "O que você precisa."
+
+"Acesso a Nasso sem intermediário. Passagem limpa pelo distrito leste nos próximos dois dias. E se Crane fechar o Quarteirão—"
+
+"Rota de saída pelo porto sul." Tavessa já havia chegado lá. "Pode ser feito." Uma pausa. "Vai custar os três favores."
+
+"É isso que estou oferecendo."
+
+Tavessa olhou para Lucasia por um momento com aquela expressão que havia aprendido a reconhecer ao longo de três anos — a expressão de alguém tentando entender uma coisa que escapa à categoria de interesse puramente racional.
+
+"Você nunca gastou os três de uma vez," Tavessa disse.
+
+"A situação é incomum."
+
+"Sim." Tavessa ficou de pé. "Você me disse isso."
+
+Ela contornou a mesa — não para a porta, para a janela. Ficou com as costas para eles por um momento, olhando os docks lá embaixo, os duneships atracados com velas recolhidas e aquela quietude de navios que esperavam.
+
+"Há uma coisa que não é parte dos três favores," ela disse. "É por conta minha."
+
+Lucasia esperou.
+
+"O pai dele," Tavessa disse. Não virou. "Aldric Serath. Eu o conheci há doze anos, antes de o Inspetor assumir o controle administrativo das rotas leste. Era oficial de rota — competente, inflexível no que achava certo, o tipo de pessoa que causa problema para sistemas que dependem de flexibilidade." Uma pausa. "O Inspetor o executou quando Raban tinha dezessete anos. Acusação formal de subversão de autoridade portuária. A acusação real era que ele havia documentado irregularidades que o Inspetor não queria documentadas."
+
+Ela não olhou para Raban enquanto dizia isso. Mas sabia — pelo ângulo do silêncio, pela forma como o ar na sala mudou — que ele estava ouvindo.
+
+"Eu devia uma coisa a Aldric Serath," Tavessa disse. "Nunca tive como pagar. Agora tenho." Ela virou. Olhou para Raban com aquela expressão que era afeto e reserva ao mesmo tempo — a expressão que ela reconhecia porque era a mesma que usava quando não tinha outra forma de dizer o que precisava ser dito. "Os três favores da capitã são para o plano. O acesso a Nasso esta noite está pago por conta da dívida que eu tinha com seu pai."
+
+Raban ficou quieto por um tempo que foi longo o suficiente para que ela soubesse que precisava ser longo.
+
+"Obrigado," ele disse.
+
+Era a mesma palavra que havia dito a Perris. A voz tinha a mesma qualidade — estável, porque precisava ser estável, porque a alternativa era alguma outra coisa que não havia nome para dizer em voz alta.
+
+---
+
+## Capítulo 15 — O Isolde
+
+*Raban*
+
+---
+
+A pensão ficava a três quarteirões do porto, no distrito neutro — nem Quarteirão Mandoviano nem zona de inspetores, o tipo de lugar onde pessoas que tinham razões para não ser localizadas facilmente ficavam porque havia implícita uma convenção de não perguntar.
+
+Havia pagado por dois quartos. O quarto dela ficava voltado para a rua. O dele, para o beco dos fundos.
+
+Ele preferia o beco.
+
+A cidade tinha o som específico da meia-noite em Cassavar — mais quieta que o dia, mas nunca completamente quieta, porque Cassavar não era o tipo de cidade que admitia silêncio total. Havia sempre algo — passos num quarteirão diferente, o gemido do metal nos faróis portuários quando o vento virava, o slipsand limitado pelos muros do porto fazendo aquele som de respiração contida que era diferente do slipsand aberto, que respirava livremente.
+
+Ele não dormia em cidades.
+
+Não era exatamente verdade — havia dormido, nas últimas semanas, em pequenos portos onde o slipsand era visível dos quartos e onde o som das correntes chegava mesmo através das paredes. Mas Cassavar era grande demais, fechada demais, com muros altos demais para que o slipsand ficasse acessível. A cidade o separava do slipsand da mesma forma que o porão do *Mercator* o separava do slipsand, e o resultado era o mesmo: o pensamento que ele havia aprendido a interromper começava.
+
+Ele não o interrompeu desta vez.
+
+Havia sido tarde demais para interromper desde o momento em que Perris havia dito *mal*, e havia ficado tarde demais de formas adicionais a cada hora que havia passado — com Tavessa falando sobre o pai, e com o nome de Sael em lista de pessoas de interesse, e com o prazo que tinha data de expiração que ele não sabia calcular.
+
+Então ele deixou.
+
+---
+
+O *Isolde* havia sido o segundo navio que ele havia pilotado. O primeiro havia sido um barco de carga do porto de Anvel onde havia trabalhado dos dezessete aos vinte, ganhando o suficiente para existir e aprendendo que existência não era o mesmo que vida. O *Isolde* havia aparecido quando tinha vinte e três anos — propriedade de um comerciante de especiaria que havia ficado velho demais para pilotá-lo e que havia preferido vender a alugar porque alugar requeria supervisão.
+
+Ele havia comprado com dinheiro que não tinha para um investidor que o banco havia recusado.
+
+O investidor era Aldric Serath, seu pai, que havia passado anos documentando irregularidades portuárias e que havia sido executado há seis anos por isso e que havia, nos sete anos antes da execução, colocado todo o dinheiro que não havia conseguido usar para outra coisa no único filho que havia decidido que o slipsand era onde precisava estar.
+
+Ele havia comprado o *Isolde* com a herança de um homem executado por fazer a coisa certa.
+
+O navio tinha vinte e oito metros. Casco de madeira dura com tratamento de resina de slipsand que havia sido refeito há dois anos antes que ele comprasse, o que havia sido parte do preço mas também parte do que tornava o *Isolde* diferente dos navios de rota padrão — manutenção impecável, construção que resistia mais que o necessário, uma solidez estrutural que comunicava confiança antes que qualquer capitão precisasse dizer uma palavra sobre ela.
+
+Ele havia aprendido o *Isolde* como havia aprendido tudo que importava — de dentro, pelo toque, pelos erros que custavam pouco o suficiente para aprender com eles. Havia passado os primeiros seis meses desfazendo os hábitos do dono anterior e descobrindo o que o navio preferia. Todo navio tinha preferências. Capitães que não aprendiam as preferências dos navios eram capitães que perdiam navios.
+
+Ele havia aprendido.
+
+A tripulação havia chegado em partes. Dara havia sido a primeira contratação deliberada — vinte e dois anos, ex-tripulante de um navio de perseguição portuária que havia sido desativado, com uma habilidade para leitura de pressão de slipsand que ele havia identificado na terceira conversa e que havia resultado na oferta no mesmo dia. Ela havia aceitado sem negociar o salário, que havia sido ou porque confiava no que via nele ou porque o salário era melhor que o que estava recebendo.
+
+Anos depois havia perguntado. Era as duas coisas.
+
+Dara havia tido um filho — Emis, que havia nascido no segundo ano de rota, que ela havia deixado em Sanvel com a irmã mais velha, que havia crescido em ausências intercaladas com as presenças intensas que a vida de navegadora permitia. Ela havia falado de Emis com aquela leveza que ele havia aprendido a reconhecer como amor sem peso — não sem custo, que havia custo e ela sabia o custo, mas sem o peso de culpa que a maioria das pessoas colocava no amor.
+
+Havia invejado isso. Não havia dito.
+
+A tripulação havia sido vinte e cinco pessoas. Nomes que ele havia aprendido antes dos rostos, porque havia aprendido de Dara que nomes importavam mais que rostos — você esquecia rostos, nunca esquecia nomes, e capitão que esquecia o nome da tripulação era capitão que havia decidido que tripulação era função em vez de pessoa.
+
+Vinte e cinco nomes.
+
+A tempestade havia chegado nos estreitos robrionianos na décima hora do segundo dia — não no pico do dia, não à noite, mas naquele momento de entardecer onde a luz mudava e o slipsand mudava com ela e os instrumentos de pressão começavam a recalibrar para a temperatura noturna. Havia sido exatamente esse momento que havia criado a janela — os instrumentos em recalibração não registravam o quê?
+
+A variação de pressão havia chegado diferente. Ele havia sentido antes dos instrumentos — o tipo de pressão que não era climática, que tinha uma qualidade que ele não havia encontrado antes, uma qualidade de coisa construída em vez de encontrada. Não havia tido tempo de processar isso. Havia tido tempo para a decisão que havia tomado.
+
+Havia gritado para recolher as velas. Havia gritado para ancorar. Havia gritado o nome de Dara para que assumisse o leme porque ele precisava ir ao deck de estibordo para a âncora que ele havia sentido deslizando antes de o instrumento confirmar.
+
+Havia oito pessoas entre ele e a âncora quando a tempestade chegou.
+
+Não era uma tempestade. Ele havia aprendido isso depois — havia levado meses de comparação de relatos e de mapas de pressão e de conversas com outros navegadores dos estreitos para chegar ao entendimento que ainda não era certeza mas que era probabilidade alta demais para ser descartada. Não era uma tempestade. Era slipsand comprimido artificialmente — cyclocane induzido, a pressão criada por algo que ele não havia visto e que, portanto, não havia previsto.
+
+Os instrumentos haviam parado três minutos antes.
+
+Ele havia notado isso também. Havia arquivado — havia tido outras coisas para arquivar ao mesmo tempo, a âncora e o vento e o grito de Dara de que o leme não respondia, e havia arquivado os instrumentos para depois. Depois não havia chegado.
+
+O *Isolde* havia afundado em onze minutos.
+
+Onze minutos era tempo — havia tempo para decisões, para resgates, para salvar pessoas que poderiam ser salvas. Havia salvado quatro, que era o número máximo que havia conseguido alcançar antes que a proa submergisse e o peso da areia comprimida fosse mais rápido que qualquer coisa que ele pudesse fazer. Quatro de vinte e cinco.
+
+As quatro haviam sobrevivido à noite porque haviam encontrado superfície sólida — um banco de areia que o slipsand havia formado temporariamente com a pressão do afundamento, instável mas suficientemente firme para manter peso por horas. Ele havia chegado à margem sozinho porque havia caído num bolso de areia compacta a duzentos metros do navio — mais perto que os outros, mais perto da margem, suficientemente perto para que o slipsand fosse possível de atravessar.
+
+Nadar em slipsand era possível. Era agonizante. Requeria que a areia tivesse densidade específica — nem líquida demais, que te engolia, nem sólida demais, que te imobilizava. O bolso havia sido o ângulo correto. Havia chegado à margem.
+
+Havia chegado à margem e havia ficado ali por um tempo que não havia conseguido calcular — minutos ou horas, impossível distinguir — e depois havia olhado para os estreitos e havia esperado pelos outros.
+
+Nenhum dos outros havia chegado.
+
+As quatro do banco de areia haviam sido encontradas no dia seguinte por um navio de patrulha. Haviam sobrevivido — feridas, desorientadas, mas vivas. Haviam dado relatos. Os relatos haviam entrado num arquivo de naufrágios que ele havia acessado meses depois, que havia confirmado os nomes que ele já sabia porque já havia memorizado vinte e cinco nomes no dia em que havia aceito a responsabilidade que vinha com eles.
+
+Vinte e um não haviam chegado à margem.
+
+Dara havia sido um dos vinte e um.
+
+---
+
+Ele ficou acordado até que o céu fora da janela do beco começasse a clarear.
+
+Não havia tentado dormir. Havia ficado com os pensamentos que haviam decidido que esta noite era a noite, porque havia sido tarde demais desde Perris, e deixado que completassem o arco sem interromper. Era o que havia aprendido, nos meses depois do naufrágio — que interromper o pensamento não apagava o pensamento, apenas postergava e comprimia, e pensamento comprimido por tempo suficiente explodia de formas que ele não controlava.
+
+Então ele deixava. E o pensamento completava o arco. E depois havia o céu clareando e a cidade acordando e o som do slipsand no porto e a lista das coisas que precisavam acontecer no próximo dia.
+
+Sael estava viva.
+
+Ela havia descoberto alguma coisa que o Inspetor não queria que chegasse a outras pessoas.
+
+Os instrumentos do *Isolde* haviam parado três minutos antes da tempestade.
+
+Eram três pensamentos. Dois deles eram novos — novos no sentido de que haviam entrado nesta noite com peso diferente de quando haviam entrado antes. Ele havia sabido sobre Sael em termos abstratos há semanas. Agora sabia em termos concretos — ela estava em lista, com prazo, com informação que tinha valor enquanto existia e que deixaria de ter valor quando fosse extraída.
+
+O terceiro pensamento não era novo. Era o pensamento que havia estado ali desde o *Mercator*, desde o cyclocane, desde que os instrumentos de pressão do *Mercator* haviam parado por três minutos exatos e voltado como se nada tivesse acontecido.
+
+Aquilo não era falha mecânica.
+
+Ele não sabia o que era. Mas sabia que havia acontecido no *Isolde* e havia acontecido no *Mercator* e que as duas ocorrências tinham a mesma duração e a mesma qualidade — não falha gradual, mas interrupção abrupta e retomada igualmente abrupta, como um corte e uma cola que não deixavam marca nos instrumentos mas que deixavam marca em quem prestava atenção.
+
+Ele havia prestado atenção.
+
+Levantou-se quando o céu estava suficientemente claro. Verificou os documentos que precisava verificar — o manifesto de rota, o plano para o Vão Cinza, os nomes que precisava ter em mente. Depois foi ao corredor para o banheiro compartilhado, e no corredor passou pela janela que olhava para o beco dos fundos, e viu a luz do quarto dela ainda acesa sob a porta.
+
+Ela também não havia dormido.
+
+---
+
+## Capítulo 16 — Vão Cinza
+
+*Lucasia*
+
+---
+
+A taverna ficava num endereço que não aparecia em nenhum mapa de Cassavar, que era a razão pela qual havia durado vinte anos numa cidade onde lugares não duravam vinte anos a não ser que tivessem razão para durar. A razão era que o Vão Cinza era lugar de negócio, e negócio requeria que as partes se encontrassem, e as partes que se encontravam no Vão Cinza preferiam não encontrar-se em lugares onde sua presença poderia ser registrada.
+
+Ela chegou primeiro.
+
+Às dez da manhã, a taverna estava na metade da capacidade — tarde demais para o café da manhã, cedo demais para o almoço, o momento perfeito para o tipo de negócio que preferia luz moderada e não muitas testemunhas. Ela pediu vinho do porto e abriu documentos de rota na mesa — autênticos, genuínos, porque documentos genuínos suportavam escrutínio de qualquer lado e documentos falsos tinham a qualidade específica de *falso* que pessoas que viviam de informação reconheciam antes de abrir.
+
+Dez minutos depois, Raban entrou pela entrada lateral.
+
+Ele havia feito o que ela havia pedido — não o balcão, a mesa do fundo, costas para a parede. A postura era diferente da postura habitual dele: levemente mais curvada, mais casual, o tipo de ajuste que era a diferença entre *capitão fora do serviço* e *navegador de rota em pausa*. Não perfeito — ela ainda podia ver o jeito que os olhos faziam o catálogo da sala, mas estava melhor que manhã.
+
+Ela fingiu não ter visto.
+
+A conversa na sua mesa começou como havia planejado: ela com os documentos, revisando tarifas, o tipo de comportamento que justificava presença numa taverna de negócios. Um vendedor de especiaria a abordou com proposta de rota que ela recusou com cortesia suficiente para não criar inimigo. Um informante que ela reconhecia de visitas anteriores passou pela mesa sem parar — ela não precisava de informação dele hoje.
+
+Nasso apareceu vinte minutos depois.
+
+Jovem — mais jovem do que ela havia esperado baseado na descrição de Perris. Vinte e oito anos, talvez, com o tipo de energia nervosa de alguém que havia aprendido que o mercado de informação premiava velocidade e que havia internalizado *velocidade* como modo de existência. Sentou na mesa ao lado sem ser convidado, o que era o jeito dele de dizer *estou disponível* sem parecer desesperado.
+
+"Rota leste," ela disse, sem olhar para ele. Falava com os documentos.
+
+"Depende do leste."
+
+"Territoire dos territórios não regulados. Porto de Velne."
+
+Uma pausa. Ela não precisava ver o rosto dele para saber que estava calculando — o silêncio tinha a qualidade de alguém fazendo aritmética de valor.
+
+"Informação de rota nessa direção é cara," Nasso disse.
+
+"Tenho dinheiro."
+
+"Tem passagem?" Ele havia se aproximado levemente — o gesto de quem estava verificando que ninguém ouvia. "Porque informação de rota é uma coisa. Passagem é outra."
+
+"Quero as duas."
+
+Silêncio mais longo. Ela esperou.
+
+"Há uma moça," ele disse, por fim. "Algumas semanas atrás. Precisava de passagem para leste — não rota regular, rota irregular. Um navio chamado *Harrow*."
+
+Ela levantou os olhos dos documentos pela primeira vez, o suficiente para olhar para Nasso sem olhar para Raban, que era o equilíbrio que precisava manter. "E você tem essa informação."
+
+"Tenho." Uma pausa. "Custou para a moça e vai custar para você."
+
+Ela colocou dois pesos-ouro na mesa. Não mais, não menos — o suficiente para que Nasso soubesse que ela sabia o que informação valia e não estava interessada em negociar.
+
+Os pesos desapareceram.
+
+"*Harrow*," ele disse. "Rota irregular para os territórios não controlados. Saiu de Cassavar há cinco semanas. A moça estava nele." Uma pausa. "Próxima parada na rota irregular: porto de Velne. Em quarenta dias contados da partida."
+
+Ela calculou. Cinco semanas atrás. Quarenta dias. O *Harrow* estaria em Velne em aproximadamente três semanas.
+
+"E a moça," ela disse.
+
+"Embarcou no *Harrow*. Com documentos de Saret Volis." Nasso havia verificado os documentos, que era o tipo de profissionalismo que ela respeitava sem gostar. "Nome real?" Ele encolheu um ombro. "Não perguntei. Não é como funciona."
+
+Ela fechou os documentos de rota. Sinal.
+
+Raban estava ao lado dela em menos de trinta segundos.
+
+Nasso olhou para ele com a avaliação rápida de alguém que reconhecia a postura mas não o rosto. "Você também?"
+
+"Não," Raban disse. "A informação que ela comprou é suficiente."
+
+Eles saíram.
+
+Na rua — não a principal, o beco ao lado, que era o tipo de hábito que ela havia desenvolvido em Cassavar — ele ficou em silêncio por dois quarteirões.
+
+"Ela está no *Harrow*," ele disse.
+
+Não era pergunta.
+
+Era a primeira vez desde Perris que ela ouvia alguma coisa diferente na voz dele. Não alívio — alívio era a ausência de tensão, e a tensão havia aumentado, porque *Harrow* em rota irregular para territórios não controlados era complicado, era perigoso, era três semanas até Velne com o Inspetor sabendo que Raban estava procurando.
+
+Mas havia qualquer coisa. A qualidade específica de alguém que havia passado quatorze meses em movimento por uma razão que era hipótese e que agora era fato.
+
+Era quase insuportável de testemunhar.
+
+Ela testemunhou mesmo assim.
+
+Houve uma agitação na entrada da taverna — vozes em volume que chamava atenção. No corredor paralelo ao beco, dois homens caminhavam com aquele passo de patrulha que não era patrulha oficial mas que cumpria a mesma função.
+
+Observadores de Crane.
+
+"Siga meu ritmo," ela disse.
+
+Ele seguiu.
+
+Eles percorreram quatro quarteirões no ritmo de pessoas que pertenciam ao lugar antes de ela estar segura de que os observadores não haviam seguido. No caminho de volta para a pensão, passaram por uma taverna menor onde três marinheiros discutiam rota de forma suficientemente barulhenta para mascarar conversa ao lado. Ela parou. Pediu água. Ouviu.
+
+Um deles mencionou moonsburn.
+
+Era um nome que ela havia ouvido antes — a doença das tripulações de rota leste, manchas roxas e febre e desorientação, casos aparecendo nos últimos dois anos em portos que ficavam próximos de onde os cyclocanes eram mais frequentes. Havia teorias. Nenhuma confirmada.
+
+Raban ficou quieto com aquela imobilidade que não era imobilidade — era o oposto de imobilidade, era toda a atenção concentrada em não se mover. Ela o teria perdido se não tivesse aprendido a ler os meios segundos de silêncio.
+
+Ele reconhecia a palavra.
+
+Ela não perguntou. Anotou mentalmente.
+
+Eles saíram. As ruas de Cassavar tinham o calor da tarde acumulando nos muros de pedra preta, radiando de volta para a rua de forma que tornava o ar mais pesado que ao ar livre. Ela havia aprendido a gostar desse calor específico — era o calor de lugar com história, onde cada pedra havia guardado calor suficiente para ficar quente sozinha.
+
+"Três semanas até Velne," ele disse.
+
+"Dois dias em Cassavar para os documentos. Depois rota leste."
+
+"O *Mercator* vai perder contratos."
+
+"Eu sei."
+
+Silêncio.
+
+"Isso ainda é eficiência?" ele perguntou.
+
+Ela não respondeu. Havia respondas que eram mais honestas no silêncio.
+
+---
