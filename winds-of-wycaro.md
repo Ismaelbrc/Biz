@@ -1670,3 +1670,297 @@ Cassavar estava esperando.
 *Fim da Parte 1: O Vento Ladrão*
 
 ---
+
+## PARTE 2 — A CIDADE
+
+---
+
+## Capítulo 11 — Autoridade Portuária
+
+*Lucasia*
+
+---
+
+Os inspetores subiram a bordo às oito horas da manhã, que era quando a autoridade portuária de Cassavar começava o expediente, que era quando Lucasia já estava de pé há três horas e havia revisado todos os documentos duas vezes e havia tomado decisões sobre quais propinas oferecer em que ordem.
+
+Havia um sistema.
+
+O sistema havia sido construído ao longo de sete anos de atracações em Cassavar — de observar como os inspetores operavam, de entender que não eram cruéis por princípio mas por conveniência, que a crueldade era uma ferramenta e não um objetivo, e que uma capitã que tornava a inspeção simples e lucrativa para o inspector tinha um navio que saía de Cassavar sem embargo. Ela havia aprendido o sistema no segundo ano. Havia refinado no quarto. Havia chegado a um estado de fluidez no sétimo que era menos corrupção e mais idioma — ela falava a língua de Cassavar, que era a língua do interesse mútuo mascarado de procedimento.
+
+Os três inspetores eram diferentes entre si em temperamento e similares em função. O mais velho, Cresso, revisava os documentos de carga com aquela meticulosidade de quem sabe que meticulosidade é moeda — quanto mais minucioso, mais a capitã estaria disposta a pagar para acelerar. O mais jovem, cujo nome ela nunca havia aprendido porque nunca havia precisado, vasculhava o porão com a energia de alguém tentando provar que merecia o uniforme. O terceiro ficava no convés fumando algo que cheirava a mandovian spicefruit torrado e observava a tripulação com olhos que registravam tudo e revelavam nada.
+
+Raban estava no deck de estibordo.
+
+Ela havia dito para ele ficar fora do caminho. Ele havia ficado fora do caminho de uma forma específica — não desaparecendo, não tornando-se invisível, mas ficando parado numa posição que era genuinamente fora do caminho e que, ao mesmo tempo, tinha ângulo visual para tudo que acontecia no convés principal. A postura de alguém que se posiciona para observar sem parecer que está observando.
+
+Ela havia feito a mesma coisa durante duas horas na primeira inspeção portuária que havia conduzido sozinha, sete anos atrás, no porto de Sanvel, com o *Mercator* recém sob sua responsabilidade e a voz do pai ainda mais forte que a própria voz dentro da cabeça.
+
+Cresso levantou os olhos dos documentos. "A carga selada no compartimento C."
+
+Ela não havia esperado menos. A carga selada estava no manifesto — tinha que estar, ausência levantava mais suspeita que presença — com a descrição correta de *materiais de pesquisa acadêmica, frágeis, condicionados por contrato de privacidade*. A descrição era precisa o suficiente para ser verdadeira e vaga o suficiente para não ser útil.
+
+"Encomenda de um contratante privado em Sanvel," ela disse. "Documentos de contrato no arquivo C-3. O receptor em Cassavar é Aldric Tenner, distrito sul." O nome no documento era real. O que Tenner fazia com o que recebia — e para quem — era informação que ela havia deliberadamente não procurado, porque havia aprendido que perguntas criavam contexto e contexto criava responsabilidade.
+
+Cresso examinou os documentos de contrato. Examinou a carga selada sem abrir — o contrato de privacidade tinha cláusula de danos, o que tornava a abertura um problema potencial para o porto, não para o navio. Ele havia visto essa estrutura antes. Ela podia ver isso na forma como ele examinou sem insistir.
+
+"Taxa de inspeção acelerada," ele disse. Não especificou valor.
+
+Ela especificou. O valor era levemente acima do que ele havia esperado — ela sabia pela forma como a sobrancelha levantou um milímetro — mas não excessivo o suficiente para criar a suspeita de que ela estava pagando para esconder. Era o valor de alguém que tinha pressa legítima e estava disposta a pagar por isso.
+
+Cresso assinou os documentos de liberação.
+
+O inspetor mais jovem emergiu do porão com o rosto coberto de areia e a expressão de quem havia vasculhado tudo e não havia encontrado nada. O terceiro inspetor apagou o que estava fumando e guardou os documentos que havia revisado no bolso do uniforme.
+
+Ela os acompanhou à escada de embarque com a cordialidade exata de alguém que havia concluído um negócio satisfatório e estava disponível para o próximo.
+
+Quando o último deles desceu a escada, ela ficou no corrimão por um momento com o slipsand de Cassavar abaixo — menor que o slipsand aberto, constrito pelos muros do porto, mas amarantino mesmo assim — e respirou.
+
+Depois foi para a câmara do capitão.
+
+Raban bateu dez minutos depois.
+
+Ela havia esperado que batesse mais cedo. A espera dizia algo — que ele havia ficado no deck até que a tripulação estivesse desocupada, até que houvesse menos pessoas observando quem entrava na câmara. Ela abriu a porta sem parar de atualizar os registros de carga.
+
+"Você é muito boa nisso," ele disse. Ficou no vão da porta.
+
+Ela não levantou os olhos dos registros. "Entre ou não entre."
+
+Ele entrou. Ficou de pé — não havia cadeira oferecida, o que significava que ele havia entendido que a conversa seria curta.
+
+"Cassavar tem um sistema," ela disse. "Aprendi o sistema."
+
+"Você não acha degradante."
+
+Ela parou de escrever. Não porque a pergunta a tivesse surpreendido — era a resposta certa para o que ele havia observado — mas porque era uma pergunta que a maioria das pessoas não fazia. A maioria das pessoas ou achava o sistema inevitável e não o examinava, ou achava degradante e protestava de formas que tornavam o porto mais difícil e não menos. Raban havia identificado uma terceira posição e havia pedido que ela se posicionasse nela.
+
+"Acho," ela disse. "Por isso executo com perfeição." Voltou aos registros. "Para terminar rápido."
+
+Silêncio. Ela podia sentir que ele estava olhando para ela — aquela qualidade de atenção que havia aprendido a identificar sem precisar ver — e havia alguma coisa no silêncio que era diferente de avaliação. Era o silêncio de alguém que havia recebido uma resposta mais honesta do que havia esperado e estava deixando-a existir.
+
+"O receptor da carga selada," ele disse, por fim. "Aldric Tenner."
+
+Ela levantou os olhos. Esperou.
+
+"Conheço o nome." Uma pausa. "É da rede de distribuidores do sul. Eles não são distribuidores."
+
+Ela ficou quieta.
+
+"Não precisa confirmar," ele disse. "Só queria que soubesse que sei."
+
+Ela olhou para ele por um momento. Para o rosto — aquela qualidade de atenção que não pedia nem exigia, que apenas via.
+
+"Vinte e cinco pessoas neste navio," ela disse. "Cada decisão que tomo considera vinte e cinco resultados possíveis. Às vezes o custo de saber é mais alto que o custo de não saber."
+
+Ele inclinou a cabeça — não concordância, mas reconhecimento. A distinção importava. Ela havia aprendido a distinguir as duas coisas em pessoas.
+
+"Quando você quer ir ao Quarteirão?" ele perguntou.
+
+"Amanhã cedo." Ela voltou aos registros. "Hoje ainda há muito do sistema para terminar."
+
+---
+
+## Capítulo 12 — Perris
+
+*Raban*
+
+---
+
+O Quarteirão Mandoviano às sete da manhã tinha o cheiro específico de lugar que nunca fechava completamente — especiaria velha e tabaco e o resíduo de slipsand que entrava por todos os becos porque em Cassavar o slipsand entrava por todos os becos. Havia uma névoa baixa, não de água mas de pó, que suavizava os contornos da pedra preta da cidade e tornava as silhuetas das pessoas que passavam opacas antes de claras.
+
+Ele havia estado aqui antes. Conhecia a topografia — o quadrante leste onde a concentração de informantes era maior, o quadrante norte onde os produtos legítimos e os ilegítimos se misturavam de forma calculada, o eixo central onde a presença dos inspetores era mais visível e, portanto, mais fácil de evitar porque você sabia onde olhar.
+
+A capitã conhecia melhor.
+
+Ele notou isso nos primeiros cinquenta metros — no jeito que ela virou para um beco antes que ele visse o observador no final da rua principal. No jeito que escolheu a fileira de barracas como cobertura visual quando passaram pela janela do posto de controle. No jeito que andava — não rápido, que chamava atenção, não devagar, que também chamava atenção, mas no ritmo específico de alguém que pertencia ao lugar e estava com pressa da forma que as pessoas com pressa andavam no Quarteirão.
+
+Ela havia aprendido Cassavar de dentro.
+
+Perris ficava no segundo andar de um edifício que na rua parecia uma pensão comum, o que era provavelmente a intenção. A porta ao nível da rua tinha duas marcas de tinta desbotada no canto esquerdo — marcas que eram comuns o suficiente para não chamar atenção mas que, para quem sabia procurar, significavam *acesso disponível para quem conhece o nome certo*. Raban havia aprendido a ler esse código três anos atrás, num porto diferente, com um sistema diferente mas a mesma lógica.
+
+A capitã bateu três vezes. Pausa. Duas vezes.
+
+A porta abriu.
+
+Perris tinha cinquenta e cinco anos e o rosto de alguém que havia passado a vida decidindo quem deixar entrar. Não era hostilidade — era avaliação, que era uma coisa diferente. Hostilidade era emocional. Avaliação era profissional.
+
+Ela olhou para a capitã. Para ele. De volta para a capitã.
+
+"Ela está com você," Perris disse. Não era pergunta sobre a capitã — era afirmação sobre ele.
+
+"Sim," a capitã disse.
+
+Uma pausa. Perris se afastou da porta.
+
+O segundo andar tinha duas salas que ele podia ver e provavelmente três que não podia. A sala onde foram levados era pequena, com uma mesa, quatro cadeiras e uma janela que olhava para o beco de trás — não para a rua, que era um detalhe de segurança, não de acidente. Havia um mapa velho na parede e uma pilha de documentos que foram cobertos antes de ele ter chance de ler, o que era o tipo de gesto que dizia tudo sem dizer nada.
+
+Perris ficou de pé. Eles sentaram.
+
+"Sael Serath," a capitã disse.
+
+O nome fez alguma coisa no rosto de Perris — não surpresa, mas o tipo de atenção que vinha de dentro em vez de fora. Como se o nome tivesse peso que ela reconhecia.
+
+"Há seis semanas," Perris disse. Direto — o jeito de alguém que havia decidido antes de eles chegarem o quanto ia dar. "Apareceu de noite. Mal. Documentos no nome de Saret Volis — a falsificação era boa, não perfeita. Eu vi porque sei o que procurar."
+
+Ele ficou imóvel.
+
+*Mal*. A palavra pousou de um jeito específico. Sael havia sido treinada em movimento, em não chamar atenção, em chegar a qualquer lugar parecendo que pertencia lá. Se havia chegado *mal*, havia chegado além do limite — o corpo quebrando o protocolo porque o protocolo havia custado mais do que havia.
+
+"O que tinha com ela?" ele perguntou.
+
+"Tosse. Febre baixa." Perris avaliava enquanto falava — ele notou, o tipo de atenção lateral que era tanto profissional quanto emocional, como se ela estivesse verificando como ele ouvia. "Ficou três dias no quarto do fundo. Come. Dorme muito. No quarto dia, homens do Inspetor na rua — não na minha porta, mas próximos o suficiente." Uma pausa. "Ela disse que ia sair."
+
+"Você tentou retê-la."
+
+"Disse que era arriscado." Perris cruzou os braços — não defensivo, firme. "Ela disse que se ficasse, eu corria risco. Que ela havia ficado tempo suficiente."
+
+*Se eu fico, você corre risco.* Era exatamente o que Sael diria. Era exatamente o que ele mesmo havia dito, em versões diferentes, em situações diferentes, porque havia uma forma específica de se preocupar com as pessoas que significava tornar-se o problema em vez de deixar as pessoas ao redor serem o problema.
+
+Havia ensinado isso a Sael. Não de propósito.
+
+"Para onde foi?" a capitã perguntou. Ele estava grato pela pergunta — estava processando a resposta anterior e ela havia reconhecido isso sem precisar que ele pedisse espaço.
+
+"Não sei o destino final." Perris descruzou os braços. "Mas sei o próximo passo. Nasso — informante de rua, frequenta a taverna Vão Cinza no distrito leste. Ela pediu o nome antes de sair. Disse que precisava de passagem para leste."
+
+A capitã olhou para ele.
+
+Ele ficou estático por um segundo.
+
+Um segundo era longo o suficiente para que o peso do que havia ouvido descesse do nível de informação para o nível de fato. Sael havia estado aqui. Havia sobrevivido a quatorze meses e havia chegado a Cassavar doente e havia ficado três dias e havia saído porque havia decidido que ficar era custo demais para outra pessoa.
+
+Ela estava viva.
+
+O mecanismo de continuar funcionando que havia sustentado dezoito meses acordou de outra forma — não como sobrevivência, mas como direção. Havia um nome. Havia um lugar. Havia um próximo passo que era concreto e alcançável e que levava de alguma forma a outra margem.
+
+"Obrigado," ele disse para Perris. A voz saiu estável, que era o que queria que fizesse.
+
+Perris olhou para ele por um momento — não com pena, que ele não suportaria, mas com o tipo de reconhecimento específico de alguém que havia visto outras pessoas chegarem à sua porta com perguntas e que entendia o que custava chegar e o que custava ouvir.
+
+"Ela me disse um nome," Perris acrescentou, quando eles já se levantavam. "Disse que se alguém aparecesse perguntando por ela, podia dar." Uma pausa. "Não dou nomes fácil."
+
+"Mas você nos deu," a capitã disse.
+
+"Vocês chegaram pelo lado certo da porta." Perris olhou para a capitã. "E ela disse que se fosse um homem de borgonha desbotado, podia confiar."
+
+Ele não respondeu a isso. Havia um limite para o que conseguia processar de uma vez.
+
+Desceram em silêncio. A rua do Quarteirão estava mais cheia agora — a névoa havia levantado com o sol subindo, e as barracas e os vendedores e os homens em uniformes que não eram de nenhuma autoridade oficial movimentavam o quarteirão com aquela energia específica de lugar que funciona pelas suas próprias regras.
+
+Na calçada, ela disse: "Então é o Vão Cinza."
+
+"Esta noite," ele disse.
+
+"Não."
+
+Ele olhou para ela.
+
+"Crane tem observadores no Vão Cinza." A voz dela era o tom de quem apresenta fato, não de quem discute. "Você chega agora, sozinho, perguntando por Nasso — você tem duas horas antes que Crane saiba que está procurando alguma coisa. E Crane já sabe que você está em Cassavar."
+
+Ele sabia disso. Havia calculado isso. Havia concluído que o risco era aceitável porque o tempo que Sael ganhava a cada dia era mais valioso que o risco de Crane saber o que ele estava procurando.
+
+Mas a capitã havia calculado outra coisa.
+
+"Então como?" ele perguntou.
+
+Ela virou para ele com a expressão de alguém que já tinha resposta e estava esperando que ele chegasse à mesma pergunta.
+
+"Dessa forma," ela disse.
+
+---
+
+## Capítulo 13 — Planos Diferentes
+
+*Lucasia*
+
+---
+
+O plano dele era direto.
+
+Chegar ao Vão Cinza com cobertura — comerciante de rota, negociando tarifa, razão plausível para estar numa taverna do distrito leste a qualquer hora do dia. Encontrar Nasso. Pagar o que pedisse. Obter o destino do navio que havia levado Sael.
+
+Era um plano razoável. Era o tipo de plano que funcionava quando a variável chamada Crane não existia.
+
+Crane existia.
+
+"Você chega ao Vão Cinza como comerciante de rota," ela disse, quando estavam de volta à rua principal do Quarteirão. Andando — parar chamava mais atenção que mover. "Crane já tem o seu rosto. Seus observadores vão reconhecer você em trinta segundos. Você pede Nasso e em cinco minutos há dois homens entre você e a saída."
+
+"Então eu não peço por Nasso."
+
+"Então você não encontra Nasso." Ela virou num beco — instintivamente, porque havia visto o padrão de movimento na rua principal mudar de uma forma que podia significar observador ou podia não significar, e o custo de presumir que não significava era mais alto que o custo de desviar. "Nasso não aparece se ninguém pede. Ele aparece quando alguém está comprando o tipo de informação que ele vende, que é diferente."
+
+"Você conhece Nasso."
+
+"Conheço o tipo." Ela havia passado sete anos em Cassavar aprendendo a diferença entre os tipos. "Nasso vende porque é o que ele faz — não por lealdade a nenhum lado, não por ideologia, por estrutura econômica. Você chega como comerciante de rota pedindo nome específico, ele calcula que tem valor e vende para quem pagar mais, que pode não ser você."
+
+Silêncio enquanto andavam. Ela sabia que ele estava pensando — havia aprendido a reconhecer o tipo de silêncio onde o outro lado estava genuinamente recalculando em vez de acumulando objeções.
+
+"O seu plano," ele disse.
+
+"Chegamos juntos. Somos o que somos — capitã e passageiro com interesse comum em rota leste. Você não pergunta por Nasso. Você pede informação de rota leste, paga informação de rota leste, o tipo de coisa que qualquer comerciante pagaria. Nasso vai aparecer porque sempre aparece onde há dinheiro, e quando aparecer eu o identifico para você."
+
+Ele considerou. "E se ele não aparecer?"
+
+"Aparecer. O Vão Cinza é onde ele opera." Uma pausa. "Mas há uma variável."
+
+"Qual?"
+
+"Você." Ela olhou para ele de relance — não o rosto, o porte. A postura que ele não conseguia desligar. "Você não parece comerciante de rota. Você parece exatamente o que é, que é o problema."
+
+"O que eu pareço?"
+
+Ela pensou em como dizer isso de forma que fosse informação e não crítica. "Você lê o deck antes de entrar num lugar. Você se posiciona com visão para as saídas. Você nota quando alguém muda de ritmo na rua." Uma pausa. "São coisas que comerciantes não fazem. São coisas que capitães e pessoas que trabalham para o Inspetor fazem."
+
+"E você não faz isso."
+
+"Eu faço isso de forma diferente." Ela podia — havia aprendido a incorporar as verificações numa gestualidade de comerciante, no jeito de examinar uma mercadoria enquanto examina a sala, no jeito de consultar documentos enquanto conta as saídas. "No Vão Cinza, você precisa fazer como eu faço."
+
+Ele ficou quieto por dois quarteirões. Ela deixou.
+
+"Há um terceiro plano," ele disse.
+
+Ela esperou.
+
+"Você entra primeiro. Sozinha. Eu entro dez minutos depois, por outra entrada, e fico no balcão — não na sua mesa. Eu não sou o passageiro da capitã. Sou alguém que está no mesmo lugar, independente. Se os observadores de Crane identificarem um dos dois, o outro ainda tem mobilidade."
+
+Ela havia chegado ao mesmo plano. Havia chegado quinze minutos atrás, enquanto ele ainda estava desenvolvendo o plano original.
+
+Não havia forma de dizer isso sem parecer que estava marcando pontos, então não disse.
+
+"Funciona," ela disse. "Com uma modificação. Você não vai primeiro ao balcão — vai a uma mesa no fundo, de costas para a parede, com ângulo para a entrada. Eu fico mais visível. Nasso vai a quem está comprando, não a quem está esperando."
+
+"Você é mais visível que eu."
+
+"Em Cassavar, uma capitã com dinheiro para rota leste é notícia. Um homem que bebe sozinho no balcão não é." Ela calculou o ângulo. "Quando Nasso aparecer na minha mesa, você vem."
+
+"E se eu aparecer na mesa, Crane's people vão conectar os dois."
+
+"Já estão conectados. Crane sabe que você está no Mercator." Ela dobrou para a rua que levava de volta ao porto. "O objetivo não é esconder a conexão. É controlar quando ela se torna evidente."
+
+Silêncio novamente. Diferente — o silêncio de alguém que havia chegado a uma conclusão mas estava verificando as bordas dela.
+
+"Você pensa em camadas," ele disse.
+
+"Cassavar ensina isso." Ela olhou para a frente. O porto estava visível agora, as torres do arquivo histórico cortando o céu acima dos telhados. "Você pensa em linhas."
+
+"Linhas funcionam em slipsand aberto."
+
+"Em cidade, linhas chegam a paredes." Uma pausa. "O que é por isso que o terceiro plano é melhor que os dois originais."
+
+Ele não respondeu a isso imediatamente. Quando falou, havia alguma coisa no tom que ela catalogou e não nomeou.
+
+"Vinte e cinco," ele disse.
+
+"O quê?"
+
+"Você falou ontem. Vinte e cinco pessoas dependem das suas decisões. É assim que você pensa em camadas — porque cada decisão tem vinte e cinco resultados possíveis."
+
+Ela havia dito isso. Havia dito de forma diferente, mas havia dito.
+
+"Sim," ela disse. Simples. Não havia como expandir isso de forma que não fosse expansão desnecessária.
+
+"Quando você aprendeu a pensar assim?"
+
+"Quando fiz minha primeira decisão errada com vinte e cinco pessoas dependendo dela."
+
+Não havia mais nada a dizer depois disso, então ela não disse.
+
+---
