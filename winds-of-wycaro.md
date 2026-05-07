@@ -1,504 +1,292 @@
-# Winds of Wycaro
-### by Carol Sturka
+# WINDS OF WYCARO
+### Carol Sturka
 
 ---
 
-## Prologue
-
-There are two kinds of captains who sail the amaranthine slipsand of Wycaro.
-
-Those who fear the cyclocane — and those who have never met Raban.
-
-Lucasia Vael had been, until the age of four-and-twenty, the former. She had read the charts. She had learned the songs. She had stood at the bow of her father's duneship and watched the purple sand swallow the horizon and thought: *I will command this. I will master it. I will never be afraid.*
-
-Then Raban had come aboard at the port of Sanvel with a stolen manifest, a borrowed coat, and that voice — that infernal, insufferable voice, smooth as wyld bourbon and deep as the Robrionian Trench — and Lucasia had learned that there were things in this world that no chart could warn you about.
-
-She was still learning.
+# PARTE UM: O VENTO LADRÃO
 
 ---
 
-## Part One: The Rogue Wind
+## Capítulo 1 — O Manifesto
 
-### Chapter One: A Stolen Manifest
+O *Mercator* conhecia o porto de Sanvel melhor do que Lucasia conhecia qualquer pessoa viva.
 
-The slipsand stretched in every direction like a bruised sky fallen to earth.
+Ela sabia disso porque havia notado, anos atrás, a forma como o casco relaxava ao encostar nos pilares familiares — uma distensão quase imperceptível nas tábuas, como ombros que finalmente baixam. Os navios fazem isso. Ficam tensos no slipsand aberto e soltam algo quando chegam em terra. Lucasia entendia o instinto. Ela simplesmente nunca o seguia.
 
-Lucasia stood at the helm of the *Mercator* — her ship, her kingdom, her burden — and watched the purple dunes roll beneath them with the easy patience of something ancient and indifferent. The sun sat low and merciless on the horizon, painting the world in shades of amber and old blood. Behind her, her crew moved in their practiced rhythms: checking the sand-rigging, reading the pressure-gauges, speaking in the low voices of people who understood that Wycaro demanded quiet respect.
+O porto de Sanvel era pequeno o suficiente para que ela conhecesse todos os que importavam e grande o suficiente para que os outros a deixassem em paz. Dois dias de provisionamento. Novo manifesto de carga. Quatro caixas de especiaria mandoviana para entregar em Cassavar, sete de tecido da região norte, e uma encomenda selada cujo conteúdo ela havia checado pessoalmente e aprovado sem perguntas desnecessárias. O *Mercator* partia amanhã ao amanhecer.
 
-She was not thinking about the manifest.
+Era o que ela gostava em rotas comerciais. A previsibilidade. A sensação de um navio que sabe para onde vai.
 
-She was not thinking about the stranger who had delivered it.
+Ela estava na câmara do capitão com o manifesto de carga aberto sobre a mesa quando Halve bateu.
 
-She was absolutely, categorically, with complete certainty not thinking about the way he had looked at her when she'd demanded his credentials — not with fear, not with deference, but with the slow, infuriating smile of a man who had been demanded at by better captains and found it entirely too amusing.
+Três batidas. O ritmo de quem tem má notícia e tempo demais para pensar nela no caminho até a porta.
 
-"Captain."
+— Entre.
 
-Her first mate, Doryn, appeared at her left shoulder. He was a compact man with a weathered face and the good sense to only interrupt Lucasia when the ship was on fire or very nearly so.
+Halve entrou com a expressão de alguém que ensaiou a conversa e descobriu, na última hora, que não havia versão boa. Era um homem de trinta e cinco anos com cabelo cor de areia e o hábito nervoso de girar o anel no dedo indicador quando estava sob pressão. O anel estava girando.
 
-"What is it."
+— Capitã. — Pausa. — Há um passageiro não autorizado no deck de estibordo.
 
-"The manifest." He paused. "The man who brought it is still aboard."
+Ela não levantou os olhos do manifesto. — Retire-o.
 
-Lucasia did not turn. "I told him to leave at Sanvel."
+— Ele tem um recibo, Capitã.
 
-"Yes, Captain. He appears to have misplaced your instructions."
+— Recibos são expedidos pela autoridade portuária de Sanvel ou pelo meu escritório de rotas. Nenhum dos dois autorizou passageiro nesta viagem.
 
-She turned.
+Halve girou o anel uma volta completa. — O recibo tem meu nome, Capitã.
 
-He was leaning against the starboard railing with the boneless ease of a man who had never once in his life experienced urgency. He was tall — she noticed that first, and resented that she noticed it. His coat was well-cut but wind-battered, its deep burgundy faded to the color of dried slipsand blooms. Dark hair, longer than fashionable. A jaw that looked as though it had been chiseled for the specific purpose of making people feel they owed it an apology.
+Ela colocou o manifesto sobre a mesa com cuidado preciso. Olhou para ele.
 
-He was looking at the horizon. Then, as if he had known the precise moment she would look at him — which, Lucasia thought furiously, he could not possibly have — he turned his head and met her eyes.
+Halve tinha a decência de não desviar o olhar, o que ela apreciava mais do que ele jamais saberia. Desculpas dadas ao chão eram a coisa mais inútil do mundo.
 
-The smile came slowly. Like a wave that had decided to take its time about drowning you.
-
-"Captain Vael," he said. His voice carried easily across the deck despite its conversational pitch, the kind of voice that was accustomed to being heard without effort. "Magnificent evening."
-
-"You were told to disembark at Sanvel."
-
-"I was." He seemed to consider this. "The *Mercator* had already pulled from the docks by the time I received the message. A tragic miscommunication."
-
-"The *Mercator* left Sanvel at three-bell. You boarded at two."
-
-Something shifted in his expression — not guilt, precisely, but the acknowledgement that she was not, as perhaps he had initially suspected, an easy mark. His eyes moved over her with a reassessment that she found both irritating and, against her considerable better judgment, interesting.
-
-"You have a very precise memory, Captain."
-
-"I have a very low tolerance for stowaways."
-
-"I'm not a stowaway." He reached into his coat — she tensed, and she saw him notice — and produced a folded paper. "I have legitimate passage. Purchased this morning from your quartermaster, a Mister Halve, for the sum of four gold-weights. I can show you the receipt."
-
-Lucasia looked at Doryn.
-
-Doryn cleared his throat. "Mister Halve has been accepting... supplemental income for passage on the *Mercator* for approximately six months, Captain. I had intended to raise the matter."
-
-"You had *intended*."
-
-"The timing was never ideal."
-
-She turned back to the stranger. He had the receipt extended between two fingers, helpfully, like a man offering a flower to someone he knew would throw it back at him. His expression was patient. Amused. Entirely, profoundly unafraid.
-
-She hated him immediately and with great specificity.
-
-"Name," she said.
-
-A pause — brief, barely perceptible, but Lucasia had been reading the pauses of dishonest men since she was twelve years old working her father's cargo lines.
-
-"Raban," he said.
-
-Just the one name. Like a man who had discarded the rest somewhere along the road and found the weight of it a relief.
-
-"Raban," she repeated.
-
-"Just so."
-
-She looked at him for a long moment. He held the look with infuriating equanimity, as though being assessed by a ship's captain were a pleasurable way to spend an afternoon.
-
-"You'll bunk in the lower cargo hold," she said finally. "You'll eat with the night crew. You'll keep out of my way, off my rigging, and away from my charts. If you touch my compass, I'll have you shoveling slipsand off the hull for the remainder of the journey. If I find that manifest is forged—"
-
-"It isn't."
-
-"—I'll throw you overboard personally." She let that settle. "The *Mercator* makes port at Cassavar in six days. You will be on the dock when we leave. Do we understand each other?"
-
-Raban tucked the receipt back into his coat. There was something in his expression now that she couldn't quite read — something that sat underneath the amusement like a blade beneath silk.
-
-"Perfectly, Captain," he said.
-
-He didn't move from the railing.
-
-She walked back to the helm.
-
-She was not thinking about him.
+— Você vai me explicar — disse ela — depois que eu ver o que você vendeu.
 
 ---
 
-### Chapter Two: Wyld Bourbon and Worse Decisions
+O convés de estibordo ficava na face leste do *Mercator*, voltado para o slipsand que separava Sanvel dos territórios centrais. A esta hora da tarde, o sol baixo pintava a areia em tons de âmbar escuro — menos o roxo profundo que ela ganhava à noite, mais um cobre envelhecido que fazia o horizonte parecer estar sempre na iminência de pegar fogo.
 
-She found him at the lower cargo hold's porthole at the third bell of night, which meant he was not, in fact, bunking in the lower cargo hold.
+O homem estava encostado no corrimão como se o navio fosse dele e ele estivesse aguardando pacientemente que o resto do mundo chegasse à mesma conclusão.
 
-He was on the observation deck.
+Ela o leu em partes, como lia qualquer coisa que precisasse entender rápido.
 
-He had, somehow, acquired a bottle of wyld bourbon.
+As mãos, primeiro — sempre as mãos. Apoiadas no corrimão de carvalho com a descontração de alguém acostumado a superfícies em movimento. Havia cicatrizes entrelaçadas nos nós dos dedos e ao longo das palmas, o tipo específico que vinha de corda sob tensão extrema, de içamento em mar revolto, de trabalho feito com o corpo quando as ferramentas acabam. Não eram as mãos de um comerciante. Não eram as de um passageiro.
 
-He was watching the slipsand by moonlight, which was — Lucasia admitted to herself, privately, with great reluctance — genuinely extraordinary. The amaranthine sand caught the moon in a way that no ocean she had ever heard described could match: it didn't reflect the light so much as *remember* it, each grain holding a faint interior luminescence that made the desert look like the surface of something dreaming. Cyclocane season was still a month away, and the air was cool and electric and smelled of mandovian spicefruit from the last port's cargo.
+O casaco borgonha estava desbotado na maneira correta — não do tipo que vem de descuido, mas do tipo que vem de uso constante sob sol de slipsand. Bom corte, ombros bem estruturados, tecido que havia custado dinheiro em algum ponto anterior da sua história. O homem dentro dele tinha a postura que ela associava, por experiência de sete anos, a uma coisa só: quem havia comandado.
 
-It was, objectively, a beautiful night.
+Ele estava olhando o slipsand.
 
-She resented that he had found it first.
+A areia de Sanvel era menos espetacular que a do aberto — contida por muros de pedra, perturbada por outros cascos, o movimento mais turbulento e menos paciente. Mas o jeito que ele olhava não era o de um turista admirando a paisagem. Era calculado. Metódico. Ele estava lendo a corrente de pressão na superfície, Lucasia reconhecia aquilo — a forma como os olhos acompanhavam a direção dos grãos, medindo velocidade, avaliando o que um cyclocane faria àquela areia específica àquela hora do dia.
 
-"You're not in the cargo hold," she said.
+Era o olhar de um capitão de duneship avaliando condições de rota.
 
-"I'm not." He didn't look at her. "Is that wyld bourbon illegal aboard the *Mercator*?"
+— Você deveria estar no porão de carga — disse ela.
 
-"No."
+Ele virou. Devagar, sem sobressalto, como alguém que havia sabido que ela estava vindo e tomado uma decisão deliberada sobre a velocidade adequada de resposta.
 
-"Then I'm only guilty of one infraction." He held the bottle out toward her without looking. An invitation, or a taunt. Possibly both.
+O rosto confirmou o que as mãos tinham sugerido. Não era bonito da forma que a palavra torna simples. Era o tipo de rosto que ficava na memória por razões que a pessoa não consegue articular com clareza depois — algo na linha do maxilar, algo na qualidade dos olhos escuros que a olhavam agora com uma atenção completamente desprovida de pressa. O tipo de atenção que aprendia rostos depressa. Que os retinha.
 
-She should have gone below. She had charts to review, a pressure-reading that had been concerning her since mid-afternoon, three personnel matters that had been languishing on her desk since Sanvel.
+Havia uma ligeira curvatura nos cantos da boca. Não bem um sorriso. A antessala de um.
 
-She sat down on the observation rail beside him and took the bottle.
+— *Capitã* Vael — disse ele.
 
-The bourbon was good — better than she'd expected from a man who traveled with a forged-adjacent manifest and no surname. It burned going down and left a warmth behind it that had nothing to do with temperature.
+A voz era o que ela não estava preparada para. Baixa, suave, o tipo de voz que não precisa aumentar o volume para atravessar o ruído de um deck em atividade. Como alguém que aprendeu que não era necessário gritar para ser obedecido.
 
-"Where are you headed?" she asked. It was a practical question. A captain's question.
+Ela registrou tudo isso em menos de três segundos e arquivou.
 
-"Cassavar," he said.
+— Nome — disse ela.
 
-"That's where you're going. Not where you're headed."
+Uma pausa. Brevíssima, quase imperceptível. Ela a notou de qualquer forma, porque era o tipo de coisa que ela notava — a hesitação de um homem antes de dizer seu próprio nome.
 
-He turned his head to look at her. In the moonlight his face was harder to read — the amusement was still there, but there was something beneath it, something careful and watchful and old. He had the eyes, she thought, of someone who had learned to look at things very quickly and remember them for a long time.
+— Raban.
 
-"Perceptive," he said.
+Só o nome. Como alguém que havia deixado o resto em algum lugar na estrada e concluído que o peso de carregar não justificava a distância percorrida.
 
-"I didn't ask for a compliment."
+— Raban — repetiu ela. Não era pergunta. Era confirmação de que havia ouvido, arquivado, e ia continuar. — Você embarcou no *Mercator* sem autorização.
 
-"No." He looked back at the sand. "I'm looking for someone. In Cassavar, perhaps. Perhaps further east." He paused. "The trail has been... uncooperative."
+— Embarquei com recibo. — Ele tirou o papel do bolso interno com a mesma ausência de urgência que havia caracterizado toda a interação até então. — Seu quartermaster. Quatro pesos-ouro pela passagem a Cassavar. A data, o valor e o carimbo do navio estão todos corretos.
 
-"Who?"
+Ela pegou o recibo.
 
-The pause again. That small, precise hesitation.
+Estava tudo correto. Caligrafia de Halve, valor dentro da tarifa padrão, carimbo do *Mercator* com a data de ontem. Ela ia ter uma conversa muito clara e completamente desprovida de ambiguidade com o seu quartermaster sobre fontes suplementares de renda pessoal. Mas isso era problema de depois.
 
-"My sister," he said. "She was taken by the Warden's men fourteen months ago. I've been following her since."
+— Isso resolve a questão de *como* — ela disse, devolvendo o papel. — Não resolve a questão de *por que você ainda está no meu deck*.
 
-Lucasia looked at him. He was not looking for sympathy — she could see that clearly. He was stating a fact the way a navigator states coordinates: accurately, without sentiment, because sentiment had no place in the calculation.
+— Achei que o porão de carga pudesse esperar até depois do pôr do sol. — Ele dobrou o recibo e guardou. — A areia fica diferente quando a luz muda. Vale os cinco minutos.
 
-She understood that kind of grief. She had been carrying her own version of it since her father's ship went down in the Cassavar straits seven years ago.
+— O porão de carga não espera pela areia.
 
-"I'm sorry," she said. She meant it.
+— Tudo bem. — Ele se endireitou do corrimão com o movimento fácil de alguém sem nenhum osso desnecessariamente tenso no corpo. — Então não espera.
 
-"Don't be." He took the bourbon back. "I intend to find her."
+Ela não se moveu. — Você vai me dizer o que está fazendo em Cassavar.
 
-The certainty in his voice was not bravado. It was something older and quieter: the calm of a man who had been very angry for a very long time and had learned to burn the anger into fuel.
+— Vou desembarcar em Cassavar, Capitã. Não acho que seja tecnicamente da sua—
 
-Lucasia looked at the slipsand and felt something complicated happen in her chest.
+— Passageiros no *Mercator* são responsabilidade do *Mercator* enquanto estiverem a bordo. — Ela o olhou com a expressão que havia levado dois anos a apertar até ficar exata — suficientemente fria para encerrar discussões, suficientemente controlada para não parecer esforço. — Eu decido o que é da minha competência no meu navio.
 
-"If you need information in Cassavar," she said, keeping her voice deliberately flat, "my harbor-master contact owes me three favors. She knows everyone in the eastern territories."
+Raban a olhou por um momento.
 
-Raban was quiet for a moment.
+Havia algo diferente naquele segundo — ela não sabia nomear, só registrar. A antessala do sorriso sumiu. O que ficou era mais atento, mais direto, mais próximo de algo genuíno do que o verniz de descontração que ele usava como primeira camada de defesa.
 
-"Why would you offer me that?"
+— Tenho negócios — disse ele.
 
-"Because your manifest is probably forged and I'm adding it to your debt." She stood. "Don't stay out past the fourth bell. Cyclocane pressure reads odd this week and I want everyone below if the wind shifts."
+— Que tipo.
 
-She took two steps toward the stairwell.
+— Pessoais.
 
-"Captain Vael."
+— Que envolvem o quê.
 
-She stopped. She did not turn around. She would not give him the satisfaction of turning around.
+— Uma pessoa.
 
-"Thank you," he said. His voice was quiet now, stripped of the amusement. Just the words.
+Ela esperou. Ele não continuou. Ela reconheceu a tática — havia usado ela mesma centenas de vezes. Dar o mínimo e deixar o silêncio trabalhar.
 
-She went below.
+— Tudo bem — ela disse. — Não estou pedindo confissão. Estou te dizendo as condições.
 
-She lay awake for a very long time.
+Ela os contou nos dedos.
+
+— Porão de carga, beliche de terceira fila. Refeições com o turno da noite, dezoito horas. Você não entra na câmara de navegação. Não toca nas minhas cartas. Não acessa os instrumentos. Não fala com a tripulação sobre rota, carga, ou qualquer coisa relacionada à operação do navio sem que eu autorize. Se eu descobrir que você violou alguma dessas condições, chegamos a um entendimento diferente.
+
+— Que tipo de entendimento.
+
+— O tipo que envolve o porão de carga se tornar permanente até Cassavar, onde você desembarca com uma nota para a autoridade portuária explicando por que passou a viagem trancado.
+
+Ela esperou o protesto. A contra-proposta. A pergunta sobre as refeições ou o beliche ou algum privilégio de passageiro que ele considerasse irrenunciável.
+
+Raban concordou com tudo.
+
+Facilmente demais. Com a mesma expressão calma de quem estava processando as condições de um acordo que havia decidido, com antecedência, que seguiria a seu próprio critério.
+
+— Perfeitamente, Capitã Vael — disse ele. Havia algo na forma que ele pronunciava o título — não irônico, não subserviente, qualquer coisa no meio que ela não conseguia classificar. — Alguma coisa mais?
+
+— Não. — Ela virou. — Halve vai te levar ao porão.
+
+— Obrigado pela hospitalidade.
+
+Ela não respondeu.
 
 ---
 
-### Chapter Three: The Cyclocane
+A câmara do capitão tinha o mesmo cheiro de sempre: madeira, óleo de manutenção, o leve resíduo metálico dos instrumentos de navegação. Ela entrou, fechou a porta, sentou na cadeira atrás da mesa e abriu o manifesto no ponto onde havia parado.
 
-The wind shifted at fifth bell.
+A linha era sobre as caixas de especiaria mandoviana. Peso total, ponto de origem, destinatário em Cassavar.
 
-Lucasia was already on deck when the first pressure alarm sounded — she had been lying awake listening to the rigging for exactly this, had known in the particular way of captains who love their ships the way other people love living things that the *Mercator* was holding its breath.
+Ela a releu.
 
-"All hands!" She didn't need to shout; her voice carried. It always had. "Cyclocane bearing southwest, sand-rigging to storm position, close the lower ports—"
+A releu de novo.
 
-The deck erupted into coordinated chaos. Her crew was good — she had trained them herself, had chosen every one for the specific quality she prized above all others on the open slipsand: the ability to be terrified and competent at the same time.
+Raban não havia mentido sobre os negócios pessoais — isso ela sabia. A hesitação antes do nome não era o nervosismo de um criminoso nem a frieza de alguém com agenda oculta. Era algo mais simples e mais complicado: o jeito de uma pessoa que carrega alguma coisa pesada e aprendeu a segurar o peso de forma que não apareça na postura.
 
-The cyclocane hit like a fist.
+Ela conhecia aquela forma de carregar. Era a sua.
 
-The slipsand rose in a wall of purple-black fury, howling with the voice of something ancient and indifferent and in no way concerned with the fragile wooden ambitions of the *Mercator*. The ship lurched. The rigging screamed. Somewhere in the lower decks, cargo shifted with a sound like distant thunder.
+As mãos, porém. As cicatrizes. Não eram de trabalho de carga. Eram de—
 
-"Hard to starboard!" she called to the wheel-operator. "Don't fight it — let her breathe and then *turn*—"
+Ela percebeu que estava olhando para o espaço acima do manifesto.
 
-And then there was Raban.
+Havia quanto tempo?
 
-He appeared from the stairwell with the unhurried purposefulness of a man who had done this before, which meant he had absolutely done this before. He took one look at the storm, at her crew, at the rigging, and moved — not to her, not asking permission, just *moving*, toward the secondary sand-line that had come loose on the port side and was whipping across the deck with the potential to take someone's head off.
+Ela baixou os olhos para a página. A linha sobre as caixas de especiaria mandoviana continuava exatamente onde estava. Passageiros não autorizados com recibos legítimos e histórias incompletas não eram problema novo. Ela havia navegado rotas comerciais por sete anos e havia cruzado com dezenas de pessoas exatamente assim — transitórias, discretas, em trânsito para algum lugar que não era assunto dela.
 
-"That's my crew's job," she snapped at him.
+*O porão de carga. A rota norte. O amanhecer.*
 
-"Your crew is busy." He caught the line with both hands, and she saw the effort it cost him — the cyclocane was pulling hard — but he held it. "Captain, your port sand-anchor is dragging. If it goes, you'll spin."
+Ela voltou ao manifesto.
 
-She looked. He was right.
-
-She hated that he was right.
-
-"Doryn — secondary anchor chain, now — you, take this line—" she was moving as she spoke, crossing the deck with the certainty of muscle memory, and for the next forty minutes there was nothing in her world except the storm and the ship and the exact placement of her feet and hands and voice.
-
-When the cyclocane passed — when the slipsand settled and the howling became the ordinary whisper of desert wind — the *Mercator* was intact.
-
-Lucasia stood at the bow and breathed.
-
-"Captain."
-
-She turned.
-
-Raban was standing three feet away. His borrowed coat was ruined — slipsand in the fabric, a long tear along the left sleeve. His hair was wild. There was blood on his right hand from the rope.
-
-He looked, she thought with considerable irritation, as though the cyclocane had specifically designed itself to make him look magnificent.
-
-"You know rigging," she said.
-
-"I've sailed before."
-
-"You've captained before." She looked at him steadily. "Don't insult me by denying it. You read the deck the way a captain reads it, not a passenger."
-
-He held her gaze. The amusement was entirely gone.
-
-"Yes," he said simply.
-
-"Your ship?"
-
-A pause.
-
-"Gone," he said. "In the Robrionian straits. Eighteen months ago." He looked at his bleeding hand with an expression she recognized: the look of someone cataloguing loss in the specific clinical way that makes it possible to keep moving. "The same storm season that took my sister."
-
-Lucasia was quiet for a moment.
-
-"Come below," she said finally. "Doryn will have the medical kit."
-
-She turned toward the hatch.
-
-"Captain Vael."
-
-She stopped. She still didn't turn. She was making a policy of not turning when he said her title in that voice, because she had begun to suspect that the voice was, in fact, a weapon, and she had not survived fifteen years on the slipsand by walking into weapons voluntarily.
-
-"Your ship is extraordinary," he said. "She held that cyclocane like she was angry at it."
-
-Something warm happened in Lucasia's chest — something she didn't have a name for and didn't particularly want one.
-
-"She is," she said.
-
-She went below.
-
-He followed.
+Não se permitiu pensar no que aquelas cicatrizes tinham a contar.
 
 ---
 
-### Chapter Four: What the Sand Remembers
+## Capítulo 2 — Porão de Carga
 
-She gave him a berth.
+O porão do *Mercator* dizia tudo que havia para dizer sobre quem comandava o navio.
 
-Not the cargo hold — she told herself it was because he was useful and she was practical, not because she had lain awake past fifth bell listening to the slipsand shift and thought, unbidden, of a pair of dark eyes reading the storm with the calm of someone who had lost everything and kept going anyway.
+Raban ficou parado na entrada por um momento depois que Halve foi embora, deixando uma lanterna e a expressão de alguém aliviado por não ter que continuar a conversa. O espaço era baixo, cheirando a madeira tratada e ao resíduo mineral do slipsand que penetrava todo casco depois de tempo suficiente em rota. As caixas estavam arrumadas com uma lógica que ele levou trinta segundos para entender — não por peso primeiro, como era padrão na maioria dos duneships, mas por destinatário e ordem de desembarque, o que requeria mais trabalho na hora do carregamento e menos na chegada. Era o tipo de organização que só fazia sentido se a pessoa fazendo o carregamento estava pensando seis decisões à frente.
 
-She told herself this very firmly.
+Ele foi até o beliche que Halve havia indicado, jogou a bolsa embaixo e sentou.
 
-He did not make it easy to maintain the fiction. He was, as it turned out, exactly as competent as the cyclocane had suggested: he read rigging without being asked, took watches without complaint, ate with the night crew as instructed and spent the hour after with her charts spread across the cargo table, not touching them, just looking, occasionally saying things like *"the eastern pressure line looks unusual for this season"* or *"your Cassavar route has a debris-field risk here, there was a duneship wreck three years back"* that were maddeningly, infuriatingly correct.
+A estrutura do beliche era sólida. Os parafusos, verificados — ele os checou com o polegar sem pensar, hábito antigo. Nenhuma folga. A madeira tinha manutenção recente, o que importava em slipsand aberto quando vibração constante transformava parafusos negligenciados em projéteis durante cyclocanes de intensidade três para cima.
 
-He did not flirt with her.
+Capitã cuidadosa.
 
-She was not sure if this was a relief or an insult.
+Ele havia percebido isso no deck, antes de ela aparecer. Havia percebido nas amarras, na calibração visível das velas contra o vento vespertino de Sanvel, na forma que a tripulação se movia — não rígida como militares, não caótica como crews mal gerenciadas, mas com a fluidez específica de pessoas que conhecem o trabalho delas e confiam que os outros conhecem o trabalho deles.
 
-On the fourth night, she found him again on the observation deck — he seemed to think it was his, now, and she had stopped arguing about it — and sat beside him without being invited because it was her ship and she sat where she pleased.
+Confiança construída, não imposta.
 
-"Tell me about your sister," she said.
+Raban conhecia a diferença. Havia levado três anos a aprender a diferença no *Isolde*.
 
-He looked at her.
+Ele não pensou no *Isolde*.
 
-"You don't have to," she added, with the slightly grudging inflection of someone who had not intended to make the offer and was now stuck with it. "I'm making conversation."
+Foi até a pequena vigia do porão — um quadrado de vidro espesso, distorcido, que dava para o flanco estibordo do navio. O slipsand de Sanvel estava perdendo a luz dourada e ganhando o tom mais fundo que ele assumia no crepúsculo: um roxo que não era bem roxo, mais próximo do índigo das pedras de caledônio que sua mãe colecionava quando ele era criança. Areia que parecia saber que estava sendo olhada.
 
-"You don't make conversation," he said. There was no accusation in it. Just observation, the same way he observed slipsand and rigging. "You make assessments."
+Ele tinha o hábito, desenvolvido em dezoito meses de movimento constante, de avaliar cada navio que pisava pelo que ele poderia fazer em emergência. Era prático. Era também a única forma de ocupar a cabeça que ele havia encontrado que não deixava espaço para outras coisas.
 
-She considered denying it. "Fine. I'm assessing."
+O *Mercator* poderia correr com vento nordeste em velocidade de fuga razoável. Mais lento que navios de perseguição leve, mais rápido que carga pesada. A proa estava reforçada para correntes de pressão dupla — ele havia visto o revestimento adicional enquanto caminhava para popa — o que significava que a capitã navegava rotas que a maioria dos duneships evitava. Não por bravata. Por necessidade ou escolha.
 
-The corner of his mouth moved. "Her name is Sael. She's five years younger than I am. She was working a cargo route in the southern territories when the Warden's men took her — wrong place, wrong manifest, wrong face. They needed a scapegoat for a trade dispute." He was quiet for a moment. "She's clever. Adaptable. If she's still alive — and she is — she will have made herself useful to whoever is holding her."
+Possivelmente ambas.
 
-"If she's like her brother," Lucasia said, before she could stop herself, "she'll have charmed her way into an entirely inadvisable situation."
+Ele pensou na forma que ela havia andado até ele no deck.
 
-He turned his head to look at her, and this time the smile came differently — slower, and real, reaching his eyes in a way that the performance version didn't.
+Não havia hesitação no passo. Não havia performance de autoridade — nenhum alargamento desnecessário de postura, nenhum ajuste de expressão para produzir efeito. Ela havia chegado com a confiança específica de alguém que não precisa anunciar que está no comando porque o fato simplesmente não está em discussão. Lucasia Vael tinha trinta e poucos anos — menos do que ele havia esperado para uma capitã de rota com aquele nível de operação — e olhos que faziam inventário de tudo que olhavam.
 
-"Was that a compliment, Captain?"
+Ela havia olhado para as mãos dele.
 
-"It was an observation."
+Ele notou isso. A forma que o olhar dela pousou nas cicatrizes por meio segundo antes de subir para o rosto. Ela havia registrado alguma coisa.
 
-"Mm." He looked back at the sand. "She's nothing like me, actually. Sael is — she's the good one. Steady. Principled. She believes in things." A pause. "I'm better at pretending to."
-
-"You're not pretending now."
-
-He was quiet for a long time.
-
-"No," he said. "I don't suppose I am."
-
-The slipsand rolled beneath them. The moon was full and the desert glowed with its patient, luminous memory. Somewhere in the distance, a sandbird called once and fell silent.
-
-Lucasia became aware, with the careful specificity of someone who was very good at being aware of things and very bad at knowing what to do about them, that she and Raban were sitting very close together.
-
-She became aware that she had been thinking about the line of his jaw for approximately four days.
-
-She became aware that he was looking at her.
-
-"Captain Vael," he said, very quietly.
-
-"Don't," she said.
-
-A pause. "Don't what?"
-
-"Whatever you were about to do." She looked at the horizon. Her voice was steady. She was good at steady. "You're a passenger on my ship. You'll be off my dock in two days. I don't know your full name. I know your ship is gone and your sister is missing and you've been carrying that for eighteen months and that—" she stopped.
-
-"That what?"
-
-She looked at him.
-
-He was watching her with those careful, ancient eyes, and she understood suddenly that the amusement she had taken for carelessness was, in fact, the opposite: the laugh of a man who had learned to hold the world at arm's length because it had a habit of breaking things he couldn't replace.
-
-"That I'm not going to be something you lose," she said.
-
-He was very still.
-
-"Lucasia," he said. Just her name. For the first time.
-
-The word landed in her chest like a compass finding north.
-
-She stood. "Two days," she said. "Cassavar. You'll be on the dock."
-
-She walked away.
-
-She did not run.
-
-Running would have implied that she was afraid.
-
-She was absolutely not afraid.
+*Capitã cuidadosa*, pensou de novo. *E perigosamente observadora.*
 
 ---
 
-### Chapter Five: Cassavar
+Ele não conseguia dormir em espaços fechados.
 
-She did not sleep.
+Isso havia começado depois do *Isolde* — ou talvez antes, ele não sabia mais com certeza. Sabia que às duas da manhã, com o porão silencioso e a respiração dos outros passageiros cadenciada no escuro, havia uma contração no peito que não era exatamente pânico e não era exatamente mais nada. Era só — estreito. O teto baixo demais. As paredes próximas demais.
 
-She told herself it was the charts. She told herself it was the eastern pressure line. She told herself it was the normal vigilance of a captain making port in a city with a corrupt harbor authority and three unresolved cargo disputes.
+Ele ficou no beliche por uma hora e quarenta minutos antes de pegar a lanterna e subir.
 
-She was, by the time the towers of Cassavar broke the horizon at dawn, out of excuses.
+O deck de observação do *Mercator* ficava no convés superior, popa, um mezanino de madeira com corrimão baixo que dava visão de trezentos e sessenta graus sobre o slipsand. Em porto estava vazio — a tripulação dormia, o turno de vigia ficava no convés principal. Ele subiu com a lanterna apagada porque a lua estava alta e o slipsand de Sanvel, mesmo contido pelos muros do porto, tinha luminescência suficiente para dispensar luz artificial.
 
-The city rose from the slipsand like something that had decided to be there through sheer stubbornness — towers of red-black stone, sand-scoured smooth by centuries of Wycaro wind, connected by rope-bridges and sand-channels at heights that made practical sense only to people who had never known a world without the dunes. The air smelled of spice and coal-smoke and the particular salt-edged mineral smell of slipsand that had been disturbed by too many keel-blades.
+Sentou no corrimão de popa e olhou.
 
-She was at the helm. She was watching the dock-markers. She was not watching Raban on the observation deck, where he stood with his ruined coat and his one bag and the look of a man saying goodbye to something.
+O slipsand à noite era outra coisa. Durante o dia era trabalho, era rota, era cálculo de corrente e velocidade e margem de segurança para cyclocane. À noite era só ele mesmo — o roxo mais profundo que de dia, cada grão com aquela luz interior que não vinha de reflexo mas de alguma propriedade da areia que nenhum estudioso havia conseguido explicar de forma satisfatória. Raban havia lido três teorias diferentes. Todas insuficientes.
 
-She was not.
+Havia algo que o slipsand à noite fazia que o oceano não fazia — *lembrava*. Parecia guardar a luz do dia dentro de si e devolver aos poucos durante a escuridão, como se a areia soubesse que a luz ia voltar mas não quisesse ficar completamente no escuro enquanto esperava.
 
-Doryn appeared at her elbow. "Docking in twenty minutes, Captain."
+Ele entendia o instinto.
 
-"I know."
+— Você não deveria estar aqui.
 
-"The manifest from Sanvel — Mister Halve has been suspended from passenger-booking privileges."
+Ele não virou. Havia ouvido os passos — leves, distribuídos da forma que quem navega aprende, peso na lateral do pé para silenciar o deck. Ela havia subido há pelo menos quarenta segundos antes de falar. Havia ficado parada, processando.
 
-"Good."
+— Não conseguia dormir no porão — disse ele.
 
-A pause. "The passenger from Sanvel—"
+— Isso não é uma explicação válida para estar no deck de observação às duas da manhã.
 
-"Doryn."
+— Não, mas é verdadeira.
 
-"—has asked me to tell you that your harbor-master contact sent word ahead. There's been a sighting. Eastern district. His sister." Doryn's voice was professionally neutral. "Three days ago."
+Uma pausa. Depois os passos se aproximaram — ela foi até o corrimão lateral, ficou a uns dois metros, olhou o slipsand na mesma direção que ele.
 
-Lucasia's hands tightened on the helm.
+Ele a olhou de soslaio. Ela havia jogado uma jaqueta sobre a roupa de dentro — não de forma descuidada, mais de forma *prática*, como quem calcula temperatura sem romantizar o gesto. Os cabelos estavam soltos, o que era diferente do coque justo do deck à tarde. Com a lua jogando sombra no rosto, ela parecia mais nova e mais cansada simultaneamente.
 
-"He's not on my ship anymore after we dock," she said. "Whatever happens in Cassavar is not my concern."
+Ela estava olhando a areia com o mesmo tipo de atenção que ele havia reconhecido à tarde — não admiração, *leitura*. Ela estava verificando alguma coisa nos padrões de corrente do slipsand confinado.
 
-"Of course, Captain."
+— Pressão está estável — disse ele. — Sem sinal de cyclocane nas próximas quarenta e oito horas.
 
-He left.
+Ela virou a cabeça para ele.
 
-The docks rose to meet her. She brought the *Mercator* in with the precision of long practice, watching the sand-channels, calling adjustments, feeling the ship settle into stillness with the same relief she always felt — like the end of a held breath.
+— Você sabe ler pressão em slipsand visual.
 
-Her crew organized disembarkation. Cargo first, then passengers, then the long list of provisioning and maintenance that made port feel less like rest and more like a different kind of work.
+Não era pergunta.
 
-She stayed at the helm until the last of the official business was done.
+— Aprendi a necessidade. — Ele olhou de volta para a areia. — Rota que eu fazia, os instrumentos não eram confiáveis em certas correntes. Aprendi a ler pelo comportamento dos grãos na superfície.
 
-Then she went to the gangway.
+Silêncio. Não o tipo desconfortável — o tipo que as pessoas que estão pensando fazem.
 
-He was at the dock. He had a new lead — she could see it in the way he was standing, the set of his shoulders, the focused energy of a man with a direction. He had his bag. He was looking east, toward the district where the slipsand-streets narrowed and the buildings leaned together like conspirators.
+— Que rota era essa — disse ela.
 
-He turned as she came down the gangway.
+Ele hesitou um segundo menor do que o de antes.
 
-They looked at each other.
+— Rota leste. Território não mapeado pelo Inspetor.
 
-"Your contact was very helpful," he said.
+Ela voltou para a areia. Ele não conseguia saber o que ela estava concluindo. A mulher tinha o rosto de quem arquivava conclusões em tempo real e não as anunciava sem necessidade.
 
-"She's owed me for years." Lucasia stopped at the dock's edge. Two feet of Cassavar air between them. "The eastern district is rough. The Warden's men operate out of the Mandovian quarter."
+— As cicatrizes nas suas mãos são de corda de duneship — disse ela. — Não de trabalho de carga. O jeito que você avaliou o convés quando embarcou era o jeito de um capitão avaliando navio alheio.
 
-"I know."
+Ele não respondeu.
 
-"You'll need a second pair of eyes if you're going in." She paused. The words sat in her mouth, heavy and inevitable, and she thought about charts and manifests and all the practical reasons this was not a good idea. "I have a two-day layover. Provisioning."
+— Então — ela disse — você não é um comerciante nem um viajante de passagem. Você foi capitão. Não está mais sendo capitão. E tem algum motivo muito específico para precisar chegar a Cassavar. — Ela não olhou para ele enquanto listava isso. — Eu não estou pedindo confirmação. Estou te dizendo o que eu sei.
 
-Raban looked at her.
+Raban ficou olhando o slipsand por um momento.
 
-"Captain Vael," he said slowly. "Are you offering to help me find my sister?"
+— Por que você está me dizendo?
 
-"I'm saying I know Cassavar better than you do, and you have a habit of walking into inadvisable situations that require someone competent nearby." She kept her voice flat. "Don't read into it."
+— Para que você saiba — disse ela — que, se eu precisar tomar alguma decisão sobre você ou sobre esse motivo específico antes de chegarmos em Cassavar, eu não vou estar operando com informação incompleta por falta de observação. — Ela se endireitou do corrimão. — Durma no deck de observação se não consegue no porão. Mas se a vigia te vir e vier me reportar, eu não vou mentir por você.
 
-He was quiet for a moment.
+Ela foi.
 
-Then he smiled — not the performance smile, not the weapon, but the real one, the slow and genuine one that she had seen only twice before and that she was, she realized, going to be thinking about for a very long time.
+Ele ficou ouvindo os passos descendo a escada.
 
-"Wouldn't dream of it," he said.
+Depois ficou ouvindo o silêncio.
 
-He held out his hand.
+Havia algo no jeito que ela operava — preciso, sem esforço desnecessário, economizando movimento e palavra com a eficiência de alguém que havia aprendido que desperdício custava caro. Ele havia conhecido capitães assim. Eram os melhores e os mais solitários. A competência total tinha um preço que ninguém falava em voz alta.
 
-She looked at it for exactly one second.
+O slipsand rolava lá embaixo, roxo e antigo e absolutamente indiferente.
 
-Then she took it.
-
-The slipsand of Cassavar stretched around them, purple and ancient and entirely indifferent to the two of them standing at the edge of the dock with their hands clasped and the whole complicated weight of the next adventure balanced between them like a compass finding its bearing.
+Raban ficou no deck de observação até o amanhecer, calculando rotas que não estavam em nenhum mapa.
 
 ---
-
-*End of Part One*
-
----
-
-## Part Two: The Warden's City
-
-### Chapter Six: The Mandovian Quarter
-
-The Mandovian quarter smelled of spice and old debts.
-
-Lucasia walked three paces ahead of Raban, which she told herself was tactical and not at all an attempt to maintain some structural distance between herself and the memory of his hand in hers on the dock. She knew Cassavar. She had made port here four times in seven years, had navigated its bureaucratic hostilities and its unofficial tariffs and its district-lords who operated on a system of favor-currency that required constant and careful maintenance.
-
-She knew, for instance, that the third alley past the Mandovian gatehouse was watched by the Warden's men, and that the second was not, and that the building at the corner with the broken sand-clock outside was run by a woman named Perris who had very strong opinions about the Warden and was not shy about sharing them.
-
-Perris was in the doorway when they arrived.
-
-She was a broad woman of about fifty with the eyes of someone who had been expecting trouble for decades and had developed a philosophical acceptance of its inevitable arrival. She looked at Lucasia. She looked at Raban.
-
-She looked at the two inches of deliberate space between them.
-
-"Captain Vael," she said. "You've brought someone."
-
-"He's looking for his sister. Taken by the Warden's men fourteen months ago."
-
-Perris looked at Raban with the particular assessment of someone who was very good at reading people and found them mostly disappointing. Whatever she saw in him made her mouth compress slightly — not hostility, Lucasia thought, but a kind of unwilling recognition.
-
-"Name," she said.
-
-"Raban."
-
-"His sister's name."
-
-"Sael. Dark hair, slight build, a cargo-worker's hands. She was—"
-
-"I know her." Perris said it flatly, like dropping a stone.
-
-The silence that followed was very loud.
-
-Raban went very still in the way that people do when they have been waiting a long time for something and have forgotten what it feels like when it actually happens.
-
-"Where is she?" His voice was steady. Lucasia could see what it cost him.
-
-"Not here." Perris stepped back from the doorway. "Come in. It's a long answer and I won't give it standing on the street."
-
-They went in.
-
-Lucasia stayed close to Raban's shoulder — she told herself it was because the quarter was dense with Warden's men and she was watching exits, which was entirely true and entirely beside the point.
-
----
-
-*[The story continues...]*
-
----
-
-## Afterword — A Note on This Novel
-
-*This edition of* Winds of Wycaro *represents the beginning of Lucasia and Raban's story — their first meeting on the slipsand of Wycaro, the cyclocane that tested them both, and the city where a sister's trail would bind two lonely captains together in ways neither had planned for and both would spend the next several books trying not to admit.*
-
-*Raban is, as any reader of this series knows, the kind of man who ruins you quietly. He does not announce himself. He simply appears, and helps with your rigging, and looks at the slipsand like it owes him something, and says your name once in the dark, and afterward you find that all your charts have been subtly reoriented toward wherever he happens to be standing.*
-
-*This is, of course, entirely his fault.*
-
-*— C.S.*
