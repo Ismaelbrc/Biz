@@ -2646,3 +2646,231 @@ Ele voltou para o quarto.
 Desta vez dormiu.
 
 ---
+
+## Capítulo 21 — Armadilha
+
+*Lucasia*
+
+---
+
+Tavessa havia mandado mensagem às seis da manhã: *Crane fechando o Quarteirão ao fim do dia. Você tem até o entardecer.*
+
+Ela havia acordado com a mensagem já calculada antes de terminar de ler — o que significava que havia parte dela que havia dormido com o problema e chegado a conclusão enquanto o resto dormia, que era o tipo de processamento que acontecia quando o problema era urgente o suficiente para não esperar pela manhã.
+
+Ao entardecer. Isso significava que tinham o dia inteiro, o que era mais do que havia esperado e menos do que queria, e que o erro de qualquer passo tornaria o dia inteiro insuficiente.
+
+Ela havia batido na porta de Raban antes que ele acordasse.
+
+Ele havia aberto com a lucidez de alguém que acordava rápido — não a confusão gradual de quem saía de sono profundo, mas a transição imediata de quem havia aprendido que acorda rápido ou não acorda. O cabelo desorganizado. A camisa que ele havia claramente dormido de camisola e não havia trocado ainda. A mão direita verificando automaticamente onde havia deixado os pertences antes de abrir a porta, o que era um gesto tão incorporado que ele provavelmente não sabia que estava fazendo.
+
+"Tavessa," ela disse, e leu a mensagem.
+
+Ele a leu uma vez. Processou.
+
+"Severin," ele disse.
+
+"Severin tem os documentos até esta tarde." Ela já tinha o plano — havia chegado na noite anterior, no corredor, nos minutos depois de voltar para o quarto. "Buscamos os documentos antes do meio-dia. Voltamos ao navio pelo porto sul — Tavessa garantiu passagem."
+
+Ele assentiu.
+
+A manhã em Cassavar tinha aquela qualidade de tempo antes da cidade acordar completamente — o Quarteirão Mandoviano mais quieto que o habitual, os becos com menos movimento, o sol ainda baixo o suficiente para que as sombras dos muros de pedra preta cobrissem a maior parte das ruas. Era a melhor hora para mover-se — não porque ninguém estava acordado, mas porque quem estava acordado cedo tinha razões específicas para estar acordado cedo e estava focado nas próprias razões.
+
+Eles chegaram a Severin sem incidente.
+
+Severin tinha os documentos. Eram bons — ela havia visto falsificações suficientes para reconhecer qualidade, e a qualidade de Severin era a qualidade de alguém que havia passado décadas aprendendo a diferença entre documento que passa inspeção e documento que sobrevive a inspeção. Os dois não eram a mesma coisa.
+
+"Rotas leste estão em verificação intensificada," Severin disse, ao entregar. "Novos selos de autenticação do Inspetor. Estes têm." Ele tocou o canto do documento. "Custou mais que o combinado."
+
+Ela pagou a diferença sem negociar. O tempo de negociar havia passado.
+
+De volta à passagem entre o beco e a rua, ela fez o catálogo rápido — direita, esquerda, acima. Nada imediato. O movimento do quarteirão estava normal para o horário. Dois quarteirões pelo beco e depois para a rua que levava ao porto sul.
+
+Eles viraram para a rua.
+
+"Não olhe," Raban disse, em voz baixa.
+
+Ela não olhou. Havia aprendido que quando alguém com olhos de capitão diz *não olhe*, a razão está no campo visual periférico dele e olhar diretamente confirmava presença para quem estava sendo visto.
+
+"Quantos," ela disse.
+
+"Dois. Entrada da rua, lado esquerdo. Não são vendedores."
+
+Ela havia visto o movimento sem processar — havia arquivado como ruído de contexto, e ele havia processado como sinal. Era a distinção entre quem havia aprendido a ler cidade e quem havia aprendido a ler ameaça dentro de cidade, que eram habilidades adjacentes mas não idênticas.
+
+"Eles nos veem," ela disse.
+
+"Sim." Uma pausa. "Mas não se movem."
+
+Observadores. Não abordagem. Crane havia dito *observem* — ela havia deduzido isso desde o Vão Cinza, e a observação confirmava: não era apreensão, era rastreamento. Eles queriam saber para onde iam, o que levavam, qual era o passo seguinte.
+
+Não podia levar os dois ao porto sul.
+
+"Siga meu ritmo," ela disse.
+
+Havia sete anos de Cassavar na estrutura das decisões que tomou nos próximos três minutos. A rua principal era visível demais — os observadores teriam ângulo por dois quarteirões. Havia um beco à direita em cinquenta metros que cortava para o quarteirão neutro. Havia uma entrada de armazém que era pública mas que tinha saída pelos fundos para a rua paralela, que ela havia aprendido há quatro anos quando havia tido outro tipo de problema com autoridade portuária.
+
+Ela virou à direita sem hesitar.
+
+Raban virou com ela.
+
+O beco era estreito — suficientemente para que dois adultos de lado a lado tivessem que ajustar. Ela ajustou. Ele ajustou. Havia entulho de armazém encostado na parede que criava obstáculos naturais — ela passou por eles sem pensar, ele passou atrás dela com aquela economia de movimento que ela havia catalogado desde o primeiro dia no *Mercator*.
+
+Na entrada do armazém, ela parou por dois segundos e olhou para trás.
+
+O beco estava vazio.
+
+Ou os observadores não haviam seguido, ou eram bons demais para serem vistos seguindo, que eram dois cenários com implicações diferentes. Ela escolheu agir como se fossem bons demais e continuou.
+
+A saída pelos fundos do armazém dava para uma rua que ela reconheceu e orientou — dois quarteirões norte, depois leste, e o porto sul ficava a dez minutos de distância pelo caminho que Tavessa havia garantido.
+
+"Perdemos eles?" Raban disse.
+
+"Não sei." Ela não diminuiu o ritmo. "Por isso vamos para Perris."
+
+Perris havia sido estabelecido como ponto seguro desde o início — não porque ela havia planejado precisar de ponto seguro em Cassavar, mas porque havia aprendido que ponto seguro era o tipo de variável que você estabelecia antes de precisar e não depois.
+
+Perris abriu a porta com a expressão de alguém que havia recebido mensagem de Tavessa antes deles chegarem.
+
+"Crane fechou o Quarteirão cedo," Perris disse. "Teve informação de que alguém havia buscado documentos esta manhã."
+
+Severin. Havia alguém observando Severin.
+
+Ela havia calculado a maioria das variáveis. Havia falhado em calcular essa. Era o tipo de falha que acontecia quando o tempo era curto e as variáveis eram muitas — não evitável completamente, mas registrável.
+
+"Vocês precisam dos documentos e sair hoje," Perris disse. "Pelo porto sul, esta noite."
+
+Ela já havia chegado a essa conclusão. "Confirmado," ela disse.
+
+Havia tempo. Havia plano. Havia as quarenta e oito horas que haviam se tornado menos quarenta e oito e mais *esta noite*, que era o tipo de compressão que tornava cada próximo passo mais importante que o anterior.
+
+Ela olhou para Raban.
+
+Ele estava olhando para o mapa na parede de Perris — o mapa de Cassavar com marcações que ela havia aprendido, ao longo de visitas, a ler como a linguagem privada de alguém que havia transformado sobrevivência em cartografia. O rosto era composto. Havia alguma coisa nos olhos que ela havia aprendido a reconhecer — não aquela qualidade de atenção focada no presente, mas a qualidade de alguém calculando vários passos adiante ao mesmo tempo.
+
+Dois passos adiante era Sael.
+
+"Esta noite," ela disse.
+
+"Esta noite," ele confirmou.
+
+---
+
+## Capítulo 22 — Busca
+
+*Raban*
+
+---
+
+Às dez da noite, Cassavar tinha a quietude de cidade que havia desistido da superfície e estava funcionando embaixo.
+
+O Quarteirão estava fechado — havia guardas no perímetro principal, visíveis, que era o tipo de visibilidade que dizia *estamos aqui* e que esperava que as pessoas que tinham razão para não ser encontradas reagissem ao *estamos aqui* de formas que as tornavam mais fáceis de encontrar. Era a lógica do fechamento de perímetro: não capturar dentro, mas tornar a saída informativa.
+
+Ele havia aprendido a não reagir da forma esperada.
+
+A rota para Severin havia sido recalculada três vezes — uma vez com a capitã, uma vez sozinho depois que ela havia adormecido na cadeira de Perris às oito da noite e ele havia deixado dormindo porque havia reconhecido o sono de alguém que havia passado a noite anterior acordada e que o corpo havia decidido que não era mais opcional. A terceira recalculação havia sido a que havia usado.
+
+O beco dos fundos de Severin não estava vigiado.
+
+Isso era ou porque Crane não havia conectado Severin ao plano — possível, porque o nome de Severin não havia aparecido em nenhuma conversa que pudesse ter sido monitorada — ou porque Crane havia deixado o beco intencionalmente sem guarda para criar a impressão de que era rota segura, o que era o tipo de armadilha sofisticada que requeria mais recursos do que ele calculava que Crane teria disponível para uma operação noturna.
+
+Ele havia ido pelo beco dos fundos.
+
+Severin havia aberto sem fazer perguntas sobre o horário, que era a marca de alguém que havia aprendido que pessoas que chegam à meia-noite têm razões para chegar à meia-noite.
+
+Os documentos estavam prontos. Ele os verificou — não porque duvidasse do trabalho, mas porque verificar era hábito e hábito não se abandonava porque havia pressa. O selo do Inspetor estava correto. O nome estava correto. A rota estava autorizada para os territórios não regulados com navio identificado como *Mercator* de capitã Lucasia Vael.
+
+"Três meses de validade," Severin disse.
+
+"Suficiente."
+
+Na saída — pelos fundos, que era como havia entrado — o beco estava vazio.
+
+Ele havia chegado a metade do beco quando viu o observador.
+
+Estava encostado na parede em ângulo que o tornava invisível da entrada mas visível a quem saía. Jovem — dezoito, talvez vinte anos, com a postura de alguém que havia aprendido a ficar quieto mas que não havia aprendido ainda como ficar quieto sem que a quietude chamasse atenção por si mesma. Havia uma tensão específica no corpo — a tensão de alguém esperando autorização para agir.
+
+Sem autorização. Só observando.
+
+Raban parou.
+
+O observador estava entre ele e a saída. A saída estava entre ele e a capitã, que havia acordado às nove e estava esperando em Perris. A capitã estava entre ele e o *Mercator*. O *Mercator* estava entre ele e Velne.
+
+Havia um caminho limpo. Requeria que o observador não acompanhasse, o que requeria que o observador não pudesse acompanhar, o que requeria a resolução específica de um problema específico de forma que não chamasse a atenção de ninguém que pudesse estar ouvindo.
+
+Ele foi.
+
+Foi direto — não furtivo, porque furtivo era visível a quem estava esperando furtivo. Foi como alguém que havia visto o observador e que havia decidido que o observador não era problema, que era o tipo de confiança que desorientava pessoas treinadas para reagir a reações.
+
+O observador ficou incerto por exatamente o tempo que precisava.
+
+Raban chegou ao espaço entre eles, passou pelo lado errado — a parede ficou entre o observador e a saída — usou o cotovelo no momento correto, e o observador foi para o chão sem barulho, que era o que importava.
+
+Não estava morto. Estava inconsciente de uma forma que levaria alguns minutos para se resolver.
+
+Alguns minutos eram suficientes.
+
+Ele saiu pelo beco. Virou à esquerda. Tomou as ruas que havia calculado de memória — Cassavar era a terceira visita, havia aprendido a parte que importava para as coisas que costumavam importar. Chegou a Perris em onze minutos.
+
+A capitã estava de pé.
+
+Ela havia verificado os documentos antes de ele terminar de fechar a porta.
+
+"O observador de Severin," ela disse.
+
+"Neutralizado." Ele verificou que os documentos estavam seguros no casaco. "Temos vinte minutos antes que alguém vá verificar."
+
+Ela já estava se movendo.
+
+A rota para o porto sul havia sido preparada por Tavessa — não o caminho principal, que estava sob patrulha de inspeção desde o fechamento do Quarteirão, mas um eixo de rua que passava pelo mercado de madrugada, onde havia movimento legítimo o suficiente para absorver dois a mais. Ela havia memorizado a rota em Perris enquanto ele buscava os documentos. Quando haviam começado a andar, ela estava à frente.
+
+Ele havia seguido.
+
+Doze minutos de Cassavar à meia-noite — as sombras dos muros de pedra preta, o slipsand do porto chegando como cheiro antes de chegar como som, o calor residual da pedra radiando para os últimos metros de rua antes que o porto se abrisse. Ela não havia vacilado numa única virada.
+
+O *Mercator* estava no atracadouro sul.
+
+Doryn estava no convés — ele havia visto a silhueta antes que o rosto ficasse visível, a postura de alguém que havia ficado de vigia não porque havia sido instruído mas porque havia decidido que era o que precisava ser feito. Era a postura do primeiro-oficial de alguém que sabia que a capitã estava na cidade com uma variável chamada Crane e que havia concluído que navio com capitã ausente precisava de olhos.
+
+Eles subiram a escada.
+
+No convés, a adrenalina do porto e dos becos e dos onze minutos de rua estava descendo — não de vez, mas aos poucos, como pressão liberando de forma calibrada. Ele havia aprendido que a descida de adrenalina era quando as coisas ficavam interessantes, quando o corpo decidia que havia sobrevivido e podia agora registrar o que havia custado.
+
+A mão. O cotovelo. O observador no chão do beco.
+
+Nada dele havia custado muito. Havia custado o suficiente.
+
+A capitã estava ao lado dele, verificando o manifesto de saída com Doryn com aquela concentração específica de tarefas que ela fazia independente do contexto — cyclocane, Cassavar, meia-noite, não importava, o manifesto precisava ser verificado e ela verificava.
+
+Depois ela fechou o manifesto. Olhou para ele.
+
+"Você está bem?" ela disse.
+
+Era a primeira vez. Ele havia notado — havia notado em tempo real, enquanto a pergunta ainda estava sendo formulada — que era a primeira vez que ela havia perguntado. Havia perguntado sobre a mão depois do cyclocane. Havia perguntado sobre documentos. Havia perguntado sobre rotas e planos e variáveis.
+
+Não havia perguntado *você está bem*.
+
+A pergunta era pequena. O que ela custava era o que tornava pequena a palavra errada.
+
+Ela havia notado que havia perguntado. Ele viu isso — o micro-ajuste no rosto, o olhar que passou pelos olhos dela quando processou o que havia dito, a qualidade de alguém que havia dito uma coisa e estava registrando o que havia dito.
+
+"Sim," ele disse.
+
+Ela assentiu. Voltou para Doryn e o manifesto.
+
+Ele ficou no convés por um momento. O *Mercator* estava intacto. Cassavar estava ficando menor atrás deles enquanto Doryn soltava as amarras e o navio começava a se mover. O slipsand do porto era menor que o slipsand aberto mas estava lá — amarantino sob a lua, luminoso, a areia que não retinha memória mas que existia independente do que havia acontecido nela.
+
+Os documentos estavam seguros.
+
+Velne ficava a três semanas.
+
+E ela havia perguntado se ele estava bem.
+
+Ele guardou isso no mesmo lugar onde havia guardado as outras coisas que não conseguia classificar — o compartimento que havia estado ficando mais cheio desde Sanvel, que havia começado a exigir mais espaço do que havia planejado dar.
+
+O *Mercator* ganhou o slipsand aberto.
+
+---
+
+*Fim da Parte 2: A Cidade*
+
+---
