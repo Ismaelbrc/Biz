@@ -3142,3 +3142,193 @@ Havia sido natural.
 Isso era, precisamente, o problema.
 
 ---
+
+## Capítulo 26 — Doryn
+
+*Doryn*
+
+---
+
+Havia passado cinquenta e dois anos aprendendo a distinção entre o que estava acontecendo e o que as pessoas achavam que estava acontecendo.
+
+A distinção era útil. Era o tipo de coisa que se aprendia trabalhando com navegadores — pessoas que precisavam saber a diferença entre o que os instrumentos diziam e o que o slipsand dizia, e que às vezes eram a mesma coisa e às vezes eram coisas completamente diferentes, e que a diferença entre as duas poderia ser a diferença entre navio e naufrágio.
+
+Ele havia aprendido a ler o que estava acontecendo. Não como talento — como hábito construído, como a competência que se desenvolvia quando se passava tempo suficiente prestando atenção às coisas certas.
+
+Ele havia trabalhado com o pai de Lucasia por oito anos. Havia trabalho com Lucasia por mais sete. Havia visto o que o pai havia construído e havia visto o que ela havia herdado e recusado herdar e reconstruído de forma diferente — não melhor nem pior, diferente, com as marcas específicas de quem havia aprendido que perda era possível e havia construído com isso em mente.
+
+Havia visto ela depois do Drek.
+
+Havia visto ela fechar. Não de vez — não havia uma noite antes e uma manhã depois onde tivesse ficado diferente. Havia sido gradual, como pressão que se acumula, como o tipo de fechamento que acontecia tão devagar que você só notava quando já estava completamente fechado e não havia forma simples de identificar quando havia começado.
+
+Havia tentado, nos meses depois de Drek, criar aberturas. Havia levado trabalho para ela quando havia trabalho que podia ser levado para ela. Havia ficado na câmara do capitão mais do que era necessário. Havia dito o nome de Fen uma vez, diretamente, e ela havia respondido com a eficiência de alguém que havia aprendido a processar esse nome sem o deixar entrar.
+
+Havia parado. Havia entendido que havia coisas que não podiam ser abertas de fora.
+
+Dez dias atrás, no slipsand aberto saindo de Cassavar, ele havia visto a primeira coisa que não havia visto em sete anos.
+
+Ela havia saído da câmara do capitão com spicefruit na mão. Sem destino — havia cruzado o deck principal na direção do leme, que era onde ela ia quando não havia nenhum lugar específico para ir, e havia comido o spicefruit enquanto andava. A questão não era o spicefruit. A questão era que ela não havia percebido que tinha na mão.
+
+Havia passado sete anos vendo Lucasia Vael ser consciente de cada coisa que fazia. Era a forma que ela operava — deliberada, calculada, cada gesto servindo uma função. Quando o gesto saía antes do cálculo, era porque havia outra coisa acontecendo.
+
+Havia outra coisa acontecendo.
+
+Ele havia observado durante a semana seguinte com a atenção que ele reservava para slipsand em território desconhecido — completamente, sem perder detalhe.
+
+O que havia visto:
+
+Ela havia corrigido a rota de Maret usando um argumento que estava desenvolvendo em voz alta. Isso em si não era incomum. O que era incomum era que ela havia estado desenvolvendo em voz alta com alguém — com Raban, que havia estado ao lado, que havia respondido à metade do argumento enquanto ela estava formulando, e ela havia pegado a resposta e continuado. Pensar em voz alta com alguém. Sete anos. Nunca.
+
+Ela havia chegado ao deck de observação tarde numa noite e ficado quando havia encontrado Raban lá. Havia ficado por quarenta minutos — Doryn havia anotado sem querer, depois havia cruzado porque ficaria complicado se alguém lesse. Mas havia visto.
+
+Ela havia dito, sobre a formação Valdrek, que a rota leste requeria conhecimento que ele tinha. Havia dito isso de uma forma específica — não *o passageiro tem informação útil*, mas a forma de alguém que havia chegado a uma conclusão e estava dizendo a conclusão sem ornamento.
+
+Havia percebido que ele lera o vento antes dela no cyclocane.
+
+Havia perguntado *como você faz isso* com a voz de alguém que faz perguntas que importam.
+
+Ele havia trabalhado com ela por sete anos. Nunca havia ouvido ela perguntar como outra pessoa fazia alguma coisa — havia visto ela aprender observando, deduzindo, aplicando. Perguntar era diferente. Perguntar era escolher ficar vulnerável à diferença entre o que você sabia e o que a outra pessoa sabia.
+
+Ela havia perguntado.
+
+Havia mais detalhes. Ele poderia listar. A forma que ela consultava os mapas antes de decisão de rota havia mudado — havia um segundo de pausa antes de olhar os mapas, um segundo que havia o formato de *o que eu diria a Raban sobre isso*, que era o segundo de alguém que havia adicionado um interlocutor ao processo de pensar.
+
+Havia encontrado Torbe no final do dia.
+
+"Quando ela machucá-lo," havia dito baixinho, porque algumas coisas eram ditas baixinho não por sigilo mas porque a gravidade requeria volume menor, "vou precisar que você me avise."
+
+Torbe havia olhado para ele. "Por quê?"
+
+"Para eu estar por perto."
+
+Torbe havia ficado quieto por um momento com a expressão de alguém processando mais do que estava sendo dito. Depois havia assentido.
+
+Havia trabalhado com Torbe há quatro anos. Havia visto Torbe encontrar Fen no porão naquela noite de Drek. Havia visto Torbe fechar aquela memória com a mesma eficiência que ela havia fechado a memória de Fen, e havia visto Torbe desenvolver, com o tempo, aquela gentileza específica que era a gentileza de alguém que havia carregado uma coisa por tempo suficiente para que cuidado se tornasse hábito.
+
+Torbe entendia o custo.
+
+Doryn entendia o custo também. Havia cinquenta e dois anos de custo na forma que ele olhava para slipsand e distinguia corrente de superfície de corrente de fundo, e havia trinta anos de custo na forma que ele olhava para o Mercator e via não só o navio mas tudo que o navio havia sobrevivido.
+
+O que estava acontecendo no Mercator era real. Havia visto coisas reais suficiente para reconhecer.
+
+A questão não era se era real. A questão era o que custava, e a questão do custo não tinha resposta que ele pudesse dar — havia apenas estar por perto quando o custo chegasse.
+
+Ele ficaria por perto.
+
+Era o que primeiros-oficiais faziam.
+
+---
+
+## Capítulo 27 — Histórias de Mar
+
+*Raban*
+
+---
+
+Ela apareceu no deck de observação desta vez sem pretexto.
+
+Não havia instrumento de pressão para verificar, não havia razão de rota que tornasse o deck de observação o destino correto às dez da noite. Ela havia simplesmente aparecido — do lado esquerdo, pelo convés superior, com a familiaridade de alguém que conhecia cada tábua do caminho. Havia ficado no corrimão sem dizer nada.
+
+Ele havia notado, durante dias, a mudança gradual — de *acidental* para *inevitável*, de *estava verificando o instrumento* para *estava aqui*. Não havia sido evento. Havia sido acumulação, como corrente de slipsand profunda que chegava antes que a superfície mostrasse.
+
+O slipsand leste sob céu limpo era diferente do slipsand de rota padrão. Mais escuro — a profundidade das correntes dava ao amarantino uma qualidade de roxo-escuro que ele havia aprendido a associar a território menos visitado, como se a areia mudasse de cor em resposta a quanto humano havia passado por ela. Talvez mudasse. O slipsand tinha propriedades que os cartógrafos ainda estavam documentando.
+
+"Você conseguiu o *Isolde* com vinte e sete anos," ela disse.
+
+Não era pergunta. Era o começo de uma conversa que ela havia decidido ter — a diferença entre perguntar e iniciar era a diferença entre pedir e oferecer, e ela estava oferecendo.
+
+"Com vinte e sete, sim." Ele havia ficado quieto por um momento com o peso do nome — *Isolde* — que havia ficado mais fácil de dizer nas últimas semanas do que havia sido nos dezoito meses anteriores, sem que ele soubesse exatamente quando havia ficado mais fácil. "O dono tinha sessenta e quatro anos e preferia vender a alugar. O banco recusou o financiamento porque eu tinha vinte e sete anos e nenhum histórico de propriedade."
+
+"Como você financiou?"
+
+"O investidor que o banco recusou reconsiderou."
+
+Ela ficou quieta por um segundo com a qualidade de alguém que havia chegado a uma conclusão mas estava verificando se havia chegado correto.
+
+"Seu pai," ela disse.
+
+"Meu pai." Uma pausa. "Com o dinheiro que havia economizado durante anos de rota. Que havia economizado especificamente porque sabia que eu ia querer um navio algum dia e que o banco ia recusar."
+
+"Ele sabia antes de você saber."
+
+"Ele sabia coisas sobre mim que eu não sabia." Era verdade — havia sido verdade em várias formas, e o navio havia sido uma delas, e havia havia sido executado antes de ver o *Isolde* partir em sua primeira rota, e havia sido um custo que Raban havia carregado de uma forma diferente do custo do *Isolde*, porque o navio havia sido acidente e o pai havia sido escolha de alguém.
+
+Ela ouviu o que não havia sido dito — ele havia aprendido que ela ouvia o que não era dito da mesma forma que ouvia o que era dito.
+
+"As primeiras rotas," ela disse.
+
+"As primeiras rotas eu errei mais do que certo." Ele disse isso sem a performance de humildade que às vezes vinha com admissão de erro — era fato, não julgamento. "A rota de Sanvel para o norte, segundo mês: calculei a corrente de retorno errado e chegamos dois dias atrasados. Dara havia calculado certo e havia esperado que eu chegasse ao mesmo cálculo sozinho, que não aconteceu, e ela havia deixado acontecer porque havia aprendido que capitão jovem precisava chegar aos erros por conta própria."
+
+"Ela estava certa."
+
+"Estava. O erro de dois dias foi menos custoso do que teria sido se ela houvesse corrigido, porque o que aprendi com o erro durou mais do que o que teria aprendido com a correção." Uma pausa. "Ela era mais inteligente do que eu sobre como as pessoas aprendiam."
+
+O slipsand rolava. A noite estava quieta — sem cyclocane previsto, sem variação de pressão, o tipo de noite que o slipsand leste tinha às vezes, onde as correntes profundas estabilizavam e a superfície ficava com aquela calma de coisa que havia parado de ser urgente.
+
+Ela estava ouvindo de uma forma diferente de como a tripulação ouvia. Ele havia notado isso desde o começo — a tripulação ouvia com admiração, com o tipo de atenção que vinha de quem recebia informação. Ela ouvia com avaliação — fazendo perguntas internas que às vezes saíam como perguntas externas e às vezes ficavam nos olhos.
+
+"Por que rota irregular?" ela perguntou.
+
+"A rota regular era viável. Era segura. Era suficientemente lucrativa." Uma pausa. "A rota irregular tinha o tipo de risco que tornava o trabalho diferente do trabalho seguro. Eu precisava que fosse diferente — precisava de terreno que não havia sido mapeado, que requeria que eu fizesse o mapa. Era o tipo de capitão que eu era."
+
+"Era."
+
+A palavra pousou sem crueldade — era observação, não crítica.
+
+"Era," ele confirmou. "O tipo de capitão que era requeria certeza sobre o que estava fazendo que o naufrágio retirou." Uma pausa. "Não sei que tipo de capitão seria agora."
+
+O slipsand rolava.
+
+"Eu tinha vinte e quatro anos," ela disse, por fim. Não havia introdução — havia a mesma forma dela de entrar em conversa que havia aprendido a reconhecer, sem preâmbulo, como se estivesse continuando algo que havia estado pensando por um tempo. "Quando assumi o leme. A tripulação antiga havia trabalhado com meu pai por anos. Eles sabiam o navio. Sabiam a rota. Sabiam que eu tinha vinte e quatro anos."
+
+"O que fizeram?"
+
+"Esperaram que eu errasse." O tom era neutro — não amargo, apenas o registo de fato. "Era a estratégia razoável. Novo capitão, jovem, não testado — você espera o erro que confirma a hipótese de que a mudança foi para pior, e depois você age a partir do erro."
+
+"E você errou?"
+
+"Errei numa rota menor no terceiro mês. Cálculo de corrente errado — menos grave do que deveria ter sido, o Mercator absorveu. Mas foi erro." Uma pausa. "O primeiro a desafiar autoridade foi Colves, mestre de vela. Fez isso em público, na frente de todos, que era como precisava ser feito para ter o efeito que queria."
+
+"O que você fez?"
+
+Ela ficou quieta por um momento — não pela pergunta, mas pelo que a resposta requeria de lembrança.
+
+"Fiz a coisa certa, na hora certa, na frente de todo mundo." A voz era a voz de alguém que havia chegado à conclusão de algo que havia custado e que o custo havia sido necessário. "Depois fiz de novo. E de novo."
+
+"Não havia outro método."
+
+"Não havia outro método." Ela olhou para ele de relance — o olhar de meio segundo que ele havia aprendido a reconhecer como o momento onde ela verificava se havia sido entendida da forma que havia pretendido. "Competência demonstrada repetidamente é o único argumento que funciona com pessoas que foram treinadas a desconfiar."
+
+"Colves ficou?"
+
+"Colves ficou três anos. Partiu voluntariamente quando uma rota melhor apareceu no norte." Uma pausa. "Ele era bom navegador. Teria ficado mais tempo se eu houvesse sido melhor em outra coisa."
+
+"Em quê?"
+
+Ela ficou quieta por um tempo que foi do tamanho exato da pergunta.
+
+"Em deixar as pessoas saberem que via o que eram." O tom havia mudado levemente — não defensivo, mas com a qualidade de alguém dizendo uma coisa que havia chegado à depois de longa conta. "Não só o que faziam. O que eram."
+
+A noite estava quieta. O slipsand rolava.
+
+Ele havia pensado, durante dias, sobre o que havia dito no corredor de Cassavar — *você escolheu a culpa que confirma o que já acredita.* Havia pensado sobre o custo de dizer isso. Havia pensado que ela poderia ter ido embora e não ter voltado ao deck de observação depois disso.
+
+Havia voltado. Esta noite, sem pretexto.
+
+"Suficientemente longe da margem," ele disse.
+
+Ela olhou para ele.
+
+"É o que os capitães de rota irregular chamam quando um navio está além do ponto onde voltar é viável." Uma pausa. "Mais barato seguir do que retornar. Mais seguro terminar o que começou." Ele olhou para o horizonte leste. "Às vezes a margem some antes de você decidir se está indo ou voltando."
+
+Ela ficou com isso por um momento.
+
+"Você acha que está suficientemente longe da margem?" ela perguntou.
+
+Era a pergunta direta debaixo da frase. Ela havia identificado.
+
+"Acho que a margem sumiu em algum ponto nos últimos dias," ele disse, "e não sei dizer exatamente quando."
+
+O slipsand rolava. O céu estava limpo. A noite continuou.
+
+---
