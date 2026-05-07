@@ -1458,3 +1458,109 @@ Dois dias até Cassavar. Depois ele desembarcava. Depois o Mercator seguia.
 Isso era o que havia.
 
 ---
+
+## Capítulo 9 — O Nome
+
+*Lucasia*
+
+---
+
+Ela não havia planejado ficar.
+
+Havia subido ao convés superior para verificar o instrumento de pressão — o mesmo que havia parado durante o cyclocane, que havia voltado a funcionar sem explicação e que ela havia anotado mentalmente para verificar depois. *Depois* havia chegado: era tarde, a tripulação estava no jantar, o convés superior estava quieto com aquela quietude específica das noites de slipsand aberto que ela havia aprendido a não desperdiçar.
+
+O instrumento estava funcionando. Leituras normais. Nenhuma anomalia.
+
+Ela ficou mesmo assim.
+
+O slipsand sob lua cheia era outra coisa. De dia, era amarantino — quente, familiar, a cor que ela havia passado sete anos aprendendo a ler como linguagem. À noite, sob lua cheia, havia algo que não tinha nome nos manuais de navegação: uma luminescência de dentro, como se a areia guardasse a luz do sol e a devolvesse filtrada, azul-roxo sobre o amarantino, as ondas de slipsand se movendo com aquela lentidão líquida que tornava difícil acreditar que engolia sem deixar rastro.
+
+Ela havia aprendido a não confiar nessa beleza. O slipsand era o mesmo de dia e de noite. A luz só tornava a armadilha mais bonita.
+
+Raban já estava no deck de observação.
+
+Ela viu isso antes de processar que havia subido em vez de descer — havia continuado além do instrumento de pressão sem decidir continuar, o tipo de desvio que acontecia quando os pés sabiam algo que a cabeça ainda estava organizando. Ele estava no corrimão. De costas. Olhando o slipsand com aquela postura que ela havia catalogado como a primeira coisa que havia notado nele, no deck de estibordo em Sanvel — os ombros levemente inclinados, o peso distribuído da forma de alguém que passou anos aprendendo como ficar de pé quando o chão se move.
+
+Ela poderia ter descido. Não havia razão imperativa para não descer.
+
+Ficou.
+
+O frio de noite em slipsand aberto era diferente do frio em terra. Não era o frio de temperatura — era o frio de ausência, de calor que havia estado e havia ido, porque o slipsand não retinha calor da forma que a terra retinha. Ela havia cruzado os braços antes de perceber que havia cruzado. Não disse nada. Ele também não.
+
+O silêncio foi longo o suficiente para que se tornasse outra coisa — não ausência de conversa, mas sua própria forma de conversa, com a qualidade do silêncio que existe entre pessoas que já disseram o suficiente para que o silêncio seja possível.
+
+Então ele falou.
+
+"Sael ri começando baixo," ele disse. Não havia introdução. Não havia *por que estou dizendo isso* nem *você não precisa ouvir*. Apenas o começo, como se houvesse uma conversa que já estava acontecendo e ele estivesse continuando. "Você acha que não vai chegar a nada. E então não para mais."
+
+Lucasia não disse nada.
+
+"Ela acha ridículo o sistema de selos de Cassavar. Os três selos para um único documento portuário. Passa anos se recusando a chamar isso de processo — chama de *performance de autoridade*." Um som que não chegou a ser riso mas que tinha a qualidade de algo lembrado com precisão. "Disse uma vez que a única diferença entre um selo e outro era o tamanho da mesa de quem assinou, e que o tamanho da mesa era inversamente proporcional à utilidade da pessoa."
+
+O slipsand rolava abaixo. Azul-roxo sob a lua, lento, antigo.
+
+"Ela argumenta sempre começando pelo argumento mais fraco." Ele havia virado levemente — não para ela, mas o suficiente para que ela visse o perfil. "Como se estivesse te dando a chance de descartar o argumento ruim antes de chegar no real. Quando você descarta, ela olha para você com aquela expressão de *sabia que você ia fazer isso* e traz o que sempre foi a questão."
+
+Lucasia ficou quieta. Havia algo no jeito que ele falava — não a voz, mas a qualidade do que estava sendo dito. Sem pausa entre a palavra e o sentimento. Sem a camada que as pessoas colocavam entre o que sentiam e o que diziam, a camada que funcionava como distância, como proteção, como a diferença entre mostrar e entregar.
+
+Ela havia colocado aquela camada entre ela e tudo há sete anos. Havia aprendido a não perceber que estava lá.
+
+Agora percebia.
+
+"Ela tem medo de slipsand fechado," ele disse. "Não de ciclocanes, não de tempestades — só do slipsand quando para. Quando fica sem corrente. Ela chama de *areia morta*. Diz que parece errado, que o slipsand deveria se mover sempre."
+
+Uma pausa. O vento passou com aquela qualidade específica da noite aberta — não frio mas limpo, com o cheiro do slipsand que era diferente de qualquer outro cheiro, mineral e velho e levemente doce de uma forma que ela nunca havia conseguido explicar para alguém que não o havia sentido.
+
+"Ela tem razão," ele disse. "Slipsand parado é mau sinal. Significa que algo bloqueou a corrente."
+
+Lucasia olhou para o slipsand sob a lua.
+
+Ela não conseguia lembrar a última vez que havia ouvido alguém falar sobre outra pessoa assim. Não com histórias — histórias eram o que se contava sobre pessoas, organizadas para efeito, com começo e meio e o ponto que estava sendo feito. O que ele estava fazendo não era contar histórias. Era simplesmente *dizer* — como se ele precisasse que os detalhes existissem em voz alta para que continuassem existindo, como se guardar dentro fosse o mesmo que perder.
+
+Ela havia guardado tudo dentro durante sete anos.
+
+O pai. Fen. As cartas que nunca havia enviado para pessoas que já não estavam para recebê-las.
+
+Ela havia guardado tudo e nada havia parado de existir. Só havia ficado mais pesado.
+
+"Você vai encontrá-la," ela disse.
+
+Era uma afirmação. Ela não havia planejado dizer, e não havia planejado dizê-la como afirmação — havia planejado não dizer nada, ou no máximo dizer algo sobre a rota e os dois dias que restavam até Cassavar. Mas as palavras haviam saído antes da camada ter chance de funcionar.
+
+Ele virou para ela.
+
+Completamente dessa vez — não o perfil, o rosto. Aquela qualidade de atenção que ela havia aprendido a reconhecer como específica dele, que não era a atenção de avaliação mas a atenção de alguém que estava genuinamente *vendo*, o que era uma coisa diferente, que ela sabia a diferença mesmo sem querer saber.
+
+"Lucasia," ele disse.
+
+Só o nome.
+
+Não havia nada antes. Não havia nada depois. Só o nome, dito com o peso de uma bússola encontrando o norte — não pergunta, não pedido, não o começo de uma frase mais longa. Só a palavra que ela era, na voz dele, com aquela qualidade de coisa que está sendo entendida enquanto é dita.
+
+Ela foi embora.
+
+Não havia decisão no meio. Não havia o momento consciente de *devo ir ou ficar* que permitia análise e conclusão. Havia o nome e depois havia os pés no convés e depois havia a escada.
+
+Ela desceu.
+
+Primeiro lance. Segundo. Terceiro.
+
+Parou.
+
+A parede de madeira do Mercator estava à sua direita. Carvalho tratado e resina de slipsand e sete anos de vibrações de casco que ela conhecia como conhecia a própria respiração. Ela colocou a testa nela.
+
+A madeira estava fria. Firme. Presente da forma que coisas reais eram — sem ambiguidade, sem o que-isso-significa, sem a necessidade de catalogar o que estava sentindo antes de permitir que existisse.
+
+Ela ficou assim por um momento.
+
+O Mercator se movia abaixo dela. O slipsand rolava. Acima, no deck de observação, havia alguém que havia dito seu nome como se fosse a primeira vez que o nome significava o que precisava significar.
+
+Ela não subiu.
+
+Não desceu por um tempo, também.
+
+Ficou com a testa na madeira do navio que era a única coisa no mundo que era completamente dela, e ouviu o Mercator respirar ao redor, e não examinou nada.
+
+Depois desceu.
+
+---
