@@ -3332,3 +3332,367 @@ Era a pergunta direta debaixo da frase. Ela havia identificado.
 O slipsand rolava. O céu estava limpo. A noite continuou.
 
 ---
+
+## Capítulo 28 — Homens do Inspetor
+
+*Lucasia*
+
+---
+
+Maret avistou o navio às dez da manhã do décimo dia de rota.
+
+"Capitã." A voz de Maret do convés superior tinha aquela qualidade específica de urgência calibrada — não pânico, que não era útil, mas atenção total. "Onze horas. Casco leve. Sem carga visível."
+
+Ela havia chegado ao leme antes de terminar de processar a frase.
+
+Onze horas era a posição no horizonte — levemente à esquerda da proa, o que significava que o navio estava na mesma rota mas mais rápido, ganhando terreno. Casco leve significava que a função do navio não era carga — era velocidade, que era a função de navios de perseguição, de patrulha, de qualquer coisa que precisasse alcançar antes de ser alcançada.
+
+Sem carga. Velas ajustadas para o vento atual com uma precisão que requeria tripulação experiente.
+
+Homens do Inspetor.
+
+Ela havia calculado essa variável quando havia deixado Cassavar — havia calculado que Crane havia visto o Mercator partir em direção leste e havia enviado alguém. Havia calculado que a vantagem inicial de sair à noite havia dado horas mas não dias. Havia calculado que em algum ponto nos próximos doze dias haveria navio de perseguição no horizonte.
+
+Dez dias. Havia calculado bem.
+
+O que havia calculado menos bem era a velocidade — o navio de perseguição estava a quarenta minutos de alcance de hailing, que era mais perto do que havia esperado para o décimo dia. Havia sido rápido na rota.
+
+Raban estava ao lado dela.
+
+Não havia perguntado — havia aparecido, que era o padrão que ela havia aprendido a associar a ele em situação de urgência: não perguntava, ficava disponível. O leme estava em suas mãos. Ele havia ficado a dois metros à esquerda, com ângulo para o horizonte e para ela simultaneamente.
+
+"Opções," ela disse. Não era pergunta para ele — era o início do processo de pensar em voz alta que havia desenvolvido nos últimos dias sem ter planejado desenvolver.
+
+"Em slipsand aberto, o perseguidor é mais rápido." A voz dele era a voz de análise — o mesmo tom que usava nos mapas, que era o tom de alguém que havia aprendido que urgência era melhor respondida com precisão do que com velocidade. "Nas próximas quatro horas, eles alcançam."
+
+"Corrente de pressão dupla," ela disse. Havia chegado lá antes de ele terminar.
+
+"A quarenta minutos na direção noroeste." Uma pausa. "Desvia de Velne por dois dias."
+
+"Sim."
+
+Pausa. Ela ajustou o leme um grau — a formação de pressão que havia navegado pela passagem central esta manhã havia deixado o slipsand com uma corrente de superfície levemente mais densa, que ela havia sentido antes dos instrumentos.
+
+"Faça," ele disse.
+
+Não havia sugestão no tom. Era acordo — a forma de alguém que havia chegado ao mesmo cálculo e que confiava no cálculo dela.
+
+"*Maret!*" ela chamou. "Noroeste, quarenta graus. Avisem a tripulação — entramos em corrente de pressão dupla em aproximadamente quarenta minutos."
+
+A resposta de Maret era confirmação.
+
+A mudança de rota era visível — o Mercator virou, e o navio de perseguição, que estava calculando interseção na rota anterior, precisaria recalcular. Ela havia ganhado tempo. Não muito — o perseguidor iria corrigir em minutos e seguir. Mas havia a corrente de pressão dupla a quarenta minutos.
+
+"Você navegou corrente de pressão dupla antes?" ela perguntou.
+
+"Teoria." A resposta foi direta. "Nunca tive navio que aguentasse."
+
+Ela havia construído a competência do Mercator para correntes de pressão dupla no terceiro ano — havia sido decisão deliberada, a expansão de capacidade que tornava rotas perigosas acessíveis. Havia custado tempo de treinamento e havia assustado a tripulação nas primeiras vezes e havia resultado em três rotas que outros navios não conseguiam fazer.
+
+Era a diferença entre navio e *este* navio.
+
+"Você sabe o que a corrente faz com casco estreito," ela disse.
+
+"Turbulência lateral assimétrica. A proa afunda antes de a tripulação conseguir responder."
+
+"Em vinte minutos de corrente. Se eles tentarem seguir."
+
+"Eles vão tentar."
+
+"Sim." Ela ajustou o leme. "E depois não vão."
+
+O slipsand passou de amarantino para aquele roxo mais denso que anunciava corrente de pressão — não a corrente em si, mas o campo de influência ao redor dela, a forma que o slipsand mudava de textura quando havia forças maiores operando embaixo da superfície. Ela havia aprendido a ler essa mudança antes dos instrumentos — havia sido o terceiro ano, havia sido com Doryn verificando o que ela relatava, havia sido a confirmação de que havia aprendido a ouvir o navio de uma forma que os instrumentos não cobriam completamente.
+
+O perseguidor estava a vinte e cinco minutos de alcance agora.
+
+Havia seguido a correção de rota. Havia uma tripulação experiente naquele navio — havia visto isso nas velas, na forma que havia respondido à mudança. Experiente mas não familiarizada com corrente de pressão dupla, que era especialidade de rota irregular e que navios de perseguição padrão não praticavam.
+
+A diferença ia importar em quinze minutos.
+
+"Tripulação," ela disse, sem gritar porque não havia necessidade de gritar quando o tom era suficiente. "Posições de corrente. Âncoras de areia prontas para deploy. Isso vai ser rápido."
+
+Era rápido. Era quarenta minutos de turbulência que requeria atenção constante e que do outro lado havia slipsand aberto limpo e o perseguidor sem possibilidade de seguir. Era uma operação que ela havia executado seis vezes antes e que havia funcionado seis vezes antes.
+
+Raban estava a dois metros à esquerda.
+
+Ela havia aprendido, nos dias de trabalho conjunto, a calibrar para a presença dele — a saber onde estava sem precisar verificar, da mesma forma que sabia onde estava cada membro da tripulação. Era uma calibração que havia desenvolvido sem ter decidido desenvolver.
+
+Era o tipo de detalhe que ela havia parado de arquivar para examinar mais tarde porque o arquivo estava ficando grande demais.
+
+"Pronto?" ela disse.
+
+"Pronto," ele disse.
+
+A corrente de pressão dupla chegou.
+
+---
+
+## Capítulo 29 — Corrente de Pressão
+
+*Raban*
+
+---
+
+Corrente de pressão dupla era exatamente o que o nome descrevia: dois fluxos de slipsand em direções opostas criando canal de turbulência lateral entre eles. A física era simples — dois rios de areia colidirem com velocidades diferentes em direções opostas e o espaço entre eles tornava-se instável, com oscilações de pressão que iam e vinham em ciclos de trinta a noventa segundos.
+
+A teoria era simples.
+
+A navegação era outra coisa.
+
+Ele havia lido sobre correntes de pressão dupla. Havia falado com navegadores que as haviam cruzado. Havia chegado a uma compreensão intelectual do que requeria — leme em ajuste constante, âncoras de areia operando como estabilizadores em vez de freios, a velocidade mantida alta o suficiente para que a turbulência lateral não acumulasse suficientemente para desestabilizar o casco antes que houvesse saído.
+
+O que não havia tido era navio que aguentasse.
+
+O *Mercator* aguentava.
+
+Havia quarenta minutos que havia começado — havia notado a diferença imediata, a qualidade específica do casco respondendo a pressão de ambos os lados simultaneamente, o tipo de tensão que seria destruição num casco estreito e que era, no Mercator, apenas esforço dentro do que havia sido construído para suportar. Ela havia construído essa capacidade. Havia a diferença entre navio e *este* navio.
+
+Ele havia ficado a dois metros dela no leme e havia assistido ao que ela fazia.
+
+Não havia forma honesta de descrever. Era navegação — era leme e instrumentos e as âncoras de areia que Juna e Corvel operavam em resposta a instruções que chegavam antes do que ele teria previsto, porque ela estava um ciclo de trinta segundos à frente da corrente em vez de reagindo a ela.
+
+Havia aprendido, nos anos de rota irregular com o *Isolde*, a ler o slipsand com antecedência — a sentir o ciclo antes de ele ser visível nos instrumentos. Era o que havia salvado o *Isolde* mais vezes do que havia escrito nos logs. Era o que havia tentado ensinar a Dara e que ela havia aprendido em partes, porque era parcialmente ensinável e parcialmente o tipo de coisa que se desenvolvia ao longo de tempo suficiente com atenção suficiente.
+
+Ela estava dois ciclos à frente.
+
+Não havia nada que ele pudesse ter feito naquele leme que tivesse sido mais eficiente do que o que ela estava fazendo. Havia chegado a essa conclusão nos primeiros dez minutos e havia ficado com ela — não era humildade, era avaliação, que era diferente.
+
+O perseguidor havia tentado entrar na corrente.
+
+Havia visto isso pelo ângulo das velas — a tentativa de ajustar para seguir o Mercator, o casco estreito entrando na zona de turbulência lateral, e então o momento específico onde o casco havia começado a responder de forma que a tripulação não havia calculado. Em vinte e dois minutos — havia contado — a proa havia começado a submergir e o perseguidor havia revertido.
+
+Havia revertido com urgência. Haviam visto o suficiente.
+
+O Mercator saiu da corrente de pressão dupla no lado oposto com o slipsand limpo à frente — o horizonte leste, sem navio de perseguição, sem obstáculo imediato. Ela havia liberado o leme para Doryn e havia ido ao deck dianteiro com a expressão de alguém que havia concluído uma operação exigente e estava verificando o custo.
+
+Raban estava lá.
+
+"Você conhecia a corrente," ela disse.
+
+"Conhecia a teoria."
+
+"Nunca navegou nela."
+
+"Nunca tive um navio que aguentasse." Havia algo no dizer isso — não arrependimento, mas o registro de uma lacuna, de algo que havia sido possível no *Isolde* se as condições houvessem sido diferentes. "O *Isolde* tinha casco que ia partir na segunda turbulência lateral."
+
+Ela olhou para o horizonte. O perseguidor havia desaparecido — havia voltado para o slipsand padrão, provavelmente reportando que havia perdido contato. Haviam ganado horas. Haviam ganhado talvez dois dias antes que Crane recalculasse e enviasse outra coisa.
+
+"Este aguentaria," ele disse.
+
+Ela olhou para ele.
+
+"Com qualquer capitão que não fosse você," ele disse, "metade da eficiência."
+
+Havia sido calculado antes de ser dito — havia chegado à conclusão ao longo de quarenta minutos de observação, havia verificado, havia concluído que era preciso e portanto podia ser dito. Não era elogio no sentido de ornamento. Era fato, que era a forma que ele distribuía o que havia avaliado.
+
+Ela ficou com isso por um momento.
+
+Havia alguma coisa no rosto dela — não o rosto da capitã, que era o rosto que ela mostrava à tripulação, mas o rosto que ele havia aprendido a distinguir nos momentos onde a guarda baixava um centímetro. A qualidade de alguém que havia recebido uma coisa que não havia esperado e que não sabia imediatamente onde guardar.
+
+"Dois dias de desvio," ela disse. O rosto da capitã de volta — não de vez, mas o suficiente para que o trabalho ficasse à frente do resto. "Chegamos em Velne com dois dias de atraso."
+
+"O *Harrow* chega em três semanas. Temos margem."
+
+"Temos." Uma pausa. "Você ainda quer ir?"
+
+Era a pergunta que havia estado embaixo de tudo desde Cassavar — desde que ela havia ganhado observadores e o Mercator havia sido associado à rota leste e o Inspetor havia começado a ser um problema concreto em vez de um problema teórico.
+
+"Sim," ele disse.
+
+Ela assentiu. Foi ao leme de volta.
+
+Ele ficou no deck dianteiro por um tempo. O slipsand leste era o slipsand que havia navegado com o *Isolde* em rotas irregulares — aquele roxo mais escuro de território menos visitado, aquelas correntes profundas que revelavam informação a quem sabia ler.
+
+Havia quarenta e dois minutos que havia assistido a alguém fazer com o *Mercator* o que não havia conseguido fazer com o *Isolde* porque o *Isolde* não havia sido construído para isso e o *Mercator* havia.
+
+Havia chegado a uma conclusão durante os quarenta e dois minutos que havia verificado antes de aceitar porque era o tipo de conclusão que tinha consequências.
+
+*Este aguentaria*, havia dito. Havia dito como fato de navegação.
+
+Era fato de navegação. Era também outra coisa, que era o tipo de coisa que ficava no compartimento que havia estado ficando mais cheio desde Sanvel e que havia deixado de caber de forma ordeira.
+
+---
+
+## Capítulo 30 — Noite Depois da Fuga
+
+*Lucasia*
+
+---
+
+Ela ficou no leme até a meia-noite.
+
+Não havia razão de navegação para ficar no leme até a meia-noite — havia slipsand limpo, havia Doryn disponível, havia a tripulação descansada depois da corrente de pressão. Havia razão de outra coisa, que era o tipo de razão que não aparecia nos logs mas que era real da mesma forma que o slipsand era real.
+
+Ela havia ficado porque havia coisas que pensava melhor no leme.
+
+O Mercator estava associado à rota leste. Isso havia sido calculado desde Cassavar — havia sido variável conhecida, risco aceito. O que havia ficado mais claro nas últimas horas, com o perseguidor no horizonte e o desvio de dois dias e o horizonte leste que ia ficando mais leste a cada dia, era que a associação tinha consequências que se acumulavam.
+
+Crane não havia enviado um navio para capturar. Havia enviado para observar — para confirmar direção, para reportar destino. O que havia reportado era: *Mercator em rota irregular leste, resistindo a intercepção.* Isso era, no sistema do Inspetor, a diferença entre navio com passageiro inconveniente e navio que havia escolhido o lado errado.
+
+Havia escolhido.
+
+Havia escolhido com os olhos abertos, com as reservas calculadas, com vinte e cinco pessoas que haviam dito que a resposta era não. Havia escolhido e o custo estava chegando em parcelas, que era como os custos das escolhas reais chegavam.
+
+"Eu estou colocando seu navio em risco."
+
+Raban estava ao lado dela no leme. Havia aparecido às onze — ela havia ouvido os passos sem virar, havia reconhecido o padrão.
+
+"Sim," ela disse.
+
+Havia pausa.
+
+"Posso sair em Velne," ele disse. A voz era a voz de análise — não emocional, mas ela havia aprendido que ele usava a voz de análise para as coisas que custavam dizer. "Você volta à rota comercial. Crane não tem razão para ir atrás do Mercator se eu não estiver nele."
+
+Era a solução lógica. Era a solução que resolvia a maioria das variáveis — o risco do Mercator, a rota comercial, os contratos que estavam sendo perdidos a cada dia de desvio. Era a solução que ela havia calculado ela mesma, antes que ele a oferecesse.
+
+Havia calculado e havia arquivado.
+
+"Você é o passageiro mais caro que já levei," ela disse.
+
+Uma pausa.
+
+"Isso é um não?" ele disse.
+
+O leme estava sob as mãos dela. O slipsand leste rodava abaixo — aquelas correntes profundas, aquele roxo mais escuro, o território que ela não havia navegado antes e que havia aprendido a ler nos últimos dias com informação que não estava em nenhum mapa.
+
+Ela virou o rosto.
+
+"Isso é uma observação," ela disse.
+
+O silêncio que se formou era diferente dos silêncios anteriores — havia mais peso, havia mais o que estava não sendo dito de forma que o não-dito estava presente na sala tanto quanto o dito.
+
+"Os contratos," ele disse.
+
+"Recuperáveis."
+
+"O Inspetor—"
+
+"O Inspetor já sabe que o Mercator estava em Cassavar com você. Sair em Velne não apaga isso." Uma pausa. "O custo já foi pago. Faz mais sentido chegar ao destino."
+
+Era argumento de navegação — e era verdade, e era a razão que ela diria se alguém perguntasse, e era também a razão que estava embaixo da razão que não havia escrito nos logs.
+
+"Há outra razão," ele disse.
+
+Ela ficou quieta.
+
+"Você não precisa dizer," ele disse. "Mas há."
+
+O slipsand rodava. A noite estava quieta. Ela havia ficado no leme até a meia-noite por uma razão que não havia escrito nos logs.
+
+"Sim," ela disse. Simples. Só a confirmação, sem expansão.
+
+Havia coisas que eram mais honestas assim — ditas sem ornamento, sem explicação, como o sim que era a forma mais completa de resposta para algumas perguntas.
+
+Ele ficou ao lado dela por um tempo sem dizer nada. O leme estava entre as mãos dela — o Mercator respondia, as correntes profundas comunicavam, o horizonte leste existia no escuro com a promessa de território que não havia mapa para e que ela havia começado a ler.
+
+Depois ele foi ao camarote.
+
+Ela ficou no leme.
+
+*Suficientemente longe da margem*, havia dito. *A margem sumiu em algum ponto nos últimos dias.*
+
+Ela havia ouvido isso.
+
+Havia arquivado junto com tudo mais que estava no arquivo que havia parado de examinar porque o arquivo estava ficando grande demais para examinar sem que o exame custasse mais do que tinha disponível para pagar agora.
+
+A meia-noite chegou. Ela ficou mais um pouco.
+
+---
+
+## Capítulo 31 — A Ferida de Fen
+
+*Lucasia*
+
+---
+
+Havia começado como discussão de estratégia.
+
+Era o décimo quarto dia de rota. Velne estava a seis dias. O Harrow estaria em Velne em aproximadamente dez dias contados da partida de Cassavar — havia margem, havia tempo, havia razão para discutir a estratégia de chegada antes que a chegada tornasse a discussão urgente em vez de útil.
+
+Ela havia iniciado com o que sabia sobre Velne: porto menor, menos regulado, sem presença documentada dos homens do Inspetor nas últimas verificações que havia obtido de Tavessa. O que não sabia: se havia chegado informação de Crane depois que haviam partido. Se o Harrow havia de fato chegado com Sael a bordo. Se havia terceira variável que não havia calculado.
+
+"Quando você chegar a Velne," ela havia dito, no contexto de estratégia, "a primeira coisa é verificar o Harrow antes de ser visível no porto."
+
+"Verificar como?"
+
+"Antes de atracar, você tem ângulo visual do porto de bordo. Se o Harrow está atracado, você pode ir ao cais antes que o Mercator seja avistado do porto."
+
+"E se não está?"
+
+"Então esperamos a informação que Nasso deu — o Harrow chega dentro da janela calculada. Velne não tem porto grande o suficiente para que navios grandes esperem sem que o Harrow seja identificado por quem está esperando."
+
+Havia passado às estratégias de saída — como deixar Velne com documentação que não levantasse questões, como o Mercator poderia voltar à rota comercial sem passar por pontos de verificação do Inspetor. Era o tipo de planeja mento que ela fazia melhor quando havia slipsand limpo à frente e tempo suficiente para pensar sem urgência.
+
+"Quando você confia no instinto da tripulação," ele havia dito, "há um ponto onde a estratégia precisa ceder ao que a situação exige."
+
+"Eu não confio em instinto."
+
+Havia saído antes que ela pudesse escolher não dizer. Era a verdade e ela havia dito de forma direta que era a forma que verdades difíceis saíam quando saíam sem que você tivesse tempo de envolvê-las em contexto.
+
+Ele havia ficado quieto por um segundo.
+
+"Por quê?" ele havia perguntado.
+
+Era a pergunta simples que era a mais difícil porque não havia resposta simples — havia a resposta que cabia numa frase e que era verdade como parte da verdade, e havia a resposta completa que requeria que ela dissesse coisas que havia passado sete anos não dizendo para ninguém que não fosse o Mercator e mesmo assim em silêncio.
+
+Ela havia contado.
+
+Havia contado com a voz que usava para fatos de navegação — direta, sem ornamento, porque ornamento era o jeito que as pessoas suavizavam coisas que não queriam que fossem ouvidas de forma completa, e ela havia decidido, no momento em que havia começado, que ia dizer completamente.
+
+Fen. A forma que havia funcionado — os dois na câmara do capitão discutindo rotas, ela dizendo a dúvida porque havia aprendido que dizer a dúvida em segurança tornava a decisão mais sólida, ele respondendo com a qualidade de alguém que via o problema de dentro. Havia funcionado por dois anos. Havia sido, ela havia reconhecido depois, a forma de trabalho mais eficiente que havia experimentado.
+
+Drek. Havia estado na tripulação desde o começo — havia sido tripulante do pai, havia ficado quando ela havia assumido, havia ficado como alguém que aceitou a mudança de forma que ela havia tomado como respeito e que havia sido, ela havia aprendido depois, observação. Drek havia observado o que havia entre ela e Fen. Havia observado as dúvidas que ela havia compartilhado. Havia guardado.
+
+No décimo mês. Havia construído o argumento para a tripulação com os tijolos que ela havia dado a ele sem saber que estava dando: *a capitã hesita nas rotas difíceis, a capitã tem dúvida, a capitã não é o que parece.* Havia usado palavras dela — havia ouvido suficiente, no corredor fora da câmara do capitão, para usar palavras dela.
+
+Fen havia ficado do lado dela. Havia sido o único da tripulação original que havia ficado.
+
+Havia morrido na noite do motim.
+
+Ela havia contado tudo isso com a voz de fato de navegação e havia chegado ao fim — *se eu não tivesse deixado Fen se aproximar, ele não teria morrido* — e havia ficado com isso pousado no slipsand entre eles.
+
+Raban havia ficado quieto. O tipo de silêncio que ela havia aprendido a reconhecer nele como processamento — não ausência de resposta, mas o tempo que ele tomava antes de dar resposta que havia pensado.
+
+"Ou teria sobrevivido," ele havia dito, "porque você teria alguém do lado quando o motim começou."
+
+"Não posso saber."
+
+"Não." Uma pausa. "Mas você escolheu a culpa que confirma o que já acreditava."
+
+Ela havia ouvido isso. Havia ouvido no corredor de Cassavar, também — a versão anterior, mais curta, dita da mesma forma, que havia tido o mesmo efeito de coisa que chegava de um ângulo que ela não havia previsto.
+
+"O que eu já acredito," ela disse.
+
+"Que deixar alguém se aproximar é criar a variável que não consegue controlar." Não havia acusação no tom. Havia a precisão de alguém nomeando alguma coisa que havia identificado. "Fen não morreu porque você o deixou se aproximar. Morreu porque havia um homem na tripulação que havia decidido que ia morrer independente do que você fizesse."
+
+"Não posso saber isso."
+
+"Não. Mas Drek não precisou de Fen para organizar o motim. Usou Fen porque era o argumento mais eficiente — o argumento de que a capitã tinha fraqueza. Sem Fen, teria usado outra fraqueza, ou teria inventado uma." Uma pausa. "A variável era Drek. Não você. Não Fen."
+
+Ela havia ficado com isso.
+
+Havia ficado com isso da forma que ficava com coisas que eram novas e que requeriam tempo para verificar se eram verdadeiras — não aceitando imediatamente, não rejeitando, mas deixando existir enquanto o verificava contra o que sabia.
+
+"Sete anos é muito tempo para carregar uma culpa que é de outra pessoa," ele disse, por fim. Quieto. Sem imposição.
+
+Ela havia ficado quieta por um tempo.
+
+"Quando você aprendeu a separar culpa de causa?" ela perguntou.
+
+Uma pausa longa.
+
+"Ainda estou aprendendo," ele disse.
+
+Havia alguma coisa no dizer isso — na forma que havia dito, no ritmo específico de alguém que havia chegado a uma honestidade que não havia planejado dizer em voz alta mas que havia sido a resposta certa. Era a primeira vez que ele havia admitido, diretamente, que o que havia estado fazendo nos dezoito meses não era solução — era adiamento.
+
+Ela havia ido embora depois disso.
+
+Havia ido porque havia ficado vulnerável demais num tempo curto demais e havia aprendido que quando ficava vulnerável demais a reação instintiva era movimento, que era a forma que usava para recuperar distância.
+
+Havia ido. Havia ficado a dois metros. Havia parado.
+
+Havia voltado.
+
+Havia ficado no deck com ele mais quarenta minutos, em silêncio, olhando o slipsand leste que não retinha memória mas que existia independente do que havia acontecido nele.
+
+---
