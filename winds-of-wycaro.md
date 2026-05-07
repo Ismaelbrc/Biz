@@ -1252,3 +1252,209 @@ Suas mãos sabiam outra coisa.
 Ele saiu da câmara sem resolver essa contradição, porque havia aprendido, em dezoito meses, que algumas contradições não eram para resolver — eram para carregar, junto com tudo mais, enquanto o próximo porto aparecia no horizonte.
 
 ---
+
+## Capítulo 8 — Cartas de Bordo
+
+*Lucasia*
+
+---
+
+Ela estava com os mapas quando ele bateu.
+
+Não era incomum que ela estivesse com os mapas — ela estava com os mapas com a frequência com que outras pessoas estavam com pensamentos, que era a maior parte do tempo. A câmara do capitão tinha uma mesa que era, na prática, exclusivamente para mapas, com marcações de rotas anteriores em cores diferentes que só ela sabia ler, com notas nas margens que eram a memória acumulada de sete anos de navegação escrita na linguagem econômica de alguém que precisava encontrar informação com rapidez num convés em tempestade.
+
+Os mapas eram dela. Não no sentido de posse — no sentido de extensão. O que estava neles era o que estava na cabeça dela, externalizado em papel para que coubesse mais.
+
+A batida na porta foi três vezes. Firme. Não urgente.
+
+Ela reconheceu o padrão antes de pensar sobre ele.
+
+"Entre," ela disse, o que foi uma decisão que aconteceu antes de ser tomada, porque ela ainda estava olhando para a rota de Cassavar e o problema com a rota de Cassavar era que havia um ângulo de aproximação no terceiro dia que a deixava exposta a vento cruzado por quase quatro horas, e havia uma forma de contornar isso que ela havia tentado uma vez e que havia funcionado, e ela estava tentando verificar nos mapas se havia uma forma mais limpa.
+
+Raban abriu a porta e ficou no vão. Não entrou.
+
+Ela levantou os olhos.
+
+Ele havia limpado a areia do cyclocane — ou tanto quanto era possível limpar, porque o pó amarantino do slipsand nunca saía completamente de uma vez, ficava nas sobrancelhas e no canto dos olhos por dias. A mão direita estava enfaixada. Ele a segurava levemente afastada do corpo com a naturalidade de alguém que havia aprendido a compensar dano sem chamar atenção para o dano.
+
+"Os mapas," ele disse.
+
+Não era pedido. Era informação — *é sobre os mapas, não sobre outra coisa.* O equivalente conversacional de mostrar as mãos.
+
+Ela afastou a cadeira da mesa. Fez um gesto.
+
+Ele entrou. Ficou do outro lado da mesa. Olhou para os mapas com a atenção que ela havia visto uma vez antes — não a atenção de alguém interessado, mas a atenção de alguém que estava *lendo*. Havia diferença. Quem está interessado vê o que quer ver. Quem está lendo procura o que está lá.
+
+"Você não os toca," ela disse.
+
+"Você disse para não tocar." Ele não levantou os olhos dos mapas. "Disse também para não falar com sua tripulação e não entrar sem permissão. A tripulação foi a segunda coisa a ir. A entrada foi a terceira." Uma pausa. "Os mapas pareceu o mais importante dos três."
+
+Ela não disse nada a isso, porque não havia nada para dizer que não fosse confirmar que ele estava certo, e ela não estava disposta a confirmar.
+
+O silêncio foi preenchido pelo som do Mercator — o slipsand pós-tempestade mais denso que o normal, o casco respondendo de forma levemente diferente, aquela hesitação conhecida. Ela havia passado a última hora fazendo anotações sobre a variação de densidade com a metodicidade de quem precisava registrar porque confiar só na memória para esse tipo de dado era o tipo de descuido que aparecia em naufrágios não investigados.
+
+"O terceiro dia," Raban disse.
+
+Ela olhou para onde ele estava olhando. O ângulo de aproximação de Cassavar.
+
+"O vento cruzado," ela disse. Confirmação, não explicação. "São quatro horas de exposição."
+
+"Três e meia, se você dobrar aqui." Ele indicou com o queixo — não com a mão, porque havia prometido não tocar. O ponto que ele havia indicado era uma passagem entre duas correntes de areia que a maioria dos cartógrafos marcava como "instável em estação seca" e que, portanto, a maioria das rotas evitava. Ela havia evitado também, há quatro anos, quando havia tentado a variante e havia abandonado no segundo dia porque as correntes estavam erráticas.
+
+Ela não havia tentado desde então.
+
+"As correntes sul são instáveis em estação seca," ela disse.
+
+"As correntes *principais* sul são instáveis em estação seca." Ele ainda não havia tocado nos mapas. "As correntes secundárias, ao longo da borda da formação Valdrek — aqui —" o queixo apontou de novo, e ela seguiu a direção e viu o que ele estava vendo "— são estáveis porque ficam na sombra da formação. Temperatura constante. A instabilidade das correntes principais não chega lá."
+
+Ela olhou para a formação Valdrek. Para a borda. Para o ângulo que se formava se você navegasse rente à pedra em vez de pelo canal aberto.
+
+Era mais estreito. Era tecnicamente mais arriscado. Era três horas e vinte minutos de exposição a vento cruzado em vez de quatro.
+
+Era correto.
+
+Ela odiou que era correto com uma intensidade que teria sido cômica se ela tivesse disposição para encontrá-la.
+
+"Você foi pela formação Valdrek," ela disse.
+
+"Uma vez." Uma pausa. "Com o *Isolde*."
+
+O nome pousou diferente agora que ela sabia o que carregava. Ele havia dito com o mesmo tom que usava para informação de navegação — neutro, preciso, sem o peso visível que ela sabia que estava lá embaixo. Era o tipo de compostura que se aprende quando você precisa falar sobre coisas que pesam sem deixar que o peso apareça, porque se o peso aparecer você para, e parar não é uma opção que você se dá.
+
+Ela havia aprendido o mesmo.
+
+"Funciona em estação úmida também?" ela perguntou.
+
+"A formação cria sua própria microclima. Sim."
+
+Ela se inclinou sobre o mapa. A distância entre ela e o ponto que ele havia indicado era menor do que havia planejado, e a distância entre ela e onde ele estava parado do outro lado da mesa era — ela estava ciente disso da mesma forma que era ciente de uma mudança de pressão, perifericamente, como informação que o corpo registrava antes do cérebro decidir se era relevante.
+
+Era irrelevante. Ela estava olhando para o mapa.
+
+"Correntes cruzadas na entrada da formação," ela disse. "Como você navega a entrada?"
+
+"Você entra com o vento. Não contra." Ele estudava os mapas com aquela expressão que ela ainda não havia conseguido catalogar completamente — havia nele uma qualidade de atenção que não era a atenção de passageiro nem de visitante, era a atenção de alguém que estava lendo o mundo da forma que havia sido ensinado a ler, que era pela lógica do slipsand e do vento e do que o mapa dizia e do que o mapa não dizia porque o cartógrafo não havia pensado em dizer.
+
+"Você conhece as rotas leste melhor do que os cartógrafos que as fizeram," ela disse.
+
+"Os cartógrafos fazem os mapas de terra. Eu navegava." Ele disse isso sem arrogância — como fato. "O mapa não está errado. Está incompleto."
+
+Ela ficou olhando para a formação Valdrek por um momento. Para o canal estreito ao longo da borda. Para a diferença entre o que havia nos mapas e o que ele havia descrito.
+
+"Por que Cassavar?" ela perguntou.
+
+Não era a pergunta que havia planejado fazer. A pergunta que havia planejado fazer era sobre a rota e os vinte dias seguintes e o que fazer com a variante Valdrek no contexto da carga que precisava ser entregue. A pergunta que fez foi diferente — foi a pergunta que estava debaixo das outras, a que aparecia quando a guarda baixava um centímetro sem que ela percebesse que havia baixado.
+
+Ele levantou os olhos dos mapas. Pela primeira vez desde que havia entrado, ele olhou para ela diretamente.
+
+O que o olhar fazia era difícil de registrar sem nomeá-lo, e nomear era o que ela estava evitando. Havia peso nele. A qualidade de alguém que via com mais cuidado do que era conveniente para quem estava sendo visto.
+
+"Sael estava aqui há seis semanas," ele disse. "Ou passando por aqui. Eu tenho um nome."
+
+"Nasso."
+
+"Você sabia."
+
+"Tavessa tem informações que antecedem a maioria das minhas rotas." Ela dobrou levemente um canto do mapa — o gesto inconsciente de organizar enquanto pensava. "Nasso trabalha para quem paga mais. Vai precisar de dinheiro."
+
+"Tenho dinheiro."
+
+"Tem dinheiro suficiente para comprar a lealdade de alguém que vende lealdade profissionalmente?" Ela levantou os olhos. "Porque Nasso não vai te dar o que sabe por um preço que você acha justo. Vai te dar o que acha que você quer ouvir pelo preço que acha que você vai pagar."
+
+Uma pausa. Algo passou pelo rosto dele — não irritação, mas o reconhecimento de alguém que havia calculado uma variável errada e estava recalculando.
+
+"Você conhece Nasso," ele disse.
+
+"Conheço Cassavar." Ela voltou ao mapa. "Nasso é Cassavar concentrado."
+
+Ela esperava que ele perguntasse como contornar Nasso, que era a pergunta lógica depois. Em vez disso, ele ficou quieto por um momento com aquela qualidade de silêncio que ela havia aprendido a associar a ele — não ausência de pensamento, mas pensamento acontecendo antes de falar, o que era uma característica suficientemente rara para que ela notasse toda vez.
+
+"Sael tem quatorze meses de rastro," ele disse. A voz havia mudado levemente — não a entonação, a qualidade. Como se estivesse falando de algo que ficava num lugar específico dentro dele e que precisava de cuidado ao manusear. "Comecei a procurar depois de dois meses. Perdi o rastro em três portos diferentes. Encontrei de volta duas vezes. Perdi de novo."
+
+Ela ouviu. Não disse nada.
+
+"Ela tem documentos falsos. Ela sabe se mover sem ser encontrada porque eu ensinei a ela, porque achei que seria útil algum dia e não pensei que o dia seria esse." Uma pausa. "Em Cassavar, o rastro mais recente termina. Ou ela saiu para leste com o nome de Nasso, ou alguém a encontrou antes de eu chegar."
+
+A segunda opção pousou no silêncio entre eles como a pressão de um cyclocane — antes dos instrumentos, só pelo que fazia com o ar.
+
+"Ela está viva," Lucasia disse.
+
+Ele olhou para ela. "Você não sabe isso."
+
+"Tavessa disse que o Inspetor a adicionou à lista de pessoas de interesse há quatro meses." Ela dobrou o mapa da rota principal e abriu o mapa de Cassavar — mais detalhado, com anotações próprias nas margens sobre portos menores e rotas de saída que não constavam nas cartas oficiais. "Pessoas de interesse não valem nada mortas. Se ela foi pega, está detida. Se está detida, pode ser encontrada."
+
+"E se não foi pega?"
+
+"Então está se movendo, e alguém com documentos falsos e razão para não ser encontrada que leva quatorze meses sem ser encontrada é alguém que sabe o que está fazendo." Ela pôs o dedo sobre o Quarteirão Mandoviano no mapa de Cassavar. "Tavessa tem três favores guardados comigo. Vou usar um para você."
+
+O silêncio que seguiu foi diferente.
+
+Ela levantou os olhos. Ele estava olhando para ela com aquela expressão que ela não havia conseguido catalogar — e havia qualquer coisa nela agora, além do peso e da atenção, que ela definitivamente não estava nomeando.
+
+"Por que você está me ajudando?" ele perguntou.
+
+A pergunta era simples. A resposta verdadeira não era simples, o que era a razão pela qual ela tinha uma resposta diferente preparada — não porque fosse desonesta, mas porque era a parte da resposta que conseguia dizer em voz alta.
+
+Ela dobrou o mapa de Cassavar. Colocou sobre os outros, na ordem correta, como sempre.
+
+"Não estou ajudando você," ela disse. "Estou sendo eficiente."
+
+Ele não respondeu a isso imediatamente. Ela arrumou os mapas. O Mercator se movia abaixo deles com o ritmo ligeiramente alterado do slipsand pós-tempestade, mais denso, mais lento, com aquela qualidade de paciência que o slipsand tinha depois de gastar energia num cyclocane — como se houvesse uma quota de violência e depois só restasse a calma.
+
+"Eficiente," ele disse, por fim. Não era ironia. Era a voz de alguém registrando uma palavra e o que ela cobria.
+
+"Você tem informação sobre as rotas leste que eu não tenho." Ela não olhou para ele. "Você tem razão para chegar a Cassavar rápido, o que significa que vai cooperar com ajuste de rota e não criar dificuldade nas inspeções portuárias. E você tem, aparentemente, conhecimento de Nasso suficiente para que eu não precise explicar do começo." Uma pausa. "Eficiência."
+
+"Você teria dado a rota variante para outro passageiro?"
+
+Ela não respondeu.
+
+"Você teria usado um dos três favores de Tavessa por outro passageiro?"
+
+O silêncio era suficientemente longo para ser uma resposta, e eles ambos sabiam disso, e nenhum dos dois disse nada sobre o que sabiam.
+
+"Dois dias até Cassavar," ela disse, por fim. "A variante Valdrek vai cortar quarenta minutos se as correntes estiverem como você prevê. Vou checar os instrumentos de pressão amanhã cedo para avaliar."
+
+Ele inclinou a cabeça levemente. Não sorriu — ela havia aprendido que ele não sorria facilmente, que o sorriso era algo que ele distribuía com a mesma parcimônia que usava para as palavras, como se soubesse o valor de cada um e não quisesse gastar sem retorno. Mas havia algo nos cantos da boca que era adjacente ao sorriso, que era reconhecimento, que era o tipo de coisa que ela estava definitivamente não catalogando.
+
+"Posso perguntar uma coisa?" ele disse.
+
+"Você perguntou várias."
+
+"Essa é diferente."
+
+Ela esperou.
+
+"As cartas de bordo." Ele havia visto as cartas — a pilha na gaveta esquerda, que estava entreaberta porque ela nunca a fechava completamente porque estava sempre acessando-as. "Nunca vi capitão manter cartas pessoais na câmara de navegação."
+
+Ela olhou para a gaveta. Para a pilha de cartas que estava lá — nomes nas capas, sem datas, nunca enviadas. Ela não havia percebido que ele havia visto.
+
+Ela fechou a gaveta.
+
+"Não são cartas pessoais," ela disse. "São contas pendentes."
+
+Não era mentira. Não era toda a verdade. Era a versão da verdade que vivia no espaço entre as duas, onde ela morava a maior parte do tempo.
+
+Ele não perguntou mais. Olhou para ela por um momento — aquele olhar com peso, com a qualidade de alguém vendo mais do que era confortável ser visto — e depois olhou para os mapas uma última vez.
+
+"A entrada da formação Valdrek," ele disse. "Tem uma pedra submersa a três metros da borda norte. Não está nos mapas. Você vai sentir nos instrumentos de pressão antes de ver — uma leitura anômala por dois segundos. Se sentir isso, ajusta dois graus para sul."
+
+Ela anotou. Não porque precisasse anotar — porque anotar era a forma de encerrar o assunto, de transformar o que havia acabado de acontecer em informação de navegação e guardar num lugar com rótulo.
+
+"Obrigada," ela disse.
+
+Era a primeira vez que ela havia dito isso para ele. Ela não havia planejado dizer.
+
+Ele saiu sem responder, que era, ela havia começado a entender, uma forma de resposta em si mesma.
+
+Ela ficou com os mapas e com o silêncio do Mercator ao redor dela. A tarde tinha aquela luz específica do pós-tempestade — mais clara que o normal, com o amarantino do slipsand puxando para o dourado nas bordas, o tipo de luz que tornava as sombras mais nítidas em vez de mais suaves.
+
+Ela reabriu a gaveta esquerda. Olhou para as cartas.
+
+Fechou de novo.
+
+Dois dias até Cassavar. Depois ele desembarcava. Depois o Mercator seguia.
+
+Isso era o que havia.
+
+---
