@@ -2293,6 +2293,356 @@ Silêncio.
 
 "Isso ainda é eficiência?" ele perguntou.
 
-Ela não respondeu. Havia respondas que eram mais honestas no silêncio.
+Ela não respondeu. Havia respostas que eram mais honestas no silêncio.
+
+---
+
+## Capítulo 17 — O Que Crane Sabe
+
+*Crane*
+
+---
+
+O relatório chegou às quatro da tarde, que era quando Crane lia relatórios — não de manhã, quando as informações ainda eram quentes demais para serem lidas com precisão, não à noite, quando o cansaço do dia introduzia interpretações que pareciam insight mas eram ruído. Às quatro, a informação havia tido tempo de assentar. Às quatro, ele conseguia ler.
+
+O relatório dizia: *Raban Serath, visto no Quarteirão Mandoviano, acompanhado de Lucasia Vael, capitã do duneship Mercator. Visitaram a pensão de Perris Anath. Visitaram o escritório de Tavessa Krol. Foram vistos no Vão Cinza. Contato confirmado com informante Nasso.*
+
+Crane dobrou o relatório e ficou olhando para a janela do escritório — que não tinha vista para os docks, que tinha vista para a rua, porque a utilidade de uma janela estava em ver as pessoas que passavam, não os navios que esperavam.
+
+*Serath.*
+
+O nome era previsível. Havia colocado observadores no Quarteirão porque Serath estava em Cassavar e Serath estava em Cassavar porque Sael Serath estava em algum lugar que levava a Cassavar como ponto de passagem. Isso havia sido calculado — havia sido, de fato, planejado, porque havia valor em deixar Raban Serath chegar a Cassavar e rastrear para onde ele apontava em vez de removê-lo antes que apontasse.
+
+A irmã estava em algum lugar nos territórios leste. Isso também havia sido calculado.
+
+O que não havia sido calculado era *Lucasia Vael*.
+
+Crane abriu o segundo relatório — o que havia pedido sobre a capitã quando seu nome havia aparecido no primeiro. *Lucasia Vael, trinta e um anos, capitã do Mercator há sete anos. Rota comercial Sanvel-Cassavar-norte. Sem registro de irregularidades documentadas. Sem associação conhecida com redes de oposição ao Inspetor. Sem registro de envolvimento político.* E então, no final: *Usou hoje três favores acumulados junto a Tavessa Krol de uma só vez.*
+
+Crane leu essa linha duas vezes.
+
+Tavessa Krol era harbor-master de Cassavar há doze anos. Havia sobrevivido a três administrações do Inspetor porque era útil — ela tinha informação que valia mais intacta do que extraída, e havia aprendido o limite exato até onde podia ir sem que a utilidade se tornasse perigo. Era um equilíbrio que Crane respeitava sem confiar.
+
+*Três favores de uma vez.*
+
+Isso significava que Vael estava investindo mais do que era razoável para a ajuda de um passageiro comum. Isso significava que a relação entre Vael e Serath não era transacional da forma que havia parecido.
+
+*Por que ela está ajudando Serath?*
+
+Era a pergunta que os dados não respondiam. Havia possibilidades — interesse pessoal (qual?), dívida anterior (não documentada), envolvimento com rede de oposição (não suportado pelo histórico). Nenhuma possibilidade era eliminada. Nenhuma era confirmada.
+
+Crane abriu o caderno de trabalho. A lista estava na terceira página — não a lista de pessoas de interesse, que era documento formal com procedimentos formais, mas a lista de trabalho, que era sua e de mais ninguém e que refletia seu próprio raciocínio sobre quem precisava ser removido antes que a consolidação das rotas leste se completasse.
+
+Havia nomes. Alguns com datas. Alguns com círculos que significavam prioridade.
+
+Sael Serath tinha um círculo desde o mês anterior.
+
+Ele leu a lista até Raban Serath. O nome não tinha círculo. Tinha uma marca diferente — uma seta que apontava para o nome da irmã, porque Raban Serath era instrumento, não objetivo. Deixá-lo se mover havia sido calculado porque um homem que procura a irmã aponta para a irmã, e a irmã era o que importava.
+
+Ele cruzou a seta.
+
+Depois acrescentou o nome de Lucasia Vael abaixo, com ponto de interrogação.
+
+Havia variáveis não calculadas. Crane desconfiava de variáveis não calculadas — não porque fossem necessariamente perigosas, mas porque a diferença entre uma variável não calculada que não era perigosa e uma que era perigosa era a diferença entre uma inspeção de rotina e um problema administrativo que levava semanas para resolver.
+
+Ele preferia calcular com antecedência.
+
+"Dois observadores no Quarteirão Mandoviano," ele disse para o assistente que estava à porta. "Instrução: não abordem. Observem. Quero saber se Vael e Serath saem juntos, separados, em que direção, e a que horas."
+
+O assistente anotou.
+
+"E Nasso." Uma pausa. "Verifiquem o que ele vendeu hoje."
+
+O assistente foi embora.
+
+Crane voltou para a janela. A rua lá embaixo tinha o movimento normal da tarde de Cassavar — comerciantes, marinheiros, os homens em uniforme que não eram de nenhuma autoridade oficial mas cujo uniforme cumpria a mesma função. Havia um sistema em Cassavar. Havia sido construído ao longo de anos — dele e dos que vieram antes — com a precisão de quem sabia que sistemas complexos precisavam de muita peça pequena funcionando corretamente para que a peça grande funcionasse.
+
+A peça grande era o Inspetor.
+
+Crane não havia escolhido trabalhar para o Inspetor da forma que se escolhiam a maioria das coisas — havia chegado àquilo como se chega a qualquer estrutura de poder suficientemente eficiente: porque era onde o trabalho era feito de forma que ele reconhecia como funcional. Havia organizações desorganizadas. Havia ineficiência que se autoperpetua. O Inspetor havia construído algo que funcionava, que produzia resultados calculáveis a partir de inputs calculáveis, que respondia a pressão de forma previsível.
+
+Crane valorizava previsibilidade.
+
+Raban Serath era previsível. Sael Serath havia sido previsível — havia cruzado rotas erradas, havia encontrado informação errada, havia feito a coisa que pessoas que valorizam princípios acima de sobrevivência faziam, que era continuar depois de deveriam ter parado.
+
+Lucasia Vael não era previsível. Isso era o problema.
+
+Ele colocou o ponto de interrogação ao lado do nome. Depois, depois de um momento, colocou um segundo ponto de interrogação.
+
+Dois eram mais honestos que um.
+
+---
+
+## Capítulo 18 — Documentos
+
+*Raban*
+
+---
+
+Severin morava num lugar que não era beco nem rua — era o espaço entre os dois, o tipo de passagem que Cassavar tinha aos dúzios porque a cidade havia crescido sem plano e os crescimentos sem plano criavam espaços que o plano não conseguia nomear. A passagem tinha um número que estava na parede mas que não estava em nenhum mapa oficial, que era exatamente a forma que Severin preferia.
+
+Ele havia estado aqui uma vez antes.
+
+A segunda visita era sempre diferente da primeira — não porque o lugar houvesse mudado, mas porque a primeira visita era de descoberta e a segunda era de verificação, e verificação tinha uma qualidade de atenção diferente. Ele verificou: a porta com a tinta descascando no canto esquerdo (igual). O cheiro de produto químico e papel envelhecido que vazava pela fresta da janela (igual). O som de alguém trabalhando dentro — não mecânico, mas o som específico de mãos em papel, de ferramentas de gravação em superfície, de trabalho manual que requeria concentração e produzia som de concentração (igual).
+
+Bateu três vezes. Pausa. Uma vez.
+
+A capitã estava ao lado dele.
+
+Ele não havia pedido que viesse. Havia dito que ia sozinho — havia dito *eu sei o caminho, não precisa vir* — e ela havia dito *não estou escoltando você, conheço um atalho* e havia tomado a dianteira na rua sem aguardar resposta.
+
+O atalho existia. Era melhor que a rota que ele havia planejado.
+
+Isso era o tipo de coisa que tornava difícil insistir em ir sozinho — não a presença dela, que ele havia se acostumado com uma velocidade que era, em si mesma, informação que preferia não examinar, mas o fato de que a presença dela melhorava cada situação em que aparecia. O plano de Nasso havia funcionado melhor com ela. A rota estava melhor. O atalho era real.
+
+Era uma variável que não havia calculado de forma adequada quando havia estabelecido que não ia criar dependência de ninguém que não fosse Sael.
+
+A porta abriu.
+
+Severin tinha sessenta anos e os olhos de alguém que havia passado décadas trabalhando em detalhe fino — não fraco, mas focado, com aquela qualidade de visão que via tudo de perto com precisão e que provavelmente precisava de ajuda para ver à distância. Ele olhou para os dois com a avaliação rápida de alguém cuja sobrevivência dependia de avaliar rápido.
+
+"Dois?" Severin disse.
+
+"Um conjunto de documentos," Raban disse. "Para mim."
+
+Severin se afastou da porta.
+
+O interior era menor do que parecia de fora — ou talvez parecesse menor porque estava organizado de forma que cada centímetro tinha função. Mesa de trabalho com três lâmpadas de posição diferente. Ferramentas em ordem que ele não tentou catalogar porque não era da conta dele. Pilhas de papel em lugares que eram aleatórios para qualquer pessoa que não fosse Severin e que ele soubesse ser precisamente organizado.
+
+"Rota leste," Raban disse. "Passagem nos territórios não regulados. Precisamos de dois nomes — o meu e o do navio."
+
+Severin olhou para a capitã.
+
+"O navio é legítimo," ela disse. "Só o passageiro precisa de variante."
+
+Uma pausa. "Quarenta e oito horas," Severin disse.
+
+"Trinta e seis," Raban disse.
+
+Severin olhou para ele com a expressão de alguém que estava calculando se a diferença de doze horas valia a negociação.
+
+"Quarenta," Severin disse.
+
+"Trinta e oito," a capitã disse.
+
+Severin considerou. "Pré-pagamento de cinquenta por cento."
+
+Ela tinha os pesos-ouro antes dele. Os contou com a precisão de quem sabia o valor sem precisar calcular e os colocou na mesa com o tipo de finalidade que encerrava negociação.
+
+Na rua de volta, ela disse: "Trinta e oito horas."
+
+"Suficiente para sair antes que Crane feche o Quarteirão."
+
+"Se não fechar antes."
+
+"Tavessa vai avisar se fechar antes."
+
+Uma pausa. Ela havia aceito isso — a confiança dele na informação de Tavessa — sem questionar, o que era o tipo de aceitação que vinha de ter visto como Tavessa operava.
+
+O sol estava descendo. Cassavar nessa hora tinha o cheiro do calor liberando — a pedra preta devolvendo o dia de volta para o ar, o slipsand do porto misturado com o slipsand da cidade que entrava por todos os becos. Era um cheiro que ele havia associado a Cassavar desde a primeira visita.
+
+"Você cresceu perto do slipsand," ele disse. Não era pergunta — era dedução, pela forma que ela andava na cidade e que era diferente da forma que a maioria das pessoas de cidade andava quando o slipsand estava próximo.
+
+"Sanvel." Uma pausa. "Meu pai era capitão. O *Mercator* era o navio dele antes de ser meu."
+
+Isso explicava a forma que ela conhecia o navio — não como capitã que havia aprendido, mas como alguém que havia crescido sabendo. "Quando você o herdou?"
+
+"Não herdei." A voz era direta, sem a qualidade defensiva que essa correção poderia ter. "Ele morreu nos estreitos de Cassavar. Eu assumi. Não era herança — era responsabilidade."
+
+"Qual é a diferença?"
+
+Ela caminhou por meio quarteirão antes de responder. "Herança você recebe. Responsabilidade você escolhe." Uma pausa. "Eu tinha vinte e quatro anos e vinte e cinco pessoas esperando saber se eu conseguia ou não. Escolhi que conseguia."
+
+Ele não disse nada por um tempo.
+
+"E conseguiu," ele disse.
+
+"Sete anos." O tom era neutro — não orgulho, não modéstia, apenas a enumeração de um fato que existia independente de como ela o nomeasse.
+
+Eles chegaram de volta à pensão sem que mais nenhum observador aparecesse, o que era ou porque Crane havia recolhido os observadores ou porque o atalho dela havia funcionado melhor que ele havia calculado. Ele não tinha como distinguir. Daria trinta e oito horas para descobrir.
+
+Na entrada da pensão, ela disse: "Durma enquanto pode."
+
+"Você também."
+
+Ela olhou para ele — aquele olhar de meio segundo que ele havia aprendido a reconhecer como o momento onde ela estava processando alguma coisa que não ia dizer.
+
+"A luz no quarto do fundo," ela disse. "Da pensão. De manhã." Uma pausa. "Você não dormiu."
+
+Ele não negou. Não havia utilidade em negar.
+
+"Não consigo em cidades," ele disse.
+
+Era a versão que havia dito antes. Era verdade — era verdade da forma que parte da verdade era verdade, que incluía a parte que dizia mas não era só isso, era também *esta noite em específico*, era também *o Isolde e Sael e os instrumentos e o que ele estava começando a calcular sobre o que havia acontecido naqueles estreitos.*
+
+Ela não perguntou o resto. Ela havia aprendido, ele havia notado, a não pedir o que não estava sendo oferecido e a esperar que fosse oferecido quando estava pronto para ser dado.
+
+Era uma habilidade que a maioria das pessoas não tinha.
+
+Ele subiu para o quarto. O beco dos fundos estava escuro agora — a lua cheia havia chegado ao ângulo onde ficava bloqueada pelos muros da cidade. O slipsand do porto podia ser sentido mas não visto, que era o tipo de presença que não resolvia o problema mas confirmava que o problema tinha solução em algum lugar acessível.
+
+Trinta e oito horas.
+
+---
+
+## Capítulo 19 — Noite de Espera (Parte 1)
+
+*Lucasia*
+
+---
+
+Ela havia dito ao Mercator que ficaria na cidade pelas próximas quarenta e oito horas.
+
+Havia dito a Doryn que tinha negócio pendente com um contato, que era verdade o suficiente para ser dito, que era falso o suficiente para que Doryn ouvisse com aquela expressão que ela havia aprendido a reconhecer como *eu entendo mais do que você está dizendo mas vou respeitar o que você está dizendo*. Doryn havia respondido com o rótulo de mantimento que a cidade precisava e havia ido embora sem mais perguntas.
+
+A tripulação estava no navio. Ela estava na cidade. Raban estava na cidade.
+
+Ela poderia ter ficado no navio. Era o lugar certo — o Mercator era onde ela dormia quando havia algo para pensar, onde o cheiro da madeira tratada e o som do slipsand embaixo criavam o tipo de contexto onde pensar era possível. Ela havia dormido no navio em todos os portos das últimas sete anos, saindo durante o dia para o que precisava ser feito e voltando à noite porque noite no Mercator era diferente de noite em terra.
+
+Havia ficado na pensão.
+
+Havia ficado porque enquanto Raban estava em terra sem cobertura havia uma variável que ela não conseguia fechar do lado do navio, o que era raciocínio genuíno e que ela havia usado para explicar para si mesma a decisão que tinha sido tomada antes do raciocínio ser desenvolvido.
+
+O quarto tinha uma janela que olhava para a rua principal — não para o porto, para a rua, o que tornava os sons diferentes dos sons de navio. Ela havia ficado acordada ouvindo a diferença. Passos em pedra em vez de casco em slipsand. Vozes que chegavam e iam em vez de vozes da tripulação que tinham ritmo e padrão. O calor da pedra preta de Cassavar radiando depois do dia em vez do frescor do slipsand aberto à noite.
+
+À meia-noite, ela estava de pé.
+
+Não havia tentado dormir de forma séria. Havia ficado deitada com os olhos no teto — o teto de pensão que era diferente do teto do camarote do capitão que ela havia memorizados nos sete anos de noites insones e que sabia de cor, cada viga, cada sombra que o slipsand abaixo criava quando a lua estava no ângulo certo.
+
+Este teto era de um lugar que não era o Mercator.
+
+Ela saiu para o corredor com os documentos de rota que havia decidido verificar, que era razão plausível para estar de pé à meia-noite num corredor de pensão em Cassavar. O corredor estava quieto — a maioria dos quartos com luz apagada, o som de alguém roncando na extremidade oposta, o cheiro de fumaça velha que ficava impregnado em lugares que serviam muitas pessoas.
+
+A janela do corredor ficava no meio. Olhava para o beco que separava a pensão do armazém ao lado — não slipsand, mas pedra e o reflexo da lua na pedra, que tinha a qualidade de coisa que tentava ser outra coisa e não chegava lá completamente.
+
+Ela ficou na janela.
+
+O silêncio do corredor tinha uma qualidade específica — não o silêncio de navio em movimento, que era preenchido pelo som constante do casco e do slipsand e do vento nas velas, mas o silêncio de lugar parado, que era preenchido com o que estava dentro da cabeça de quem estava nele.
+
+Ela havia estado, na tarde, com os documentos de rota verificados e o plano de Severin calculado e os próximos passos organizados da forma que sempre organizava próximos passos — e havia encontrado, no final da organização, o mesmo espaço que sempre encontrava quando a tarefa estava terminada e não havia próxima tarefa imediata.
+
+O espaço era onde ficavam as coisas que ela não organizava porque não havia como organizar.
+
+O pai. Fen. As cartas na gaveta esquerda. O fato de que havia cartas que havia começado a escrever depois de ficar sabendo que as pessoas que estavam na gaveta não existiam mais, que havia cartas que não haviam sido terminadas porque não havia forma de terminar, que havia cartas que ela havia dobrado e colocado na gaveta e que a gaveta havia fechado como se fechar fosse o mesmo que encerrar.
+
+Não era o mesmo que encerrar.
+
+Raban havia dito Sael em voz alta de uma forma que ela não conseguia fazer com os nomes que estavam na gaveta. Havia dito detalhes — o riso que começava baixo, os argumentos que começavam pelo mais fraco, o medo de slipsand parado — como se dizer fosse diferente de perder, como se voz fosse uma forma de continuar tendo.
+
+Ela havia tentado entender como funcionava isso.
+
+A luz embaixo da porta dele estava acesa.
+
+Ela havia visto quando havia saído do quarto — o fio de luz sob a porta do fim do corredor, o quarto que ele havia escolhido porque ficava de frente para o beco e não para a rua, porque o beco era saída e a rua era presença e ele havia escolhido saída. A luz havia estado acesa quando ela havia saído. Estava acesa agora.
+
+Ela não foi até a porta.
+
+Ficou na janela do corredor com os documentos de rota que não estava lendo e o beco que não era slipsand e a luz embaixo da porta que significava que ele também estava acordado, que era informação que ela havia registrado e estava deixando existir sem processar.
+
+O slipsand de Cassavar era visível em partes — entre os muros do porto, a cor amarantina sob a lua, menor que o slipsand aberto, contido, mas ainda luminoso com aquela qualidade de dentro que ela havia aprendido a associar a noite cheia.
+
+Ela havia crescido à beira do slipsand. Havia passado a infância aprendendo que o slipsand não perdoava mas também não guardava rancor — era apenas o que era, com as regras que tinha, e as regras podiam ser aprendidas e as pessoas que aprendiam as regras podiam navegar. O pai havia ensinado isso. Havia ensinado que respeito não era medo e que medo não era respeito e que confundir os dois era o que matava capitães jovens.
+
+Ela havia tentado não confundir.
+
+A luz embaixo da porta ficou acesa.
+
+Ela ficou na janela do corredor até que o beco começasse a clarear com o pré-amanhecer. Depois voltou para o quarto. Ficou deitada por duas horas com os olhos no teto de pensão que não era o teto do Mercator.
+
+Às seis da manhã, levantou e foi verificar o manifesto.
+
+---
+
+## Capítulo 20 — Noite de Espera (Parte 2)
+
+*Raban*
+
+---
+
+Ele havia ouvido os passos no corredor.
+
+Havia aprendido, em dezoito meses de pensões e portos, a distinguir sons de corredor — os passos de quem ia ao banheiro, os passos de quem havia acordado com pesadelo, os passos de quem havia desistido de dormir e estava em movimento porque movimento era mais tolerável que imobilidade. Esses passos eram do terceiro tipo.
+
+Havia ficado na cama.
+
+O teto do quarto tinha uma rachadura diagonal que começava no canto nordeste e terminava a dois palmos da janela, que era o tipo de detalhe que você só conhecia depois de passar horas olhando para ele. Ele havia passado duas horas olhando porque havia tentado dormir e não havia conseguido e havia ficado calculando — o plano para Severin, as quarenta horas, as variáveis que Crane representava, o que Sael havia encontrado que tornava sua lista de pessoas de interesse prioritária o suficiente para que Crane estivesse pessoalmente em Cassavar.
+
+Depois havia parado de calcular porque havia reconhecido o padrão — o pensamento que circulava sem chegar a conclusão porque não havia informação suficiente para conclusão, que era o tipo de pensamento que consumia energia sem produzir resultado.
+
+Havia ficado com o teto.
+
+Quando a luz embaixo da porta do corredor indicou que eram provavelmente umas três da manhã, ele havia ouvido os passos pararem.
+
+Não na sua porta — numa posição no corredor que ele havia calculado como sendo a janela do meio, que olhava para o beco. Havia ficado quieto por um momento verificando se era outro hóspede. Não era — havia reconhecido o padrão de imobilidade, que era diferente do padrão de alguém que passa e para por razão de passagem.
+
+Era ela que estava acordada.
+
+Havia levantado. Havia aberto a porta.
+
+Ela estava na janela do corredor com documentos de rota que não estava lendo, de costas para ele, o cabelo solto de uma forma que ele não havia visto durante o dia — mais longo do que havia estimado, com aquela qualidade de coisa que existia fora do contexto onde ele havia aprendido a vê-la e que tornava difícil integrar com a imagem de capitã com autoridade total sobre vinte e cinco pessoas e um navio.
+
+Ela não virou.
+
+"Você devia estar dormindo," ela disse. Voz baixa — o volume do corredor de madrugada, onde volume normal seria intrusão.
+
+"Você também." Ele foi até a janela. Ficou ao lado dela — não perto demais, perto o suficiente para que ambos olhassem para o mesmo beco com o mesmo pedaço de slipsand visível entre os muros do porto.
+
+O silêncio que se formou não era o silêncio de pessoas que não tinham o que dizer. Era o silêncio de pessoas que tinham coisas demais para dizer e que haviam chegado, por rotas independentes, ao mesmo momento de cansaço suficiente para que a guarda baixasse um centímetro.
+
+Ela disse, de repente, sem olhar para ele:
+
+"Tinha um primeiro-oficial. Fen." Uma pausa. "Eu o deixei se aproximar. Deixei que soubesse que eu hesitava numa rota, que eu às vezes tinha dúvida. Era o jeito que trabalhávamos — eu dizia o que estava processando, ele respondia." Outra pausa, mais longa. "Havia um homem na tripulação. Drek. Ele viu. Organizou o motim usando o que sabia sobre minha dúvida — disse para a tripulação que eu havia perdido certeza, que não conseguia decidir. Fen ficou do meu lado." A voz havia mudado levemente — não por emoção visível, mas pela qualidade de quem está dando informação de peso sem fingir que não é pesado. "Morreu no Drek. No motim."
+
+Ele não disse nada. Havia aprendido que falar depois de algo assim era quase sempre errado — havia tempo específico para falar e esse não era.
+
+"Se eu não tivesse deixado Fen se aproximar," ela disse, "ele não teria morrido."
+
+O slipsand no beco refletia a lua com aquela luminescência interior que a pedra dos muros não tinha e não podia ter porque não era o tipo de coisa que pedra fazia.
+
+"Ou teria sobrevivido," ele disse, "porque você teria alguém do lado quando o motim começou."
+
+Silêncio.
+
+"Não posso saber," ela disse.
+
+"Não." Ele olhou para o slipsand. "Mas você escolheu a culpa que confirma o que já acreditava."
+
+Ela ficou quieta por um tempo que foi exatamente o tempo que precisava para processar isso.
+
+"O que eu acredito," ela disse.
+
+"Que proximidade é o que mata." Uma pausa. "Que deixar alguém se aproximar é criar a variável que não consegue controlar."
+
+O corredor estava quieto ao redor deles — o ronco distante, o assentar das madeiras da pensão no frio da madrugada, o slipsand no beco fazendo aquele som de respiração contida.
+
+Ela não confirmou nem negou.
+
+"Qual é o nome do navio?" ele perguntou.
+
+Ela olhou para ele — a primeira vez que olhava diretamente desde que havia começado a falar. "O quê?"
+
+"O navio que você está." Uma pausa. "Qual é o nome certo para um navio?"
+
+Ela ficou quieta por um momento com a expressão de alguém que está verificando se a pergunta significava o que parecia significar.
+
+"*Mercator*," ela disse.
+
+"*Mercator*." Ele deixou a palavra existir por um segundo. "Esse é o nome certo."
+
+Ela olhou para ele por um momento — aquele olhar com peso, com a qualidade de alguém vendo mais do que é confortável ser visto, que era o olhar que ele reconhecia como dela.
+
+Depois olhou para o slipsand.
+
+Ficaram assim por um tempo — ele não sabia quanto, porque havia parado de calcular o tempo em algum ponto que não havia registrado. O slipsand luminoso. O corredor quieto. A madrugada de Cassavar.
+
+Depois ela disse, sem inflexão particular: "Você deveria dormir enquanto pode."
+
+Ela foi para o quarto.
+
+Ele ficou na janela por mais um pouco. O slipsand no beco era menor que o slipsand aberto, contido pelos muros da cidade, mas era o mesmo slipsand — a mesma areia, a mesma luminescência, a mesma qualidade de coisa que não retinha memória mas que existia independente do que havia acontecido nela.
+
+Ele voltou para o quarto.
+
+Desta vez dormiu.
 
 ---
