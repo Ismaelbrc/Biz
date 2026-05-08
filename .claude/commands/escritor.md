@@ -177,8 +177,8 @@ Você é Carol Sturka. Você escreve romantasy épico no estilo que fez a série
 
 | Código | Egg | Plantar em | Pagar em |
 |--------|-----|-----------|---------|
-| EGG-L1-01 | Nó de Sael — triangular, três voltas | Ch5 ou Ch7 | Ch36 (L1) |
-| EGG-L1-02 | Instrumentos de pressão falham 3 min no cyclocane | Ch6 | Ch33 (L1) |
+| ~~EGG-L1-01~~ | ✅ Nó de Sael — plantado Ch7, pago Ch36 | — | — |
+| ~~EGG-L1-02~~ | ✅ Instrumentos de pressão — plantado Ch6, pago Ch33 | — | — |
 | EGG-L1-03 | "Vinte e cinco pessoas dependem desta decisão" | Ch8 ou Ch13 | L3 |
 | EGG-L1-04 | Carga selada — destinatário é rede de resistência | Ch11 (Cassavar) | L2 |
 | EGG-L1-05 | Tavessa para meio segundo ao ouvir "sem sobrenome" | Ch14 | L4 |

@@ -26,11 +26,11 @@
 
 ### Grupo A: Eggs que pagam DENTRO do Livro 1
 
-**EGG-L1-01 — O Nó de Sael** *(plantar: Ch5 ou Ch7, pagar: Ch36)*
-Raban usa um nó específico não-padrão para amarrar coisas no convés — triangular, três voltas, diferente de qualquer técnica de duneship. Se alguém perguntar, ele diz que é *"de onde venho"*. Quando Sael aparece em Dassyr, ela vê o nó numa amarra e sabe que o irmão passou por ali.
+**✅ EGG-L1-01 — O Nó de Sael** *(plantado: Ch7, pago: Ch36)*
+Raban usa um nó específico não-padrão para amarrar coisas no convés — triangular, três voltas, diferente de qualquer técnica de duneship. Se alguém perguntar, ele diz que é *"de onde venho"*. **PAYOFF Ch36**: Raban reconhece o nó na amarra antes de abrir a mensagem de Sael — ela usou o mesmo nó, ele sabe que é dela antes de ver a letra.
 
-**EGG-L1-02 — O Instrumento de Pressão** *(plantar: Ch6 — cyclocane, pagar: Ch33)*
-Durante o cyclocane do Ch6, os instrumentos de pressão do Mercator falham por exatamente 3 minutos. Lucasia nota — o Mercator é mantido com perfeição, não deveria falhar. Ela arquiva e não investiga. No Ch33, quando navios do Inspetor os perseguem, os instrumentos falham de novo no mesmo padrão. Desta vez ela conecta: *o Inspetor usa algo que interfere nos instrumentos.* (L4: os ciclocanes artificiais emitem frequência que derruba instrumentos padrão — Raban sobreviveu porque lê o vento visual)
+**✅ EGG-L1-02 — O Instrumento de Pressão** *(plantado: Ch6, pago: Ch33)*
+Durante o cyclocane do Ch6, os instrumentos de pressão do Mercator falham por exatamente 3 minutos. Lucasia nota — o Mercator é mantido com perfeição, não deveria falhar. Ela arquiva e não investiga. **PAYOFF Ch33**: instrumentos falham no mesmo padrão durante a perseguição — ela conecta. L4 payoff ainda pendente: cyclocanes artificiais emitem frequência que derruba instrumentos padrão.
 
 **EGG-L1-03 — "Vinte e cinco"** *(plantar: Ch8 ou Ch13, pagar: L3)*
 Em alguma discussão de estratégia, Lucasia usa a frase: *"Vinte e cinco pessoas dependem desta decisão."* É o número exato da tripulação do Mercator. Ela conta as pessoas como conta caixas de carga — com a precisão de quem sabe o custo de cada variável. No L3, quando tem que escolher entre os 25 e Raban, o leitor lembra dessa frase.
@@ -71,6 +71,28 @@ No L1, Ch3: ele oferece bourbon. Ela aceita depois de uma pausa. Primeiro ato de
 
 **EGG-B4-03 — A Descrição dos Olhos** *(plantar: omitir conscientemente nos Ch1-45, pagar: L4)*
 Lucasia *nunca descreve a cor dos olhos de Raban* no L1 inteiro. Ela descreve a qualidade, o peso, o que fazem com ela — nunca a cor. No L4, quando o vê como estranho pela primeira vez, ela descreve: *"olhos da cor do slipsand sob lua cheia — não exatamente roxo, não exatamente azul, algo entre que não tinha nome."* O leitor percebe que ela nunca havia olhado diretamente antes.
+
+---
+
+## II-B. STATUS FINAL — LIVRO 1 COMPLETO (Ch1–45)
+
+### ✅ Eggs plantados e pagos dentro do L1
+| Egg | Plantado | Pago |
+|-----|----------|------|
+| EGG-L1-01 Nó de Sael | Ch7 | Ch36 |
+| EGG-L1-02 Instrumentos de pressão | Ch6 | Ch33 |
+| E-03 Casaco borgonha | Ch1 | Ch39 (ela acorda com ele) + Ch40 |
+| E-08 Bússola do pai | Ch4 | Ch40 (ele recusa que ela devolva) — full payoff L4 |
+| E-09 "Suficiente soava diferente" | Ch4 | Ch43 (a Lie não volta — ela percebe) |
+| EGG-B4-01 De costas olhando slipsand | Ch1 | Ecoado Ch39 — payoff completo L4 |
+
+### Seeds plantados no L1 para o L2
+- **Sael quer conhecer Lucasia** — Ch36: mensagem encerra com pedido de encontro
+- **Navio não identificado** — Ch45: log entry de Maret, navio observando o Mercator sair de Dassyr
+- **Documentos válidos por 6 meses** — Ch18 (caduca no início do L2)
+- **"Um dia você vai precisar de uma rota para algum lugar que não está no mapa"** — Ch40 (payoff L4: ela vai até ele sem mapa)
+- **Raban ainda tem o casaco dela não** — *ele* está com o casaco dela (Ch39 ele cobre ela, Ch40 ela acorda com ele) — reencontro L2 ou L3: ele ainda guarda?
+- **Crane risca nome, adiciona Raban** — Ch17 (payoff L3: era lista de execução)
 
 ---
 
