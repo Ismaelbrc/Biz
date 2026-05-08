@@ -5451,9 +5451,9 @@ Era tudo. Era suficiente.
 
 Ela colocou a bússola no bolso — não de volta à prateleira, não na câmara do capitão. No bolso da jaqueta, onde ficaria enquanto o Mercator fosse norte e onde ficaria depois também, porque havia coisas que se carregavam não por peso mas por escolha.
 
-O horizonte norte se abria.
+O horizonte norte se abria. Lucasia ficou no leme.
 
-Lucasia ficou no leme.
+A bússola estava no bolso.
 
 ---
 
