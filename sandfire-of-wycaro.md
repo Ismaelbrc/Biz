@@ -396,3 +396,405 @@ Seis vezes.
 Na sétima havia soado como outra coisa completamente.
 
 ---
+
+## Capítulo 3 — Negócios
+
+*Raban*
+
+---
+
+A câmara tinha cento e oitenta e seis centímetros de comprimento por cento e quarenta e dois de largura.
+
+Ele sabia isso havia dezoito meses — o tipo de medida que você aprende quando não há mais navio para comandar e o corpo está exausto e o turno de vigia ainda não terminou. Você conta o que resta. As mãos precisam de algo para verificar.
+
+Acordou às três da manhã.
+
+Não havia imagem, não havia sequência — só a frequência cardíaca que levava tempo demais para assentar, e o espaço fechado com a qualidade de espaços que ficam menores quando carregam algo que não tem nome. Levantou. Abriu a janela.
+
+O slipsand de Arvene estava abaixo. Preto-roxo, denso, sem a luminescência que o norte devolvia de noite. Seis meses de rota leste haviam ensinado a diferença: o slipsand daqui não guardava a luz, absorvia. Ficava mais escuro depois do crepúsculo, não mais bonito. Era o tipo de honestidade que ele havia aprendido a reconhecer nas coisas que não precisavam de aprovação para existir.
+
+Ficou na janela por um tempo que não mediu.
+
+---
+
+Havia seguido os mapas dela por seis meses.
+
+Havia percebido a qualidade deles no segundo dia de rota — não pela comparação com outros mapas, embora os outros fossem inferiores, mas porque havia navegado a primeira rota projetada por ela sem dados diretos do leste e a projeção havia sido precisa. A corrente pós-Harven, o banco de areia de Crevos à profundidade que ela havia estimado por extrapolação de padrões do norte — tudo dentro da margem de variação que qualquer capitão esperaria de um território que havia pisado.
+
+Ela nunca havia pisado.
+
+No quarto mês havia parado numa praia de areia compacta perto de Crevos, havia olhado para o mapa dela e depois para o horizonte que o mapa havia previsto, e havia chegado a uma conclusão que havia dobrado de volta com o papel e continuado a rota: aquela qualidade de trabalho não era só técnica. Era atenção de um tipo específico — o que uma pessoa faz quando quer que outra chegue a algum lugar em segurança e a única forma de garantir isso é pela precisão do que deixa para trás.
+
+Havia pensado nisso mais do que era estritamente necessário.
+
+Havia também passado seis meses em movimento constante, que era o modo de operação que havia desenvolvido desde o Isolde e que havia chamado de necessidade porque havia sido necessidade e porque nomear a diferença entre necessidade e hábito exigia parar, e ele não havia parado.
+
+O Mercator havia chegado às quatro da tarde.
+
+Ele estava no cais norte quando atracou. Havia ficado — havia terminado a descarga, havia arrumado a corda, havia esperado. Não ao cais sul, não ao encontro, mas disponível: a única aproximação que funcionava com ela. Havia aprendido isso nas quatro semanas de rota do L1, antes de ter vocabulário para nomear o que havia aprendido. Forçar a interseção muda a qualidade do encontro. As coordenadas se cruzam quando o tempo é certo.
+
+Ela havia aparecido antes das seis.
+
+Agora eram três da manhã e havia uma reunião às seis e ele tinha a câmara e o slipsand e tempo suficiente para colocar em ordem o que ia dizer.
+
+---
+
+Os mapas estavam espalhados quando chegou à câmara do capitão.
+
+Não um mapa — o conjunto. O material que ela havia projetado mais as onze mensagens que ele havia mandado por via irregular nos pontos da rota com acesso a correio portuário. Ela havia disposto tudo em sequência cronológica invertida — mais recentes primeiro, um sistema que não era de cartógrafo mas de quem planeja a partir do estado atual e trabalha para trás em busca de origem.
+
+O café estava na mesa. Dois copos.
+
+— Você dormiu, — ela disse. Não era pergunta.
+
+— Algumas horas.
+
+Ela assentiu. Não perguntou sobre o resto.
+
+Era a estrutura de conversa deles — havia sido desde o bourbon em Dassyr, desde o leme no L1. O que não era dito cabia entre o que era.
+
+— Sael, — ele disse.
+
+— Sael.
+
+Ele puxou a cadeira do ângulo oposto ao dela — não o mesmo lado, o outro, para ler os mesmos mapas de perspectiva diferente. Olhou para ela diretamente.
+
+— Ela não foi levada pelo Inspetor.
+
+A expressão de Lucasia não mudou de forma visível. O processo acontecia por baixo — ele havia aprendido a reconhecer isso, a capacidade de receber informação que contradizia uma premissa sem que o rosto denunciasse o recálculo. Era capacidade profissional. Era também, neste contexto, o que acontecia quando a premissa contrariada havia sido estruturante por muito tempo.
+
+— Ela se infiltrou.
+
+— Por escolha.
+
+— Por escolha. Há onze meses. Entrou na rede de logística de Verath como funcionária de carga em Neven — documentos válidos, histórico fabricado, referências de dois capitães que operavam para a resistência antes de o Inspetor fechar as rotas. Está lá como Sael Arven, registro de carga, terceiro nível.
+
+Lucasia olhou para os mapas. Não estava vendo os mapas.
+
+— Ela tem um plano, — disse ele.
+
+— Qual plano.
+
+— Destruir o Inspetor de dentro. Verath mantém documentação dos ciclocanes artificiais na rede de logística — relatórios de rota, manifestos de equipamento, ordens de despacho. Tudo que prova que os ciclocanes não são fenômeno natural está arquivado como carga sensitiva no setor três. Sael tem acesso de terceiro nível. Precisa de segundo para o arquivo. Está trabalhando nisso há três meses.
+
+— Se ela conseguir esses documentos—
+
+— Qualquer autoridade portuária independente pode contestar o controle de Verath sobre as rotas. O embargo do Mercator, as taxas especiais, o manifesto obrigatório em triplicata — tudo isso precisa de cumplicidade tácita das autoridades locais porque não há prova de irregularidade. Com os documentos, a irregularidade é provada. Verath perde a base legal.
+
+Silêncio.
+
+— Por que ela não sai depois de conseguir. — Não era pergunta.
+
+— Porque ainda não conseguiu.
+
+— Mas quando conseguir—
+
+— Quando conseguir vai tentar sair por conta própria. — Pausa. — Ela não quer ser resgatada, Lucasia.
+
+A frase havia soado razoável quando ela a disse. Era razoável — era tecnicamente correta, descrevia o resultado disponível. Era também o tipo de frase que ela usava quando queria transformar situação humana em problema de navegação.
+
+— Você foi atrás dela seis meses e não a encontrou porque ela não quer ser encontrada.
+
+— Ela quer. — Ele não levantou a voz. — Só não quer ser resgatada.
+
+— Diferença semântica.
+
+— Não. — A precisão que ele usava quando estava sendo preciso, não severo. — É a diferença entre sua irmã e um objeto de missão.
+
+O silêncio que se seguiu tinha a textura específica de algo que chegou ao destino pretendido.
+
+Ela olhou para ele. O processo de verificação — não se a correção era desconfortável, mas se era válida. Havia uma distinção entre as duas coisas e ela era uma das poucas pessoas que ele havia encontrado que a fazia.
+
+— Certo, — ela disse.
+
+Dois terços de uma palavra. O volume exato de reconhecimento que ela dispensava quando alguém havia estado certo e ela havia estado errada e reconhecer era mais eficiente do que continuar no argumento.
+
+Havia aprendido a escutar por essa palavra.
+
+— Então precisamos de acesso de segundo nível, — ela disse, — ou alguém com esse acesso que consiga os documentos para Sael sair.
+
+— Aldric tem um contato dentro do setor de logística de Neven. Possibilidade, não certeza. Chega amanhã.
+
+— Quem é Aldric.
+
+— Alguém que você precisa conhecer.
+
+Ela o olhou com a expressão de quem recebeu resposta parcial e decidiu, por agora, não pressionar. Havia perguntas atrás da expressão. Ela as guardou.
+
+— Esperamos Aldric. Enquanto isso preciso de tudo que você sabe sobre Neven — entradas, saídas, checkpoints de Verath, onde o Mercator pode ancorar sem registro obrigatório.
+
+— Vou precisar dos seus mapas e dos meus juntos.
+
+— Estão aqui.
+
+Ele olhou para os mapas. O trabalho de seis meses dela sobreposto às suas onze mensagens. Juntos, o conjunto era mais completo do que qualquer coisa que qualquer dos dois teria produzido sozinho — mais completo do que deveria ser possível para alguém que havia trabalhado metade disso sem dados diretos.
+
+Havia alguma coisa naquilo que ele não ia examinar agora.
+
+— Às oito? — disse ele.
+
+— Às oito.
+
+---
+
+Ele voltou à câmara de passageiros quando o sol havia subido o suficiente para dourar o slipsand de Arvene antes que a areia lembrasse que não era obrigada a ser bonita.
+
+Cento e oitenta e seis por cento e quarenta e dois.
+
+Sabia as dimensões. Sabia o som do casco do Mercator nesta câmara — a frequência de vibração quando o slipsand estava calmo, o padrão diferente quando havia corrente de fundo passando. O Mercator estava em repouso. As velas encolhidas. Ninguém no leme.
+
+Havia coisas novas que ele sabia agora que não eram sobre a câmara.
+
+Ela não havia perguntado por que ele não havia mandado aviso quando soubera do embargo.
+
+Era a pergunta mais óbvia disponível. Havia soubido dois meses atrás, via mensagem irregular de Tavessa — *Mercator embargado, Cassavar, Verath, sem causa declarada* — e havia estado a três dias de rota de Neven. Na última seção dos mapas dela.
+
+Havia continuado a rota.
+
+Havia terminado a última seção. Havia chegado a Neven. Havia encontrado o rastro de Sael.
+
+Havia seguido os mapas até o fim porque os mapas tinham um fim e ele havia precisado de um fim.
+
+Ela não havia perguntado. O que havia feito, em vez disso, era aparecer.
+
+Havia coisas que ele não ia examinar agora.
+
+---
+
+## Capítulo 4 — O Mercator no Porto de Arvene
+
+*Maret*
+
+---
+
+Os instrumentos de pressão do Mercator estavam perfeitamente calibrados.
+
+Maret sabia disso porque havia calibrado na véspera, e na manhã anterior, e porque os instrumentos de pressão do Mercator nunca ficavam fora de calibração porque ela não deixava. A calibração de rotina levava dezenove minutos. Ela estava no décimo sétimo minuto de uma segunda calibração desnecessária da mesma manhã.
+
+Havia coisas acontecendo no convés que não eram instrumentos de pressão.
+
+— Não faz comentário, — disse Torbe.
+
+Torbe estava na proa. Estava onde Torbe sempre estava — na proa, com a expressão de alguém que havia processado muita coisa ao longo de muitos anos e chegado à conclusão de que a maioria das coisas resolvia sozinha se você ficasse quieto o suficiente para deixar. Estava olhando na direção da câmara de passageiros, que tinha a porta fechada, que tinha a porta fechada desde a noite anterior.
+
+— Não faço comentários, — disse Maret.
+
+— Você faz comentários o tempo todo.
+
+— Faço *observações informativas*. É diferente.
+
+— Qual é a diferença.
+
+— Comentários são opinião não solicitada sobre situações que não lhe pertencem. Observações informativas contribuem para o entendimento coletivo da situação operacional da embarcação. — Ela apertou o parafuso de calibração do segundo instrumento. — São instrumentalmente distintos.
+
+Torbe ficou quieto por um momento com a calma específica de alguém verificando se uma hipótese havia sido confirmada.
+
+— Então o que você vai registrar no caderno, — disse ele.
+
+— Estou calibrando instrumentos de pressão.
+
+— O caderno que fica no bolso esquerdo.
+
+— Esse é o caderno de calibração.
+
+— Que você levou para o porão ontem à noite por quarenta minutos.
+
+Maret apertou o próximo parafuso. — Calibração de profundidade requer condições de luz específicas.
+
+Torbe não respondeu. Ele era o tipo de homem que fazia uma observação, verificava se havia chegado ao destino, e continuava a existir em silêncio enquanto a outra pessoa processava que havia chegado. Era uma forma eficiente de ser. Maret havia aprendido a gostar de Torbe especificamente por isso.
+
+---
+
+Havia visto a capitã mostrar a câmara ao ex-passageiro — à pessoa que havia embarcado em Sanvel dezoito meses atrás, havia descido em Dassyr, e havia reembarcado com uma bolsa e uma expressão que Maret ainda estava classificando com precisão.
+
+A câmara de passageiros ficava ao lado direito do corredor principal. Havia ficado vazia desde Dassyr. Não porque não havia passageiros disponíveis — o Mercator havia transportado carga e pessoas em todas as rotas norte desde então — mas porque a capitã havia instruído Halve a mantê-la *disponível*, que era a instrução que não precisava de explicação para quem havia estado a bordo tempo suficiente.
+
+Maret havia estado a bordo tempo suficiente.
+
+A bolsa havia ido para a escrivaninha. Não para a cama, não para o chão — escrivaninha. A posição de alguém que vai trabalhar, não de alguém que vai descansar. A posição de alguém que sabe o que vai fazer aqui.
+
+*Ele não é mais passageiro.*
+
+Ela registrou isso. Não no caderno de calibração.
+
+---
+
+A lista de provisões para Neven estava completa desde a véspera: cálculo de rota de três dias, consumo por tripulante multiplicado pelo número de tripulantes, margem de vinte por cento para variação. Maret desceu ao cais de provisões às dez da manhã com a lista na mão esquerda e o caderno de calibração no bolso esquerdo e o *outro* caderno no bolso direito, que era onde ficava quando não estava em uso ativo.
+
+O cais de provisões de Arvene tinha quatro fornecedores regulares. Ela havia identificado os três confiáveis na véspera.
+
+O homem com o mapa a abordou antes do segundo fornecedor.
+
+Ela notou o mapa antes de notar o homem — o formato específico, o dobramento de quem havia usado o papel muitas vezes em campo, não guardado em arquivo. A escala estava errada para rotas de Arvene a Neven. Não incorreta como quem pega o mapa errado por acidente — incorreta como quem pega o mapa certo para outra coisa e o usa como pretexto para uma conversa.
+
+Maret tinha interesse profissional em pessoas que usavam instrumentos como pretexto.
+
+— Desculpe. Rota sete, Arvene a Neven. A corrente dominante depois de Harven.
+
+Ela olhou para ele. Vinte e sete, talvez vinte e oito. Rosto sem a marca de cansaço permanente que navegadores de rota irregular desenvolviam depois de tempo suficiente — o que significava que ele sabia das rotas sem percorrê-las diretamente. Olhos com a qualidade de instrumentos bem calibrados: registravam sem denunciar o processo.
+
+— Depende da estação. No outono como agora, variável entre sudoeste e sul. Depende também da configuração de Crevos.
+
+— E o calado mínimo para duneship de médio porte depois de Crevos.
+
+— Dois e vinte até o banco principal. Dois e sessenta depois, margem de quinze centímetros por estação de ventos.
+
+Ele baixou o mapa ligeiramente. — Você está familiarizada com a rota.
+
+— Navego rotas leste há seis meses.
+
+— Seis meses é tempo suficiente para uma navegadora boa. — Pausa. — Para uma excelente é tempo para cartografar o que outros navegam há décadas.
+
+Maret olhou para a lista de provisões. Para o homem. Para o mapa com a escala errada de maneira não acidental.
+
+— O que você quer. — Não era pergunta.
+
+— Informação de rota. — Pausa. — E consultoria. O tipo onde eu tenho informação que o Mercator vai precisar e vocês têm um navio que vai onde eu preciso ir.
+
+— Como você sabe que sou do Mercator.
+
+— O Mercator entrou em Arvene ontem às quatro. — Pausa pequena. — Tenho seguido o Mercator desde Sanvel. Não o navio. A segunda navegadora.
+
+Havia duas formas de receber isso. A primeira era com alarme — alguém havia monitorado seus movimentos por meses. A segunda era com reconhecimento profissional — alguém com recursos e paciência suficientes para rastrear uma pessoa específica em rotas irregulares não era risco aleatório, era ativo potencial.
+
+Maret escolheu a segunda leitura. Era a mais precisa.
+
+— Nome.
+
+— Idris. — Pausa breve. — Você é Maret.
+
+Ele sabia o nome. Ela registrou isso e avançou para o próximo item da lista.
+
+— Esteja no Mercator às dezoito horas amanhã. Pergunte por mim — não pela capitã, não pelo primeiro-oficial.
+
+— Por quê você especificamente.
+
+— Porque quem eu apresento determina o tipo de conversa que você vai ter. — Ela guardou a lista. — E porque se você chegou até aqui do jeito que chegou, você sabe que informação viaja melhor quando chega pelo canal certo.
+
+Idris ficou quieto com a expressão de alguém que havia acabado de ser classificado com precisão e havia aprovado a classificação.
+
+— Às dezoito horas.
+
+Ela foi para o segundo fornecedor.
+
+---
+
+O Mercator estava como havia deixado quando voltou com as provisões. Torbe na proa. Halve em algum lugar abaixo com os manifestos. A capitã e o ex-passageiro em suas câmaras — pelas sombras nas janelas, pela ausência de movimento no convés, pela qualidade específica de silêncio que o navio tinha quando as duas pessoas mais decisivas a bordo estavam simultaneamente em processo de alguma coisa.
+
+— Encontrei alguém interessante, — ela disse a Torbe.
+
+— Informação nova?
+
+— Ainda não. — Ela subiu com as provisões. — O tipo de pessoa que vai ter.
+
+O convés estava quieto com o silêncio da segunda qualidade — não passagem calma, mas tripulação que sabia que algo estava em processo e havia decidido, por acordo coletivo, esperar para ver o resultado. Maret havia navegado o Mercator tempo suficiente para distinguir entre os dois tipos de silêncio.
+
+Ela desceu para o estoque de instrumentos. Abriu o caderno que não era o de calibração. Escreveu: *Idris. Rotas leste. Informação ativa. Às 18h amanhã.*
+
+Depois calibrou os instrumentos de pressão pela terceira vez.
+
+Ainda estavam perfeitos.
+
+---
+
+## Capítulo 5 — Mapas do Leste
+
+*Lucasia*
+
+---
+
+A mesa estava diferente na segunda manhã.
+
+Ela havia organizado os mapas na véspera com o sistema que usava desde Sanvel: rota principal ao centro, rotas alternativas à esquerda, checkpoints à direita, cronologia de cima para baixo. Era o sistema que Halve havia aprendido a respeitar, que Maret havia otimizado marginalmente, que Doryn nunca havia tocado sem instrução específica.
+
+Na segunda manhã os mapas estavam dispostos em triângulo — rota principal no vértice, alternativas em gradação de proximidade, checkpoints distribuídos pelos ângulos. Não o sistema dela. Um sistema mais eficiente para o que estavam planejando: entrada em território com presença de Verath, múltiplas saídas, variação de risco por segmento.
+
+Ela havia notado.
+
+Não havia dito nada.
+
+Dizer alguma coisa teria exigido reconhecer quem havia reorganizado, e reconhecer isso era examinar por que havia sido feito, e examinar por que era examinar alguma coisa que ela não estava examinando. Havia servido café e sentado e começado a trabalhar.
+
+---
+
+O que ele sabia que ela não sabia: o checkpoint de Verath na entrada sul de Neven, instalado há quatro meses, não marcado nos mapas comerciais porque Verath controlava a atualização cartográfica das rotas que controlava. O banco de Crevos a dois e trinta e cinco centímetros de calado mínimo, não dois e quarenta como ela havia estimado por extrapolação — diferença pequena para a maioria das embarcações, relevante para o Mercator com carga de rota não declarada. A janela de ancoragem no porto norte de Neven entre as onze e as quinze horas, quando os inspetores de manifesto estavam em rodízio e havia trinta e cinco minutos sem cobertura completa.
+
+O que ela sabia que ele não sabia: a corrente de fundo entre Arvene e Harven que ela havia mapeado através de dezoito medições de pressão distribuídas em seis meses de rotas projetadas. A rede dos portos velhos — quem guardava informação de rota irregular, a que preço, em que circunstâncias ela vazava para Verath independente do pagamento. A composição exata de manifesto que a autoridade de Neven aceitava sem inspeção adicional.
+
+O que os mapas se tornaram juntos: mais completo do que qualquer coisa que qualquer dos dois teria produzido sozinho — mais completo do que deveria ser possível quando metade do trabalho havia sido feito por projeção, sem dados diretos.
+
+Ela havia registrado esse fato — tecnicamente, como dado operacional — e havia continuado o trabalho.
+
+---
+
+Doryn apareceu na tarde do segundo dia.
+
+Ficou à entrada da câmara sem sentar. Olhou para os mapas com a expressão de quem lê rota e projeta consequência em paralelo. Olhou para Raban com a calma de quem está verificando uma variável que identificou como significativa.
+
+— O plano é sólido, — disse ele.
+
+Não *bom*. *Sólido*. Ela conhecia a diferença havia anos — havia aprendido aos vinte e três, quando havia apresentado sua primeira rota de decisão complicada e ele havia dito *sólido* com exatamente esse tom, e ela havia percebido depois que havia uma distinção entre aprovação da execução e aprovação da situação, e que Doryn distinguia entre as duas enquanto a maioria das pessoas não se dava ao trabalho.
+
+— Obrigada, — ela disse.
+
+Ele saiu.
+
+O silêncio que ficou tinha a textura específica de algo dito nas margens do que havia sido dito em voz alta.
+
+Raban não comentou. Ela não esperava que comentasse.
+
+---
+
+Terceira noite.
+
+A câmara do capitão às vinte e duas horas tinha a qualidade de espaços que acumularam trabalho: café frio em dois copos, mapas com marcações de múltiplas revisões, a janela aberta porque a temperatura havia subido ao entardecer e porque ela havia aprendido nos dois dias anteriores que ele preferia janela aberta, que era o tipo de dado que você aprende sem decidir aprender quando divide o mesmo espaço de trabalho por tempo suficiente.
+
+O plano de entrada em Neven estava essencialmente concluído. Havia um segmento marcado *a confirmar com Aldric* — o contato dentro do setor de logística, que chegava amanhã. A reunião seria na manhã seguinte.
+
+Ela deveria ter encerrado o trabalho uma hora atrás.
+
+O detalhe que havia ficado: a rota alternativa pelo banco de Crevos, que ela havia marcado como três horas a mais no trajeto total mas que ele havia dito ter uma variável que ela não havia considerado ainda. Havia ficado para verificar.
+
+Havia ficado para verificar o detalhe.
+
+Era a racionalização que soava razoável no máximo seis vezes.
+
+Ele estava do lado direito da mesa. Ela do esquerdo. Os mapas entre eles. A distância de trabalho — a distância específica de pessoas que ocupam o mesmo espaço sem ocupar uma à outra, que era a única distância que ela havia autorizado desde que o Mercator havia ancorado em Arvene.
+
+Ele alcançou o mapa do leste.
+
+O braço cruzou sobre o dela. Não tocou — havia centímetros de espaço entre o tecido do colete e da manga dela. Mas o calor existia. Era físico, era localizado, era o tipo de coisa que ela havia passado seis meses classificando como *irrelevante* e que agora, às vinte e duas horas da terceira noite com a guarda desgastada de trabalho, ela não estava classificando como nada porque classificar exigiria que ela parasse de trabalhar para olhar para o que estava classificando.
+
+Ela não moveu o braço.
+
+Ele não recuou.
+
+— Três horas a mais, — disse ela.
+
+— A rota principal tem o checkpoint. — A voz, antes das palavras. Ela estava escutando a voz antes do argumento. — Aqui. — Ele apontou. — Quatro meses de operação. O rodízio nos próximos três dias coloca o turno menos experiente na inspeção — mais lentos, menos atentos.
+
+— Isso é vantagem.
+
+— É vantagem se o manifesto for simples. O manifesto do Mercator com a carga que estamos transportando não é simples.
+
+Era o tipo de argumento correto que ela teria processado em dois segundos em qualquer outra circunstância. Estava processando em mais tempo porque estava processando simultaneamente o argumento e o calor à direita do braço e o fato de que estava escutando a voz antes as palavras porque era o que ela fazia quando estava cansada demais para manter a guarda completamente funcional — quando ficava porosa, o som chegava antes do conteúdo, e o som era—
+
+Ela percebeu que estava fazendo isso.
+
+Ele parou de falar.
+
+Dois segundos de nada.
+
+— Você está certa, — disse ele. — A rota norte é melhor.
+
+Ela não soube, naquele momento, se ele estava falando só sobre a rota.
+
+Ela enrolou o mapa do leste. Ele recuou — não precipitadamente, não como quem foi pego, mas com a precisão de alguém que reconhece que um momento foi nomeado silenciosamente e que continuar depois que um momento é nomeado requer que o que foi nomeado seja abordado, e nenhum dos dois estava disposto a abordar isso agora.
+
+A distância profissional voltou.
+
+Os mapas não estavam mais em branco onde haviam estado em branco.
+
+*Isso era o problema.*
+
+---
