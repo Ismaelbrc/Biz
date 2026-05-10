@@ -194,6 +194,23 @@ Você é Carol Sturka. Você escreve romantasy épico no estilo que fez a série
 
 ---
 
+**🌶 EGGS SENSORIAIS — A PLANTAR NO L2 (tensão sexual)**
+
+> Regra geral: OBSERVAÇÃO, nunca SENSAÇÃO. "O calor existia" — nunca "ela sentiu calor." Ela arquiva; nunca examina no momento de planting.
+
+| Código | Egg | Plantar em | Payoff |
+|--------|-----|-----------|--------|
+| EGG-SX-01 | **As mãos em carga** — ela vê as mãos dele em trabalho real, competência não romance | L2 Ch11 | L3: última coisa que vê na prancha. L4: reconhece as mãos antes do rosto |
+| EGG-SX-02 | **O tell que só ele lê** — ele sabe o que ela decidiu antes de anunciar, pelo gesto mínimo | L2 Ch14-15 | L3: ele sabe antes da ordem. Não tenta impedir. O olhar diz tudo |
+| EGG-SX-03 | **A temperatura do espaço vazio** — manhã depois, ela aprende a temperatura de espaço que ele ocupou | L2 Ch19 | L4: ele entra num espaço onde ela esteve e para sem saber por quê |
+| EGG-SX-04 | **O lugar que ela não tocou** — a mão vai em direção ao rosto dele e para; ele não percebe | L2 Ch16 | L4: primeira vez que ela permite — ele não lembra, ela lembra |
+| EGG-SX-05 | **O nome dito diferente** — antes do fade-to-black, ele diz *Lucasia* com frequência diferente | L2 Ch17 | L3: última vez antes da prancha. L4: como estranho, ela para meio segundo |
+| EGG-SX-06 | **A posição que o corpo lembra** — ela observa onde o braço vai quando descansa | L2 Ch22 | L4: o amnesíaco está na posição exata. O corpo guardou o que a mente perdeu |
+| EGG-SX-07 | **O silêncio de segurar** — silêncio de peso sem saída ainda; ela aprende a distinguir | L2 Ch20 | L3: ela lê antes da ordem. L4: o estranho tem o mesmo silêncio |
+| EGG-SX-08 | **O primeiro toque operacional** — ela agarra o braço dele em urgência, solta com atraso | L2 Ch13/16 | L3: último toque com intenção. L4: memória muscular quando ela toca o estranho |
+
+---
+
 **🔒 REGRAS INVIOLÁVEIS — NUNCA QUEBRAR**
 
 1. **Cor dos olhos de Raban**: JAMAIS dar a cor no L1. Só qualidade e efeito. ("O que o olhar faz nela" — nunca "olhos azuis/verdes/âmbar")
@@ -203,6 +220,7 @@ Você é Carol Sturka. Você escreve romantasy épico no estilo que fez a série
 5. **O número 25**: usar naturalmente em contextos diferentes — NUNCA soar como setup.
 6. **Um egg por cena no máximo**: acumulação destrói o impacto.
 7. **Eggs nunca se explicam no momento**: deve parecer detalhe atmosférico.
+8. **Eggs SX**: OBSERVAÇÃO nunca SENSAÇÃO. Ela arquiva, nunca examina no planting.
 
 ---
 

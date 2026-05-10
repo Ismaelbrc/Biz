@@ -126,7 +126,88 @@ Maret risca o "43 minutos" porque ficaria complicado se alguém lesse. No L3, o 
 
 ---
 
-## V. REGRAS DOS HIDDEN EGGS (para consistência na escrita)
+## V. EGGS SENSORIAIS — TENSÃO SEXUAL (L2–L4)
+
+*Estes eggs constroem o vocabulário físico entre Lucasia e Raban. São plantados como detalhe atmosférico e pagos na escalada de intimidade — de L2 (o que ela sente mas não nomeia) a L3 (o que ela conhece) a L4 (o que ela lembra e ele não).*
+
+**Regra de ouro dos eggs sensoriais**: nunca descreva a sensação — descreva a *observação*. "O calor existia" não é "ela sentiu calor." Ela arquiva; nunca examina no momento.
+
+---
+
+### Tabela rápida
+
+| Código | Egg | Plantar | Payoff |
+|--------|-----|---------|--------|
+| EGG-SX-01 | As mãos em carga | L2 Ch11 | L3: última coisa que vê. L4: reconhece as mãos antes do rosto |
+| EGG-SX-02 | O tell que só ele lê | L2 Ch14 | L3: ele sabe antes da prancha, não tenta impedir |
+| EGG-SX-03 | A temperatura do espaço vazio | L2 Ch19 | L4: ele entra num espaço onde ela esteve e para |
+| EGG-SX-04 | O lugar que ela não tocou | L2 Ch16 | L4: primeira vez que ela permite — ele não lembra, ela lembra |
+| EGG-SX-05 | O nome dito diferente | L2 Ch17 | L3: última vez antes da prancha. L4: como estranho, ela para |
+| EGG-SX-06 | A posição que o corpo lembra | L2 Ch22 | L4: o amnesíaco está na posição exata |
+| EGG-SX-07 | O silêncio de segurar | L2 Ch20 | L3: ela lê antes da ordem. L4: o estranho tem o mesmo silêncio |
+| EGG-SX-08 | O primeiro toque operacional | L2 Ch13 | L3: último toque com intenção. L4: memória muscular |
+
+---
+
+### Detalhes completos
+
+**EGG-SX-01 — As mãos em carga**
+*(plantar: L2 Ch11 — Neven, operação de chegada)*
+Em cena de trabalho em Neven, ela vê as mãos dele com peso real — não mãos de romance, mãos de capitão que sabe o que pode segurar. As cicatrizes de L1 Ch1 estabeleceram a história; agora o contexto é força + função em ação. Ela vê e arquiva sem examinar.
+- *Payoff L3*: A última coisa que ela vê quando ele caminha pela prancha são as mãos.
+- *Payoff L4*: As mãos do estranho se movem de um jeito específico em trabalho de corda. Ela reconhece antes de ver o rosto.
+
+**EGG-SX-02 — O tell dela que só ele lê**
+*(plantar: L2 Ch14-15 — planejamento da operação de Sael)*
+Em cena de decisão, ele demonstra que já sabe o que ela decidiu — antes de ela anunciar. Não por dedução verbal: por leitura de gesto mínimo (o modo que ela dobra o mapa quando está certa de algo, o ângulo do ombro quando uma escolha está feita). Ela percebe que ele percebeu. Nenhum dos dois menciona.
+- *Payoff L3*: Antes da ordem da prancha, o olhar entre eles. Ele já sabe. Não tenta mudar. É testemunha, não oposição. O olhar dura menos de um segundo e contém tudo.
+
+**EGG-SX-03 — A temperatura do espaço vazio**
+*(plantar: L2 Ch19 — manhã depois do fade-to-black)*
+Ela acorda. Ele já saiu. Mas aprende — sem decidir aprender — qual é a temperatura de um espaço que ele ocupou recentemente. Não descrição de sentimento: observação física. O ar perto da janela que ele abriu. A temperatura diferente do lado direito. Dado arquivado sem análise.
+- *Payoff L4*: Ele entra numa câmara onde ela esteve. Para na porta por meio segundo. Não sabe por quê. O corpo registrou antes da memória ter o que registrar.
+
+**EGG-SX-04 — O lugar que ela não tocou**
+*(plantar: L2 Ch16 — cena de proximidade/risco em Neven)*
+Em momento de tensão física próxima — uma operação, uma emergência, o espaço confinado do L2-05 — a mão dela vai em direção ao rosto dele e para. O lugar específico onde parou: o ângulo da mandíbula, a borda do maxilar, qualquer ponto concreto e preciso. Ele não percebe. Ela arquiva sem examinar.
+- *Payoff L4*: Ela finalmente toca. Ele não sabe que ela guardou esse não-toque por anos. Ela sabe.
+
+**EGG-SX-05 — O nome dito diferente**
+*(plantar: L2 Ch17 — o fade-to-black da cena do mapa)*
+Antes do fade-to-black, ele diz *Lucasia* — só o nome, sem título, sem contexto operacional. Com uma frequência diferente de todas as outras vezes que ela ouviu o nome. Não é suavidade, não é urgência — é o som específico de alguém que sabe exatamente o que está dizendo. Ela registra a diferença sem nomear o que é diferente.
+- *Payoff L3*: A última vez que ela ouve isso com essa qualidade é antes da prancha.
+- *Payoff L4*: Ele diz seu nome como estranho (ela se apresenta na Isle of Sanantes) e tem a mesma qualidade. Ela para por meio segundo que não devia existir.
+
+**EGG-SX-06 — A posição que o corpo lembra**
+*(plantar: L2 Ch22-23 — alguma manhã de rota ou descanso)*
+Ela observa, sem intenção, onde o braço dele vai quando está dormindo ou descansando — um detalhe mínimo, arquitetural, do corpo em repouso. Específico: qual braço, sobre o quê, em que ângulo. Arquivado como dado sem categoria.
+- *Payoff L4*: O amnesíaco está na mesma posição em seu quarto na Isle of Sanantes. O corpo guardou o que a mente perdeu. Ela reconhece isso antes de qualquer outra coisa.
+
+**EGG-SX-07 — O silêncio de segurar**
+*(plantar: L2 Ch20 — manhã depois, ou qualquer momento pós-intimidade)*
+Após a primeira noite, ela aprende um silêncio novo nele: o silêncio de alguém que está segurando algo que não decidiu dizer ainda. Diferente do silêncio de cálculo (que precede resposta), diferente do de recusa (quando não há resposta útil). É o silêncio de peso sem saída ainda. Ela aprende a distinguir.
+- *Payoff L3*: Ela lê esse silêncio antes de dar a ordem da prancha. Sabe que ele tem algo que não disse. Dá a ordem assim mesmo.
+- *Payoff L4*: O estranho tem o mesmo silêncio numa conversa qualquer. Ela não consegue explicar por que isso faz o peito apertar.
+
+**EGG-SX-08 — O primeiro toque operacional**
+*(plantar: L2 Ch13 ou Ch16 — operação em Neven, cena de urgência)*
+Em momento de urgência, ela agarra o braço ou o ombro dele sem pensar — primeiro contato físico intencional de L2, propositivo, sem nenhum romantismo. E há um segundo de atraso antes de ela soltar que não é operacionalmente necessário. Ela o solta. Segue em frente. Arquiva.
+- *Payoff L3*: O último toque entre eles tem a mesma qualidade — urgente, operacional — antes da prancha.
+- *Payoff L4*: Ela toca o ombro do estranho para chamar atenção. Ele vira. Por um segundo, antes de qualquer coisa, há algo no corpo dele que registrou antes da memória.
+
+---
+
+### Regras específicas dos eggs sensoriais
+
+1. **Observação, nunca sensação**: "o calor existia" — nunca "ela sentiu calor"
+2. **Precisão máxima no detalhe físico**: o ângulo específico, a temperatura específica, o peso específico. Vagueza esvazia o payoff.
+3. **Ela arquiva, nunca examina**: no momento de planting, o registro existe, a análise não.
+4. **Eggs SX podem coexistir com egg temático na mesma cena** — mas nunca dois SX no mesmo capítulo.
+5. **O payoff deve inverter ou espelhar**: o que ela guardou sem querer, ele recebe sem saber.
+
+---
+
+## VI. REGRAS DOS HIDDEN EGGS (para consistência na escrita)
 
 1. **Nunca explicar no momento**: o egg deve parecer detalhe atmosférico quando plantado
 2. **Um egg por cena no máximo**: acumulação esvazia o impacto
