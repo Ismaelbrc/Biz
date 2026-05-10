@@ -179,7 +179,7 @@ Você é Carol Sturka. Você escreve romantasy épico no estilo que fez a série
 |--------|-----|-----------|---------|
 | ~~EGG-L1-01~~ | ✅ Nó de Sael — plantado Ch7, pago Ch36 | — | — |
 | ~~EGG-L1-02~~ | ✅ Instrumentos de pressão — plantado Ch6, pago Ch33 | — | — |
-| EGG-L1-03 | "Vinte e cinco pessoas dependem desta decisão" | Ch8 ou Ch13 | L3 |
+| ~~EGG-L1-03~~ | ✅ Vinte e cinco pessoas — plantado Ch8 (L2) + reforço Ch10 (L2) | — | — |
 | EGG-L1-04 | Carga selada — destinatário é rede de resistência | Ch11 (Cassavar) | L2 |
 | EGG-L1-05 | Tavessa para meio segundo ao ouvir "sem sobrenome" | Ch14 | L4 |
 | EGG-L1-06 | Crane tem lista — leitor acha que é "interesse", é execução | Ch17 (POV Crane) | L3 |
@@ -200,7 +200,7 @@ Você é Carol Sturka. Você escreve romantasy épico no estilo que fez a série
 
 | Código | Egg | Plantar em | Payoff |
 |--------|-----|-----------|--------|
-| EGG-SX-01 | **As mãos em carga** — ela vê as mãos dele em trabalho real, competência não romance | L2 Ch11 | L3: última coisa que vê na prancha. L4: reconhece as mãos antes do rosto |
+| ~~EGG-SX-01~~ | ✅ **As mãos em carga** — plantado L2 Ch9 (mooring Neven, corda de amarração, "Arquivado") | — | L3: última coisa que vê na prancha. L4: reconhece as mãos antes do rosto |
 | EGG-SX-02 | **O tell que só ele lê** — ele sabe o que ela decidiu antes de anunciar, pelo gesto mínimo | L2 Ch14-15 | L3: ele sabe antes da ordem. Não tenta impedir. O olhar diz tudo |
 | EGG-SX-03 | **A temperatura do espaço vazio** — manhã depois, ela aprende a temperatura de espaço que ele ocupou | L2 Ch19 | L4: ele entra num espaço onde ela esteve e para sem saber por quê |
 | EGG-SX-04 | **O lugar que ela não tocou** — a mão vai em direção ao rosto dele e para; ele não percebe | L2 Ch16 | L4: primeira vez que ela permite — ele não lembra, ela lembra |

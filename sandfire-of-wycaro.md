@@ -1192,3 +1192,635 @@ O Mercator entrou no canal.
 Neven esperava.
 
 ---
+
+## Capítulo 9 — Neven
+
+*Lucasia*
+
+---
+
+O porto de Neven se revelou em camadas.
+
+A primeira era a distância: da boca do canal, uma hora antes, Neven parecia compacto — menor que Cassavar, mais construído para dentro do que para fora. Não havia as estruturas horizontais de Arvene, a cidade que havia crescido ao longo da costa sem pressa de ocupar altura. Neven havia crescido para cima, para dentro, para dentro do que a rocha do leste permitia — prédios empilhados sobre prédios, estruturas que usavam a pedra escura como fundação porque a pedra já estava ali e demolir teria custado mais do que incorporar.
+
+A segunda camada chegou quando o canal os recebeu: os cais eram novos. Não no sentido de bem-conservados — novos no sentido de recentes, de madeira de especificação uniforme instalada em datas próximas, com o acabamento que não vinha de escolha local mas de contrato. O tipo de contrato que especificava uniformidade porque rastreabilidade importava mais do que estética, e rastreabilidade importava porque alguém, em algum lugar acima da cadeia de decisão daquele porto, achava que rastreabilidade era proteção.
+
+A terceira camada, a mais útil: as plataformas elevadas sobre os cais tinham funcionários. Não trabalhadores portuários — funcionários. A distinção estava na postura, na prancheta, no uniforme que não era o tipo que cada porto desenvolvia ao longo do tempo por conta própria mas o tipo que chegava de fora com documento de autorização. Havia três postos visíveis da entrada do canal. Um navio no cais leste com bandeira neutra atracado no ângulo de quem monitora tráfego e não de quem está em trânsito. E o manifesto de chegada que o cais norte ia exigir, ela havia aprendido com Aldric durante a rota, era em triplicata — a terceira via para *controle de rota integrado*, que era a frase que significava escritório do Inspetor sem dizer escritório do Inspetor.
+
+O Inspetor não estava em Neven pessoalmente. Mas a arquitetura de Verath estava.
+
+Ela ajustou o leme para a corrente central do canal — mais estreita que a de Arvene, mais controlada, com a configuração de quem havia projetado a entrada para facilitar chegada e dificultar saída rápida. Não era incomum. Era o tipo de configuração de canal que cidades que queriam registrar tráfego construíam — que queriam que você chegasse devagar e saísse devagar e fosse registrado nos dois movimentos.
+
+O Mercator respondeu ao ajuste.
+
+— *Capitã.* — Doryn estava à sua esquerda com a calma de quem havia processado as mesmas três camadas de informação que ela e havia chegado à mesma conclusão sem precisar verbalizá-la. — Posições de chegada.
+
+— Sim. — Ela não tirou os olhos do canal. — Doryn. Depois do manifesto, você e Torbe ficam no navio.
+
+Ele foi sem responder. O silêncio de Doryn tinha nuances que ela havia aprendido em sete anos: esse era o que significava *entendido e concordo com a razão*.
+
+---
+
+A distribuição de chegada havia sido decidida dois dias antes, na revisão final de rota: Maret nos instrumentos de canal, Halve com o manifesto pronto para o fiscal, Torbe na proa como sempre, Doryn na lateral de bombordo. Raban na lateral de estibordo com a corda de amarração, porque o atracadouro do cais norte ficava à direita do canal e a corda de estibordo era a posição correta.
+
+Ela havia verificado as posições antes de entrar no canal.
+
+Era procedimento padrão — trinta segundos de reconhecimento sistemático de convés antes de manobra em porto desconhecido. Da proa para a popa, de bombordo para estibordo. Maret nos instrumentos, calibrando leitura de corrente em canal estreito: confirmado. Halve com a prancheta na mão direita — havia aprendido que o fiscal via a mão antes de ver o conteúdo, e a mão direita era a que o fiscal via primeiro, e aprender isso sem instrução era o tipo de competência que havia substituído o nervosismo de seis meses atrás. Torbe na proa. Doryn na esquerda.
+
+Raban na direita com a corda de amarração.
+
+O que havia registrado, em três segundos antes de voltar para o canal: as mãos na corda. Não a corda — as mãos. O jeito que os dedos achavam a posição de tensão sem procurá-la, pressão distribuída na palma em vez dos dedos, o ângulo de ombros de ex-capitão que havia amarrado navio em porto difícil vezes suficientes para que o corpo fizesse o trabalho sem consultar o pensamento. As cicatrizes da palma direita — a corda cruzava nelas na diagonal, nos lugares onde a tensão já havia marcado, onde o tecido havia endurecido em resposta a repetição suficiente. As mãos de alguém que havia feito esse gesto em tempestade e em perigo e em condição onde a diferença entre o que o navio precisava e o que os braços entregavam era a diferença entre navio e perda.
+
+Ela havia voltado para o canal.
+
+Arquivado.
+
+— Amarras, — ela disse.
+
+---
+
+O fiscal de Neven era um homem de quarenta anos com a expressão de funcionário que havia recebido treinamento específico para não ter expressão. Não era o tipo negociável de Arvene — em Arvene a corrupção era pessoal e portanto navegável, calculável, o preço estabelecido por convenção não escrita que ambos os lados reconheciam. Em Neven era diferente. Era o tipo de funcionário que recebia salário de fonte que tornava a negociação inconveniente: que processava o que passava pela mesa e registrava tudo para quem viesse procurar depois, porque vir procurar depois era parte do sistema que o mantinha empregado.
+
+O manifesto de Halve era impecável. Havia ficado impecável porque Halve havia aprendido, em seis meses de rotas leste, que impecável era a única defesa disponível quando o que você carregava não estava no manifesto — que impecável significava que havia menos razão para olhar mais fundo.
+
+— Triplicata, — disse o fiscal.
+
+— Já preparada. — Halve entregou as três cópias.
+
+Ela ficou com as mãos abertas sobre o balcão durante a verificação, postura de capitã de rota comercial que considerava o processo correto e não tinha razão para resistir. Era verdade no sentido relevante: a carga declarada estava correta, a procedência estava correta. Destino e tempo de estadia eram os únicos itens que divergiam do que ela sabia que era verdade — e esses eram itens de intenção, não de fato, e intenção não aparecia no manifesto de quem sabia como preenchê-lo.
+
+— Procedência.
+
+— Arvene. Carga mista de provisões e instrumentação de navegação.
+
+— Destino e estadia.
+
+— Neven. Temporária — avaliação de contratos de rota leste. Cinco dias possivelmente sete.
+
+Ela precisava de dois.
+
+O fiscal registrou. Entregou a cópia. Ela saiu antes de ele encontrar razão para perguntar mais.
+
+---
+
+Havia acordado com Doryn no cais antes de ir ao porto velho. Não uma conversa — Doryn e ela tinham funcionamento, não conversa — mas o tipo de troca que era necessária depois do manifesto e antes da operação.
+
+— O navio do cais leste, — disse ela, quando estavam fora do raio do fiscal.
+
+— Não é operação direta. — Doryn tinha a qualidade de homem que havia distinquido tipos de ameaça por décadas e que raramente nomeava o tipo errado. — Posicionamento de informação. Eles coletam presença no cais, reportam ao escritório central.
+
+— Quando chega o relatório do nosso manifesto.
+
+— Amanhã de manhã. — Uma pausa. — Se a correlação entre o Mercator e a agenda de Sael for feita no escritório central, você tem até meio-dia de amanhã antes que a janela de operação feche.
+
+Meio-dia. A janela de Perrin abria às treze.
+
+Havia quarenta e cinco minutos de margem entre o momento em que o escritório poderia fechar a operação e o momento em que a operação começava. Quarenta e cinco minutos era tempo calculável. Era mais do que zero.
+
+— Torbe e você no navio, — ela disse. — Maret e Halve também. Ninguém sai até eu voltar com informação.
+
+Doryn foi sem responder. Era o silêncio que significava *entendido e acho que a margem é mais estreita do que você está deixando transparecer mas não vou dizer isso porque você já sabe*.
+
+---
+
+O porto velho de Neven ficava no nível original do cais — a rocha antes das expansões mandatárias, o chão que havia sido o porto antes de alguém com dinheiro de contrato decidir que o porto precisava ser outro tamanho. As novas estruturas haviam crescido ao redor sem demolir o que já existia, e o nível antigo havia ficado como o tipo de lugar que fica quando a modernização chega rápida demais e cara demais para ser completa: mais escuro, mais estreito, com o cheiro de slipsand acumulado em décadas que a madeira nova do cais norte não podia imitar.
+
+Havia duas tabernas.
+
+A do sul ficava na boca do nível antigo — mais clara, mais visível, com a clientela de comerciante que queria ser vista tendo informação e que não estava em problema suficiente para se importar com quem via. A do norte ficava na parede de rocha, com espaço para quatro mesas, com a taberneira que havia parado de reagir a quem entrava havia tempo suficiente para que a ausência de reação fosse ela mesma informação útil.
+
+Ela foi para a do norte.
+
+Pediu wyld bourbon — o tipo comum de Neven, não o Caldoven de Cassavar que ela havia deixado de esperar fora de Cassavar — e encontrou mesa com visão para a entrada.
+
+A pessoa na mesa do canto levantou os olhos quando ela sentou.
+
+Tavessa fora de Cassavar era observação técnica antes de surpresa. O rosto era o mesmo — o de mulher que havia passado quinze anos lendo manifesto e lendo intenção através de papel, que havia aprendido que conteúdo e forma raramente chegavam juntos e que havia desenvolvido a habilidade de distinguir um do outro sem perguntar qual era qual. Mas sem o escritório, sem o balcão, sem o uniforme que demarcava função e território, havia algo mais concentrado no que ficava — como se a autoridade oficial houvesse funcionado como diluição e a diluição estivesse agora ausente. O que restava era mais denso.
+
+Lucasia cruzou a taberna e sentou sem perguntar.
+
+— Você sabia que eu vinha.
+
+— Sabia para onde os mapas de rota leste levam. — Tavessa tinha a voz de sempre: precisa, sem ornamento. — E soube do embargo antes de assinar o recebimento.
+
+— Você assinou.
+
+— Era minha função. — Ela olhou para a mão ao redor do copo. — Mandei cópia pelo canal irregular no mesmo dia. Com o nome.
+
+A mensagem que havia chegado doze dias depois da assinatura. Com o nome do Inspetor acrescentado ao final — que não era parte do formulário padrão de embargo, que Tavessa havia incluído como informação extra que o formulário não exigia e que ela havia calculado que era necessária.
+
+Tavessa havia incluído o nome. Havia incluído e depois havia esperado — esperado que a cópia chegasse, que o Mercator respondesse, que a resposta fosse esta: o Mercator em Neven, duas pessoas sentadas numa taberna de porto velho com a qualidade de informação entre elas que não havia sido fácil de transportar.
+
+— Por que você saiu antes da substituição, — disse Lucasia.
+
+— Porque o que eu trago não sai depois que o novo fiscal chega. — Tavessa levantou os olhos. — O novo fiscal é leal de Verath. Quando chegar, o arquivo de comunicação irregular de Cassavar passa para controle de Verath. O que eu tenho desaparece.
+
+— Quando ele chega.
+
+— Semana que vem. Saí dois dias antes da data de posse. — Uma pausa pequena. — Tive tempo de copiar o que importava. Não de verificar se havia sido notada saindo.
+
+Havia risco nessa frase que não precisava de elaboração.
+
+Lucasia ficou com isso por um momento.
+
+— O que você traz.
+
+Tavessa não hesitou. — Sael Serath. Nome de trabalho: Sael Marens, conferente de manifesto de carga. Cais norte de Neven, escritório de logística integrada, segundo andar, janela voltada para o cais. Turno de conferência de quinta-feira: das treze às catorze e meia. — Pausa. — O contato interno com acesso ao arquivo de documentação de ciclocane chama Perrin. Segundo nível de acesso. A janela de quinta é a única onde Perrin opera sem supervisão direta do escritório central.
+
+Quinta. Hoje era quarta.
+
+Vinte e quatro horas.
+
+Ela ficou com a informação pelo tempo necessário para converter o que havia ouvido em operação. Cais norte. Escritório, segundo andar, janela para o cais. Das treze às catorze e meia. Perrin. Aldric tinha credencial de Perrin, porque Aldric havia trabalhado com Perrin em Cassavar antes de Cassavar fechar, e credencial pessoal era a única credencial que um sistema de Verath não rastreava facilmente porque sistemas de Verath rastreavam papel e não rosto.
+
+— Por que o embargo mudou o que você devia fazer, — disse Lucasia.
+
+— Porque embargo é sinal. — A voz de Tavessa era plana, não defensiva. — Verath usa embargo para tornar navio visível em lugar onde não deveria estar. Mercator visível significa que qualquer pessoa a bordo do Mercator fica visível. — Ela olhou para a mesa. — Raban Serath a bordo do Mercator visível em Neven é uma ameaça à operação de Sael, não apoio.
+
+— Você está dizendo que o embargo é isca.
+
+— Estou dizendo que é possível que seja. — Uma pausa. — E que se for, o Mercator em Neven significa que Verath vai saber que Raban Serath está aqui. E se Verath sabe que Raban está em Neven, e sabe que Sael está em Neven—
+
+— O cronograma de Sael colapsa.
+
+— O cronograma e mais do que o cronograma. — Ela ficou quieta por um momento. — Sael construiu vinte meses de cobertura. A cobertura é sólida enquanto ninguém que Verath conhece aparecer suficientemente perto dela. Quando alguém aparecer—
+
+— Dois dias, — disse Lucasia. — Máximo.
+
+— Um dia se a operação de quinta funcionar. — Tavessa levantou os olhos. — Se não funcionar, você vai precisar de plano B e Sael vai precisar de saída, e eu não tenho como desenhar esses planos por você porque não estarei na posição de ver o que você vê.
+
+O bourbon estava à frente dela. Havia tocado uma vez, para ter algo nas mãos. Não havia bebido. O objetivo do bourbon nunca havia sido o bourbon.
+
+— E você, — disse Lucasia.
+
+Tavessa ficou quieta com a calma de quem respondeu a essa pergunta para si mesma e havia chegado à conclusão de que a resposta não era assunto do interlocutor — mas que o interlocutor havia perguntado de forma que requeria resposta.
+
+— Fico em Neven. — Pequena pausa. — Tenho o que precisavam. Vocês têm o navio. É uma divisão de trabalho razoável.
+
+Havia mais do que o que havia sido dito. Havia o custo de ficar em Neven depois que o novo fiscal de Cassavar tomasse posse e o arquivo de comunicação irregular fosse auditado e o nome de Tavessa aparecesse onde aparecia. Havia uma escolha que havia sido feita antes de se sentar nessa taberna, e a escolha era irrevogável, e o que havia nessa calma era o tipo que vinha depois que a irrevogabilidade é aceita e não há mais nada a deliberar.
+
+— Obrigada, — disse Lucasia.
+
+Não era palavra que usava frequentemente. Quando usava havia considerado se a situação requeria e havia concluído que sim.
+
+Tavessa a recebeu com a expressão de alguém que não esperava e que sabia que não havia resposta adequada disponível — que a resposta adequada era a ação que havia tomado, e que a ação já havia sido tomada, e que o obrigada chegava depois.
+
+— Quinta às treze, — disse ela. — Não chegue antes de doze e meia.
+
+---
+
+Ela voltou ao Mercator quando as sombras sobre a rocha do porto velho de Neven haviam se tornado compridas e angulares sobre a pedra escura do leste. O calor do dia havia começado a ceder — não desaparecia, porque o leste era o leste e o leste não desistia do calor assim, mas havia uma qualidade diferente no ar que era promessa de temperatura mais baixa em vez de entrega.
+
+O cais norte estava mais quieto do que o sul. Dois dos postos de supervisão que ela havia notado na chegada haviam encerrado o turno — o turno de supervisão ativa do Inspetor terminava com o dia, não com a escuridão. Havia janela de noite que Doryn havia calculado antes de ela precisar perguntar.
+
+Raban estava no convés quando ela subiu pelo acesso de estibordo.
+
+Não a havia esperado — estava na lateral de estibordo de costas, olhando para o canal, com a postura de alguém que havia ido ao convés por razão própria. Ela passou por ele.
+
+— Porto velho deu o que precisávamos. — Ela parou na escada do leme. — Tavessa. Sael está no cais norte — escritório de logística integrada, segundo andar. Amanhã, das treze às catorze e meia. Perrin é o contato interno.
+
+Ele se virou. — Aldric tem credencial de Perrin.
+
+— Aldric tem credencial de Perrin. — Ela subiu o primeiro degrau. — Revisão de posições às dez da manhã.
+
+Não disse mais nada. Ele também não.
+
+Era a conversa que a situação requeria e não continha nem menos nem mais.
+
+---
+
+O slipsand do canal de Neven era preto na escuridão.
+
+Não o preto-roxo de Arvene — Arvene tinha slipsand que ainda carregava alguma coisa da luminescência do leste, que guardava a luz do dia e a devolvia ao anoitecer de forma irregular e pálida. Não o roxo profundo de Sanvel que havia crescido na infância dela e que ela havia aprendido a associar com a qualidade específica de estar em casa. O slipsand de Neven era preto como interior de rocha, como o que fica quando você retira tudo que não é necessário para a função — que não tinha nenhum interesse em impressionar quem o via e que não havia desenvolvido nenhum.
+
+Havia alguma coisa nessa honestidade que ela havia aprendido a respeitar no leste em geral.
+
+Ela tirou a bússola do bolso.
+
+A agulha apontava norte. Ela estava no leste. O norte ficava para trás — havia ficado para trás em Sanvel, havia ficado para trás em Arvene, havia continuado ficando para trás durante três dias de rota, e agora ficava para trás no cais norte de Neven com o slipsand preto abaixo e vinte e quatro horas até as treze horas de quinta-feira.
+
+Ela colocou a bússola de volta.
+
+Amanhã às dez, revisão de posições. Aldric, Raban, ela, Doryn. Às doze e meia, saída em grupos. Cais norte à uma: Raban a dezesseis metros do escritório, ela a doze, Doryn como cobertura de saída pelo acesso de trás. Maret e Torbe e Halve no Mercator, navio pronto para partir em vinte minutos se o sinal de emergência chegasse.
+
+Era o plano. Era sólido. Havia variáveis que não podia controlar e havia aceito isso como o custo padrão de operar com informação incompleta, que era o único tipo de informação disponível em operação real.
+
+O que havia no final do plano era Sael Serath em uniforme de logística no segundo andar do cais norte, com uma prancheta e uma janela voltada para o cais e vinte meses de cobertura construída com a paciência de quem havia decidido que o custo valia o resultado.
+
+Era o que havia.
+
+Era suficiente para o plano.
+
+Ela ficou no leme até que o porto de Neven abaixo dela ficasse quieto com a qualidade de porto que encerrou o turno e estava esperando o que viria a seguir, e então foi para a câmara do capitão, porque amanhã eram as dez horas e depois as doze e meia e depois as treze, e o que havia antes das dez horas era o trabalho de preparação que não deixava espaço para outra coisa, e esse trabalho começava agora e não depois.
+
+---
+
+## Capítulo 10 — A Véspera
+
+*Raban*
+
+---
+
+Ele acordou às três da manhã com o tipo de acordar que não era sono e não era descanso — o acordar que é o momento em que o corpo para de fingir.
+
+O que havia produzido o acordar, ele não examinou. Havia aprendido, nos últimos vinte meses, que havia coisas que se examinadas no escuro da madrugada cresciam para fora da proporção que tinham em luz do dia — que o escuro da madrugada tinha a qualidade específica de amplificar o peso sem amplificar a solução, e que o processo de examinar nessas circunstâncias produzia mais calor do que clareza.
+
+Ficou olhando para o teto da câmara de passageiros.
+
+A câmara de passageiros do Mercator tinha teto de madeira escura que acumulava décadas de navio em movimento — vapor de slipsand, temperatura de rota leste, os anos de casco viajando em areia que não era água mas que tinha a propriedade de entrar em todos os espaços que deixassem espaço para ela. Havia rachaduras no acabamento que eram antigas o suficiente para ser parte da estrutura. Um gancho na parede direita que havia servido a alguma função que ele não havia perguntado e que provavelmente não havia necessidade de perguntar. A janela no ângulo que deixava entrar o tipo de luz que Neven produzia à noite — não muita, não nenhuma. O suficiente para que o teto fosse visível e para que o ato de olhar para ele fosse possível.
+
+Havia dez horas.
+
+Não até as treze — tinha dez horas e mais alguns minutos até as treze, que era quando Sael ia estar no segundo andar do escritório de logística com os documentos e com Perrin e com o plano que havia construído em vinte meses de posição dentro da rede de Verath. Havia dez horas e o peso específico que as dez horas tinham quando o que estava vindo havia estado vindo por tempo suficiente para ter adquirido massa própria.
+
+Não era impaciência. Havia passado seis meses construindo a habilidade de ficar quieto quando ficar quieto era o que havia — quando a rota seguinte estava a três dias, quando o contato em Harven não aparecia, quando o rastro de Sael apontava para dois meses atrás e não para agora. Havia aprendido que a qualidade do esperar importava tanto quanto a qualidade do encontrar.
+
+Era outro tipo de coisa.
+
+Era o momento onde o que havia planejado e o que ia acontecer estavam separados apenas pelo tempo, e o tempo não tinha variável. Era o momento em que o planejamento encerrava e o que vinha a seguir começava a ter peso próprio, independente de qualquer planejamento.
+
+Às três horas e quarenta e um minutos ele foi para o convés.
+
+---
+
+Neven à noite era diferente do dia em escala, não em perigo. O porto contraía para o que era essencial: slipsand e luz mínima e o som surdo de corrente de canal que não parava porque o slipsand do leste não parava por escuridão. Os postos de supervisão elevados estavam vazios — o turno de supervisão ativa encerrava com o dia, como Doryn havia calculado. O navio do cais leste estava escuro e quieto como navio que dorme.
+
+Ele foi para a lateral de estibordo.
+
+Ela estava no leme.
+
+Não havia precisado verificar — havia aprendido, em meses de Mercator, a localizar a silhueta no convés antes de procurá-la conscientemente, da forma que um instrumento calibrado para frequência específica detecta a frequência antes de o operador verificar o painel. Ela estava de costas, olhando para o canal, com a postura específica do leme — a postura que ela tinha quando estava no leme por razão própria e não por necessidade de pilotagem, que era diferente da postura de pilotagem e que ele havia aprendido a distinguir.
+
+Ele ficou onde estava.
+
+A opção disponível era dar meia-volta, voltar para a câmara, fingir que não havia notado. Era a opção que a véspera de operação requeria — descanso, atenção intacta, a distância profissional que tornava as treze horas mais eficientes do que o que elas seriam de outra forma. Era a opção correta.
+
+Ele ficou na lateral de estibordo.
+
+Não cruzou para o leme — havia espaço entre eles que não havia sido atravessado e que não era o momento de atravessar. Ficou onde estava, com o canal de Neven embaixo e o slipsand preto que não tinha luminescência porque não precisava de luminescência, que era simplesmente o que era.
+
+Ela não disse nada por um tempo.
+
+— Dormiu, — ela disse. Não era pergunta.
+
+— Não muito.
+
+Um momento. — Sael é pontual. — Ela não tirou os olhos do canal. — Se ela disse das treze às catorze e meia, vai estar às treze em ponto.
+
+— Vai. — Ele conhecia Sael o suficiente para confirmar isso sem precisar pensar. — E se Perrin não estiver disponível às treze, ela vai esperar até às catorze e vinte antes de abortar.
+
+— Ela vai abortar sozinha se precisar.
+
+— Vai. — Uma pausa. — Ela sabe se virar.
+
+Era a frase mais precisa que havia encontrado em seis meses para o que Sael havia feito — a frase que havia chegado depois de Lucasia dizer *ela quer ser encontrada, só não quer ser resgatada*, que havia levado semanas para assentar no ângulo correto.
+
+Ela ficou quieta. Depois: — Você foi atrás dela durante seis meses. E ela sabia onde você estava o tempo todo.
+
+— Sabia onde os mapas levavam. Não é exatamente o mesmo que saber.
+
+— É suficientemente próximo.
+
+Era. Havia aceitado isso em algum ponto da rota — que Sael havia sabido com precisão suficiente e havia escolhido de qualquer forma. Que a escolha havia sido dela, feita com informação que incluía a localização aproximada dele e o estado da operação e o custo de cada semana adicional de cobertura versus o custo de sair antes de ter o que precisava.
+
+— Isso é dela, — disse Lucasia. Não era acusação, não era absolvição. Era a frase que descrevia o fato sem emocionar o fato. — Ela faz escolhas difíceis com a calma de quem calculou o custo e decidiu que o resultado vale.
+
+— Sim.
+
+Havia algo em *sim* que era mais do que confirmação — era o reconhecimento de que Lucasia havia nomeado algo que ele havia sabido e não havia nomeado ainda.
+
+Ela ficou quieta. Ele também.
+
+Por quanto tempo ficaram ali ele não registrou com precisão. O que registrou: a qualidade do silêncio entre eles, que não era o silêncio de duas pessoas sem o que dizer mas o silêncio de duas pessoas fazendo a mesma coisa em paralelo — processando o que vinha em menos de dez horas, verificando as variáveis internas que o plano externo não cobria.
+
+Havia coisas que ele não ia examinar às três e tantos da manhã.
+
+Ela foi embora antes dele. Não disse boa noite — não era o tipo de coisa que ela dizia, e não era o tipo de coisa que a situação requeria. Simplesmente saiu do leme com o passo de alguém que havia terminado o que havia ido fazer e estava indo fazer a próxima coisa.
+
+Ele ficou mais quinze minutos.
+
+O slipsand de Neven embaixo. A corrente que ele havia aprendido a identificar pelo padrão de superfície. O porto quieto com a qualidade de porto que aguardava.
+
+Havia algo na qualidade específica daquele silêncio — o silêncio depois que ela havia saído do leme e antes que ele voltasse para a câmara — que tinha textura distinta dos outros silêncios que havia acumulado na rota leste. Não o silêncio de ausência. O silêncio de dois instrumentos que haviam estado na mesma frequência por tempo suficiente para que a frequência ficasse no ar depois que um dos instrumentos ia embora.
+
+Ele havia aprendido a não examinar esse tipo de coisa.
+
+Havia aprendido, na segunda semana de Mercator, que havia coisas que se examinadas produziam conclusões que a situação operacional não comportava ainda — que havia um tempo correto para certos exames e que o tempo correto não era às três e tantos da manhã na véspera de uma operação que requeria atenção integral das duas pessoas envolvidas naquele silêncio. Havia aprendido isso com a consistência de quem aprende porque a alternativa é mais cara do que a aprendizagem.
+
+Havia vinte e quatro horas. Havia havido quarenta e oito. Haveria menos quando ele voltasse para a câmara.
+
+Era suficiente para agora.
+
+---
+
+Às dez da manhã a câmara do capitão tinha a qualidade de espaço de planejamento que havia atingido sua versão final: os mapas em triângulo na versão que havia se tornado o arranjo padrão deles, os pontos de verificação marcados nas margens por mãos diferentes. Aldric à esquerda. Doryn na entrada — de pé, porque Doryn raramente sentava em reuniões, porque estar de pé tornava o processo de sair mais rápido se fosse necessário sair.
+
+Ela foi pelo plano uma vez, linear, verificando cada posição. Depois uma segunda vez, mais rápida, verificando inconsistências.
+
+— Aldric. — Lucasia não levantou os olhos dos mapas. — Perrin reconhece você de vista.
+
+— De vista. Trabalhamos em Cassavar no mesmo período. — Uma pausa pequena. — Ele não sabe o que faço agora. Só que não estou mais em Cassavar.
+
+— Isso é suficiente para a credencial?
+
+— É suficiente para ele me deixar passar ao segundo andar. Depois é com Sael.
+
+— Certo. — Ela marcou o ponto de verificação final no mapa. — Doryn.
+
+— O armazém de madeira no cais sul tem dois pontos de saída que não estão na planta original. — Doryn havia verificado isso na madrugada, sem instrução específica. — Saída de emergência pelo corredor de fundos, acesso direto ao canal velho.
+
+— Você verificou quando.
+
+— Esta manhã cedo.
+
+Havia algo na precisão de Doryn que ela não comentou porque comentar seria nomear o que os dois já sabiam: que Doryn havia acordado mais cedo do que o necessário para verificar saídas de emergência que ninguém havia pedido, porque a operação envolvia vinte e cinco pessoas no Mercator que dependiam de sair de Neven em condição controlada.
+
+Vinte e cinco pessoas.
+
+Ele havia contado o número sem decidir contar quando Lucasia havia dito *Maret, Torbe, Halve no navio, prontos para partir em vinte minutos*. Havia feito a conta automática de cabeça — não só os três, mas o número total a bordo, o número que compreendia o Mercator como entidade além de navio. Vinte e cinco tripulantes, mais Aldric, mais Sael quando saísse.
+
+Vinte e cinco pessoas que haviam embarcado nessa operação por extensão, que não haviam escolhido estar em Neven mas que estavam em Neven porque o Mercator estava em Neven e o Mercator estava em Neven porque o plano havia chegado a Neven.
+
+Era o tipo de conta que ele havia feito com outros números, em outras circunstâncias.
+
+A revisão terminou às dez e quarenta e cinco. Havia duas horas e trinta minutos até o horário de saída para posicionamento.
+
+---
+
+Ele foi para o convés.
+
+Havia aprendido, nos seis meses de Mercator, que o convés era o lugar onde as coisas que não cabiam na câmara de passageiros cabiam — que havia no ar aberto uma qualidade de espaço que o interior não tinha. Não liberdade, que era palavra grande demais. Apenas: espaço. O tipo que o peso do Isolde requeria quando ficava específico.
+
+O Isolde havia tido vinte e cinco pessoas a bordo.
+
+Não contava por nome — havia aprendido que contar por nome tornava a lista finita, e a lista finita tornava o peso específico no tipo de peso que não resolvida às onze da manhã na véspera de operação. Contava em número porque número era menos cortante. Vinte e cinco. O número que havia carregado nos dezoito meses desde o naufrágio, que havia levado para as rotas do leste, para os mapas, para os portos de Harven e Crevos e Neven onde havia chegado sempre um mês depois ou dois meses antes.
+
+Havia carregado isso como responsabilidade não como culpa — a distinção havia levado tempo para ficar precisa, e havia ficado precisamente na terceira semana de rota leste, quando havia percebido que responsabilidade era o tipo de coisa que você carregava para frente e culpa era o tipo que você carregava para trás, e que carregar para trás não servia a ninguém, especialmente não a vinte e cinco nomes.
+
+Havia trazido a responsabilidade para o Mercator. Havia deixado a culpa em algum porto da rota leste, de forma imprecisa, sem cerimônia.
+
+O convés do Mercator às onze da manhã. Torbe na proa. Maret nos instrumentos calibrando pela segunda vez — ela calibrava quando havia alguma coisa que não conseguia controlar e que requeria que as coisas que conseguia controlar estivessem impecáveis. Ele havia aprendido a ler isso como o equivalente de Maret a ficar no convés.
+
+Às doze e quinze ele foi para a câmara, porque às doze e vinte e cinco era hora de sair.
+
+---
+
+O cais norte de Neven às doze e trinta tinha o movimento de meio-dia — carregadores de turno, fornecedores terminando rota matinal, dois fiscais de plataforma nos postos que havia verificado na véspera. A rede de Verath visível não como presença individual mas como padrão: a distribuição específica dos postos de verificação, o ritmo com que o movimento do cais se curvava ao redor dos pontos de controle, a forma que trabalhadores portuários sem relação com Verath ajustavam rotas sem saber por quê.
+
+Havia aprendido a ler esse padrão em seis meses de portos do leste.
+
+Encontrou posição a dezesseis metros do escritório de logística às doze e trinta e dois. A posição era de trabalhador verificando nota de carga — um dos gestos invisíveis do cais, do tipo que ninguém notava porque estava em toda parte.
+
+Do ângulo onde estava: o escritório de logística estava visível pela janela do segundo andar. A janela voltada para o cais que Tavessa havia especificado.
+
+Às doze e trinta e dois a janela estava fechada.
+
+Às doze e quarenta e dois a janela estava aberta.
+
+Havia uma mulher no escritório com uniforme de conferente de logística e uma prancheta. Estava de costas para a janela, verificando documentos na mesa, com o gesto eficiente de quem havia feito esse gesto muitas vezes e havia encontrado o ritmo que tornava a eficiência automática. Scan. Verificação. Rubrica. Próximo.
+
+Ele ficou olhando.
+
+A postura era diferente do que havia esperado encontrar. Não diferente de Sael — *era* Sael, o ângulo de ombros, a forma como se movia num espaço que conhecia. Mas diferente do que havia esperado: não havia nada de quem estava escondida, de quem estava com medo, de quem estava aguardando ser resgatada. O que havia naquela postura era o que havia nas mãos dela quando verificava os documentos: competência construída. A qualidade específica de pessoa que sabia onde estava e por que havia escolhido estar ali.
+
+Havia vinte meses naquilo.
+
+Vinte meses de construir uma identidade dentro do sistema de Verath — de aprender logística de carga suficientemente bem para ter acesso de segundo nível, para ser o tipo de funcionária que recebia turno com responsabilidade real e o executava sem supervisão porque havia demonstrado que sabia executá-lo. De ser outra pessoa com a competência suficiente para tornar a outra pessoa crível.
+
+Ele havia passado os mesmos vinte meses em movimento.
+
+Ela havia ficado parada.
+
+Ele contou os minutos sem decidir contar.
+
+---
+
+## Capítulo 11 — Sael
+
+*Raban*
+
+---
+
+Havia seis minutos.
+
+Ele havia parado de registrar o tempo no quarto minuto — havia ficado com a observação sem o contador de tempo, porque o dado relevante havia deixado de ser a duração e havia se tornado o que estava vendo.
+
+O que estava vendo: a mulher no escritório de logística verificando a pilha de documentos com o ritmo de quem havia desenvolvido o ritmo ao longo de tempo suficiente para que o ritmo fosse automático. Scan. Verificação. Rubrica inicial. Próximo. O espaçamento entre documentos era consistente — não o espaçamento de alguém que estava com pressa de terminar, mas o de alguém que havia aprendido que a velocidade correta era a velocidade que não deixava erro e que erro era o tipo de coisa que chamava atenção que não era desejada.
+
+Ela conhecia o escritório. O mapa do espaço estava nela — via no jeito que ela se movia entre a mesa e o arquivo sem verificar onde o arquivo estava, que alcançava o terceiro gaveta de cima sem olhar para a terceira gaveta de cima, que encontrava o carimbo de confirmação sem procurar. Vinte meses de aprender um espaço até que o espaço fosse extensão.
+
+Não estava escondida.
+
+A observação continuava voltando porque era a mais relevante. Não havia cobertura frágil, não havia disfarce improvisado. O uniforme era o uniforme correto, a função era a função correta, o nível de acesso era real. Ela havia construído uma identidade que não era frágil porque havia passado tempo suficiente para que a identidade adquirisse a solidez que só o tempo dava — a solidez de quem conhecia o espaço de trabalho, de quem os colegas reconheciam pela função, de quem o sistema registrava como funcionária de segundo nível há dezoito meses sem irregularidade marcada.
+
+Isso não era esconder-se.
+
+Era infiltrar-se.
+
+Havia uma diferença que ele havia entendido na primeira semana de rota leste, quando o rastro de Sael havia ficado claro o suficiente para ver que ela não estava em fuga — que os rastros não eram de quem corria mas de quem se movia com propósito, de quem escolhia os portos que escolhia porque havia razão para escolher esses portos. Havia entendido a diferença. Havia continuado procurando da forma que sabia procurar porque o movimento era a única resposta disponível quando o que você procurava não estava no lugar onde você esperava.
+
+Às treze horas e seis minutos ela levantou a cabeça da prancheta.
+
+Não foi um scan geral do cais — não foi o olhar de quem verifica o ambiente por hábito. Foi direta: ela levantou e olhou para o ponto onde ele estava, com a precisão de quem sabia a localização antes de verificar. Como se houvesse um ângulo específico no padrão de movimento do cais que havia mudado quando ele entrou em posição às doze e trinta e dois, e ela havia registrado sem mostrar que registrou, e havia esperado.
+
+O olhar de Sael era o de quem sabia que isso ia acontecer e havia decidido, em algum ponto antes de agora, que a forma da resposta importava tanto quanto o conteúdo.
+
+Ela não correu para a janela. Ela esperou que ele se movesse.
+
+---
+
+Ele cruzou os dezesseis metros com o passo de trabalhador que havia terminado de verificar a nota de carga e estava indo para o próximo ponto de rota. Não rápido, não lento — o ritmo do cais, o ritmo invisível.
+
+Ela havia saído do escritório quando ele chegou à escada do segundo andar. Não havia descido — havia parado na varanda de metal escurecido, apoiada na grade, com a prancheta ao lado, olhando para ele subir.
+
+A distância entre eles diminuiu até ser a largura da varanda.
+
+Ela era mais magra do que na última vez que a havia visto — não de privação, do tipo de magreza que vinha quando o corpo queimava o que não era necessário e ficava com o que era. Os dois anos no Harrow haviam produzido algo parecido: ela havia saído do outro lado mais leve e mais rápida. O que havia agora era mais acentuado porque eram vinte meses, não dois anos — mas tinha a mesma qualidade de refinamento forçado.
+
+Os olhos eram os dele. A mesma forma, o mesmo ângulo, a mesma qualidade de instrumento calibrado para registrar sem denunciar o processo de registro. Eles tinham herdado isso do mesmo lugar — essa forma específica de olhar que a maioria das pessoas interpretava como frieza e que era simplesmente a tentativa de ver com precisão antes de reagir.
+
+Ela o avaliou em dois segundos com os olhos que eram os seus.
+
+— Você trouxe o Mercator, — disse ela. A voz era mais baixa do que ele lembrava, ou havia esquecido que a voz dela era baixa. Vinte meses eram suficientes para tornar a memória de detalhe imprecisa.
+
+— Eu trouxe a capitã do Mercator.
+
+Sael olhou por cima do ombro dele.
+
+Não havia olhado antes de ele dizer — havia olhado *depois*, como se a frase houvesse confirmado o que havia suposto. Ele seguiu o ângulo: Lucasia a doze metros, ao lado do corredor de carga, com a passagem de manifesto que Maret havia preparado como cobertura de contexto. Não olhava para eles. Completamente ciente de tudo dentro do raio relevante.
+
+Sael avaliou. Rápido, com a eficiência de quem havia aprendido leitura de pessoas como ferramenta de trabalho — não como julgamento, como dado operacional. O tipo de avaliação que produzia resultado em segundos porque havia sido praticada até que o resultado chegasse em segundos.
+
+— Ela é exatamente o que eu imaginava, — disse Sael.
+
+Havia algo na frase que ele não havia esperado — não a observação em si, mas o que a observação implicava. Que Sael havia imaginado. Que havia havido matéria suficiente para construir uma imagem antes de verificar a imagem. Que a imagem vinha de algum lugar — de alguma coisa que havia chegado a Sael ao longo de vinte meses de operação via canal irregular, de alguma descrição ou ausência de descrição que havia produzido expectativa.
+
+— O que você imaginou? — disse ele.
+
+Sael olhou de volta para ele.
+
+— Alguém que sobrevive.
+
+Havia algo no tom — não descrição técnica, não qualificação operacional. A qualidade de observação que carregava tempo. Como se ela houvesse carregado essa imagem ao longo dos meses e a houvesse verificado agora e a imagem houvesse coincidido.
+
+Ele ficou com isso por um segundo que não tinha resposta.
+
+— Preciso do que está com Perrin, — disse ele.
+
+— Sei. — Ela virou para o corredor interno sem pressa — o movimento de funcionária que vai buscar documento, não de funcionária em fuga. Era a distinção que vinte meses de cobertura tornavam automática. — Aldric está no andar de baixo?
+
+— Está.
+
+— Perrin vai subir com ele em dez minutos. Precisa de oito minutos com os documentos para fotografar o que importa. — Uma pausa. — Eu vou estar verificando manifesto no cais sul quando isso acontecer.
+
+A cobertura. Ela não estaria no escritório quando os documentos saíssem do arquivo. O rastro levaria para longe dela — a auditoria que viria depois encontraria uma funcionária verificando manifesto no cais sul, não uma funcionária que havia facilitado acesso ao arquivo de documentação de ciclocanes artificiais.
+
+Eles entraram no corredor interno.
+
+---
+
+O corredor tinha o barulho surdo de logística ao redor — passos, documentos, o som de armazém que não parava porque o porto não parava. O espaço era privado no único sentido disponível em porto de Neven sob rede de Verath: ninguém estava olhando para aquele corredor específico naquele momento específico.
+
+Ele parou.
+
+Ela parou.
+
+— Vinte meses, — disse ele.
+
+Era a frase mais honesta disponível e que não era acusação. Havia chegado ao ponto, em algum lugar da rota entre Harven e Crevos, onde a acusação havia deixado de ser o que havia — onde o que havia no lugar era a observação simples de que havia sido muito tempo e que o tempo havia sido longo das duas formas possíveis.
+
+— Eu sei, — disse ela.
+
+— Você sabia onde eu estava.
+
+— Sabia onde os mapas levavam. — Ela o olhou com os olhos que eram os dele. — Seis meses e você estava em Harven. Oito meses, Crevos. Doze meses, Neven pela primeira vez — saiu antes de eu conseguir janela de contato segura. — Uma pausa. — Continuei mandando você embora porque mais um mês significava mais documentação. Mais documentação significava mais prova. E prova é o único caminho que destrói Verath de forma permanente em vez de fechar uma rota e deixar que ele abra outra.
+
+— E agora.
+
+— Agora Aldric está com Perrin no andar de baixo com dois anos de documentação de ciclocanes artificiais, rotas de distribuição de moonsburn, correspondência interna de Verath que nomeia as decisões como decisões. — Ela olhou para as mãos que seguravam a prancheta. — Quando Aldric for embora com isso, minha posição aqui fica comprometida em setenta e duas horas. Possivelmente menos se houver auditoria acelerada.
+
+Ele processou. — Você sai com o Mercator.
+
+— Se a capitã do Mercator concordar. — Uma pausa pequena. — Preferia perguntar diretamente, não através de você.
+
+Havia algo a verificar antes disso.
+
+— Você confia na capitã do Mercator, — disse ele. Não era pergunta.
+
+Sael ficou quieta por um segundo — não de hesitação, mas o segundo de quem examina a pergunta para verificar se é genuína ou retórica, e que havia decidido que era genuína e portanto requeria resposta genuína.
+
+— Confio. — A clareza direta que ela herdara do mesmo lugar que ele. — Pergunto porque a decisão é dela, não sua.
+
+Havia um segundo de ajuste. Não de discordância — de reconhecimento: ela estava correta. A decisão era de Lucasia. O Mercator era de Lucasia. Ele havia chegado ao Mercator porque Lucasia havia oferecido — havia sido o tipo de oferta que não vinha de obrigação mas de cálculo, e o cálculo havia incluído o que ele trazia e o que trazia custava. O que havia construído nos meses desde então havia sido construído dentro do espaço que o Mercator permitia.
+
+A decisão era de Lucasia.
+
+— Vou perguntar, — disse ele.
+
+— Bom. — Ela ajeitou a prancheta sob o braço — o movimento de volta à função. — Perrin leva dez minutos. Quando terminar, você e a capitã saem pelo cais norte — não pelo sul, tem mais supervisão a essa hora. Eu saio por dentro da estrutura pelos fundos. Nos encontramos às dezassete horas no porão do armazém quatro.
+
+— Armazém quatro.
+
+— O de madeira. Você vai reconhecer porque é o único com fechadura original — todo o resto foi substituído nos últimos dois anos no contrato de expansão de Verath. — Ela já estava com o passo de quem volta ao trabalho. — Às dezassete em ponto, não antes. Se eu não chegar até dezassete e trinta—
+
+— Eu entendo.
+
+— Sei que você entende. Estou dizendo mesmo assim porque *entender* e *executar o protocolo de saída* são coisas distintas e eu prefiro que a distinção seja explícita.
+
+Havia algo em *sei que você entende* que era a frase mais próxima de *senti sua falta* que Sael havia aprendido a dizer em vinte e dois anos. Havia algo em *prefiro que a distinção seja explícita* que era a frase mais próxima de *fico mais tranquila se você confirmar*.
+
+Ele ficou quieto.
+
+Ela foi.
+
+---
+
+Ele ficou no corredor por alguns segundos.
+
+O barulho surdo de logística ao redor. O som de Sael indo para o cais sul com a postura de funcionária que tinha turno para cumprir — que tinha turno real, que estava de fato verificando manifesto, que a cobertura era cobertura porque incluía trabalho real.
+
+Havia vinte meses naquilo.
+
+Havia imaginado esse momento em versões ao longo da rota — o momento do reencontro, o que haveria nele, qual seria o peso. Havia imaginado colapso que não era o tipo de coisa que Sael ou ele faziam mas que havia imaginado de qualquer forma porque o peso dos meses havia requeria alguma versão do release. Havia imaginado raiva — dela por ele ter continuado procurando depois do *não venha ainda*, dele por ela ter ficado tanto tempo. Havia imaginado o tipo de reencontro onde os meses entre eles materializavam de uma vez.
+
+O que havia sido: dois minutos num corredor de logística e instruções precisas sobre saída de emergência.
+
+E *você sabia onde eu estava* / *sabia onde os mapas levavam*.
+
+E *ela é exatamente o que eu imaginava* / *alguém que sobrevive*.
+
+Era Sael. Havia sido Sael o tempo todo, que havia construído a posição que tornava necessário o *não venha ainda*, e que havia verificado a imagem que havia formado antes de formá-la, e que havia dito *confio* sobre a capitã do Mercator com a clareza específica de quem havia chegado à conclusão com informação suficiente para chegar à conclusão.
+
+Ele foi para o cais.
+
+---
+
+Lucasia estava onde havia estado. Doze metros do escritório, com a passagem de manifesto, com a postura de capitã de rota leste que havia avaliado o que havia para avaliar e estava pronta para partir. Ela o viu quando ele saiu do corredor. Não mudou de postura — ficou pronta para caminhar quando ele chegasse.
+
+Ele chegou.
+
+Saíram pelo cais norte com o passo de duas pessoas que terminaram o que tinham a fazer e estavam indo embora. O ritmo do cais, sem pressa e sem hesitação.
+
+— Aldric tem os documentos, — disse ele, quando estavam fora do raio do posto de supervisão mais próximo.
+
+— Vi Aldric sair há três minutos. — Ela não olhou para ele. — Está indo para o Mercator?
+
+— Direto.
+
+— Certo. — Uma pausa. — Sael?
+
+— Armazém quatro às dezassete. Ela sai pela estrutura interna. — Ele esperou um segundo. — Ela quer embarcar no Mercator. Disse que a decisão é sua.
+
+Lucasia ficou quieta enquanto caminhavam. O porto ao redor. O slipsand do canal visível entre as estruturas — preto, correndo com a corrente que não parava por horário.
+
+— Está certo, — ela disse.
+
+Era a brevidade de alguém que não gastava palavra em confirmação do que havia sido calculado antes de ser perguntado.
+
+Havia algo que ele precisava dizer. Não porque a situação requeria, mas porque era preciso e porque ela havia dito coisas ao longo dos meses que haviam chegado em ângulos que ele não havia esperado, e havia uma simetria a que a coisas precisas chegassem da mesma direção.
+
+— Ela disse algo sobre você, — disse ele.
+
+Lucasia não parou de caminhar. — O quê.
+
+— Que você era exatamente o que havia imaginado.
+
+Um momento.
+
+— O que ela havia imaginado?
+
+— Alguém que sobrevive.
+
+Lucasia recebeu isso em silêncio. Ele não explicou porque não havia explicação a dar — a frase era completa, a imagem que Sael havia formado era a imagem que havia verificado, e o que havia na verificação era o que havia nela.
+
+Chegaram ao Mercator. Ela subiu pelo acesso de estibordo sem parar. Ele subiu atrás.
+
+---
+
+O convés estava quieto com a qualidade de navio que havia cumprido o que havia sido pedido e aguardava o próximo pedido. Torbe na proa. Maret nos instrumentos. Halve em algum lugar abaixo com os manifestos que havia com os manifestos quando havia espera.
+
+Lucasia foi para a câmara do capitão sem parar.
+
+Ele ficou no convés.
+
+O slipsand de Neven abaixo — preto, correndo com a corrente do canal que havia aprendido a identificar pelo padrão de superfície. O sol havia passado o zênite. Havia três horas e meia até as dezassete.
+
+*Alguém que sobrevive.*
+
+Havia algo no jeito que Sael havia dito — a qualidade de observação que carregava tempo acumulado. Que ela havia formado essa imagem antes de verificá-la, que havia carregado ao longo dos meses de infiltração e de posição e de escolhas difíceis que não eram difíceis para ela da forma que seriam difíceis para a maioria das pessoas, porque Sael havia desenvolvido a capacidade de fazer a escolha difícil e não examinar se havia sido difícil até que fosse seguro examinar.
+
+A imagem havia sido formada de alguma coisa. De alguma coisa que havia chegado a ela — não de conversas diretas, porque não havia tido, mas de outras coisas. Do embargo. Do Mercator em Neven. Da capitã do Mercator que havia ido ao leste quando o embargo havia chegado, não depois.
+
+*Alguém que sobrevive.*
+
+Havia coisas que ele não ia examinar agora. Havia dezassete horas e o armazém quatro e Sael com os documentos e um plano que havia sido sólido o tempo todo e que continuava sólido.
+
+Era suficiente para trabalhar.
+
+Era o tipo de suficiente que havia aprendido, em seis meses de Mercator, a reconhecer como diferente do tipo de suficiente que havia trazido consigo para o Mercator — que havia um tipo que era *suficiente para agora* e um tipo que era *suficiente como a coisa inteira*, e que os dois haviam parado de soar da mesma forma em algum ponto da rota entre Arvene e Harven que ele não havia registrado com precisão.
+
+O slipsand de Neven abaixo.
+
+Três horas e meia.
+
+---
