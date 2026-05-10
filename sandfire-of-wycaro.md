@@ -798,3 +798,397 @@ Os mapas não estavam mais em branco onde haviam estado em branco.
 *Isso era o problema.*
 
 ---
+
+## Capítulo 6 — Aldric
+
+*Raban*
+
+---
+
+Raban conhecia Aldric Bren havia sete anos.
+
+Não intimamente — Aldric não era o tipo de homem que permitia intimidade com facilidade, e os sete anos haviam sido passados em portos diferentes, rotas que se cruzavam sem nunca seguirem o mesmo trajeto por tempo suficiente. Mas conhecia o método. Sabia como Aldric entrava num espaço: avaliação de saídas, depois de pessoas, depois do objetivo. A ordem nunca variava. Era o hábito de alguém que havia aprendido, em algum ponto de muitos anos operando nas margens do permitido, que saber onde estava a porta era mais importante do que saber quem estava na sala.
+
+Aldric entrou às dezoito horas com a precisão de quem havia chegado cedo o suficiente para verificar as saídas antes de entrar.
+
+A câmara do capitão tinha uma porta e duas janelas. Aldric registrou as duas janelas, depois Raban, depois Lucasia — nessa ordem. Ficou parado por um segundo, que era menos do que o tempo habitual, o que significava que a imagem que havia formado a partir do que havia ouvido estava sendo confirmada mais rapidamente do que havia previsto.
+
+Lucasia olhou para ele com a expressão de quem havia registrado a avaliação e estava aguardando o resultado.
+
+— Então você é a Vael. — Não era pergunta.
+
+— Sou.
+
+Uma pausa. Menor do que deveria ter sido. Aldric tinha a qualidade de homens que controlavam a expressão com precisão de instrumento calibrado, e o ajuste que havia no ângulo do ombro — mínimo, involuntário — era do tipo que acontecia quando alguma coisa confirmava uma hipótese que o sujeito havia preferido manter como hipótese.
+
+— Sael fala de você.
+
+Lucasia não respondeu. A expressão não mudou. Raban sabia o que estava acontecendo por baixo — o processo de verificação que ela fazia quando recebia informação que abria implicação que ela não havia calculado. Ela estava calculando o que "Sael fala de você" revelava sobre Sael, sobre Aldric, sobre o que cada um deles sabia e não sabia.
+
+Raban também estava calculando.
+
+As mensagens que havia enviado por via irregular eram rotas. Coordenadas, profundidades de slipsand, checkpoints, janelas de ancoragem. Não havia escrito sobre Lucasia. Não havia como Sael saber, pelas mensagens, o que havia acontecido em Dassyr, o que havia ficado sem nomear durante quatro semanas de rota no L1. Não havia como Sael saber sobre os seis meses que se seguiram, sobre as rotas norte, sobre o embargo, sobre o Mercator chegando ao leste.
+
+O que significava que Sael havia aprendido de outra fonte.
+
+E que Sael estava monitorando o suficiente para ter uma fonte.
+
+---
+
+O contato de Aldric dentro do setor de logística de Neven chamava-se Perrin. Quarenta e um anos, funcionário de segundo nível há três, acesso ao arquivo de carga sensitiva desde a reorganização de pessoal de seis semanas atrás quando o supervisor anterior havia pedido transferência e o sistema havia ficado com lacuna de cobertura que ainda não havia sido completamente preenchida. Perrin não trabalhava para a resistência por convicção política — trabalhava por dívida. A dívida era de Verath para com ele, não o contrário: havia perdido um navio na rota sul por um ciclocane que ninguém havia previsto e que o Inspetor havia arquivado como fatalidade natural. Havia decidido, naquele ponto, que a distinção entre fatalidade natural e fatalidade induzida merecia investigação.
+
+Aldric apresentou isso com a economia de quem havia resumido o argumento muitas vezes. Os mapas na mesa. A câmara do capitão com os três nela — Raban do lado esquerdo, Lucasia ao centro, Aldric à direita, como se houvessem encontrado posições naturais sem discutir quais eram.
+
+— Perrin tem acesso de segundo nível ao setor três, — disse Aldric. — O arquivo de carga sensitiva fica no sub-setor três-B. Com acesso de segundo ele consegue entrar, documentar os registros, sair em menos de vinte minutos. A janela: toda quinta-feira entre as treze e as quatorze e trinta, quando o supervisor de turno está no almoço de coordenação mensal. É reunião obrigatória. Ninguém falta porque o Inspetor usa frequência como métrica de lealdade.
+
+— Próxima quinta-feira, — disse Lucasia.
+
+— Em quatro dias. Se o Mercator chegar até quinta-feira de manhã.
+
+— O Mercator chega até quinta-feira de manhã.
+
+Era a frase que ela usava quando havia calculado e a resposta era sim — sem qualificação, sem margem declarada, só a afirmação de quem conhecia o Mercator e as rotas leste o suficiente para saber o que era possível. Aldric olhou para ela com a expressão de quem não sabia ainda se era confiança ou arrogância e não tinha informação suficiente para decidir.
+
+— Sael precisa saber que Perrin vai mover, — disse Raban. — Ela precisa estar em posição quando ele sair do sub-setor três-B com os documentos.
+
+— Ela sabe. — Aldric dobrou o mapa menor que havia trazido. — A comunicação entre eles é irregular mas funciona. Protocolo de sinalização que não passa pela rede de Verath — ela vai estar onde precisar estar.
+
+— Quanto tempo de aviso ela precisa?
+
+— Vinte e quatro horas.
+
+Lucasia e Raban não se olharam. Não precisaram — a mesma leitura: vinte e quatro horas de aviso significava chegar a Neven na quarta-feira e ter modo de passar a informação a Sael sem que o sistema de logística de Verath registrasse a passagem. O que implicava a rede dos portos velhos de Neven. Que existia. Que ela havia mapeado. Que nenhum dos dois ali sabia tão bem quanto ela.
+
+— Funciona, — ela disse.
+
+Aldric havia notado a comunicação que não havia acontecido. Notado mais do que estava sendo dito. Esse era o problema com pessoas que passavam muitos anos observando — ficavam boas demais em ler o que não estava no texto.
+
+— Tem mais uma coisa, — disse ele. — Quando Perrin sair com os documentos, vai precisar de extração. Ele não pode ficar em Neven depois que o sub-setor registrar o acesso irregular.
+
+— Onde ele vai?
+
+— Para onde o Mercator puder levá-lo.
+
+Lucasia olhou para os mapas de saída de Neven que ela e Raban haviam planejado — as rotas de extração, o ponto de separação, a janela do porto norte.
+
+— Pode ficar a bordo até a próxima escala, — ela disse. — Depois decidimos.
+
+Aldric assentiu com o tipo de concordância que não era necessariamente aprovação — era aceitação da única opção disponível dada as circunstâncias.
+
+O plano estava concluído às dezenove e trinta.
+
+---
+
+Lucasia saiu para verificar as amarras do Mercator. Maret apareceu com café que ninguém havia pedido e que todo mundo tomou, porque Maret tinha o instinto específico de segunda navegadora de saber quando o trabalho havia sido suficientemente longo para que uma xícara de café fosse mais útil do que qualquer outra coisa disponível. Aldric o tomou em silêncio. Raban o tomou de pé perto da janela, olhando para o slipsand de Arvene na escuridão crescente.
+
+Maret saiu.
+
+Aldric e Raban ficaram.
+
+— Ela vai com você até Neven, — disse Aldric. Não era pergunta.
+
+— É o Mercator dela.
+
+— Eu sei. — Uma pausa. Aldric olhou para a janela, para o mesmo slipsand. — Sael disse que ela era exatamente o que precisavam. Pessoas que movem carga sem deixar rastro, que conhecem os portos velhos, que têm a tripulação certa para operar onde a rede de Verath é mais visível.
+
+— Sael disse isso para você.
+
+— Sael diz várias coisas para mim.
+
+Havia alguma coisa no tom — não intimidade declarada, mas a familiaridade específica de duas pessoas que haviam trocado informação suficiente para desenvolver o registro próprio. A frequência de comunicação que se tornava presença. Raban conhecia esse tipo de familiaridade. Havia passado seis meses lendo os mapas de Lucasia.
+
+— O que mais ela disse, — disse Raban.
+
+Aldric ficou quieto por um momento. Não o silêncio de quem estava decidindo se ia responder — o silêncio de quem estava decidindo quanto.
+
+— Disse que você ia aparecer, — disse ele. — Que quando a pressão no Mercator ficasse suficientemente alta você ia aparecer. Que quando você aparecesse ia trazer alguém.
+
+Uma pausa.
+
+— Não especificou quem. — Aldric olhou para ele diretamente. — Mas quando vi a capitã, entendi que havia sido específica o suficiente.
+
+Raban não respondeu.
+
+Havia coisas que Sael não deveria saber. Havia coisas que ele não havia escrito nas mensagens, não havia codificado nas rotas, não havia declarado em nenhum canal que pudesse ser interceptado. Havia coisas que eram tão internas que ele havia mal se permitido examiná-las nos seis meses de rota leste — que havia guardado com o cuidado específico de coisas que ficam mais perigosas quando examinadas.
+
+Sael havia dito *você ia trazer alguém.*
+
+— O que exatamente ela sabe, — disse Raban.
+
+Aldric pegou o casaco do gancho próximo à porta com o movimento de quem havia estado em saídas suficientes para saber quando uma conversa chegou ao seu fim natural.
+
+— O suficiente para ter dito que quando você aparecesse o Mercator não ia estar longe. — Uma pausa menor. — E para ter ficado feliz quando a informação confirmou.
+
+Ele saiu.
+
+Raban ficou olhando para a porta por um tempo que não mediu.
+
+Havia uma pergunta que não havia feito. Havia ficado sem fazer porque a resposta ia ter implicações que ele não havia calculado ainda, e calcular exigia olhar para alguma coisa que havia guardado com muito cuidado por muito tempo, e olhar para ela no momento em que Sael estava a três dias de rota de distância e a operação estava às vésperas e havia trabalho suficiente para manter a atenção em outras direções — olhar para ela agora era o tipo de coisa que podia esperar.
+
+Havia coisas que podiam esperar.
+
+O slipsand de Arvene estava preto-roxo lá fora. A âncora do Mercator segurava. Amanhã havia mais planejamento. Depois havia Neven.
+
+A pergunta que não havia feito ficou.
+
+---
+
+## Capítulo 7 — O Que Aldric Tem
+
+*Lucasia*
+
+---
+
+A manhã de planejamento final tinha a eficiência específica das manhãs em que tudo havia sido decidido e o que restava era verificação.
+
+Aldric chegou às oito com a precisão da véspera. Raban já estava na câmara. Ela havia chegado antes dos dois — às seis, na escuridão antes do amanhecer leste, havia verificado os mapas, havia feito o café, havia reorganizado os papéis na disposição que facilitava a revisão em sequência. Era o tipo de tarefa que não precisava de muito tempo e que ela havia feito com mais atenção do que requeria, o que era o tipo de dado sobre si mesma que ela havia registrado e havia continuado.
+
+Eles verificaram o plano por três ângulos. Ela pelo das rotas. Raban pelo das relações dentro da rede de Sael — quem sabia de quem, onde a informação vazava, onde havia aliados que não eram Perrin. Aldric pelo do tempo: cada etapa, cada margem, cada ponto em que o plano dependia de variável não controlável.
+
+O plano sobreviveu às três revisões.
+
+Havia um detalhe novo que Aldric havia trazido: Perrin havia comunicado via protocolo de sinalização na noite anterior. O supervisor de turno do sub-setor três-B havia sido substituído na rotação da semana. O substituto era mais jovem — primeiro mês em supervisão, comprometido em demonstrar participação ativa, o tipo de funcionário que ficava em reuniões obrigatórias mais tempo do que o necessário porque ausência era risco e presença era recurso.
+
+A janela aumentava de vinte para trinta e cinco minutos.
+
+A diferença entre *possível* e *confortável* era exatamente essa. Ela havia registrado isso sem dizer em voz alta porque Aldric e Raban já haviam calculado o mesmo e dizer em voz alta não acrescentava nada além de ruído.
+
+Aldric ficou quieto depois de terminar o relatório de Perrin. O tipo de pausa que ele usava quando havia mais a dizer e estava calculando se e como.
+
+— Há outra coisa, — disse ele.
+
+Raban olhou para ele.
+
+— Eu conhecia seu pai.
+
+O silêncio que se seguiu tinha a qualidade de silêncios que reordenam o espaço.
+
+Ela ficou quieta. Aldric havia dito isso para Raban, na frente dela, com plena consciência de que ela estava ouvindo. Não era descuido — Aldric não cometia esse tipo de descuido. Era escolha. A escolha de quem queria que uma informação chegasse com testemunha, ou de quem queria que o receptor tivesse alguém ao lado quando recebesse.
+
+— Não pessoalmente, — continuou Aldric. A voz no mesmo tom de sempre — a economia de quem havia resumido essa conversa muitas vezes na sua cabeça antes de ter a oportunidade de dizê-la. — Conhecia o trabalho dele. A reputação dentro da rede. O que ele construiu antes de o Inspetor— — Ele não terminou a frase. Não precisava. — Estou na resistência há quinze anos. Comecei depois que soube o que havia acontecido com Davan Serath.
+
+Raban não respondeu.
+
+Ela havia aprendido, em dezoito meses de observar Raban — nas quatro semanas do L1, nas mensagens irregulares, nos dias de Arvene — a distinguir os silêncios. O silêncio de cálculo, que precedia a palavra. O silêncio de recusa, quando não havia nada útil a dizer. O silêncio de guardar, quando a informação era pesada demais para o momento.
+
+Este silêncio era diferente dos três.
+
+Era o silêncio de alguém que acaba de entender que não estava sozinho tanto tempo quanto havia pensado. O tipo de silêncio que acontece quando a conta que você havia feito sobre o próprio isolamento está errada, e a correção chega de uma vez, e o sistema inteiro precisa reprocessar o que havia assumido como verdade.
+
+Ela conhecia esse silêncio.
+
+Era o dela — havia sido o dela, toda vez que o Mercator chegava num porto que o pai havia conhecido e alguém mais velho dizia *seu pai era um homem de palavra* com o tom específico de quem havia guardado esse conhecimento sem saber onde depositar. Toda vez que descobria, por acaso, que havia mais pessoas carregando partes do mesmo peso do que havia sabido. A geometria da carga que mudava sem que o peso mudasse — que ficava *menor*, não no volume mas no isolamento, na ilusão de ser a única.
+
+Raban ficou olhando para Aldric por um tempo.
+
+— Obrigado, — disse ele.
+
+Dois terços de uma palavra. O volume exato de reconhecimento que cabia antes que a voz deixasse de ser instrumento funcional.
+
+Aldric assentiu. Não acrescentou nada. Era o tipo de homem que sabia quando adicionar mais destruía o que havia sido construído.
+
+---
+
+O plano estava finalizado às onze.
+
+Aldric saiu para verificar o homem de guarda no cais e conferir o protocolo de saída para o dia seguinte. Raban ficou à mesa, olhando para os mapas com o tipo de presença que era ausência — o corpo na cadeira, a atenção em algum outro lugar que não era a câmara do capitão de Arvene.
+
+Ela recolheu os papéis. Organizou os mapas na sequência de rota — Arvene, segmento pós-Harven, Crevos, Neven, porto norte, janela de ancoragem. Tudo no lugar. Tudo em ordem.
+
+Havia alguma coisa que ela poderia dizer. Havia palavras disponíveis para o que havia visto — para o silêncio, para o que havia por baixo do silêncio, para o fato de que ela havia reconhecido o peso pela qualidade do repouso que ele trazia.
+
+Havia palavras. Ela não as tinha, pelo menos não ainda, pelo menos não aqui com os mapas ainda sobre a mesa e o trabalho ainda sobre a mesa e a câmara do capitão ainda a câmara de trabalho e não outro lugar.
+
+Ela saiu.
+
+---
+
+Às vinte e três horas subiu ao deck de observação sem saber se ele ia estar lá.
+
+O deck de observação do Mercator era a plataforma elevada acima da câmara do leme — o ponto mais alto do navio, de onde a visão cobria o horizonte em trezentos e sessenta graus de slipsand. Ela ia lá quando precisava de um lugar que não fosse câmara do capitão, não fosse leme, não fosse nenhum espaço que carregasse a função de decisão. Era o lugar de horizonte sem agenda.
+
+Ela não havia decidido ir. Havia acabado de estar indo.
+
+Ele estava lá.
+
+De costas. Olhando o slipsand leste na escuridão — o preto-roxo de Arvene que absorvia em vez de devolver, o horizonte indistinto onde a areia e o céu ficavam da mesma cor depois das vinte e uma horas. Ela havia visto essa composição antes. A primeira vez que havia visto Raban havia sido assim: de costas, olhando o slipsand, sem saber que ela estava ali.
+
+Apoiou-se no corrimão ao lado dele.
+
+O slipsand abaixo movia-se com a lentidão de coisa sem pressa. A âncora segurava. O Mercator respirava no repouso que era diferente do repouso de mar aberto — mais quieto, mais contido, o navio consciente de que estava amarrado.
+
+Nenhum dos dois disse nada por um tempo que ela não mediu.
+
+O vento do leste tinha uma temperatura diferente do norte — mais seco, mais frio nas bordas, sem a umidade que o slipsand roxo de Sanvel exalava de noite. Havia aprendido esse vento nos dias de Arvene. Havia aprendido a temperatura específica que ele tinha depois das vinte e duas horas quando a areia esfriava e devolvia o ar que havia aquecido durante o dia.
+
+— Você sabia sobre seu pai, — ela disse.
+
+Não era pergunta.
+
+— Sabia que ele morreu. — Uma pausa. — Não sabia que havia outros.
+
+— Muda alguma coisa?
+
+Ele ficou quieto por um momento — o silêncio de cálculo, o que precedia a resposta honesta.
+
+— Torna menor. — A voz no tom que ele usava quando estava sendo preciso e não performático. — O tamanho disso. Quando você pensa que é o único a carregar, o peso parece infinito. Quando descobre que outros carregaram partes do mesmo peso—
+
+Parou.
+
+Olhou para ela.
+
+— Você sabe disso, — disse ele. Era afirmação. Era também pergunta — a versão que deixava espaço para não confirmar, se ela não quisesse confirmar.
+
+— Sei.
+
+O slipsand abaixo. A noite. O horizonte onde a areia e o céu ficavam da mesma cor.
+
+Dois metros entre eles no deck de observação do Mercator, que ela havia medido sem ter intenção de medir, e que havia registrado com a precisão involuntária com que o olho de um capitão registra distância em espaço confinado — completamente insuficiente e completamente excessivo ao mesmo tempo, que era uma avaliação que não pertencia à linguagem de distâncias operacionais e que ela havia feito de qualquer forma.
+
+Havia mais a dizer. Havia, potencialmente, uma quantidade ilimitada de coisas a dizer — sobre o pai dela, sobre os portos que o pai havia conhecido, sobre o que ela havia feito com o peso quando havia aprendido que havia mais pessoas carregando partes dele. Havia a versão de si mesma que dizia essas coisas.
+
+Essa versão estava presente no deck de observação do Mercator às vinte e três horas.
+
+Ficou quieta.
+
+Ele não preencheu o silêncio. Havia aprendido, nos quatro semanas do L1 e nos dias de Arvene, que o silêncio dela não era ausência — era presença de uma qualidade diferente, era ela ficando no lugar sem precisar que o lugar fosse preenchido.
+
+Ficaram no deck por mais um tempo que ela não mediu.
+
+Depois ela desceu.
+
+Não havia mais nada a dizer que não fosse melhor dito em outro momento, em outro lugar, ou não dito ainda por tempo indefinido. Havia slipsand leste lá fora e o Mercator amarrado e na manhã seguinte havia partida. Havia o trabalho do trabalho — e o trabalho do trabalho era suficiente por agora.
+
+Suficiente soava diferente quando havia dois metros medidos involuntariamente na memória recente.
+
+Ela foi para a câmara do capitão. Fechou a porta.
+
+---
+
+## Capítulo 8 — Partida para Neven
+
+*Lucasia*
+
+---
+
+O Mercator partiu de Arvene ao amanhecer.
+
+Ela estava no leme quando o canal de saída abriu — o slipsand preto-roxo que havia aprendido a navegar em quatro dias de porto, a densidade maior que o norte, a resistência diferente no leme que exigia ajuste de antecipação. Havia feito o ajuste antes de Maret anunciar a mudança de pressão nos instrumentos. O corpo aprende antes da cabeça reconhecer que aprendeu.
+
+Torbe nas amarras de proa. Maret nos instrumentos com a expressão de satisfação específica que exibia quando confirmavam o que já sabia. Halve abaixo com os manifestos de saída — três cópias, conforme o regulamento de Arvene, taxas pagas, recibo arquivado.
+
+Aldric estava no convés de estação, ao lado da escotilha de babor, bolsa aos pés, postura de alguém que havia estado em duneships suficiente para saber onde não ficar durante manobra de saída. Havia encontrado o lugar certo sozinho — sem instrução, sem orientação. Era o tipo de dado que ela arquivava sobre pessoas que embarcavam: quem precisava ser dito onde ficar e quem não precisava.
+
+Raban estava ao lado direito do convés principal.
+
+Havia também encontrado o lugar certo. Não o mesmo que Aldric — o outro, o ponto de onde a visão cobria o leme e o slipsand à proa simultaneamente. O ponto que um segundo capitão escolheria, se houvesse um segundo capitão a bordo.
+
+Não havia.
+
+Ela não havia dado instrução.
+
+Ele havia encontrado o ponto.
+
+Ela virou o olhar para o canal de saída e ajustou o leme para a corrente que havia mapeado na chegada.
+
+---
+
+Doryn apareceu no convés de estação às oito da manhã com o café que ele preparava pessoalmente nas partidas longas — não porque não havia ninguém a quem delegar, mas porque nas partidas longas ele considerava a preparação como parte do protocolo de verificação. Era o tipo de ritual que durava sete anos de bordo e que ela havia aprendido a respeitar sem precisar entendê-lo completamente.
+
+Entregou a xícara a ela no leme. A Maret na câmara de navegação. A Torbe na proa.
+
+Passou por Aldric sem parar.
+
+Aldric observou isso sem comentar. Sabia o que era — o tipo de avaliação que não precisava ser declarada para existir e que era tanto mais precisa por não ser declarada. Havia passado quinze anos em ambientes onde a avaliação tácita era a linguagem operacional principal.
+
+Uma hora mais tarde ela viu Doryn na posição de boreste — o ponto de onde a visão para a escotilha de babor era direta e constante. Tinha trabalho ali, tarefas legítimas que justificavam a posição. Mas o ângulo era o ângulo certo para observação sem declarar observação, e Doryn não ocupava ângulos por acidente.
+
+Ela não disse nada.
+
+Doryn havia estado a bordo tempo suficiente para fazer esse tipo de avaliação. Era o tipo de tripulante que ela queria fazendo esse tipo de avaliação. Aldric era aliado de Sael e aliado do plano, mas aliado não era o mesmo que conhecido, e o Mercator tinha vinte e cinco pessoas a bordo que precisavam que alguém verificasse o que não estava sendo verificado explicitamente.
+
+Doryn verificava.
+
+---
+
+A rota de Arvene a Neven era três dias pelo traçado confirmado — a rota norte, que evitava o checkpoint de Verath na entrada sul. Três dias de slipsand leste mais denso que o norte, com as correntes de fundo que ela havia mapeado e que tornavam a rota mais segura do que parecia para quem não havia mapeado.
+
+O primeiro dia foi trabalho limpo.
+
+Não o tipo que precisava ser discutido. O tipo que acontecia em silêncio porque a tripulação sabia o que fazer e fazia. Ela no leme. Maret nos instrumentos. Torbe nos cabos de pressão. Halve nos manifestos de rota que precisariam estar em ordem antes de Neven. A tripulação nos turnos que havia aprendido em meses de rotas norte e que havia mantido nos dias de Arvene sem precisar de instrução adicional.
+
+Raban ficou fora da câmara do capitão durante o primeiro dia.
+
+Ela notou isso. Notou especificamente que havia notado — que havia registrado a posição dele sem que a informação fosse operacionalmente necessária — e havia continuado fazendo o trabalho do Mercator porque o trabalho do Mercator era o que havia de fazer.
+
+À tarde, o slipsand abriu para o segmento pós-Harven, onde a corrente de fundo que ela havia mapeado através de dezoito medições em seis meses de rotas projetadas tornava a navegação mais rápida do que a rota sugeria. Ela ajustou o leme para a corrente antes de Maret anunciar a mudança nos instrumentos. Maret anunciou. Notou o ajuste já feito. Não disse nada — a versão de aprovação que ela dispensava quando não havia nada a acrescentar.
+
+---
+
+Na primeira noite a bordo, tarde, ela estava no leme.
+
+Havia ficado no leme depois do turno porque a corrente de fundo pós-Harven era imprevisível nas horas de escuridão e ela preferia a leitura direta de pressão do leme à leitura dos instrumentos nas horas em que o slipsand leste perdia a consistência de dia. Era decisão certa operacionalmente. Era também a decisão que a mantinha no leme às vinte e três horas em vez de descer para a câmara do capitão, que havia sido espaço de trabalho por quatro dias e que agora, com os mapas recolhidos e o plano concluído, era só câmara.
+
+O navio estava quieto com o silêncio da segunda qualidade — não passagem calma, mas tripulação em repouso depois de primeiro dia de rota longa, o silêncio de quem havia trabalhado o suficiente para merecer o descanso.
+
+A melodia chegou de algum lugar abaixo.
+
+Não era voz — era o tipo de som que uma pessoa faz quando está sozinha e pensando profundamente e há alguma coisa que ficou na memória sem endereço e que sai sem permissão explícita. Sem palavras. Só a forma de uma canção que ela não conhecia — o contorno de algo que tinha começo e desenvolvimento e que parou quando o convés rangeu sob um passo e a porta da câmara de passageiros fechou com o som específico de porta fechada por dentro.
+
+Ela olhou para o slipsand leste.
+
+A melodia não voltou.
+
+Ela não desceu para investigar.
+
+---
+
+No segundo dia Raban apareceu na câmara do capitão com os mapas de Neven e os colocou sobre a mesa na disposição do triângulo — a disposição mais eficiente para o que estavam verificando — e esperou que ela terminasse o turno do leme. Quando terminou, eles trabalharam durante duas horas no detalhe de entrada no porto norte de Neven, a janela de ancoragem, o caminho até o ponto de encontro com o contato de Sael no porto velho.
+
+Era trabalho. Só trabalho.
+
+Mas havia uma diferença entre o trabalho dos dias de Arvene e o trabalho do segundo dia de rota que ela havia identificado sem conseguir nomear completamente: em Arvene havia a mesa e os mapas e a câmara e os dois dentro dela. No navio em movimento havia tudo isso mais o balanço do casco, mais o som do slipsand entrando pelas janelas, mais o fato de que a câmara do capitão num duneship em trânsito era o espaço mais íntimo da embarcação depois dos camarotes. Era o lugar onde ela dormia e trabalhava e existia entre as decisões. E havia trazido alguém para trabalhar nesse espaço.
+
+Havia feito isso no L1 também.
+
+No L1 havia sido diferente. No L1 havia conhecido os limites do que estava se permitindo. Havia mantido a distância profissional, havia mantido a Lie funcional, havia mantido o suficiente soando como suficiente.
+
+Os mapas não estavam mais em branco onde haviam estado em branco.
+
+Havia dois metros medidos involuntariamente no deck de observação na memória recente que ela não havia conseguido desmedidos.
+
+Ela não havia encontrado o modo de desmeди-los.
+
+---
+
+No terceiro dia o horizonte de Neven apareceu às quatro da tarde.
+
+Ela estava no leme. Sempre estava no leme quando um porto novo aparecia — era o momento que requeria atenção máxima e que ela havia aprendido, em anos de comando, a não delegar. Era também o momento que ela genuinamente não queria delegar porque era o tipo de momento em que o Mercator e ela funcionavam como coisa única, o leme uma extensão da leitura de pressão que ela fazia com o corpo antes de fazer com o instrumento.
+
+Neven no horizonte era linha escura abaixo da areia — não a grandiosidade de Cassavar, não o metal escurecido de Arvene. A silhueta de porto que havia crescido em função antes de qualquer consideração de forma. Baixo, denso, com a arquitetura de lugar que existia para o trabalho que acontecia lá dentro.
+
+— Porto norte, — disse Maret ao lado. — Janela de ancoragem começa daqui a duas horas.
+
+— Eu sei.
+
+— Só confirmando que todos sabemos.
+
+Era a versão de Maret de afirmação coletiva. Não *você* — *todos*. Porque o plano era de todos os que haviam trabalhado naqueles mapas.
+
+Raban estava na proa.
+
+Ela não olhou para ele. Olhou para Neven crescendo no horizonte com a velocidade calma de coisa que sabia que você estava chegando.
+
+Havia um navio de Verath em algum lugar naquele porto ou próximo dele — o Inspetor não deixava portos sem presença quando havia razão para presença. Havia Sael em algum ponto dentro da rede de logística. Havia Perrin e os documentos e a janela de quinta-feira. Havia o embargo e a rota comercial e o Mercator.
+
+Era por isso que o Mercator estava aqui.
+
+Era a explicação. Era completa. Era suficiente.
+
+Era o tipo de suficiente que havia parado de soar como suficiente em algum ponto do segundo dia de rota e que ela havia continuado usando porque a alternativa era encontrar palavras mais precisas, e palavras mais precisas levariam a algum lugar que ela não havia autorizado ainda e que o porto de Neven não era o momento.
+
+O Mercator entrou no canal.
+
+Neven esperava.
+
+---
