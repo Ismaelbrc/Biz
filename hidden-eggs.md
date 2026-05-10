@@ -88,7 +88,8 @@ Lucasia *nunca descreve a cor dos olhos de Raban* no L1 inteiro. Ela descreve a 
 
 ### Seeds plantados no L1 para o L2
 - **Sael quer conhecer Lucasia** — Ch36: mensagem encerra com pedido de encontro
-- **Navio não identificado** — Ch45: log entry de Maret, navio observando o Mercator sair de Dassyr
+- **Navio não identificado** — Ch45: log entry de Maret, navio observando o Mercator sair de Dassyr. USAR em L2: pode abrir o livro com o navio reportando ao Inspetor — ou Lucasia percebendo que está sendo seguida em rota norte. O seed que parecia solto no L1 vira motor de abertura do L2.
+- **Lacuna dos 4 meses de Raban** — Ch3: 18 meses desde Cassavar, 14 de rastro de Sael, 4 não explicados. RESOLVER em L2: quando Raban finalmente conta o Isolde em detalhe (e vai ter que contar), os 4 meses se fecham. O leitor do L1 tem o "ah" retrospectivo. Funciona melhor pago num livro diferente.
 - **Documentos válidos por 6 meses** — Ch18 (caduca no início do L2)
 - **"Um dia você vai precisar de uma rota para algum lugar que não está no mapa"** — Ch40 (payoff L4: ela vai até ele sem mapa)
 - **Raban ainda tem o casaco dela não** — *ele* está com o casaco dela (Ch39 ele cobre ela, Ch40 ela acorda com ele) — reencontro L2 ou L3: ele ainda guarda?
