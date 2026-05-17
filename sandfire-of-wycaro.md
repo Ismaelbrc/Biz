@@ -187,11 +187,9 @@ Ela havia praticado isso no caminho de volta.
 
 Havia soado razoável na primeira vez. Na segunda. Na terceira, quarta, quinta.
 
-Na sexta havia soado como o tipo de coisa que as pessoas dizem quando a razão verdadeira é difícil de dizer em voz alta e a razão apresentável é tecnicamente verdadeira e suficientemente plausível para não ser testada — até que alguém testa, ou até que a pessoa que a pratica fica em silêncio tempo suficiente para ouvir o que ela realmente significa.
-
 Ela colocou a bússola de volta no bolso.
 
-Havia slipsand preto-roxo à frente. Havia Neven a três dias de rota. Havia um homem em algum ponto nessa direção que havia ido onde os mapas dela disseram para ir e que ela não havia buscado em seis meses e que ia buscar agora — por razões que soavam razoáveis no máximo seis vezes antes de soarem como outra coisa completamente.
+Havia slipsand preto-roxo à frente. Havia Neven a três dias de rota. Havia um homem em algum ponto nessa direção que havia ido onde os mapas dela disseram para ir e que ela não havia buscado em seis meses e que ia buscar agora.
 
 O Mercator respirava abaixo dela.
 
@@ -233,7 +231,7 @@ Para ela pareceu mais.
 
 — Capitã Vael.
 
-A voz era a mesma. Era sempre a mesma — ela havia pensado nisso nas rotas norte, nas seis horas de leme em Sanvel, nas noites em que o slipsand roxo estava bonito demais para olhar diretamente e havia alguma coisa nos instrumentos que ela precisava verificar com urgência. A voz não havia mudado. O que havia mudado era o peso que carregava — como bourbon que ficou na barrica mais tempo do que estava previsto e saiu de lá diferente sem que a receita houvesse alterado.
+A voz era a mesma. Era sempre a mesma — ela havia pensado nisso nas rotas norte, nas seis horas de leme em Sanvel, nas noites em que o slipsand roxo estava bonito demais para olhar diretamente e havia alguma coisa nos instrumentos que ela precisava verificar com urgência. A voz não havia mudado.
 
 — O mesmo, — ela disse.
 
@@ -541,8 +539,6 @@ Ele voltou à câmara de passageiros quando o sol havia subido o suficiente para
 
 Cento e oitenta e seis por cento e quarenta e dois.
 
-Sabia as dimensões. Sabia o som do casco do Mercator nesta câmara — a frequência de vibração quando o slipsand estava calmo, o padrão diferente quando havia corrente de fundo passando. O Mercator estava em repouso. As velas encolhidas. Ninguém no leme.
-
 Havia coisas novas que ele sabia agora que não eram sobre a câmara.
 
 Ela não havia perguntado por que ele não havia mandado aviso quando soubera do embargo.
@@ -687,8 +683,6 @@ O Mercator estava como havia deixado quando voltou com as provisões. Torbe na p
 
 — Ainda não. — Ela subiu com as provisões. — O tipo de pessoa que vai ter.
 
-O convés estava quieto com o silêncio da segunda qualidade — não passagem calma, mas tripulação que sabia que algo estava em processo e havia decidido, por acordo coletivo, esperar para ver o resultado. Maret havia navegado o Mercator tempo suficiente para distinguir entre os dois tipos de silêncio.
-
 Ela desceu para o estoque de instrumentos. Abriu o caderno que não era o de calibração. Escreveu: *Idris. Rotas leste. Informação ativa. Às 18h amanhã.*
 
 Depois calibrou os instrumentos de pressão pela terceira vez.
@@ -789,7 +783,7 @@ Dois segundos de nada.
 
 Ela não soube, naquele momento, se ele estava falando só sobre a rota.
 
-Ela enrolou o mapa do leste. Ele recuou — não precipitadamente, não como quem foi pego, mas com a precisão de alguém que reconhece que um momento foi nomeado silenciosamente e que continuar depois que um momento é nomeado requer que o que foi nomeado seja abordado, e nenhum dos dois estava disposto a abordar isso agora.
+Ela enrolou o mapa do leste.
 
 A distância profissional voltou.
 
@@ -921,16 +915,6 @@ Aldric pegou o casaco do gancho próximo à porta com o movimento de quem havia 
 
 Ele saiu.
 
-Raban ficou olhando para a porta por um tempo que não mediu.
-
-Havia uma pergunta que não havia feito. Havia ficado sem fazer porque a resposta ia ter implicações que ele não havia calculado ainda, e calcular exigia olhar para alguma coisa que havia guardado com muito cuidado por muito tempo, e olhar para ela no momento em que Sael estava a três dias de rota de distância e a operação estava às vésperas e havia trabalho suficiente para manter a atenção em outras direções — olhar para ela agora era o tipo de coisa que podia esperar.
-
-Havia coisas que podiam esperar.
-
-O slipsand de Arvene estava preto-roxo lá fora. A âncora do Mercator segurava. Amanhã havia mais planejamento. Depois havia Neven.
-
-A pergunta que não havia feito ficou.
-
 ---
 
 ## Capítulo 7 — O Que Aldric Tem
@@ -991,7 +975,7 @@ Aldric assentiu. Não acrescentou nada. Era o tipo de homem que sabia quando adi
 
 O plano estava finalizado às onze.
 
-Aldric saiu para verificar o homem de guarda no cais e conferir o protocolo de saída para o dia seguinte. Raban ficou à mesa, olhando para os mapas com o tipo de presença que era ausência — o corpo na cadeira, a atenção em algum outro lugar que não era a câmara do capitão de Arvene.
+Raban ficou à mesa, olhando para os mapas com o tipo de presença que era ausência — o corpo na cadeira, a atenção em algum outro lugar que não era a câmara do capitão de Arvene.
 
 Ela recolheu os papéis. Organizou os mapas na sequência de rota — Arvene, segmento pós-Harven, Crevos, Neven, porto norte, janela de ancoragem. Tudo no lugar. Tudo em ordem.
 
@@ -1119,7 +1103,7 @@ Não o tipo que precisava ser discutido. O tipo que acontecia em silêncio porqu
 
 Raban ficou fora da câmara do capitão durante o primeiro dia.
 
-Ela notou isso. Notou especificamente que havia notado — que havia registrado a posição dele sem que a informação fosse operacionalmente necessária — e havia continuado fazendo o trabalho do Mercator porque o trabalho do Mercator era o que havia de fazer.
+Ela notou isso. Notou especificamente que havia notado, e havia continuado fazendo o trabalho do Mercator porque o trabalho do Mercator era o que havia de fazer.
 
 À tarde, o slipsand abriu para o segmento pós-Harven, onde a corrente de fundo que ela havia mapeado através de dezoito medições em seis meses de rotas projetadas tornava a navegação mais rápida do que a rota sugeria. Ela ajustou o leme para a corrente antes de Maret anunciar a mudança nos instrumentos. Maret anunciou. Notou o ajuste já feito. Não disse nada — a versão de aprovação que ela dispensava quando não havia nada a acrescentar.
 
@@ -1136,8 +1120,6 @@ A melodia chegou de algum lugar abaixo.
 Não era voz — era o tipo de som que uma pessoa faz quando está sozinha e pensando profundamente e há alguma coisa que ficou na memória sem endereço e que sai sem permissão explícita. Sem palavras. Só a forma de uma canção que ela não conhecia — o contorno de algo que tinha começo e desenvolvimento e que parou quando o convés rangeu sob um passo e a porta da câmara de passageiros fechou com o som específico de porta fechada por dentro.
 
 Ela olhou para o slipsand leste.
-
-A melodia não voltou.
 
 Ela não desceu para investigar.
 
@@ -1389,32 +1371,6 @@ Era a conversa que a situação requeria e não continha nem menos nem mais.
 
 ---
 
-O slipsand do canal de Neven era preto na escuridão.
-
-Não o preto-roxo de Arvene — Arvene tinha slipsand que ainda carregava alguma coisa da luminescência do leste, que guardava a luz do dia e a devolvia ao anoitecer de forma irregular e pálida. Não o roxo profundo de Sanvel que havia crescido na infância dela e que ela havia aprendido a associar com a qualidade específica de estar em casa. O slipsand de Neven era preto como interior de rocha, como o que fica quando você retira tudo que não é necessário para a função — que não tinha nenhum interesse em impressionar quem o via e que não havia desenvolvido nenhum.
-
-Havia alguma coisa nessa honestidade que ela havia aprendido a respeitar no leste em geral.
-
-Ela tirou a bússola do bolso.
-
-A agulha apontava norte. Ela estava no leste. O norte ficava para trás — havia ficado para trás em Sanvel, havia ficado para trás em Arvene, havia continuado ficando para trás durante três dias de rota, e agora ficava para trás no cais norte de Neven com o slipsand preto abaixo e vinte e quatro horas até as treze horas de quinta-feira.
-
-Ela colocou a bússola de volta.
-
-Amanhã às dez, revisão de posições. Aldric, Raban, ela, Doryn. Às doze e meia, saída em grupos. Cais norte à uma: Raban a dezesseis metros do escritório, ela a doze, Doryn como cobertura de saída pelo acesso de trás. Maret e Torbe e Halve no Mercator, navio pronto para partir em vinte minutos se o sinal de emergência chegasse.
-
-Era o plano. Era sólido. Havia variáveis que não podia controlar e havia aceito isso como o custo padrão de operar com informação incompleta, que era o único tipo de informação disponível em operação real.
-
-O que havia no final do plano era Sael Serath em uniforme de logística no segundo andar do cais norte, com uma prancheta e uma janela voltada para o cais e vinte meses de cobertura construída com a paciência de quem havia decidido que o custo valia o resultado.
-
-Era o que havia.
-
-Era suficiente para o plano.
-
-Ela ficou no leme até que o porto de Neven abaixo dela ficasse quieto com a qualidade de porto que encerrou o turno e estava esperando o que viria a seguir, e então foi para a câmara do capitão, porque amanhã eram as dez horas e depois as doze e meia e depois as treze, e o que havia antes das dez horas era o trabalho de preparação que não deixava espaço para outra coisa, e esse trabalho começava agora e não depois.
-
----
-
 ## Capítulo 10 — A Véspera
 
 *Raban*
@@ -1491,8 +1447,6 @@ Havia algo em *sim* que era mais do que confirmação — era o reconhecimento d
 
 Ela ficou quieta. Ele também.
 
-Por quanto tempo ficaram ali ele não registrou com precisão. O que registrou: a qualidade do silêncio entre eles, que não era o silêncio de duas pessoas sem o que dizer mas o silêncio de duas pessoas fazendo a mesma coisa em paralelo — processando o que vinha em menos de dez horas, verificando as variáveis internas que o plano externo não cobria.
-
 Havia coisas que ele não ia examinar às três e tantos da manhã.
 
 Ela foi embora antes dele. Não disse boa noite — não era o tipo de coisa que ela dizia, e não era o tipo de coisa que a situação requeria. Simplesmente saiu do leme com o passo de alguém que havia terminado o que havia ido fazer e estava indo fazer a próxima coisa.
@@ -1557,7 +1511,7 @@ Não contava por nome — havia aprendido que contar por nome tornava a lista fi
 
 Havia carregado isso como responsabilidade não como culpa — a distinção havia levado tempo para ficar precisa, e havia ficado precisamente na terceira semana de rota leste, quando havia percebido que responsabilidade era o tipo de coisa que você carregava para frente e culpa era o tipo que você carregava para trás, e que carregar para trás não servia a ninguém, especialmente não a vinte e cinco nomes.
 
-Havia trazido a responsabilidade para o Mercator. Havia deixado a culpa em algum porto da rota leste, de forma imprecisa, sem cerimônia.
+Havia trazido a responsabilidade para o Mercator.
 
 O convés do Mercator às onze da manhã. Torbe na proa. Maret nos instrumentos calibrando pela segunda vez — ela calibrava quando havia alguma coisa que não conseguia controlar e que requeria que as coisas que conseguia controlar estivessem impecáveis. Ele havia aprendido a ler isso como o equivalente de Maret a ficar no convés.
 
@@ -1621,7 +1575,7 @@ Havia uma diferença que ele havia entendido na primeira semana de rota leste, q
 
 Às treze horas e seis minutos ela levantou a cabeça da prancheta.
 
-Não foi um scan geral do cais — não foi o olhar de quem verifica o ambiente por hábito. Foi direta: ela levantou e olhou para o ponto onde ele estava, com a precisão de quem sabia a localização antes de verificar. Como se houvesse um ângulo específico no padrão de movimento do cais que havia mudado quando ele entrou em posição às doze e trinta e dois, e ela havia registrado sem mostrar que registrou, e havia esperado.
+Não foi um scan geral do cais — não foi o olhar de quem verifica o ambiente por hábito. Foi direta: ela levantou e olhou para o ponto onde ele estava, com a precisão de quem sabia a localização antes de verificar.
 
 O olhar de Sael era o de quem sabia que isso ia acontecer e havia decidido, em algum ponto antes de agora, que a forma da resposta importava tanto quanto o conteúdo.
 
@@ -1741,7 +1695,7 @@ O barulho surdo de logística ao redor. O som de Sael indo para o cais sul com a
 
 Havia vinte meses naquilo.
 
-Havia imaginado esse momento em versões ao longo da rota — o momento do reencontro, o que haveria nele, qual seria o peso. Havia imaginado colapso que não era o tipo de coisa que Sael ou ele faziam mas que havia imaginado de qualquer forma porque o peso dos meses havia requeria alguma versão do release. Havia imaginado raiva — dela por ele ter continuado procurando depois do *não venha ainda*, dele por ela ter ficado tanto tempo. Havia imaginado o tipo de reencontro onde os meses entre eles materializavam de uma vez.
+Havia imaginado esse momento em versões ao longo da rota — o momento do reencontro, o que haveria nele, qual seria o peso. Havia imaginado colapso que não era o tipo de coisa que Sael ou ele faziam mas que havia imaginado de qualquer forma porque o peso dos meses havia requeria alguma versão do release. Havia imaginado raiva — dela por ele ter continuado procurando depois do *não venha ainda*, dele por ela ter ficado tanto tempo.
 
 O que havia sido: dois minutos num corredor de logística e instruções precisas sobre saída de emergência.
 
