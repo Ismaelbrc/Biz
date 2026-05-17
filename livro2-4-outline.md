@@ -31,6 +31,29 @@ L4: Amnésia. Ele não sabe. Ela sabe demais. A reconquista começa do zero.
 
 ---
 
+## STATUS ATUAL — L2
+
+**✅ Capítulos escritos e editados: 1–11**
+Quatro rodadas de revisão: fan (Mara Dunwyn), crítico literário (Prof. Verne), roteirista/lógica (Dex Carval), autocrítica (Carol Sturka). Commit atual: `claude/pluribus-series-research-ze4GE`.
+
+**Onde parou**: Cap. 11 fecha com Raban saindo do corredor de logística de Neven, voltando ao cais onde Lucasia espera com a passagem de manifesto. Aldric tem os documentos. Sael vai ao armazém quatro às 17h. O Mercator ainda em Neven.
+
+**Pacing real vs. planejado**: Sael apareceu no cap. 11 — o plano previa cap. 13. A Parte 1 comprimiu dois capítulos. Os caps. 12 em diante iniciam com a saída de Neven + Sael embarcando + rota norte.
+
+**O que os agentes confirmaram que funciona — modelo para L2 caps. 12–45 e para L3/L4:**
+- Reencontro como reconhecimento (não surpresa): cada um sabia que o encontro ia acontecer; o primeiro gesto é prático, não emotivo
+- Terceiro como espelho: uma linha de personagem externo ("Alguém que sobrevive") revela o que os POVs protegem — mais devastador que monólogo interno
+- Cenas de trabalho como intimidade: métodos complementares, mapas reorganizados de madrugada, silêncios de três horas sem conversa iniciada
+- Tripulação como coro grego: cada um com leitura diferente, nenhum comenta diretamente — o silêncio coletivo do convés é mais eloquente que diálogo
+
+**Problemas identificados e corrigidos nos caps. 1–11 — não repetir nos caps. 12–45:**
+- Metalinguagem de série ("L1", "L2" no texto) → usar sempre ancoragem diegética
+- Fórmula "não ia examinar" em cluster: máximo 1 por capítulo, 2 por livro, nunca consecutivos
+- Explicação pós-cena: se o texto já comunicou, não articular — seguir em frente
+- Personagem com backstory ativo sem follow-through: dispensar em uma linha ou aparecer
+
+---
+
 ## PERSONAGENS — LIVRO 2
 
 ### Retornam com desenvolvimento
@@ -49,7 +72,7 @@ L4: Amnésia. Ele não sabe. Ela sabe demais. A reconquista começa do zero.
 ### Novos em L2
 **ALDRIC BREN** — 40 anos. O homem com quem Sael fugiu do Harrow. Ex-capitão reconvertido em operativo da resistência. Não é vilão — é complicado. Tem história com Raban que Raban não sabia que existia. Cria subtrama de tensão: Aldric claramente está apaixonado por Sael. Sael usa isso sem perceber o custo.
 
-**IDRIS** — 27 anos. Contrabandiante de informação. Rosto jovem, instintos antigos. Conhece Maret por intermédio de uma rota irregular e os dois desenvolvem banter que é claramente preâmbulo de outra coisa. Subtrama leve — não resolve em L2, mas planta L3.
+**IDRIS** — 27 anos. Contrabandiante de informação. Rosto jovem, instintos antigos. *✅ Introduzido em cap. 4 (Arvene):* aborda Maret no cais com mapa de escala errada como pretexto; ela o reconhece como alguém que sabe mais do que está perguntando. Banter com borda técnica. Não embarca em Arvene — sua informação sobre checkpoints de Neven foi coberta em maior detalhe por Aldric (dispensado com uma linha no cap. 7). *Retorna a partir do cap. 12:* opera nas rotas de Neven, encontra o Mercator em saída. Banter com Maret retoma. Subtrama leve — não resolve em L2, planta L3.
 
 **O INSPETOR — NOME REVELADO: VERATH** — 55 anos. Vemos o rosto pela primeira vez em L2. Não é monstro — é administrator. Homem de meia-idade com olhos de contador e a frieza de quem tomou tantas decisões difíceis que parou de chamá-las de difíceis. Mais assustador do que se fosse monstruoso. Sael o conhece pessoalmente. Isso é o que torna o plano dela tão perigoso.
 
@@ -62,10 +85,10 @@ L4: Amnésia. Ele não sabe. Ela sabe demais. A reconquista começa do zero.
 ## ESTRUTURA — LIVRO 2
 
 ```
-PARTE 1: REUNIÃO          (Cap. 1-10)   — Porto leste / reencontro
-PARTE 2: OPERAÇÃO         (Cap. 11-22)  — Infiltrar a rede / encontrar Sael
-PARTE 3: SAEL             (Cap. 23-33)  — O que Sael quer / o que Raban não sabia
-PARTE 4: O CUSTO DO FOGO  (Cap. 34-45)  — Traição percebida / reconciliação frágil
+PARTE 1: REUNIÃO          (Cap. 1-11) ✅ — Porto leste / reencontro / Neven / Sael encontrada
+PARTE 2: SAEL A BORDO     (Cap. 12-22)  — Saída de Neven / Sael no Mercator / dentro da rede
+PARTE 3: O QUE MUDA       (Cap. 23-33)  — Primeiro beijo / primeira noite / a briga real
+PARTE 4: O CUSTO DO FOGO  (Cap. 34-45)  — Reconciliação / Sael e Verath / despedida com data
 ```
 
 ---
@@ -170,28 +193,17 @@ Doryn observa Aldric com a calma de quem avalia ameaça.
 
 ### PARTE 2: OPERAÇÃO
 
-**CAP. 11-12 — Neven**
+**CAP. 9-11 — Neven / Sael ✅ ESCRITO**
 *POV: Lucasia e Raban alternados*
-Porto de Neven: menor que Cassavar, mais perigoso. A rede do Inspetor aqui é mais visível — funcionários de logística, inspeção de carga, manifesto obrigatório em triplicata. Sael está em algum lugar dentro desse sistema.
-Tavessa aparece — ela deixou Cassavar antes do Inspetor formalizar a substituição e veio para onde sabia que o Mercator ia aparecer. Ela tem nome, localização e horário de trabalho de Sael.
+Porto de Neven: menor que Cassavar, mais perigoso. Rede do Inspetor visível — manifesto em triplicata, funcionários de logística, navio de monitoramento no cais leste. Tavessa aparece no porto velho: saiu de Cassavar dois dias antes da posse do novo fiscal leal de Verath, veio com o arquivo de comunicação irregular. Ela tem nome, localização e turno de trabalho de Sael. Perrin acessa o sub-setor 3-B às 13h de quinta. Aldric tem a credencial. A operação funciona. Sael estava lá: conferente de manifesto, segundo andar, janela para o cais, de costas — competente, não assustada, não em fuga. Raban a vê antes de ela saber que ele está lá. Quando ela levanta a cabeça, vai direto ao ponto onde ele estava — ela sabia. "Você trouxe a capitã do Mercator." "Alguém que sobrevive." Documentos obtidos. Sael vai ao armazém quatro às 17h.
 
-**CAP. 13 — Sael**
-*POV: Raban*
-Ele a vê pela primeira vez em vinte meses.
-Ela está em uniforme de logística, conferindo manifesto de carga no cais norte. Ela está bem. Não assustada, não em fuga — operando. Como se tivesse escolhido estar aqui.
-Ela ergue a cabeça e o vê.
-*O olhar de Sael é o olhar de quem sabia que isso ia acontecer e não tem certeza se é bom.*
-Ela não corre para ele. Ela espera que ele venha. E quando ele chega:
-— Você trouxe o Mercator, — ela diz.
-— Eu trouxe a capitã do Mercator.
-Sael olha por cima do ombro dele para onde Lucasia está. Ela avalia com rapidez.
-— Ela é exatamente o que eu imaginava.
-— O que você imaginou?
-Sael: — Alguém que sobrevive.
+**CAP. 12 — Saída de Neven** *(A ESCREVER — continuação direta de cap. 11)*
+*POV: Lucasia*
+Armazém quatro às 17h. Aldric traz os documentos para Sael. Sael embarca no Mercator. Saída controlada — o relatório do manifesto chegou ao escritório central mas a janela de uma hora segurou. Idris no cais de saída: ele opera em Neven, reconhece o Mercator, o banter com Maret retoma com a economia de duas pessoas que não se viram em dias mas calcularam quando iam se ver de novo. Ele não embarca. O Mercator parte.
 
-**CAP. 14 — O Plano de Sael**
+**CAP. 13-14 — O Plano de Sael** *(A ESCREVER)*
 *POV: Sael (único capítulo em POV de Sael na série)*
-Sael não é objeto de resgate. Ela infiltrou a rede de logística do Inspetor dezoito meses atrás com um objetivo: localizar a documentação que prova que os ciclocanes são induzidos artificialmente e que o moonsburn é consequência. Essa documentação existe. Está em Verath pessoalmente — não digitalizada, não copiada, original único. Ela precisa de dois meses mais.
+Sael não é objeto de resgate. Ela infiltrou a rede de logística do Inspetor há onze meses com um objetivo: localizar a documentação que prova que os ciclocanes são induzidos artificialmente e que o moonsburn é consequência. Essa documentação existe. Está em Verath pessoalmente — não digitalizada, não copiada, original único. Ela precisa de dois meses mais.
 Raban diz que ela não tem dois meses.
 Ela diz que ele não é quem decide.
 *A discussão de irmãos que acontece quando a distância foi longa e ambos cresceram em direções que o outro não viu.*
