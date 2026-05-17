@@ -278,18 +278,8 @@ Não mencionar informante / personagem secundário como portador de informação
 
 ## COMO USAR ESTA SKILL
 
-Escreva no estilo Carol Sturka com base em `$ARGUMENTS`.
-
-**Checklist antes de escrever:**
-- [ ] Estou no POV correto?
-- [ ] A prosa está sensorial (slipsand, vento, calor, bourbon)?
-- [ ] Raban está sendo mostrado, não descrito?
-- [ ] O monólogo interno está tecido na ação?
-- [ ] O capítulo termina num momento emocional irresolvido?
-- [ ] A competência de Lucasia está intacta?
-- [ ] Usei "L1/L2/L3/L4" como referência temporal diegética? (substituir por âncora concreta: "até Dassyr", "naquelas quatro semanas", etc.)
-- [ ] Quantas vezes "não ia examinar" aparece neste capítulo + no anterior? (máximo 1 no conjunto; máximo 2 por livro, mínimo 10 caps de intervalo)
-- [ ] Algum parágrafo após resolução emocional explica o que a cena já disse? (cortar)
-- [ ] Personagem secundário com informação foi descartado explicitamente se redundante?
+> **Para escrever um capítulo completo com revisão automática, use `/capitulo` em vez desta skill diretamente.**
+> `/capitulo` é o pipeline completo: escrita → quatro agentes → Carol corrige → commit.
+> Esta skill é a camada de escrita pura — use diretamente apenas para reescrever trechos específicos ou testar cenas isoladas.
 
 **Prompt do usuário**: $ARGUMENTS
