@@ -207,7 +207,7 @@ Ela o viu antes de ele a ver.
 
 Era a única vantagem que ela ia ter naquele dia, e ela sabia disso no momento em que aconteceu — o momento em que os olhos percorrem o cais sem intenção declarada e encontram alguma coisa e param, e o corpo inteiro para com eles porque o corpo é mais honesto que a cabeça.
 
-Ele estava no cais sul do porto velho de Arvene. Descarregando carga de um barco menor — não o tipo de trabalho que ela esperaria, mas com a postura que não ia embora independente do trabalho. A postura de capitão que ficou quando o navio foi embora. Ela a conhecia — havia aprendido a reconhecê-la no L1, a forma que ele ocupava o espaço como se houvesse coordenadas a guardar.
+Ele estava no cais sul do porto velho de Arvene. Descarregando carga de um barco menor — não o tipo de trabalho que ela esperaria, mas com a postura que não ia embora independente do trabalho. A postura de capitão que ficou quando o navio foi embora. Ela a conhecia — havia aprendido a reconhecê-la naquelas quatro semanas, a forma que ele ocupava o espaço como se houvesse coordenadas a guardar.
 
 Mais magro. Ela notou isso antes de notar mais nada.
 
@@ -255,7 +255,7 @@ Silêncio. O slipsand abaixo do cais movia-se com a lentidão do leste — mais 
 
 Ela olhou para a mão dele.
 
-Ainda segurava a corda de descarga — a mesma mão de L1, as cicatrizes na posição que ela havia aprendido a reconhecer sem nunca decidir aprender. Seis meses de trabalho de porto haviam acrescentado calo novo sobre o que já existia. Ela havia tido tempo suficiente para esquecer os detalhes e havia falhado completamente nessa tarefa.
+Ainda segurava a corda de descarga — a mesma mão de Dassyr, as cicatrizes na posição que ela havia aprendido a reconhecer sem nunca decidir aprender. Seis meses de trabalho de porto haviam acrescentado calo novo sobre o que já existia. Ela havia tido tempo suficiente para esquecer os detalhes e havia falhado completamente nessa tarefa.
 
 — Você está mais magro, — ela disse.
 
@@ -267,7 +267,7 @@ Ele ficou quieto por um momento.
 
 Ela não perguntou o que havia mudado. Ele não explicou.
 
-Era a estrutura de conversa deles — havia sido desde o início, desde o bourbon e o barco e o leme de Dassyr. O que não era dito ocupava mais espaço do que o que era, e os dois haviam aprendido, em quatro semanas de rota no L1, a navegar no que não era dito com a mesma precisão que navegavam em slipsand desconhecido.
+Era a estrutura de conversa deles — havia sido desde o início, desde o bourbon e o barco e o leme de Dassyr. O que não era dito ocupava mais espaço do que o que era, e os dois haviam aprendido, nas quatro semanas de rota até Dassyr, a navegar no que não era dito com a mesma precisão que navegavam em slipsand desconhecido.
 
 — Você sabe onde está Sael, — ela disse.
 
@@ -303,7 +303,7 @@ Ela abriu a porta. Entrou para mostrar o espaço — cama, escrivaninha, janela 
 
 — Eu sei o tamanho desta câmara.
 
-Verdade. Ele havia dormido nela por quatro semanas no L1.
+Verdade. Ele havia dormido nela por quatro semanas antes de Dassyr.
 
 Ela ficou na porta. Ele entrou. Deixou a bolsa na escrivaninha — não na cama, não no chão, na escrivaninha, que era onde ela também deixaria, o que era um detalhe que ela não precisava ter observado mas havia observado.
 
@@ -403,7 +403,7 @@ Na sétima havia soado como outra coisa completamente.
 
 A câmara tinha cento e oitenta e seis centímetros de comprimento por cento e quarenta e dois de largura.
 
-Ele sabia isso havia dezoito meses — o tipo de medida que você aprende quando não há mais navio para comandar e o corpo está exausto e o turno de vigia ainda não terminou. Você conta o que resta. As mãos precisam de algo para verificar.
+Ele sabia isso há meses — o tipo de medida que você aprende quando não há mais navio para comandar e o corpo está exausto e o turno de vigia ainda não terminou. Você conta o que resta. As mãos precisam de algo para verificar.
 
 Acordou às três da manhã.
 
@@ -429,7 +429,7 @@ Havia também passado seis meses em movimento constante, que era o modo de opera
 
 O Mercator havia chegado às quatro da tarde.
 
-Ele estava no cais norte quando atracou. Havia ficado — havia terminado a descarga, havia arrumado a corda, havia esperado. Não ao cais sul, não ao encontro, mas disponível: a única aproximação que funcionava com ela. Havia aprendido isso nas quatro semanas de rota do L1, antes de ter vocabulário para nomear o que havia aprendido. Forçar a interseção muda a qualidade do encontro. As coordenadas se cruzam quando o tempo é certo.
+Ele estava no cais norte quando atracou. Havia ficado — havia terminado a descarga, havia arrumado a corda, havia esperado. Não ao cais sul, não ao encontro, mas disponível: a única aproximação que funcionava com ela. Havia aprendido isso nas quatro semanas de rota até Dassyr, antes de ter vocabulário para nomear o que havia aprendido. Forçar a interseção muda a qualidade do encontro. As coordenadas se cruzam quando o tempo é certo.
 
 Ela havia aparecido antes das seis.
 
@@ -449,7 +449,7 @@ O café estava na mesa. Dois copos.
 
 Ela assentiu. Não perguntou sobre o resto.
 
-Era a estrutura de conversa deles — havia sido desde o bourbon em Dassyr, desde o leme no L1. O que não era dito cabia entre o que era.
+Era a estrutura de conversa deles — havia sido desde o bourbon em Dassyr, desde o leme na rota de Sanvel. O que não era dito cabia entre o que era.
 
 — Sael, — ele disse.
 
@@ -543,7 +543,7 @@ Havia coisas novas que ele sabia agora que não eram sobre a câmara.
 
 Ela não havia perguntado por que ele não havia mandado aviso quando soubera do embargo.
 
-Era a pergunta mais óbvia disponível. Havia soubido dois meses atrás, via mensagem irregular de Tavessa — *Mercator embargado, Cassavar, Verath, sem causa declarada* — e havia estado a três dias de rota de Neven. Na última seção dos mapas dela.
+Era a pergunta mais óbvia disponível. Havia sabido dois meses atrás, via mensagem irregular de Tavessa — *Mercator embargado, Cassavar, Verath, sem causa declarada* — e havia estado a três dias de rota de Neven. Na última seção dos mapas dela.
 
 Havia continuado a rota.
 
@@ -601,7 +601,7 @@ Torbe não respondeu. Ele era o tipo de homem que fazia uma observação, verifi
 
 ---
 
-Havia visto a capitã mostrar a câmara ao ex-passageiro — à pessoa que havia embarcado em Sanvel dezoito meses atrás, havia descido em Dassyr, e havia reembarcado com uma bolsa e uma expressão que Maret ainda estava classificando com precisão.
+Havia visto a capitã mostrar a câmara ao ex-passageiro — à pessoa que havia embarcado em Sanvel meses atrás, havia descido em Dassyr, e havia reembarcado com uma bolsa e uma expressão que Maret ainda estava classificando com precisão.
 
 A câmara de passageiros ficava ao lado direito do corredor principal. Havia ficado vazia desde Dassyr. Não porque não havia passageiros disponíveis — o Mercator havia transportado carga e pessoas em todas as rotas norte desde então — mas porque a capitã havia instruído Halve a mantê-la *disponível*, que era a instrução que não precisava de explicação para quem havia estado a bordo tempo suficiente.
 
@@ -821,7 +821,7 @@ Lucasia não respondeu. A expressão não mudou. Raban sabia o que estava aconte
 
 Raban também estava calculando.
 
-As mensagens que havia enviado por via irregular eram rotas. Coordenadas, profundidades de slipsand, checkpoints, janelas de ancoragem. Não havia escrito sobre Lucasia. Não havia como Sael saber, pelas mensagens, o que havia acontecido em Dassyr, o que havia ficado sem nomear durante quatro semanas de rota no L1. Não havia como Sael saber sobre os seis meses que se seguiram, sobre as rotas norte, sobre o embargo, sobre o Mercator chegando ao leste.
+As mensagens que havia enviado por via irregular eram rotas. Coordenadas, profundidades de slipsand, checkpoints, janelas de ancoragem. Não havia escrito sobre Lucasia. Não havia como Sael saber, pelas mensagens, o que havia acontecido em Dassyr, o que havia ficado sem nomear durante quatro semanas de rota até Dassyr. Não havia como Sael saber sobre os seis meses que se seguiram, sobre as rotas norte, sobre o embargo, sobre o Mercator chegando ao leste.
 
 O que significava que Sael havia aprendido de outra fonte.
 
@@ -931,6 +931,8 @@ Eles verificaram o plano por três ângulos. Ela pelo das rotas. Raban pelo das 
 
 O plano sobreviveu às três revisões.
 
+Maret havia trazido, antes das oito, a informação do informante do cais — checkpoints de Verath na entrada de Neven. O relatório de Aldric cobria o mesmo em maior detalhe. A sobreposição confirmava. Não acrescentava.
+
 Havia um detalhe novo que Aldric havia trazido: Perrin havia comunicado via protocolo de sinalização na noite anterior. O supervisor de turno do sub-setor três-B havia sido substituído na rotação da semana. O substituto era mais jovem — primeiro mês em supervisão, comprometido em demonstrar participação ativa, o tipo de funcionário que ficava em reuniões obrigatórias mais tempo do que o necessário porque ausência era risco e presença era recurso.
 
 A janela aumentava de vinte para trinta e cinco minutos.
@@ -953,7 +955,7 @@ Ela ficou quieta. Aldric havia dito isso para Raban, na frente dela, com plena c
 
 Raban não respondeu.
 
-Ela havia aprendido, em dezoito meses de observar Raban — nas quatro semanas do L1, nas mensagens irregulares, nos dias de Arvene — a distinguir os silêncios. O silêncio de cálculo, que precedia a palavra. O silêncio de recusa, quando não havia nada útil a dizer. O silêncio de guardar, quando a informação era pesada demais para o momento.
+Ela havia aprendido, nos meses de observar Raban — nas quatro semanas até Dassyr, nas mensagens irregulares, nos dias de Arvene — a distinguir os silêncios. O silêncio de cálculo, que precedia a palavra. O silêncio de recusa, quando não havia nada útil a dizer. O silêncio de guardar, quando a informação era pesada demais para o momento.
 
 Este silêncio era diferente dos três.
 
@@ -1035,7 +1037,7 @@ Essa versão estava presente no deck de observação do Mercator às vinte e tr�
 
 Ficou quieta.
 
-Ele não preencheu o silêncio. Havia aprendido, nos quatro semanas do L1 e nos dias de Arvene, que o silêncio dela não era ausência — era presença de uma qualidade diferente, era ela ficando no lugar sem precisar que o lugar fosse preenchido.
+Ele não preencheu o silêncio. Havia aprendido, nas quatro semanas de rota até Dassyr e nos dias de Arvene, que o silêncio dela não era ausência — era presença de uma qualidade diferente, era ela ficando no lugar sem precisar que o lugar fosse preenchido.
 
 Ficaram no deck por mais um tempo que ela não mediu.
 
@@ -1131,15 +1133,11 @@ Era trabalho. Só trabalho.
 
 Mas havia uma diferença entre o trabalho dos dias de Arvene e o trabalho do segundo dia de rota que ela havia identificado sem conseguir nomear completamente: em Arvene havia a mesa e os mapas e a câmara e os dois dentro dela. No navio em movimento havia tudo isso mais o balanço do casco, mais o som do slipsand entrando pelas janelas, mais o fato de que a câmara do capitão num duneship em trânsito era o espaço mais íntimo da embarcação depois dos camarotes. Era o lugar onde ela dormia e trabalhava e existia entre as decisões. E havia trazido alguém para trabalhar nesse espaço.
 
-Havia feito isso no L1 também.
-
-No L1 havia sido diferente. No L1 havia conhecido os limites do que estava se permitindo. Havia mantido a distância profissional, havia mantido a Lie funcional, havia mantido o suficiente soando como suficiente.
-
 Os mapas não estavam mais em branco onde haviam estado em branco.
 
 Havia dois metros medidos involuntariamente no deck de observação na memória recente que ela não havia conseguido desmedidos.
 
-Ela não havia encontrado o modo de desmeди-los.
+Ela não havia encontrado o modo de desfazê-los.
 
 ---
 
@@ -1249,7 +1247,7 @@ Havia acordado com Doryn no cais antes de ir ao porto velho. Não uma conversa �
 
 — O navio do cais leste, — disse ela, quando estavam fora do raio do fiscal.
 
-— Não é operação direta. — Doryn tinha a qualidade de homem que havia distinquido tipos de ameaça por décadas e que raramente nomeava o tipo errado. — Posicionamento de informação. Eles coletam presença no cais, reportam ao escritório central.
+— Não é operação direta. — Doryn tinha a qualidade de homem que havia distinguido tipos de ameaça por décadas e que raramente nomeava o tipo errado. — Posicionamento de informação. Eles coletam presença no cais, reportam ao escritório central.
 
 — Quando chega o relatório do nosso manifesto.
 
@@ -1257,7 +1255,7 @@ Havia acordado com Doryn no cais antes de ir ao porto velho. Não uma conversa �
 
 Meio-dia. A janela de Perrin abria às treze.
 
-Havia quarenta e cinco minutos de margem entre o momento em que o escritório poderia fechar a operação e o momento em que a operação começava. Quarenta e cinco minutos era tempo calculável. Era mais do que zero.
+Havia uma hora de margem entre o momento em que o escritório poderia fechar a operação e o momento em que a operação começava. Uma hora era tempo calculável. Era mais do que zero.
 
 — Torbe e você no navio, — ela disse. — Maret e Halve também. Ninguém sai até eu voltar com informação.
 
