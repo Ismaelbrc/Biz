@@ -553,8 +553,6 @@ Havia seguido os mapas até o fim porque os mapas tinham um fim e ele havia prec
 
 Ela não havia perguntado. O que havia feito, em vez disso, era aparecer.
 
-Havia coisas que ele não ia examinar agora.
-
 ---
 
 ## Capítulo 4 — O Mercator no Porto de Arvene
@@ -1455,8 +1453,6 @@ O slipsand de Neven embaixo. A corrente que ele havia aprendido a identificar pe
 
 Havia algo na qualidade específica daquele silêncio — o silêncio depois que ela havia saído do leme e antes que ele voltasse para a câmara — que tinha textura distinta dos outros silêncios que havia acumulado na rota leste. Não o silêncio de ausência. O silêncio de dois instrumentos que haviam estado na mesma frequência por tempo suficiente para que a frequência ficasse no ar depois que um dos instrumentos ia embora.
 
-Ele havia aprendido a não examinar esse tipo de coisa.
-
 Havia aprendido, na segunda semana de Mercator, que havia coisas que se examinadas produziam conclusões que a situação operacional não comportava ainda — que havia um tempo correto para certos exames e que o tempo correto não era às três e tantos da manhã na véspera de uma operação que requeria atenção integral das duas pessoas envolvidas naquele silêncio. Havia aprendido isso com a consistência de quem aprende porque a alternativa é mais cara do que a aprendizagem.
 
 Havia vinte e quatro horas. Havia havido quarenta e oito. Haveria menos quando ele voltasse para a câmara.
@@ -1765,7 +1761,7 @@ A imagem havia sido formada de alguma coisa. De alguma coisa que havia chegado a
 
 *Alguém que sobrevive.*
 
-Havia coisas que ele não ia examinar agora. Havia dezassete horas e o armazém quatro e Sael com os documentos e um plano que havia sido sólido o tempo todo e que continuava sólido.
+Havia dezassete horas e o armazém quatro e Sael com os documentos e um plano que havia sido sólido o tempo todo e que continuava sólido.
 
 Era suficiente para trabalhar.
 
