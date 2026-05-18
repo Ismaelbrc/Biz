@@ -2337,7 +2337,7 @@ Havia achado Ferris inexpressivo.
 
 O inexpressivo era, descobria agora ao olhar o perfil do porto contra o amanhecer, um ativo operacional da mais alta categoria.
 
-Maret estava no leme. Lucasia ficou na amura de boreste e orientou a entrada no canal — o Mercator era grande para o canal de Ferris, não proibitivamente, mas o suficiente para que a proa precisasse de condução cuidadosa através de areia rasa. Maret executou sem precisar de confirmação dupla. O cargo havia crescido mais rápido do que o título havia crescido com ela; isso era uma injustiça administrativa que Lucasia havia anotado para correção quando o embargo fosse levantado e a rota comercial norte voltasse a ser opção.
+Maret estava no leme. Lucasia ficou na amura de boreste e orientou a entrada no canal — o Mercator era grande para o canal de Ferris, não proibitivamente, mas o suficiente para que a proa precisasse de condução cuidadosa através de areia rasa. Maret executou sem precisar de confirmação dupla. O cargo havia crescido mais rápido do que o título havia crescido com ela; isso era uma injustiça administrativa que Lucasia havia anotado.
 
 Dezasseis dias para a rota comercial norte voltar a ser opção.
 
@@ -2351,7 +2351,7 @@ O escritório de registro de contratos ficava no segundo armazém do cais centra
 
 Sael havia chegado quinze minutos antes. A porta estava entreaberta.
 
-O homem por trás da mesa tinha cinquenta e poucos anos, cabelo curto grisalho, mãos com calosidade de porto. Estava processando um formulário quando elas entraram e não levantou a cabeça imediatamente — rotina, não descortesia. O ritmo de quem havia desenvolvido a política de não olhar para rostos porque os rostos vinham e iam e o que ficava eram os números, os carimbos, o registro que existia para fins que ninguém verificava porque estava sepultado em três camadas de burocracia secundária.
+O homem por trás da mesa tinha cinquenta e poucos anos, cabelo curto grisalho, mãos com calosidade de porto. Estava processando um formulário quando elas entraram e não levantou a cabeça imediatamente — rotina, não descortesia. O ritmo de quem havia desenvolvido a política de não olhar para rostos porque os rostos vinham e iam e o que ficava eram os números, os carimbos, o registro que existia para fins que ninguém verificava.
 
 — Número de contrato é da série 7-Leste, — disse ele, sem preâmbulo. — Ciclo de dezoito dias, rota leste-norte, carga seca categorial. Capitã assina nos dois campos marcados.
 
@@ -2407,7 +2407,7 @@ Ela pegou a folha. Armas de classificação alta, documentação falsificada cat
 
 Ela continuou. Havia mais quatro itens depois desse.
 
-À sua esquerda — Raban havia entrado pelo corredor de popa enquanto ela lia a lista, havia ficado parado com o mapa de rota que estava verificando para a manhã seguinte. Ela não havia olhado para ele. Havia captado de canto de olho a pausa no movimento que havia estado lá e depois havia passado — a qualidade do silêncio que muda por um segundo quando alguém recebe dado que chega a lugar específico e precisa de um segundo antes de continuar.
+À sua esquerda — Raban havia entrado pelo corredor de popa enquanto ela lia a lista, havia ficado parado com o mapa de rota que estava verificando para a manhã seguinte. Ela não havia olhado para ele. Havia captado de canto de olho a pausa no movimento que havia estado lá e depois havia passado.
 
 Depois o movimento havia voltado. Ele havia voltado ao mapa.
 
@@ -2418,8 +2418,6 @@ Ela foi para o quarto manifesto.
 A tarde foi de trabalho limpo.
 
 Ela ficou com os manifestos na câmara de navegação — quatro horas de documentação do ciclo de dezasseis dias, cada porto de destino com seus formulários específicos, cada carga de cobertura com a descrição que Tavessa havia calibrado para ser inspecionável sem despertar curiosidade. Raban ficou com a docagem e com a verificação de como a carga de cobertura estava distribuída no porão. A divisão havia emergido sem acordo — havia começado nos dias de Arvene, quando os dois haviam ficado com partes diferentes do trabalho sem que ninguém houvesse dito quem ficava com o quê, e havia se repetido sem que ninguém houvesse precisado nomear o padrão.
-
-Ela havia operado com primeiros-oficiais que eram competentes e havia operado com primeiros-oficiais que eram precisos e havia operado com primeiros-oficiais cujos métodos eram funcionalmente complementares aos dela. Ela nunca havia operado com alguém cujos métodos eram complementares ao dela de uma forma que ela não conseguia descrever sem descrever também a si mesma.
 
 Ela não descreveu. Continuou com o quinto manifesto.
 
@@ -2436,10 +2434,6 @@ O tom era verificação. Não aprovação.
 — Dezasseis, — ela disse.
 
 Ele assentiu. Passou.
-
-A conversa havia acontecido inteira. Ela sabia o que havia ficado de fora: que dezoito dias dentro da rede do Inspetor era mais do que o risco calculado que ele havia aceito quando o plano havia sido apresentado. Que o Mercator estava operando como contratante de segundo nível do mesmo sistema que havia embargado o Mercator. Que Doryn havia feito a conta e ela havia feito a conta e os dois haviam chegado ao mesmo número e o número era dezasseis, não dezoito, e que dezasseis em vez de dezoito tornava o risco calculável sem torná-lo confortável.
-
-Ela sabia que ele sabia que ela sabia.
 
 A conversa havia acontecido inteira em duas palavras e um aceno.
 
@@ -2467,9 +2461,9 @@ Estava no berço mais externo da linha norte, dois berços além do posto três 
 
 Ela sabia onde olhar.
 
-Havia visto essa bandeira em Cassavar. Oito meses atrás, o navio de monitoramento do cais leste havia chegado com esse padrão no mastro secundário — não o símbolo de Verath, que era diferente e mais visível, mas o símbolo de supervisão de rota da rede interna. Era o identificador que os navios de Crane usavam para comunicação entre postos sem precisar de documento circulante. Você precisava saber o que era para reconhecer. A maior parte dos capitães de rota comercial não sabia porque não tinha motivo para saber.
+Havia visto esse padrão antes — num cais de porto da rota norte, num navio de monitoramento que havia ficado dois dias sem atividade visível e partido sem registro. Não o símbolo de Verath, que era diferente e mais visível, mas o símbolo de supervisão de rota da rede interna. Era o identificador que os navios de Crane usavam para comunicação entre postos sem precisar de documento circulante. Você precisava saber o que era para reconhecer. A maior parte dos capitães de rota comercial não sabia porque não tinha motivo para saber.
 
-Ela havia aprendido em Cassavar, antes de ter motivo para saber.
+Ela havia aprendido antes de ter motivo para saber.
 
 O navio no berço norte não era navio de carga. Era navio de supervisão de rota.
 
@@ -2478,6 +2472,4 @@ Ela terminou a sexta amura. Testou os pontos das três linhas de boreste — a p
 O navio ainda estava no berço quando ela terminou. Nenhum sinal de desembarque. Nenhuma atividade de cais. A bandeira no mastro secundário, pequena, estável no ar parado de Ferris ao entardecer.
 
 Ela foi embaixo.
-
-Amanhã seria diferente de hoje.
 
