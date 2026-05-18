@@ -2839,3 +2839,159 @@ Era o que era.
 
 Ele fechou o caderno.
 
+---
+
+## Capítulo 18 — Operação Dentro
+
+Quando acordou, o céu ainda não havia decidido o que ia ser.
+
+Tinha sido assim a maior parte dos últimos dezoito meses — acordar antes de haver luz suficiente para ler condições, subir porque ficar acordado num espaço fechado era pior do que ficar acordado no convés. O Isolde tinha ensinado isso: o escuro fechado não era melhor que o escuro aberto, mas o escuro aberto tinha vento.
+
+O Mercator tinha vento.
+
+Ele subiu ao convés principal sem acender lamparina. O porto era menor que Ferris — seis berços operacionais, cais de pescadores incorporado ao comercial, a arriba norte que cortava o vento de nordeste ao meio. O slipsand aqui era diferente do de Ferris: menos denso, o roxo mais visível antes do sol, a textura mais próxima do slipsand das rotas do norte que ele havia navegado durante onze anos. Ele verificou as condições: nordeste fraco, três nós, consistente com o mapa de pressão de ontem. Ia aumentar antes do meio-dia se o padrão se mantivesse.
+
+Estava na amura de bombordo quando percebeu que estava assoviando.
+
+Não tinha sido decisão — era o tipo de coisa que acontecia quando a atenção estava em outro lugar — e estava: no vento, na arriba, na leitura de como o slipsand se movia ao redor do cais quando havia três nós de nordeste. Quando percebeu, parou.
+
+Voltou para o vento.
+
+---
+
+A descida de Lucasia ao convés às seis e trinta tinha qualidade diferente da descida de qualquer outro membro da tripulação. Não era o tempo — ela não demorava mais nem menos que Maret ou Torbe. Era o peso da intenção. Quando ela aparecia numa escotilha, o espaço ao redor da escotilha já sabia.
+
+Ela desceu com o relatório de manifesto na mão esquerda e o caderno de rota na direita. Sael já estava no convés — o hábito de aparecer antes de qualquer agenda combinada, que era a coisa que Raban mais reconhecia nela como irmã sua. Tavessa estava apoiada no mastro secundário com a expressão de quem preferia estar em outro lugar mas sabia que não estava.
+
+O briefing durou doze minutos.
+
+Raban ficou na amura, à distância suficiente para não ser chamado, próximo suficiente para ouvir. Não havia razão operacional para ele estar ali nessa hora — o trabalho do dia começava depois, quando Lucasia tivesse terminado a primeira etapa. Mas o convés era convés, e estar no convés ao amanhecer era diferente de estar lá por razão específica.
+
+Ela distribuiu as tarefas sem perguntar se alguém concordava. Não era arrogância. Era a certeza de quem sabe o que cada pessoa pode fazer e não precisa verificar. Sael ficou com a documentação de entrada do armazém norte. Tavessa ficou com a verificação de manifesto do dia anterior. Maret ficou com os ajustes de rota para o movimento do dia seguinte.
+
+Depois ela foi embora.
+
+Não ficou para verificar se cada um havia entendido. Não adicionou instrução de suporte. Deu e afastou, como alguém que construiu uma estrutura e sabe que a estrutura não precisa que ela fique em pé ao lado.
+
+Ele tinha pensado nisso antes — não neste momento, mas em outros dias, quando via o resultado de uma decisão dela chegar ao lugar que teria chegado por uma das rotas que ele teria escolhido. Não pensou mais nisso agora.
+
+---
+
+A tarefa do dia precisava de dois movimentos em sequência.
+
+Sael precisava de acesso ao sub-setor dois do armazém norte. O sub-setor dois tinha registro de entrada que exigia manifesto de carga validado nas últimas quarenta e oito horas. Lucasia tinha o manifesto — era o trabalho dela no ciclo atual, a documentação de carga que o Mercator carregava como cobertura. Ele tinha o acesso: conhecia o funcionário de turno no posto de entrada do armazém de uma passagem do Isolde três anos atrás, quando os dois navios haviam estado em porto adjacente na mesma semana. Não era amizade. Era reconhecimento de rota — suficiente para destravar um posto de entrada sem que o registro ficasse no sistema principal.
+
+O problema era a janela. As duas etapas precisavam acontecer em sequência, com onze minutos entre a saída de Lucasia e a chegada dele ao balcão.
+
+Combinaram isso em quatro frases antes de sair do Mercator.
+
+---
+
+O funcionário de turno — Aldave, nome no crachá, o rosto de quem processava documentos desde antes de Raban ter licença de capitão — verificou o manifesto sem levantar os olhos. Raban estava no corredor externo do posto, o manifesto no bolso interno do casaco, o olho no relógio de parede. Lucasia havia saído seis minutos atrás. Tinha cinco até a janela fechar.
+
+Aldave levantou os olhos.
+
+"Raban." Reconhecimento de rota, sem sorriso. "Norte ou leste atualmente?"
+
+"Temporariamente leste." Ele pôs o manifesto sobre o balcão. "Sub-setor dois. Carga de especiaria seca, verificação de lacre."
+
+Aldave comparou o nome no manifesto com o registro que havia entrado seis minutos antes. Capitã Vael, Mercator. Os dois batiam. O lacre correspondia. Ele carimbou.
+
+Raban foi.
+
+No corredor do sub-setor dois, passando pelo ponto de encontro onde Sael apareceria às onze e quarenta e dois, ele entendeu o que havia funcionado: Lucasia havia preparado o terreno sem saber que era terreno a ser preparado. Ela havia feito o registro porque era o que a operação exigia. O registro havia criado a condição que havia criado o carimbo de Aldave. O carimbo havia aberto o corredor.
+
+A saída de uma etapa era a entrada da outra.
+
+Sael estava no ponto de encontro. Pegou o manifesto. Dois minutos depois estava fora.
+
+---
+
+O retorno ao Mercator tinha o mesmo trajeto da chegada: cais principal, virada no posto de descarga, prancha de bombordo. Lucasia estava dois metros à frente. O cais tinha o movimento do fim da manhã — trabalhadores de turno mudando, carregadores com a segunda carga do dia.
+
+Raban tinha o impulso de dizer algo.
+
+Não havia conteúdo definido — ele não sabia o que queria dizer, sabia que queria dizer. Sobre os onze minutos. Sobre o registro que ela havia deixado sem saber que precisava deixar para que a janela funcionasse.
+
+Ele não disse.
+
+Ela subiu a prancha. Ele subiu depois.
+
+---
+
+Às três da tarde estava na sala de navegação com os mapas de rota abertos quando ela entrou.
+
+Não havia combinado isso. Ela tinha razão de estar ali — era o mapa do Mercator, era o trabalho dela verificar o posicionamento para o dia seguinte. Ele estava ali porque os mapas estavam lá e ele tinha o hábito de passar tempo com mapas quando havia espaço para isso.
+
+Ela não comentou. Puxou a cadeira do lado esquerdo e abriu o caderno de rota.
+
+Eles trabalharam em silêncio. Trabalhos diferentes sobre o mesmo mapa. Ela verificava posicionamento; ele confirmava as rotas de saída possíveis contra as condições de vento que havia lido de manhã. Em algum ponto ela apontou para a rota de entrada do dia seguinte.
+
+"Nordeste," ela disse. "Se o vento aumentar antes do meio-dia, entrada pela margem sul é mais segura."
+
+"O vento vai cair antes do meio-dia." Ele apontou para a arriba norte no mapa. "O padrão deste porto dobra antes das onze quando a temperatura sobe acima de vinte e dois. Entrada norte é mais direta."
+
+Ela olhou para ele. Era o olhar de processamento — não desconfiança, não concordância imediata. Avaliação. Ele ficou quieto até terminar.
+
+"Você observou isso hoje?"
+
+"E em Ferris. O padrão é consistente nesta região — slipsand mais denso retém temperatura mais tempo, dobra o vento antes do pico."
+
+Ela olhou para o mapa por um momento. Depois: "Norte, então."
+
+Não havia mais nada a dizer sobre isso. Era decisão tomada.
+
+A cena durou mais oito minutos. Quando ela foi embora, ele ficou olhando o mapa por mais um minuto antes de dobrá-lo e sair também.
+
+---
+
+Sael apareceu no convés de observação às nove da noite.
+
+Ela tinha o hábito de aparecer quando ele não esperava e falar sobre o que não havia sido mencionado durante o dia. Era o modo de operar dela — deixava as conversas táticas para o horário tático e guardava o resto para quando havia silêncio suficiente.
+
+"Você está diferente," ela disse.
+
+Ele estava apoiado na amura, o slipsand roxo-preto abaixo refletindo o que havia de lua. "Estou igual."
+
+"Você está dormindo mais de quatro horas."
+
+Era verdade. Havia notado isso alguns dias atrás sem registrar como dado relevante. "É o que acontece quando o trabalho está organizado."
+
+Sael ficou em silêncio por um momento. Era o silêncio específico dela de quando havia decidido não dizer algo.
+
+"O Mercator tem uma capitã competente," ele disse.
+
+"Tem," Sael concordou.
+
+Silêncio.
+
+"E você está dormindo mais de quatro horas," ela disse.
+
+Ele não respondeu. Ela sabia que ele não ia responder.
+
+Depois de um tempo ela foi embora. Ele ficou no convés.
+
+---
+
+Por volta das dez e meia estava ainda na amura quando começou a pensar no relatório de rota do dia seguinte.
+
+O relatório de rota era trabalho do capitão: a verificação do posicionamento contra o planejamento de movimento, os documentos abertos, a margem de erro da janela de saída. Era o que ele havia feito dezesseis anos seguidos no Isolde e nos navios anteriores ao Isolde.
+
+O Mercator não era o Isolde. Ele não era o capitão do Mercator.
+
+E ainda assim estava calculando: a margem de posicionamento atual, a janela de saída com o vento de amanhã confirmado norte, o manifesto de Sael que precisava ser atualizado com a documentação nova do sub-setor dois.
+
+Havia entrado sem ele abrir a porta.
+
+O que o incomodava não era ter feito o cálculo. Era que havia feito sem perceber que estava fazendo — e que quando percebeu, o impulso não foi parar. Foi terminar, porque havia começado e parar no meio era pior.
+
+Ele terminou.
+
+O slipsand abaixo do cais tinha o ruído baixo e constante que tinha desde que o Mercator havia chegado. Era o mesmo ruído que o slipsand de qualquer porto fazia. Mas havia uma qualidade específica no ruído do slipsand que o Mercator movia — ele havia aprendido isso no primeiro mês, sem deliberação, da mesma forma que havia aprendido a ler a curvatura do casco pelo som quando o leme torcia certo. Era diferente de qualquer outro slipsand porque era esse.
+
+Isso era dado.
+
+Ele não pensou mais nisso.
+
+
+
