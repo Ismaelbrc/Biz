@@ -2473,3 +2473,198 @@ O navio ainda estava no berço quando ela terminou. Nenhum sinal de desembarque.
 
 Ela foi embaixo.
 
+---
+
+## Capítulo 16 — Supervisão de Rota
+
+O briefing de Sael foi às seis e quarenta e cinco da manhã, antes que o porto de Ferris tivesse aquecido o suficiente para o primeiro turno de cais.
+
+Lucasia ficou de pé junto ao mapa de berços enquanto ela falava. Não havia razão específica para ficar de pé — havia cadeiras disponíveis, a mesa era ampla o suficiente — mas sentar durante briefing de risco transformava o briefing em conversa, e essa não era conversa.
+
+"Crane Aldaveth," Sael disse. "Supervisor de rota de segundo nível, região leste-norte. Não é agente de campo. É administrador — entra nos portos onde a rede tem presença ativa, faz verificação de contratos, confere manifesto, identifica irregularidades." Ela tinha o papel na mão, mas não lia — usava como referência de ancoragem. "O ciclo dele em Ferris é de três dias. Chegou ontem."
+
+"Rotina," Lucasia disse.
+
+"Rotina. O que não significa inofensivo. Significa previsível." Sael consultou a data no canto do papel. "Ele vai reconhecer o Mercator. Esteve em Cassavar durante o ciclo em que vocês estavam em operação lá. Se chegar ao cais, vai reconhecer você."
+
+Lucasia sabia disso. Havia sabido desde o momento em que viu a bandeira no mastro secundário na noite anterior, antes de descer, antes de apagar a lamparina da câmara e fechar os olhos por três horas que não chegaram a ser sono completo. A diferença entre saber e saber o que fazer com o que se sabe era trabalho de briefing, não de lamparina.
+
+"Resposta preparada," ela disse.
+
+"Primeiro contrato na rede. Capitã de cobertura, carga seca leste-norte. Você não o conhece além de nome de inspeção. O número de série é sete-Leste." Sael parou. "O número está correto no sistema — Tavessa verificou antes de deixar Cassavar. Se ele conferir, o número aparece limpo."
+
+Do outro lado da mesa, Tavessa tinha os cotovelos apoiados no mapa de berços, a expressão de quem dormiu bem e preferia ter dormido mais. "Aparece limpo porque está limpo. É número real atribuído a capitão real que opera rota real — só que esse capitão está a duzentas léguas nordeste de Ferris neste ciclo e não sabe que o número foi emprestado."
+
+"Por quanto tempo o empréstimo é seguro?" Raban perguntou. Estava de costas para a janela, o porto de Ferris atrás dele no início da manhã, o slipsand preto-roxo no campo baixo ainda sem a luz direta do sol.
+
+"Até o capitão real entrar em porto com presença da rede e o sistema registrar dois usos do mesmo número na mesma semana," Tavessa disse. "Três dias, provavelmente. Talvez quatro."
+
+"Hoje e amanhã," Lucasia disse. Era a matemática correta: dezasseis dias de operação necessária, doze concluídos, quatro restantes. Dois cobertos pelo contrato de dezoito, dois de margem. "É suficiente."
+
+Tavessa olhou para ela por um segundo — o olhar breve de quem processa a mesma conta e chega ao mesmo resultado sem precisar confirmar em voz alta. Depois voltou para o mapa.
+
+"Uma coisa mais," Sael disse. A voz dela tinha qualidade diferente — não urgência, mas peso específico que Lucasia havia aprendido a distinguir como marcador de informação relevante. "Quando eu estava no posto de fiscal em Cassavar, Crane fazia as rondas de supervisão. Ele tem o hábito de fazer uma pergunta adicional depois de verificar o número. Algo que não consta no protocolo de inspeção — uma pergunta pessoal, destinada a medir como o interlocutor responde, não a verificar a informação em si."
+
+"O que ele pergunta?"
+
+"Muda. A função é sempre a mesma. Ele quer ver se você hesita."
+
+Lucasia processou isso. "Então não hesito."
+
+"Não hesita," Sael confirmou.
+
+Havia silêncio. Do passadiço vinha o ruído de Halve com as cordas de descarga — preparação para o segundo dia operacional, o tipo de trabalho que não esperava briefings. O porto de Ferris ao amanhecer tinha som diferente do porto ao entardecer: mais metal, mais vento, menos o peso acumulado do calor do dia.
+
+"Uma última coisa," Tavessa disse. O tom era de quem adiciona item periférico antes de encerrar — mais do inventário, não do alerta. "Ontem um trabalhador de cais perguntou se tínhamos tripulante com moonsburn. Disse que havia notado alguém cobrindo braços no calor."
+
+Ninguém disse nada.
+
+"Respondi que não. Mas se a inspeção vier verificar manifesto e decidir verificar tripulação também, é exposição adicional."
+
+Lucasia olhou para Sael.
+
+"Coberto," Sael disse. Sem perturbação na postura. "Não é risco ativo enquanto não for visível."
+
+Tavessa assentiu. Depois, com o mesmo tom periférico, completando o inventário antes de dobrar o papel: "Há quem diga que a curandeira da ilha de Sanantes trata moonsburn sem certificação de rede. Que tem remédio que a rede não licencia." Uma pausa mínima. "É lenda de porto. Ninguém encontrou a ilha duas vezes pelo mesmo caminho."
+
+Ela dobrou o mapa de berços. A reunião estava encerrada.
+
+---
+
+O segundo dia operacional tinha a mesma divisão do primeiro — sem acordo, sem discussão. Ela no cais com os documentos de carga, ele no posto de docagem. Era a distribuição mais eficiente e ambos conheciam o trabalho o suficiente para não precisar negociar o óbvio.
+
+A diferença era a posição. Ontem ela havia estado no posto de recebimento, que ficava próximo ao berço do Mercator. Hoje a parte da operação que precisava de atenção eram os manifestos de carga intermediária — documentação que precisava ser verificada nos postos de transferência ao longo do cais principal, não no berço do navio.
+
+O porto de Ferris não era grande. Dez berços operacionais, dois postos de administração, quatro postos de carga ao longo do cais. Ela estava no posto três. O posto de docagem ficava no extremo norte do mesmo cais.
+
+Do posto três, olhando para o norte: duzentos e quarenta metros de cais, dois berços entre eles, trabalhadores de turno, carregadores, o slipsand abaixo no campo baixo. Ele era visível, se ela olhasse.
+
+Ela não olhava.
+
+Havia trabalho suficiente para ocupar os olhos: manifesto de carga de primeiro tipo, manifesto de carga de segundo tipo, verificação de selos, assinatura do funcionário de turno no posto três — Arveth, que processava documentos com a eficiência descansada de alguém que havia feito o mesmo trabalho durante vinte anos sem uma vez perguntar o que havia nos volumes selados. Era o tipo de funcionário que tornava porto pequeno operável: não curioso, não corrupto de forma inconveniente, apenas presente e funcional.
+
+Ela trabalhou o primeiro manifesto, o segundo, o terceiro. Ferris era mais simples que Cassavar — menos camadas, menos assinaturas cruzadas, menos o tipo de burocracia que havia crescido sobre si mesma até não saber mais o que verificava. Aqui o sistema era local e o local era suficientemente pequeno para que cada funcionário conhecesse os outros, o que tornava a corrupção superficial e previsível: Arveth queria o dinheiro certo na gaveta esquerda antes do carimbo de turno e não fazia perguntas sobre o resto. Lucasia havia deixado o dinheiro certo antes de começar o primeiro manifesto.
+
+Às duas e doze da tarde, ela estava verificando o quarto manifesto quando ouviu passos que não eram passos de trabalhador de cais.
+
+Não era o ritmo. Era a distribuição do peso — passos de alguém que caminhava com propósito sem urgência, sem a cadência irregular de quem carregava peso físico, sem a pressa de quem estava atrasado para turno.
+
+Ela terminou a linha que estava verificando antes de levantar os olhos.
+
+O homem tinha quarenta e poucos anos, casaco cinza com o emblema de segundo nível na lapela esquerda, sem maleta de campo. Os administradores da rede carregavam tudo em memória e verificavam contra o sistema quando necessário — a maleta era marcador de campo, e ele não era campo. Ela havia visto esse homem uma vez, dois anos atrás, num corredor de administração em Cassavar, de longe, sem interação direta. Era suficiente para reconhecer. A questão era se ele se lembraria dela do mesmo modo.
+
+A resposta chegou quando ele parou a dois metros e olhou para ela por um segundo antes de olhar para os documentos sobre o posto.
+
+Ele havia se lembrado.
+
+"Capitã," disse. Não pergunta — verificação.
+
+"Supervisor Aldaveth." Ela havia usado o sobrenome antes de ele se identificar. Era a confirmação que ele procurava: alguém que sabe quem é, não alguém que finge não saber. Havia uma diferença entre as duas posições, e Crane era o tipo que conhecia a diferença.
+
+"Primeiro contrato na rede?"
+
+"Sim. Carga seca leste-norte. Número de série sete-Leste."
+
+Ele retirou o caderno da bolsa interna do casaco. Folheou até a página certa — havia muitas páginas e o caderno estava bem usado, com a aparência de coisa que acumulava anos antes de ser substituída. Encontrou o número. Verificou. A pausa foi curta — o número estava correto, a entrada era limpa, não havia razão para demorar mais que o necessário.
+
+"O Mercator esteve em Cassavar há quanto tempo?"
+
+Pergunta adicional. Tom casual, posicionada depois da verificação como se fosse continuação natural do protocolo. Não era. Sael havia sido exata sobre isso.
+
+"Oito meses atrás," ela disse. Direto, sem consultar memória visível, sem a velocidade de quem recita resposta preparada. "Carga de especiaria seca norte-leste, três dias de porto, saída com licença limpa. Quarto trimestre do ciclo comercial passado."
+
+Ele a olhou por um segundo. Não o segundo de quem procura inconsistência — o segundo de quem arquiva. A diferença era sutil e ela sabia distinguir as duas porque havia estado do outro lado desse olhar antes, em contextos diferentes, com pessoas que não eram Crane.
+
+"Manifesto de saída limpo?"
+
+"Limpo. Número de saída está registrado no posto de administração de Cassavar, se precisar verificar."
+
+"Não vai ser necessário." Ele fechou o caderno e devolveu à bolsa interna. "Boa operação, capitã."
+
+Continuou pelo cais. Ela voltou para o quarto manifesto, linha seguinte, e continuou verificando.
+
+---
+
+Arveth havia saído para buscar carimbo de turno quando ela terminou o quinto manifesto. Ela ficou sozinha no posto três por sete minutos — os documentos empilhados na ordem certa, o trabalho do dia concluído, o cais ao redor com o ruído baixo do final da tarde.
+
+Havia passado. Crane havia arquivado, o número havia funcionado, não havia marcação visível. Ambas as coisas eram verdadeiras ao mesmo tempo: ela havia passado a inspeção e havia sido notada. Crane era administrador e administradores de segundo nível tinham memória de arquivo, não de campo — o que ele havia arquivado ficaria num caderno de muitas páginas entre outras entradas de muitas outras capitãs, e em três dias ele estaria num porto diferente e a entrada ficaria entre todas as outras entradas.
+
+Isso era avaliação correta. Ela sabia que era avaliação correta.
+
+Quando Arveth voltou, ela assinou os documentos finais, agradeceu, guardou a cópia do capitão no compartimento interno do colete. Depois virou para o sul — direção do Mercator, extremidade oposta do cais de onde o posto de docagem ficava.
+
+Ela caminhou.
+
+O cais de Ferris no final da tarde tinha temperatura específica: o metal acumulava calor durante o dia e o liberava lentamente ao entardecer, criando camada térmica a um metro e meio do piso, distinta do vento que vinha de cima. Era calor localizado, previsível, com o tipo de consistência que se aprendia depois de dois dias no mesmo porto.
+
+O que ela sentiu entre as omoplatas não era isso.
+
+Era calor de peso diferente, localizado com precisão que ela conseguia distinguir do metal do cais e da temperatura do ar e do vento do leste. Como pressão sem contato. Como o tipo de atenção que tem peso próprio e se distribui diferente do ambiente. Ela sabia, sem precisar verificar, que ele estava no posto de docagem dois berços ao norte. Sabia, sem precisar contar, que havia ficado imóvel durante os quatro minutos que a interação com Crane havia durado — sem sinal, sem distração criada, apenas a imobilidade específica de alguém que mede cada segundo sem fazer nada que altere o que está sendo medido.
+
+Ela havia sentido essa imobilidade de duzentos e quarenta metros de distância, com o cais inteiro entre eles e uma inspeção de supervisão de rota acontecendo no campo visual de ambos.
+
+Havia sentido e continuado verificando manifesto.
+
+O Mercator estava à vista agora. Ela subiu a prancha de embarque, passou pelo convés principal, desceu para a câmara.
+
+O calor entre as omoplatas estava lá até o segundo em que a escotilha fechou.
+
+---
+
+Às sete e quarenta da noite, ela estava na sala de navegação terminando o relatório de manifesto do dia. Lamparina na mesa, papel à esquerda, a caneta que havia pertencido ao primeiro-oficial anterior, que escrevia bem.
+
+Ouviu a escotilha da sala abrir.
+
+Não havia razão operacional para ninguém estar ali nessa hora. O relatório era trabalho de capitão. Ela estava com os papéis e tinha o que precisava.
+
+Raban parou perto da entrada da sala. Ficou por um momento — não hesitação, mas a pausa de quem verifica o espaço antes de ocupá-lo. Olhou para ela.
+
+"O número funcionou," ele disse.
+
+Ela parou na linha que estava escrevendo. Terminou a linha antes de responder.
+
+"Funcionou."
+
+Uma pausa.
+
+Ele foi.
+
+A escotilha fechou.
+
+Ela ficou olhando para o relatório por um segundo sem escrever. Depois escreveu a linha seguinte.
+
+Ela não nomeou o que era.
+
+---
+
+A noite de Ferris tinha som próprio — mais silenciosa que Cassavar, menos silenciosa que porto aberto. O slipsand denso no campo baixo ao redor do porto fazia o ruído baixo e constante que ela havia aprendido nos últimos dois dias. As amarras do Mercator acomodando a temperatura noturna. O metal esfriando de forma uniforme.
+
+Ela estava acordada.
+
+Não por causa de Crane. Esse era risco operacional e ela havia processado: ele havia arquivado, o número estava limpo por mais dois dias no máximo, a operação terminava em quatro, havia margem. Havia resposta para o dia seguinte se ele voltasse. O risco de Crane era previsível e previsível era gerenciável, e ela havia dormido com riscos maiores que esse sem dificuldade.
+
+O que a mantinha acordada era a outra coisa.
+
+O calor entre as omoplatas enquanto caminhava pelo cais de volta ao Mercator. A imobilidade que ela havia sentido a duzentos e quarenta metros de distância durante quatro minutos de inspeção sem olhar na direção certa uma única vez. O peso específico com que ele havia dito *funcionou* que não era o peso de verificação de heading.
+
+Era o que era.
+
+Ela nomeou internamente — com a mesma precisão com que nomeava posição de vento ou corrente de pressão no slipsand, com o tipo de exatidão que não precisava de elaboração porque a exatidão já era suficiente.
+
+Nomear era diferente de elaborar.
+
+Elaborar seria nomear o que o nomear fazia, e ela não estava pronta para nomear o que o nomear fazia.
+
+Então nomeou e parou.
+
+Pela vigia da câmara, quando se virou para o outro lado, a linha de berços norte do porto era visível. O navio de supervisão de rota estava no berço mais externo — a bandeira no mastro secundário ainda posta, imóvel no ar parado de Ferris à noite.
+
+Crane era administrador. Três dias de ciclo. Amanhã era o segundo.
+
+O Mercator tinha três dias operacionais restantes.
+
+Ela fechou os olhos. O slipsand denso fazia seu ruído lá embaixo, e as amarras estavam certas, e o relatório de manifesto estava terminado na sala de navegação, e ela sabia o que ela sabia.
+
+Suficiente soava diferente do que havia soado antes.
+
+
