@@ -2179,3 +2179,149 @@ Isso não mudava o cálculo imediato.
 
 Mas havia aprendido, em vinte meses de cobertura, que dados não arquivados eram os que causavam os problemas que ninguém via chegar.
 
+---
+
+## Capítulo 14 — Credenciais
+
+O slipsand do norte tinha uma frequência diferente.
+
+Ela havia notado isso na primeira madrugada em Arvene — o leste tinha areia mais densa, menos translúcida, o som mais grave quando batia no casco. O norte tinha algo que ela só conseguia chamar de mais aberto. A frequência não era mais alta; era maior. Como se o canal tivesse mais espaço para o som acontecer.
+
+Ela estava acordada desde antes do quarto da madrugada. Não era insônia — era a qualidade de silêncio que seu cérebro registrava como suficientemente anormal para requerer verificação. A viagem norte-noroeste era rota limpa. Maret tinha o quarto. Os instrumentos estavam calibrados. Ela não tinha razão para estar acordada.
+
+Ficou acordada de qualquer forma, que era um tipo de dado que havia aprendido a não elaborar.
+
+Quando subiu ao convés, o quarto ainda era de Maret. A navegadora estava nos instrumentos, vinte e três anos e competência que havia crescido mais depressa do que o cargo havia crescido com ela — mas o cargo estava crescendo. Maret olhou para Lucasia com a calma de quem já havia decidido que não ia fazer comentário sobre a presença antecipada do capitão.
+
+Lucasia foi aos instrumentos. Os números batiam. Ela verificou de qualquer forma porque verificar era o trabalho e o trabalho não parava porque alguém era competente.
+
+Raban estava na grade de proa.
+
+Ela soube disso antes de olhar — o jeito que a distribuição do convés estava alterada, um peso diferente no boreste de proa que não era o vento nem a carga. Ele estava lá desde cedo, que era consistente com o padrão de homem que processava pensamento difícil em movimento e havia passado semanas sem espaço suficiente para o processamento.
+
+Ela foi à amura de estibordo. Verificou as amarras. As amarras estavam corretas. Ela não foi à grade de proa.
+
+Depois foi encontrar Tavessa.
+
+---
+
+Os aposentos de passageiro eram a câmara menor de estibordo — menor que a câmara do primeiro-oficial, maior que o dormitório de tripulação, com janela estreita para o slipsand que Tavessa havia coberto parcialmente com um pedaço de tecido escuro. Documentos estavam espalhados sobre a mesa com uma organização específica: por data de emissão, não por tipo. Lucasia reconheceu o sistema porque havia trabalhado com fiscais o suficiente para conhecer como fiscais pensavam — não pelo assunto, pela cronologia. O tempo era a estrutura que todo o resto organizava.
+
+Tavessa estava acordada. A xícara na mesa estava fria.
+
+— Desde quando? — perguntou Lucasia.
+
+— Desde as três. — Pausa. — Este navio se move de um jeito diferente do que eu esperava.
+
+— Diferente baseado em quê?
+
+— No que ouvi sobre ele. — Ela olhou para os documentos antes de olhar de volta para Lucasia. — Sua tripulação fala do Mercator como se fosse pessoa.
+
+— É.
+
+— Já estive em navios com tripulações que dizem isso. Geralmente significa que o navio passou por o suficiente para que a tripulação desenvolvesse antropomorfismo como mecanismo de adaptação.
+
+— Este passou por o suficiente.
+
+Um ponto de entendimento mútuo que não precisou de mais elaboração. Elas eram dois tipos diferentes de profissional que haviam operado em extremos opostos do mesmo sistema — Tavessa por dentro, Lucasia por fora — e a competência mútua era visível sem precisar ser nomeada. Não eram aliadas naturais. Eram aliadas por necessidade e estrutura, que era um tipo de aliança que Lucasia confiava mais do que a maioria.
+
+Tavessa havia preparado o que precisava para a reunião. Três manifestos em branco — formulários oficiais, removidos da sala de arquivos de Cassavar quando ela havia saído. Ela os havia levado com a precisão de quem sabe o que vai precisar antes de precisar, que era a mesma precisão que tornava o tipo de fiscal que ela era diferente do tipo que Verath havia colocado para substituí-la. O substituto saberia executar o sistema. Tavessa havia entendido para que o sistema servia.
+
+— O briefing pode ser às dez, — disse Lucasia.
+
+— Estarei pronta.
+
+---
+
+A câmara do capitão tinha tamanho suficiente para quatro pessoas ao redor da mesa de cartas se ninguém precisasse de espaço adicional. Ninguém precisou. Sael ocupou o lado norte da mesa com os documentos que ela havia trabalhado a noite toda — Lucasia não havia ouvido movimento no corredor, mas as folhas tinham a qualidade de papel reorganizado múltiplas vezes, as margens com marcações que não eram para comunicação mas para classificação interna. Tavessa ficou ao lado de Sael, os manifestos em branco empilhados com a face para baixo. Raban ficou no lado leste, em pé inicialmente, depois sentando quando o briefing começou porque estava ficando na posição de quem está pronto para sair antes de decidir que não vai sair ainda.
+
+Lucasia ficou onde ficava quando era sua câmara e havia outras pessoas: ao lado dos instrumentos, de onde podia ver a mesa inteira e a janela ao mesmo tempo.
+
+— A rede de contratantes de Verath tem três camadas, — disse Sael. A voz de briefing era diferente da voz de negociação — mais econômica, mais horizontal. Ela não esperava objeção; estava transmitindo dado. — Primeira camada: contratantes permanentes. Registro completo, histórico de rota, vínculo documental com a rede central. O Mercator não pode fingir ser isso — há anos de operação que não batem com nenhuma rota da rede.
+
+— Segunda camada: contratantes operacionais. Contratos de ciclo curto, documentação mínima, sem vínculo histórico obrigatório. São os que fazem rotas únicas ou sazonais. O Mercator pode operar como segundo nível. A cobertura é: contrato de transporte de carga seca, ciclo de dezoito dias, rota leste-norte entre porto de origem e porto de entrega.
+
+— Terceira camada: operadores sem registro permanente. Trabalham com nome individual, sem sobrenome registrado. — Uma pausa técnica, não dramática. — Verath usa esses quando quer o movimento documentado mas não o transportador. São os que ele descarta depois se algo correr mal.
+
+Ela ouviu mais do que viu: Tavessa, à esquerda do campo visual, produziu um segundo de quietude que não era da mesma qualidade da quietude anterior. Não era pausa de processamento. Era pausa de reconhecimento.
+
+Ela estava olhando para Raban quando isso aconteceu. Ele tinha o dedo sobre a rota leste no mapa, traçando a sequência de portos da rede com a familiaridade de quem havia cruzado esse caminho muitas vezes. Não tinha olhado para cima. Ela havia captado a quietude de Tavessa de canto de olho, sem nome para o que havia captado, e seguido.
+
+Tavessa: — Os manifestos de terceiro nível usam sequência de três carimbos. Verde do porto de origem, vermelho do porto de destino, central da rede — que é o que precisa de aprovação do escritório de Verath. Com os três, a carga se move sem revisão. Sem o central, vai para revisão secundária. — Ela abriu o primeiro manifesto em branco sobre a mesa. — Estes são formulários de segundo nível. Mais simples. Precisam de dois carimbos e um número de contrato que Sael vai gerar no porto de registro.
+
+— Porto de Ferris, — disse Sael.
+
+Lucasia conhecia Ferris: porto menor, dois dias ao sudeste, nó secundário na rede do Inspetor. Ela havia passado por lá duas vezes em sete anos e achado inexpressivo das duas vezes — o tipo de porto que existia para processar carga que não precisava de atenção. Que era exatamente o tipo de porto de que precisavam.
+
+— Sael tem contato lá que pode processar o número de contrato sem acionar revisão central. — Raban, do mapa. Ele havia acompanhado o briefing olhando para a rota em vez de para quem falava — não desatenção, processamento diferente. Ele aprendia por geografia. — O funcionário de Ferris é contratado indireto. Não é leal de Verath — é leal de um intermediário que é leal de Verath. Há espaço na distância.
+
+— Quanto espaço? — Lucasia.
+
+— Suficiente para dois dias de porto limpo, — disse Sael. — Depois do registro, o contrato nos dá dezoito dias de circulação antes de precisar de renovação. — Ela olhou para Lucasia. — Que é mais do que as duas semanas e meia.
+
+Era mais do que as duas semanas e meia. A margem era deliberada — ela havia notado a calibração sem que ninguém a nomeasse, e havia decidido que era o tipo de calibração que merecia silêncio.
+
+Tavessa caminhou pelo preenchimento dos manifestos — o campo de descrição de carga, a linguagem que tornava a carga seca inspecionável sem despertar curiosidade, onde o nome do capitão precisava aparecer e onde o nome da embarcação precisava aparecer e onde, especificamente, a designação de contratante operacional deveria estar para distinguir do registro permanente.
+
+— O nome do navio pode ser o nome real? — perguntou Halve, que estava presente por ser o responsável pelo manifesto de bordo e havia ficado quieto desde o início porque ficava quieto quando aprendia.
+
+— O nome do navio pode, — disse Tavessa. — O que não pode é o vínculo de registro permanente do navio com a capitã. Para o segundo nível, vocês são navio sem histórico na rede — primeiro contrato. A capitã opera com nome próprio, sem associação com a rota comercial norte que é o que ela tem registrado nos arquivos de Cassavar.
+
+— Então opero com meu nome mas o navio não é meu navio no papel. — Ela disse isso como verificação, não como objeção.
+
+— No papel, o Mercator é embarcação de frete contratada por operação única. A capitã é Lucasia Vael. O navio não tem mais contexto do que isso.
+
+Sete anos. Sete anos de rota com o nome do Mercator em cada manifesto que ela havia assinado — Lucasia Vael, capitã, Mercator de registro, rota aprovada. O nome do navio era o que tinha sido dela antes de qualquer outra coisa, o que havia sobrevivido quando outras coisas não sobreviveram. Colocá-lo em papel como embarcação genérica de frete era um tipo de abstração que havia sentido de forma diferente quando Tavessa havia dito em voz alta.
+
+Raban não havia levantado a cabeça do mapa.
+
+Ela tinha certeza de que ele havia ouvido.
+
+---
+
+A reunião terminou com o que precisava terminar: Tavessa levou os manifestos para preencher os campos que precisavam de preenchimento antes do porto de registro. Halve levou uma lista do que precisava ser reorganizado no porão de carga para que a carga de cobertura fizesse sentido quando inspecionada. Sael ficou com o mapa por um momento antes de levá-lo de volta à câmara de navegação.
+
+Raban ficou.
+
+Não foi para nada específico — ela viu isso quando os outros saíram e ele não foi junto. Ficou na posição de quem estava processando o que havia acabado de acontecer e havia descoberto que o processamento precisava de mais um momento do que os outros precisavam.
+
+— Sudeste, — disse ele.
+
+— Sudeste.
+
+A confirmação de heading não precisava de resposta. Ele a deu de qualquer forma, que era uma coisa que ele fazia — confirmava o que já estava confirmado como se a confirmação dupla tornasse o plano mais sólido. Ela havia notado isso nos dias de Arvene quando planejavam o que fazer com a informação de Aldric. Ele verificava.
+
+— Dois dias, — ela disse.
+
+Ele foi.
+
+---
+
+O leme às duas da tarde. O quarto era de Torbe — ele cedeu sem que ela precisasse pedir porque havia aprendido quando a capitã precisava das mãos ocupadas.
+
+O Mercator em sudeste, o slipsand mudando de textura sob o casco à medida que cruzavam de volta para a areia mais densa do leste. Menos aberta. Mais grave. O tipo de frequência que ela havia aprendido a identificar como perigosa — não de forma imediata, mas de forma que precisava de atenção.
+
+Ela estava indo de volta.
+
+Não de volta a Neven — o heading de Ferris evitava o cone de vigilância direta. Mas de volta para o território que havia acabado de deixar, com o embargo do Mercator ainda ativo em Cassavar e a janela de Verath fechada sobre porto vazio e o plano de Sael com dezoito dias de margem construída para duas semanas de necessidade.
+
+E com o que ela havia dito ontem na câmara de Raban enquanto Sael esperava a resposta.
+
+*Dois meses é tempo demais para deixar Raban esperando.*
+
+Ela havia escolhido essa frase. Havia outras frases disponíveis — frases operacionais, frases sobre risco de exposição, frases sobre o estado do embargo e o que dois meses de operação estendida significava para o Mercator. Ela havia dito todas essas frases em forma de silêncio e escolhido a outra.
+
+O que "esperando" significava nela ela não ia enumerar agora. Sabia que tinha significado específico quando havia dito. Sabia que o significado estava relacionado com seis meses no leste seguindo rota que ela havia traçado — não a rota mais eficiente para lugar nenhum, que era o que Sael havia dito com a precisão de quem havia levantado os mapas e feito a conta. A rota que passava por portos onde se podia saber se o Mercator estava bem.
+
+Ela havia traçado os mapas. Ela havia dado os mapas. O que o homem havia feito com os mapas era decisão dele — mas havia feito.
+
+A bússola no bolso. A agulha apontava norte. Ela estava indo ao sudeste.
+
+O Mercator em sudeste, o slipsand do leste recebendo o casco com a frequência que ela havia aprendido a separar de outros sons. Duas semanas e meia. Ferris em dois dias. A carga de cobertura no porão com o manifesto de Tavessa e o número de contrato que Sael havia gerado na cabeça e que iria para papel quando chegassem ao porto.
+
+O nome dela nos documentos.
+
+O nome do navio nos documentos sem o que o nome do navio significava.
+
+Ela manteve o leme.
+
