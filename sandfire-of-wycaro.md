@@ -2005,7 +2005,7 @@ O que oitenta e seis documentos não provavam: que Verath havia dado a ordem pes
 
 Esse era o problema que estava prestes a explicar para Raban.
 
-O corredor abaixo do convés do Mercator tinha uma qualidade diferente da maioria dos corredores de duneship em que havia dormido, e havia dormido em muitos nos últimos vinte meses. Mais estreito que o padrão, mas mais alto — o que significava que a pressão acústica distribuía diferente, que vozes não carregavam da mesma forma através das paredes, que havia uma privacidade construtiva no layout que era ou deliberada ou acidental. Havia decidido que era deliberada. Um navio montado por uma capitã que entendia que privacidade é ferramenta tenderia a esse tipo de escolha.
+O corredor abaixo do convés do Mercator tinha uma qualidade diferente da maioria dos corredores de duneship em que havia dormido, e havia dormido em muitos nos últimos vinte meses. Mais estreito que o padrão, mas mais alto — o que significava que a pressão acústica distribuía diferentemente, que vozes não carregavam da mesma forma através das paredes, que havia uma privacidade construtiva no layout que era ou deliberada ou acidental. Havia decidido que era deliberada. Um navio montado por uma capitã que entendia que privacidade é ferramenta tenderia a esse tipo de escolha.
 
 O slipsand do norte corria contra o casco com frequência contínua — mais monótono que o de Neven, mais constante que o de Arvene. Ela havia aprendido a separar sons de fundo por porto. Essa era a textura do canal norte, o som de água que não é água.
 
@@ -2021,13 +2021,13 @@ Esse era um padrão que conhecia desde que ele tinha dezessete anos — a anteci
 
 — Eu sei. — Entrou. A câmara do primeiro-oficial era menor do que a do capitão, mas funcionalmente idêntica em layout: mesa, banqueta embutida, o cheiro de duneship em rota longa que era parte sal, parte madeira aquecida, parte a forma particular que o slipsand penetrava em qualquer espaço fechado por tempo suficiente. — Achei melhor não dar tempo para você decidir que a conversa podia esperar.
 
-Raban não respondeu. Isso também era um padrão.
+Raban não respondeu.
 
 Ela colocou o tubo na mesa e começou a organizar os documentos na sequência que havia estabelecido — não cronológica, não por nome, mas por densidade de implicação. Os primeiros eram os que provavam o menos, porque as pessoas tendiam a ler com mais atenção quando começavam por evidência que construía.
 
 — Oitenta e seis — disse ela, antes que ele perguntasse.
 
-Raban ficou parado por um momento com um dos documentos na mão — um registro de transferência financeira com três camadas de intermediário e dois nomes que havia rastreado por oito meses. Depois começou a ler com a atenção que ela havia visto ele dedicar a mapas de canal quando tinha vinte e dois anos e estava descobrindo que ler bem era diferente de ler rápido. Havia aprendido a diferença mais depressa do que a maioria.
+Raban ficou parado por um momento com um dos documentos na mão — um registro de transferência financeira com três camadas de intermediário e dois nomes que havia rastreado por oito meses. Depois começou a ler com a atenção que ela havia visto ele dedicar a mapas de canal quando tinha vinte e dois anos e estava descobrindo que ler bem era diferente de ler rápido.
 
 Ela o deixou ler.
 
@@ -2055,7 +2055,7 @@ Ela havia esperado isso também. — Eu sei.
 
 O original era o documento que havia rastreado por catorze meses. Uma ordem assinada por Verath — não por intermediário, não por assessor operando em nome do cargo, mas pela mão de Verath sobre o papel que havia autorizado o que havia acontecido com o Isolde. Sabia que o documento existia. Sabia onde estava. Sabia quem tinha acesso ao arquivo em que estava guardado e quando esse acesso existia.
 
-— Dois meses — disse ela. — Se o calendário de viagens de Verath se mantiver no padrão dos últimos seis, o arquivo fica exposto por uma janela de três dias durante a segunda semana do segundo mês. Tenho um ativo posicionado para essa janela. Dois meses.
+— Dois meses — disse ela. — Se o calendário de viagens de Verath se mantiver no padrão dos últimos seis, o arquivo fica exposto por uma janela de três dias daqui a dois meses. Tenho um ativo posicionado para essa janela. Dois meses.
 
 O silêncio que Raban produziu depois dessa informação não era o silêncio de quem estava considerando. Era o silêncio de quem havia calculado antes de perguntar e havia obtido o número que havia calculado.
 
@@ -2067,21 +2067,19 @@ O silêncio que Raban produziu depois dessa informação não era o silêncio de
 
 — Eu sei.
 
-— Então não podes me dizer dois meses como se fosse uma resposta aceitável.
+— Então não pode me dizer dois meses como se fosse uma resposta aceitável.
 
 — Estou te dizendo dois meses porque é o prazo que o documento exige. — Manteve a voz no mesmo nível. Havia aprendido, em vinte meses de cobertura, que elevar a voz era ceder terreno. — Com o que temos, Verath fica constrangido. Com o original, Verath fica preso. Há uma diferença funcional entre as duas opções que não consigo eliminar por convenção de prazo.
 
 Ele não respondeu imediatamente. Isso significava que ela havia ganho o argumento; ele estava procurando o contra.
 
-Ela conhecia esse padrão desde que ele tinha dezenove anos.
-
 ---
 
-A batida na porta era de alguém que havia verificado se havia momento certo antes de bater — não a batida de quem chega sem considerar, mas a batida de quem havia chegado antes e havia esperado o ponto de entrada correto.
+A batida na porta era de alguém que havia verificado se havia momento certo antes de bater — não a batida de quem chega sem considerar, mas a batida de quem havia esperado no corredor até identificar o ponto de entrada correto.
 
 — Entre — disse Raban.
 
-A capitã do Mercator entrou com a economia de movimento que Sael havia catalogado desde Neven: três passos, leitura do ambiente, posicionamento. Havia treinado esse tipo de entrada, ou havia desenvolvido sem treino — as duas possibilidades produziam o mesmo resultado e Sael não tinha dados suficientes para distinguir. O que tinha: a capitã usava o espaço da câmara com a mesma familiaridade com que usava o convés, o que significava que havia estado aqui antes com frequência suficiente para não precisar mapear.
+A capitã do Mercator entrou com a economia de movimento que Sael havia catalogado desde Neven: três passos, leitura do ambiente, posicionamento. Havia treinado esse tipo de entrada, ou havia desenvolvido sem treino — as duas possibilidades produziam o mesmo resultado. O que tinha: a capitã usava o espaço da câmara com a mesma familiaridade com que usava o convés, havia estado aqui antes com frequência suficiente para não precisar mapear.
 
 Leu os documentos na mesa. Não o conteúdo — a estrutura, o volume, o que a distribuição física implicava sobre o estado da conversa que havia interrompido.
 
@@ -2113,7 +2111,7 @@ Ela arquivou isso sob a categoria correta e continuou.
 
 — Duas — disse Raban.
 
-Ela havia esperado esse número. Ele sempre contra-oferecia abaixo do piso. Isso era um padrão que conhecia e havia parado de tentar corrigir quando ele tinha vinte e quatro anos.
+Ela havia esperado esse número. Ele sempre contra-oferecia abaixo do piso — havia parado de tentar corrigir isso quando ele tinha vinte e quatro anos.
 
 O slipsand contra o casco. A câmara pequena. Os oitenta e seis documentos na mesa entre eles e a lacuna que oitenta e seis documentos não preenchiam.
 
@@ -2131,7 +2129,7 @@ A negociação havia terminado. Havia demorado menos do que ela havia projetado.
 
 Raban saiu primeiro.
 
-Isso também era um padrão — ele sempre saía primeiro quando precisava de espaço para processar. Havia aprendido a dar esse espaço, da mesma forma que havia aprendido que persegui-lo no corredor nos primeiros minutos produzia a versão mais fechada dele em vez da versão que conseguia ouvir.
+Ele sempre saía primeiro quando precisava de espaço para processar. Havia aprendido a dar esse espaço — sabia que persegui-lo no corredor nos primeiros minutos produzia a versão mais fechada dele em vez da versão que conseguia ouvir.
 
 A capitã ficou um momento a mais. Começou a organizar os documentos de volta ao tubo com a precisão de quem lida com manifesto de carga — pelo formato, não pelo conteúdo, mas de forma que o conteúdo não sofresse no processo. Depois fechou o tubo e o devolveu.
 
@@ -2149,11 +2147,9 @@ Havia estado em coberturas que duravam mais do que a maioria das missões aberta
 
 Inventário da última hora.
 
-Raban havia escutado. Havia pressionado no ponto correto. Havia cedido no ponto que ela havia calculado que cederia, pela razão que havia calculado que o faria ceder — não a razão operacional, mas a razão por baixo da razão operacional, que era a razão que ele raramente admitia ser a razão. Isso era consistente com quem ele era. Havia aprendido a trabalhar com isso em vez de contra isso nos anos que haviam passado desde o Isolde e antes do Isolde e em todos os pontos entre os dois.
+Raban havia escutado. Havia pressionado no ponto correto. Havia cedido no ponto que ela havia calculado que cederia, pela razão que havia calculado que o faria ceder — não a razão operacional, mas a razão por baixo da razão operacional, que era a razão que ele raramente admitia ser a razão. Isso era consistente com quem ele era. Havia aprendido a trabalhar com isso em vez de contra isso.
 
 A capitã havia chegado sem ser chamada, havia lido a sala em menos tempo do que levava para cruzá-la, havia dito exatamente o que era necessário dizer e não mais, havia organizado os documentos com cuidado que não era obrigação e havia ido embora antes de se tornar redundante.
-
-Isso não era comportamento de alguém operando por fora do contexto.
 
 E havia o dado que havia arquivado.
 
@@ -2163,7 +2159,7 @@ O que havia arquivado nesse: não era gesto de comando. Não era gesto de parcer
 
 Havia visto isso antes.
 
-Havia aprendido, da experiência de tê-lo visto antes, que esse sistema custava mais enquanto ficava sem nome. Que a recusa de nomeá-lo não protegia nenhuma das duas pessoas que o produziam — apenas adiava o custo e o acumulava.
+Havia aprendido que esse sistema custava mais enquanto ficava sem nome. Que a recusa de nomeá-lo não protegia nenhuma das duas pessoas que o produziam — apenas adiava o custo e o acumulava.
 
 Sabia porque havia feito a conta.
 
@@ -2177,7 +2173,7 @@ Havia trabalho.
 
 Começou.
 
-O Mercator ia para o norte-noroeste com oitenta e seis documentos e uma lacuna e um acordo de duas semanas e meia e o dado que havia arquivado sob a categoria que entendia e que Raban e a capitã provavelmente não saberiam que existia até que fosse tarde para ser útil saber.
+O Mercator ia para o norte-noroeste com oitenta e seis documentos e uma lacuna e um acordo de duas semanas e meia e o dado que havia arquivado.
 
 Isso não mudava o cálculo imediato.
 
