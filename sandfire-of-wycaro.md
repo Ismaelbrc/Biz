@@ -3181,4 +3181,175 @@ Havia percebido o relatório mais cedo esta noite.
 
 Não havia parado.
 
+---
+
+## Capítulo 20 — O Último Dia
+
+A condição do dia era previsível: vento de leste moderado, a arriba norte cortando a pressão antes do meio-dia, o slipsand mais denso que Ferris mas menos que porto aberto. Havia previsto isso ontem de noite, confirmou às cinco da manhã quando subiu ao convés.
+
+O dado era o mesmo. O modo de registrar não era.
+
+Nos primeiros dias havia coleta — ele estava aprendendo o porto. Nas seguintes, reconhecimento: o que havia aprendido estava confirmado. Esta manhã havia algo diferente, uma qualidade que levou tempo para identificar porque não era um dado que houvesse buscado. Era a qualidade de inventário — a leitura de quem está verificando o que conhece antes de deixar de conhecê-lo.
+
+A temperatura da madrugada havia sido dois graus abaixo do que era nas primeiras noites — o outono chegando cedo neste porto, dado que havia notado na sexta noite sem registrar como padrão e que agora confirmava como padrão. A arriba norte tinha textura de sombra antes do sol que era específica daqui, diferente de Ferris, diferente de Arvene. Era a arriba deste porto. O armador do berço quatro chegou às cinco e quarenta e dois, mais tarde que o usual, o que significava que a carga de gelo havia atrasado, o que havia previsto ontem pela queda de temperatura.
+
+Verificou cada um. Registrou cada um.
+
+Não havia razão operacional para registrar o padrão de temperatura de uma arriba num porto que ia deixar em dois dias. Mas o modo de leitura era de inventário, e inventário não pergunta qual dado é necessário. Registra o que existe.
+
+---
+
+O briefing foi o mais curto de todos — quinze minutos. Havia menos variáveis porque havia menos incerteza: o cronograma de Crane estava mapeado, o acesso sul confirmado, as posições definidas. O que havia era a variável de Sael.
+
+Ela trouxe ela mesma.
+
+"O original estava no setor três ontem," ela disse. "Pode ter sido movido."
+
+Lucasia estava olhando a planta. "Qual é a probabilidade?"
+
+"Baixa. Rotação de arquivo desse tipo acontece em ciclo de trinta dias. Estamos no dia vinte e dois do ciclo." Pausa. "Mas é um documento que Crane sabe que existe. Se soubesse que estávamos atrás, teria movido."
+
+"Ele sabe que você existe." Não era acusação — era o dado que precisava estar na mesa. "Sabe que você saiu de Ferris antes de ele chegar. Não sabe o que você tem."
+
+"Não sabe o que estou procurando," Sael corrigiu. "Se soubesse o que estou procurando, já não estaríamos tendo essa conversa."
+
+Silêncio de três segundos.
+
+"Catorze minutos," Lucasia disse. "Se não sair em catorze, você aborta."
+
+Sael concordou.
+
+Maret estava ao fundo — no briefing pela primeira vez, necessária na saída de porto. Estava aprendendo o que qualquer membro de tripulação aprende quando é incluído em nível acima do habitual: que o que parecia simples tem mais variáveis do que apareceu no relatório de turno.
+
+Raban ficou parado junto à mesa de navegação. O briefing não precisava de contribuição — ele tinha a posição, tinha o protocolo, e para esse trabalho não havia instrução adicional útil. O que havia era espera.
+
+Saiu primeiro.
+
+---
+
+Catorze e dez. Ele estava no acesso sul do armazém com o ângulo de visão do corredor principal e o relógio de bolso na mão.
+
+O protocolo era simples: se o corredor de Crane aparecesse antes de Sael sair, um único ruído — uma coisa deslocada, suficiente para dar a Sael cinco segundos sem acusar posição. Se Sael saísse no prazo, confirmava o livre e saíam pelo cais sul.
+
+O armazém tinha o cheiro do dia: especiaria seca, metal aquecido pelo sol, a poeira específica de carga parada há mais de duas semanas. Havia estado neste corredor três vezes nos doze dias anteriores. Sabia onde o chão tinha mais ruído, onde a sombra da coluna leste cobria o ângulo de visão da entrada norte, a que hora o funcionário de turno mudava de posto.
+
+Catorze e dezasseis. Sael ainda dentro.
+
+O corredor principal estava quieto. Dois trabalhadores de carga haviam passado às catorze e treze — movimento esperado, parte da rotina do turno da tarde. Sem patrulha. A leitura de Crane batia: última visita às onze e vinte, próxima no intervalo de vinte e duas a trinta horas. Dentro da janela segura.
+
+Catorze e dezenove. Um minuto.
+
+A porta do setor três abriu.
+
+Sael saiu com o passo de quem havia terminado o que havia entrado para fazer. Sem urgência. Sem o micro-ajuste de postura que indicaria que havia algo atrás dela. A mão foi brevemente ao bolso interno do casaco — confirmação de posse, gesto involuntário de quem acabou de garantir o que procurava.
+
+Ela tinha o original.
+
+"Cais sul," ele disse.
+
+Eles foram.
+
+---
+
+A prancha de bombordo tinha o rangido da terceira tábua — uma variação de pressão específica que revelava velocidade de subida para quem soubesse ouvir. Subiu devagar o suficiente para que o som não chegasse ao convés antes deles.
+
+Lucasia estava no convés.
+
+Não na câmara, não na sala de navegação. Na amura de boreste, com o ângulo de visão que cobria a prancha de bombordo e o cais sul. Havia visto a silhueta dela quando viraram no posto de descarga, e ela não havia mudado de posição entre aquele momento e o momento em que Sael chegou ao topo da prancha.
+
+Ela havia esperado no convés. Não na câmara.
+
+Sael, ao chegar ao topo, abriu levemente o casaco — o canto do documento visível por dois segundos. Não havia gesto adicional. Não era necessário.
+
+Lucasia não disse nada.
+
+Raban subiu depois. Quando chegou ao topo e se voltou para o convés, ela ainda estava na amura. O olhar dela encontrou o dele.
+
+Era o olhar de processamento que havia catalogado nos doze dias — avaliação de informação recebida contra informação esperada. Mas havia algo neste olhar que não havia estado nos outros. Não era diferente de forma que ele conseguisse especificar. Estava lá.
+
+Dois segundos. Depois ela se voltou para o interior do navio.
+
+Ele ficou parado um momento antes de seguir.
+
+---
+
+Sael foi direto para a câmara de Lucasia e fechou a porta. Raban ficou no convés.
+
+Tavessa saiu quinze minutos depois com o olhar de quem havia visto algo que precisava de tempo para processar. O processamento estava acontecendo na forma de trabalho — ela foi para a sala de navegação com passo direto. Quando passou por Raban fez o único gesto que os doze dias de trabalho conjunto haviam estabelecido como suficiente: um aceno de cabeça, breve, que significava "foi".
+
+Maret estava no leme. Havia processado o aceno com a precisão de quem lê dados de rota — não disse nada, mas a postura mudou um grau.
+
+Doryn apareceu do porão com a expressão de quem estava verificando de forma casual se havia razão para verificar. Havia — ele olhou para o convés, viu Raban, viu Tavessa sumir na sala de navegação, e voltou para o porão sem fazer pergunta.
+
+O Mercator sabia, sem que ninguém houvesse dito explicitamente, que algo havia terminado.
+
+Raban ficou na amura por mais tempo do que era necessário para qualquer tarefa operacional daquele momento, que era nenhuma. O Mercator estava em compasso de espera. A operação estava completa.
+
+Era o que estava esperando. Não havia outra razão para estar no convés.
+
+---
+
+Às três estava na sala de navegação.
+
+O mapa do porto estava sobre a mesa — havia aprendido a ler cada corredor do armazém norte, cada ponto de patrulha de Crane, a textura de slipsand de cada berço. Em dois dias esse mapa seria dado arquivado. O Mercator estaria em rota nordeste e os detalhes do porto ficariam como o tipo de conhecimento que não volta a ser necessário a não ser que o Mercator retornasse, que não estava no plano de ninguém.
+
+Havia puxado as cartas de navegação antes de ela entrar. A carta de Halcyon estava sobre a mesa ao lado do mapa do porto.
+
+Ela viu as cartas quando entrou. Não comentou que estavam lá.
+
+Puxou a cadeira do lado esquerdo e abriu o caderno de rota.
+
+"Duas opções," ela disse. "Norte para Cassavar — mais rápida, mais exposta enquanto o embargo continua. Nordeste para Halcyon — mais longa, fora de Verath, e é onde a Câmara de Rotas tem sede."
+
+"Halcyon é a rota de Tavessa." Ele apontou para a carta. "Com o documento de Sael, a Câmara tem autoridade para bloquear as rotas do Inspetor de forma permanente."
+
+Ela estava olhando a carta. "O vento de nordeste dos próximos três dias dá janela ótima depois de amanhã ao amanhecer."
+
+"Quatorze dias de rota se o vento se mantiver. Dezasseis se dobrar no canal norte."
+
+Ela fez a linha sobre a carta — o trajeto, rápida, sem hesitação, a linha de alguém que havia calculado antes de entrar e vinha confirmar, não explorar. Era o modo de operar dela que havia aprendido nos doze dias: ela chegava com o trabalho feito e usava o espaço conjunto não para calcular mas para verificar o cálculo contra outro cálculo.
+
+Havia chegado com as cartas prontas porque havia aprendido esse modo.
+
+"Dois dias," ela disse. "Depois disso o Mercator está em movimento."
+
+"Depois de amanhã ao amanhecer."
+
+Ela dobrou o mapa. Levantou. Saiu.
+
+Ele ficou olhando o mapa dobrado sobre a carta de Halcyon.
+
+Depois de um minuto, saiu.
+
+---
+
+Às nove e meia estava na amura.
+
+O relatório havia começado sem que ele percebesse que havia começado. Mais cedo ainda desta vez — não às onze, não às dez e meia da noite anterior, mas às nove e meia, pouco mais de uma hora depois de o Mercator ter entrado em protocolo de preparação. Percebeu em três minutos. Não parou.
+
+O relatório incluía o posicionamento atual, a janela de saída depois de amanhã ao amanhecer, a rota nordeste para Halcyon, as condições de vento previstas para os próximos três dias e a variação possível na segunda metade que daria quatorze ou dezasseis dias. Incluía as variáveis de carga — o documento de Sael precisava de embalagem de preservação, e o Mercator tinha material para isso se Tavessa confirmasse o volume disponível. Incluía a checagem de amarra para saída em condições de vento moderado, diferente da amarra de porto estático dos doze dias anteriores.
+
+Era o relatório de saída completo. Para um navio que não era o Isolde. Para uma rota que outra pessoa havia traçado. Com o nível de detalhe de quem vai estar presente quando o Mercator se mover.
+
+Quando terminou eram onze e dez.
+
+Havia percebido o início às nove e meia. Na noite anterior havia percebido às dez e meia. Na anterior às onze. O intervalo estava diminuindo.
+
+O que havia catalogado nos primeiros dias como hábito de capitão sem navio, depois como trabalho que entrava sem pedir permissão, depois como algo que perceber já não era suficiente para parar — essa coisa havia chegado esta noite a um ponto diferente. Não havia ambiguidade no relatório. Era o relatório de saída. Para uma rota específica. Para um destino específico. Com a precisão de quem vai junto.
+
+Havia ficado olhando o mapa dobrado não porque estava calculando a rota para Halcyon.
+
+A rota para Halcyon estava calculada.
+
+Havia ficado porque o mapa dobrado não dizia o que vinha depois de Halcyon. E o que vinha depois de Halcyon dependia do que a Câmara decidisse. E dependia de onde ele estaria quando isso acontecesse.
+
+Havia chegado a essa pergunta. A pergunta existia.
+
+Não foi mais longe.
+
+O slipsand abaixo do cais tinha o ruído desta última noite neste porto — igual ao ruído das onze noites anteriores, diferente de qualquer porto que havia aprendido e deixado antes que a familiaridade exigisse inventário de manhã.
+
+Ficou no convés.
+
+
 
