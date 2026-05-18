@@ -2325,3 +2325,159 @@ O nome do navio nos documentos sem o que o nome do navio significava.
 
 Ela manteve o leme.
 
+---
+
+## Capítulo 15 — Porto de Ferris
+
+Ferris chegou ao amanhecer como havia chegado nas duas vezes anteriores — sem anúncio, sem cerimônia, sem o peso de pedra escura de Arvene ou a escala burocrática de Cassavar. Apenas o perfil baixo de armazéns industriais e cais de metal enferrujado contra o horizonte leste, três linhas de docas paralelas, e o slipsand mais raso que ela conhecia em qualquer porto da rota norte.
+
+O raso era técnico, não estético. O slipsand de Ferris tinha profundidade de canal reduzida — navios de grande porte precisavam reduzir velocidade mais cedo, a areia era mais densa perto da superfície, o fundo estava mais acessível do que em porto aberto. Ela havia aprendido isso na primeira vez que veio, antes do Mercator, como imediata de Perryn, quando havia passado duas noites em Ferris esperando uma carga que havia chegado tarde e havia seguido sem memória particular do lugar além da areia rasa e do vento de leste que cheirava a metal e a carga seca e a nada de especial.
+
+Havia achado Ferris inexpressivo.
+
+O inexpressivo era, descobria agora ao olhar o perfil do porto contra o amanhecer, um ativo operacional da mais alta categoria.
+
+Maret estava no leme. Lucasia ficou na amura de boreste e orientou a entrada no canal — o Mercator era grande para o canal de Ferris, não proibitivamente, mas o suficiente para que a proa precisasse de condução cuidadosa através de areia rasa. Maret executou sem precisar de confirmação dupla. O cargo havia crescido mais rápido do que o título havia crescido com ela; isso era uma injustiça administrativa que Lucasia havia anotado para correção quando o embargo fosse levantado e a rota comercial norte voltasse a ser opção.
+
+Dezasseis dias para a rota comercial norte voltar a ser opção.
+
+O Mercator entrou no canal às seis e vinte da manhã. A maior parte dos navios atracados eram embarcações menores — barcos de carga de ciclo curto, embarcações de trabalho sem bandeiras de identificação conspícua, o tipo de frota que existia para mover coisas entre portos sem que as coisas precisassem de atenção. Ferris era o porto onde o movimento acontecia sem cerimônia. Ela havia visto isso antes sem ter motivo para que importasse.
+
+Agora era o motivo inteiro.
+
+---
+
+O escritório de registro de contratos ficava no segundo armazém do cais central. Não o posto de autoridade portuária — esse estava na entrada com janelas e funcionário de uniforme e emblema do porto bordado no ombro esquerdo, e ela havia passado por ele com o manifesto de chegada preenchido na véspera e recebido o carimbo sem parar. O escritório que procurava era diferente: dentro do armazém, sem sinalização externa, acessível por quem soubesse que estava lá. A diferença entre infraestrutura visível e infraestrutura funcional.
+
+Sael havia chegado quinze minutos antes. A porta estava entreaberta.
+
+O homem por trás da mesa tinha cinquenta e poucos anos, cabelo curto grisalho, mãos com calosidade de porto. Estava processando um formulário quando elas entraram e não levantou a cabeça imediatamente — rotina, não descortesia. O ritmo de quem havia desenvolvido a política de não olhar para rostos porque os rostos vinham e iam e o que ficava eram os números, os carimbos, o registro que existia para fins que ninguém verificava porque estava sepultado em três camadas de burocracia secundária.
+
+— Número de contrato é da série 7-Leste, — disse ele, sem preâmbulo. — Ciclo de dezoito dias, rota leste-norte, carga seca categorial. Capitã assina nos dois campos marcados.
+
+Ele empurrou o formulário pela mesa.
+
+Ela leu. Era o que havia sido descrito: contrato de segundo nível, dezoito dias, carga seca em categoria aberta. O campo de identificação da embarcação dizia *Mercator, embarcação de frete, primeiro contrato de ciclo.* O campo de identificação da capitã dizia *Lucasia Vael, operadora contratual.*
+
+Sem linha para a rota norte.
+
+Sem linha para os sete anos de registro permanente em Cassavar.
+
+Sem linha para o que o nome do navio havia sido antes de ser embarcação de frete de ciclo único.
+
+A caneta estava à direita do formulário. Ela a pegou.
+
+Meio segundo. A assinatura existia antes de acontecer — a posição da mão, o ângulo, a pressão que havia calibrado ao longo de anos até que a caligrafia saísse igual em qualquer condição. Essa parte era automática. O que não era automático era o que o papel esperava receber: *Lucasia Vael, operadora contratual.* Não capitã. Não Mercator de registro permanente. O nome era o mesmo. O que o nome significava, no papel, era diferente do que havia significado em cada outro formulário que havia assinado desde os vinte e dois anos.
+
+Ela escreveu nos dois campos marcados.
+
+O homem processou sem levantar a cabeça. Três minutos de trabalho silencioso. O número de contrato foi carimbado em duas vias — uma ficou com o arquivo do posto, uma ficou com Sael. Quando levantou a cabeça para entregar a via, olhou para Lucasia com a indiferença específica de quem havia desenvolvido, ao longo de anos de trabalho neste escritório, a política de não lembrar rostos.
+
+— Dezoito dias contando de hoje. Renovação neste posto ou em qualquer posto autorizado da série 7-Leste. Qualquer porta de carga da rede aceita o número direto sem confirmação adicional. — Pausa. — Mais alguma coisa?
+
+— Não, — disse Sael.
+
+Elas saíram. O cais de Ferris cheirava a metal aquecido e carga seca e areia com menos translucidez do que a areia do norte — mais densa, mais opaca, mais próxima do fundo. O tipo de cheiro que ficava na roupa.
+
+Dezasseis dias. O contrato dizia dezoito. O que o Mercator precisava era dezasseis.
+
+---
+
+Raban estava na docagem do posto três quando ela voltou ao navio.
+
+Havia descido enquanto elas estavam no escritório — ela não havia dito a hora de ir ao cais, não havia orientado o que fazer, e ele havia descido e havia encontrado o posto de carga certo. Do convés, ela o viu de costas, conversando com o responsável pela docagem com a postura de quem sabia o que estava pedindo antes de pedir.
+
+Não era a postura de passageiro tentando navegar em sistema desconhecido. Era a postura de operador que conhece o sistema pela rota e está verificando o que o sistema confirma.
+
+Seis meses no interior do leste eram seis meses de dado acumulado. Ela havia traçado os mapas — rotas, portos, pontos de ancoragem, correntes de pressão. Os mapas tinham o que os mapas podiam ter. O que os mapas não tinham era o que ele havia aprendido no interior: como os navios se encaixavam nos postos de carga, qual porto da rede aceitava qual tipo de contrato sem acionamento de revisão central, onde o sistema tinha espaço para operar com menos atenção. Conhecimento que não era possível cartografar porque não era geográfico. Era operacional.
+
+Os manifestos eram o que ela conhecia como fluência nativa.
+
+Ela foi à câmara de navegação e abriu o primeiro manifesto do ciclo.
+
+---
+
+Os manifestos de segundo nível tinham estrutura que Tavessa havia ensinado — diferentes dos de registro permanente, mais simples na forma mas mais específicos na categorização de carga. Cada categoria tinha subcategorias. Cada subcategoria tinha lista de itens de circulação livre e lista de itens que requeriam aprovação de supervisão de rota. Ela leu as primeiras duas categorias com a atenção que dava a qualquer documento que ia assinar e depois leu as seguintes com a atenção que dava a qualquer documento que informava como o sistema funcionava por dentro.
+
+No terceiro manifesto, Sael entrou e colocou uma folha adicional sobre a mesa.
+
+— Lista de restrições da rede para segundo nível. Vai aparecer nos próximos dezasseis dias em todo porto de destino. Melhor conhecer agora.
+
+Ela pegou a folha. Armas de classificação alta, documentação falsificada catalogada, minerais específicos das rotas do interior leste sob monopólio de Verath. E no final da terceira seção, entre outros itens de controle sanitário: *tratamentos paliativos para moonsburn não certificados pela rede central. Transporte em segundo nível requer autorização prévia de supervisão de rota.*
+
+Ela continuou. Havia mais quatro itens depois desse.
+
+À sua esquerda — Raban havia entrado pelo corredor de popa enquanto ela lia a lista, havia ficado parado com o mapa de rota que estava verificando para a manhã seguinte. Ela não havia olhado para ele. Havia captado de canto de olho a pausa no movimento que havia estado lá e depois havia passado — a qualidade do silêncio que muda por um segundo quando alguém recebe dado que chega a lugar específico e precisa de um segundo antes de continuar.
+
+Depois o movimento havia voltado. Ele havia voltado ao mapa.
+
+Ela foi para o quarto manifesto.
+
+---
+
+A tarde foi de trabalho limpo.
+
+Ela ficou com os manifestos na câmara de navegação — quatro horas de documentação do ciclo de dezasseis dias, cada porto de destino com seus formulários específicos, cada carga de cobertura com a descrição que Tavessa havia calibrado para ser inspecionável sem despertar curiosidade. Raban ficou com a docagem e com a verificação de como a carga de cobertura estava distribuída no porão. A divisão havia emergido sem acordo — havia começado nos dias de Arvene, quando os dois haviam ficado com partes diferentes do trabalho sem que ninguém houvesse dito quem ficava com o quê, e havia se repetido sem que ninguém houvesse precisado nomear o padrão.
+
+Ela havia operado com primeiros-oficiais que eram competentes e havia operado com primeiros-oficiais que eram precisos e havia operado com primeiros-oficiais cujos métodos eram funcionalmente complementares aos dela. Ela nunca havia operado com alguém cujos métodos eram complementares ao dela de uma forma que ela não conseguia descrever sem descrever também a si mesma.
+
+Ela não descreveu. Continuou com o quinto manifesto.
+
+Halve reorganizou o porão. Torbe fez a manutenção de amarra que havia ficado adiada três dias. Maret retraçou a rota com base nos portos de destino que Sael havia identificado como prioritários para os próximos dezasseis dias. A tripulação trabalhava com a eficiência de quem havia encontrado o ritmo certo para a tarefa — não porque a tarefa fosse familiar, mas porque as pessoas eram.
+
+O Mercator funcionava mesmo quando o Mercator estava sendo outra coisa no papel.
+
+Ela encontrou Doryn no corredor de acesso às máquinas quando foi para o convés no final da tarde. Ele havia terminado a verificação dos motores e estava saindo enquanto ela entrava.
+
+— Estamos bem acomodados para dezoito dias, — disse ele.
+
+O tom era verificação. Não aprovação.
+
+— Dezasseis, — ela disse.
+
+Ele assentiu. Passou.
+
+A conversa havia acontecido inteira. Ela sabia o que havia ficado de fora: que dezoito dias dentro da rede do Inspetor era mais do que o risco calculado que ele havia aceito quando o plano havia sido apresentado. Que o Mercator estava operando como contratante de segundo nível do mesmo sistema que havia embargado o Mercator. Que Doryn havia feito a conta e ela havia feito a conta e os dois haviam chegado ao mesmo número e o número era dezasseis, não dezoito, e que dezasseis em vez de dezoito tornava o risco calculável sem torná-lo confortável.
+
+Ela sabia que ele sabia que ela sabia.
+
+A conversa havia acontecido inteira em duas palavras e um aceno.
+
+---
+
+O sol estava a duas horas do horizonte quando ela terminou a documentação da tarde e subiu ao convés para a verificação de amarra. Trabalho de rotina — o tipo que acontecia independente de qualquer outra coisa, porque o Mercator com amarra mal verificada era problema maior do que qualquer pressão que a rede do Inspetor pudesse criar em dia de porto limpo.
+
+Ela foi de amura em amura, testando cada ponto. As amarras estavam corretas — Torbe havia feito cedo e Torbe fazia amarra certa. Ela verificou de qualquer forma porque verificar era o trabalho.
+
+Estava na quinta amura de estibordo quando ouviu os passos no passadiço.
+
+Não era correto dizer que havia ouvido antes de ouvi-los — mas era o que havia acontecido. Um segundo antes dos passos chegarem como som, havia algo diferente no silêncio do passadiço. O slipsand abaixo, o ruído baixo e constante de Ferris ao entardecer, o metal aquecido do cais esfriando com a mudança de temperatura — e depois, um segundo antes, uma qualidade diferente na distância certa para ser ele voltando do posto de carga.
+
+Ela estava na quinta amura. Ela estava esperando os passos um segundo antes de eles chegarem.
+
+Raban passou sem parar. Ela não virou. Ele não disse nada. A escotilha de proa abriu e fechou.
+
+Ela testou o ponto da quinta amura. Correto. Foi para a sexta.
+
+---
+
+Foram os passos de Halve que a fizeram olhar para o cais norte — Halve indo verificar algo no posto de descarga, pediu licença, ela acenou. E quando olhou para o cais norte para confirmar que a passagem estava livre, viu o navio.
+
+Estava no berço mais externo da linha norte, dois berços além do posto três onde Raban havia trabalhado durante o dia. Navio de médio porte, casco cinza sem marcação comercial visível, sem bandeira de porto de registro. Havia uma bandeira no mastro secundário — pequena, posicionada abaixo da linha de visão direta de quem passava pelo cais, legível para quem soubesse onde olhar.
+
+Ela sabia onde olhar.
+
+Havia visto essa bandeira em Cassavar. Oito meses atrás, o navio de monitoramento do cais leste havia chegado com esse padrão no mastro secundário — não o símbolo de Verath, que era diferente e mais visível, mas o símbolo de supervisão de rota da rede interna. Era o identificador que os navios de Crane usavam para comunicação entre postos sem precisar de documento circulante. Você precisava saber o que era para reconhecer. A maior parte dos capitães de rota comercial não sabia porque não tinha motivo para saber.
+
+Ela havia aprendido em Cassavar, antes de ter motivo para saber.
+
+O navio no berço norte não era navio de carga. Era navio de supervisão de rota.
+
+Ela terminou a sexta amura. Testou os pontos das três linhas de boreste — a primeira, a segunda, a terceira, cada ponto com o mesmo tempo que havia dado a cada ponto anterior. As amarras estavam corretas.
+
+O navio ainda estava no berço quando ela terminou. Nenhum sinal de desembarque. Nenhuma atividade de cais. A bandeira no mastro secundário, pequena, estável no ar parado de Ferris ao entardecer.
+
+Ela foi embaixo.
+
+Amanhã seria diferente de hoje.
+
