@@ -2993,5 +2993,192 @@ Isso era dado.
 
 Ele não pensou mais nisso.
 
+---
+
+## Capítulo 19 — A Décima Noite
+
+Décima manhã.
+
+Raban subiu ao convés antes do sol e ficou na amura de bombordo como havia ficado nas nove manhãs anteriores. O porto tinha o mesmo ruído baixo. O slipsand tinha o mesmo movimento de antes do sol, o roxo mais visível no escuro antes de clarear. O vento de nordeste que havia previsto no primeiro dia havia dado lugar a vento de leste moderado na quarta manhã — havia ajustado a leitura e estado certo sobre o ajuste, que era o tipo de confirmação que não surpreendia.
+
+O que havia mudado não estava no porto. Estava em como ele lia o porto.
+
+Nas primeiras manhãs, a leitura era coleta — ele estava aprendendo a textura do slipsand daqui, o ângulo do vento, como a arriba norte afetava a pressão antes do meio-dia. Na décima manhã não havia coleta. Havia reconhecimento. O slipsand tinha esta textura. O vento chegava deste ângulo. O armador do berço quatro aparecia antes do sol porque tinha carga de gelo que precisava de partida antes do calor do dia.
+
+Ele sabia isso porque havia observado por dez dias. Dez dias de observação de qualquer coisa produzia conhecimento sem deliberação.
+
+Ficou parado por mais tempo do que a leitura de condições exigia. O céu clareava — o leste tinha aurora mais quente que o norte, mais cor antes do sol. A arriba norte ficava alaranjada antes de ficar branca. Havia notado isso na primeira manhã sem registrar como dado relevante. Na décima, era o tipo de detalhe que ele notava sem precisar decidir notar.
+
+---
+
+Às nove, ele e Sael estavam no armazém central.
+
+A operação de Sael tinha ciclos — coleta de documento, análise, confirmação de cadeia de prova, próxima coleta. Cada ciclo demorava entre dois e quatro dias. Estavam no terceiro. Ela precisava de acesso à logística de entrada do setor sul: manifesto de carga dos últimos noventa dias que documentariam a origem real dos ciclocanes artificiais. Era a segunda rodada de documentação desse setor. A primeira havia produzido a base. Esta produzia a evidência de padrão.
+
+Lucasia estava no Mercator com Tavessa, gerenciando a cobertura — documentação de entrada do navio, manifesto de carga, a presença no porto que precisava parecer exatamente o que não era. Era divisão operacional: Raban no campo com Sael, Lucasia no navio garantindo que o campo tivesse onde voltar.
+
+A cadência do trabalho de campo com Sael era diferente da cadência do trabalho de campo com Lucasia. Havia notado isso no terceiro dia. Sael era precisa — ela sabia o que precisava e sabia como obtê-lo, e em campo operava com a eficiência de quem havia feito isso por mais de um ano dentro da rede do Inspetor. Mas a antecipação não estava lá. Quando trabalhava com Lucasia, havia um ponto em que os dois estavam calculando o mesmo problema simultaneamente e a solução chegava sem que nenhum dos dois precisasse articulá-la. Com Sael, havia instrução verbal onde o silêncio teria sido suficiente.
+
+Não era julgamento. Era dado.
+
+No armazém central, Sael passou pelo setor de recebimento enquanto ele cobria o corredor de acesso. O relógio de parede marcava dez e quarenta e dois. Ela tinha oito minutos de janela para verificar o arquivo do setor sul.
+
+Saiu em seis.
+
+---
+
+No corredor de saída havia um lote de carga acumulado contra a parede norte — caixas lacradas com fita vermelha, marcação padrão de quarentena. Sael passou sem reduzir a velocidade.
+
+"Carga de Neven," ela disse, sem olhar para ele. "Moonsburn — quarentenário cheio."
+
+Havia um segundo antes de ele dizer: "Qual é o volume aqui?"
+
+"Dezasseis caixas. Estão com vinte e três," Sael respondeu sem pausar.
+
+Ele não respondeu. Ela não esperava resposta.
+
+Saíram pelo acesso leste sem mais nenhum problema.
+
+---
+
+O briefing de retorno durou dezassete minutos.
+
+Tavessa trouxe o dado novo antes que qualquer outro assunto fosse levantado: Crane havia feito inspeção no armazém central onze horas antes da passagem de Sael. Não quarenta e oito horas como o relatório anterior havia indicado. Onze. O cronograma de Crane tinha ciclos de onze a treze horas entre visitas consecutivas àquele ponto específico.
+
+"Isso muda a janela de saída," Lucasia disse.
+
+Não era pergunta. Era o primeiro passo da análise — declarar o que havia mudado para poder começar a trabalhar a partir do que havia mudado.
+
+Sael tinha o caderno aberto na planta do armazém norte. Se Crane circulava a cada onze a treze horas, a janela que haviam calculado de quatro horas reduzia para dois e meio, dependendo de qual ponto do ciclo ele havia completado a última inspeção.
+
+"Rota alternativa pelo cais de pescadores," Raban disse. "Acesso sul em vez de acesso norte. Adiciona catorze minutos ao trajeto, mas a patrulha de Crane não cobre o cais sul."
+
+Lucasia estava olhando a planta. "O cais de pescadores fecha às dezasseis."
+
+"A operação de Sael termina às catorze." Ele apontou para o ponto de encontro no mapa. "Com catorze minutos de trajeto, dá para sair antes do fechamento."
+
+Ela ficou olhando a planta por um momento. Depois pegou a caneta e traçou a rota alternativa — rápida, sem hesitação, a linha de alguém que havia visto o problema e a solução ao mesmo tempo.
+
+"Catorze e quinze," ela disse. "Margem de quinze minutos antes do fechamento do cais. Se a documentação não estiver completa às catorze, abortamos o dia e tentamos amanhã."
+
+Sael concordou. Tavessa anotou. Raban não disse mais nada. O problema havia sido resolvido por quem precisava resolvê-lo, da forma que precisava ser resolvido.
+
+---
+
+O reconhecimento ao armazém norte era trabalho das onze da noite.
+
+Era o segundo reconhecimento desse ponto. O primeiro havia sido três dias atrás, quando ainda calculavam com o cronograma errado de Crane. Este era verificação com o dado corrigido: confirmar que o corredor de acesso sul estava limpo, que a saída pelo cais correspondia ao que a planta indicava, que o trajeto de catorze minutos era factível no ritmo que precisariam manter com documentação em mãos.
+
+Sael estava no Mercator com Tavessa — a última noite de preparação antes da operação final.
+
+O porto tinha o ruído noturno que ele já conhecia: trabalhadores de turno, carga movida para posição de manhã, o slipsand mais baixo sem o vento do dia. Ela verificava pontos no caderno. Ele confirmava o tempo entre cada segmento. A operação corria como havia corrido nos dias anteriores — sem atrito, sem necessidade de ajuste em campo.
+
+No corredor leste do armazém norte, antes de chegarem ao acesso sul, ouviram as botas.
+
+A cadência era inconfundível: patrulha, dois homens, passo regular. Ainda no corredor norte, antes de virar para o leste. Vinte e cinco segundos, talvez menos.
+
+Lucasia foi para a porta da sala de armazenagem antes de ele apontar. Ele entrou. Ela fechou — sem travar, travar deixaria marca de uso. O corredor ficou do lado de fora.
+
+A sala tinha caixas até a altura do ombro. Especiaria seca — o cheiro imediato, algo entre pimenta velha e madeira. Sem janela. A única fonte de luz era a fresta embaixo da porta, fina o suficiente para confirmar que havia iluminação no corredor mas não para ver mais que isso.
+
+O espaço disponível entre as caixas e a parede era suficiente para uma pessoa.
+
+Para dois era suficiente se nenhum dos dois tentasse criar mais espaço do que havia.
+
+---
+
+Raban ficou parado.
+
+O ombro dela estava contra o ombro dele — contato inevitável por necessidade de espaço, a mesma categoria operacional que a temperatura da sala e o cheiro de especiaria. Havia catalogado isso nos primeiros segundos como proximidade inevitável por cobertura.
+
+A patrulha entrou no corredor leste.
+
+Ele ouvia a respiração dela. A sala tinha silêncio total exceto pelo som de fora, e a respiração dela era próxima o suficiente para ser audível mesmo baixa — controlada, ritmo constante, a respiração de alguém que havia ficado seis horas no leme sem ser substituída. Catalogou isso: respiração controlada, sem alteração de ritmo indicando estresse.
+
+Os passos se aproximavam. Dois homens, cadência regular. A fresta embaixo da porta escureceu quando os pés passaram.
+
+Ele contou: trinta e oito segundos do primeiro som de bota ao silêncio do corredor.
+
+Os passos foram embora.
+
+---
+
+A patrulha havia passado.
+
+Raban não se moveu.
+
+O dado operacional para ficar na sala havia cessado de existir. Ele sabia isso com a mesma precisão com que havia contado os trinta e oito segundos. O corredor estava limpo. Podiam sair.
+
+O ombro dela ainda estava contra o ombro dele.
+
+Trinta segundos. Talvez mais — ele não estava consultando o relógio. O relógio existia no bolso e não havia sido necessário consultá-lo para saber que a patrulha havia passado, e não era necessário agora para saber que continuava parado mais tempo do que a situação exigia.
+
+Havia uma qualidade no silêncio da sala depois da patrulha que era diferente do silêncio durante. Mais espesso, sem a tensão do aguardo. O cheiro de especiaria seca. A fresta, constante. O ombro dela — a pressão específica que havia catalogado como proximidade inevitável, que continuava existindo com a mesma especificidade que havia catalogado, que ele continuava a catalogar como tal porque era o que era.
+
+O que não catalogou: por que ficou parado.
+
+Havia dados suficientes para sair. Ele os tinha. Ela estava pronta — sabia isso da forma que sabia a maioria das coisas sobre como ela operava em campo, sem precisar que ela dissesse, sem sinal direto. O corredor estava limpo. Os motivos para ficar na sala não existiam mais.
+
+Ficou.
+
+---
+
+Ela foi quando foi.
+
+Abriu a porta com a mão que não segurava o caderno, olhou o corredor na extensão necessária para confirmar o que os dois já sabiam, saiu. O passo dela no corredor era regular — o mesmo ritmo de antes de entrar na sala.
+
+Ele ficou no limiar.
+
+Ela estava seguindo para o acesso sul. Não havia olhado para trás. Ele ficou olhando enquanto ela ia — a postura de operativa que havia visto nesses dez dias, precisa, econômica no movimento, a que sabia onde estava o próximo passo antes de precisar olhar para o chão.
+
+Ela não virou.
+
+Havia uma certeza, sem base observacional direta, de que ela sabia que ele estava olhando. Era o tipo de certeza que vinha de dez dias de leitura de como ela processava informação em campo — ela registrava o que estava ao redor mesmo quando não olhava diretamente. Ele estava ao redor. O dado existia.
+
+Ela seguiu pelo corredor.
+
+Ele foi.
+
+---
+
+O trajeto de retorno durou vinte e dois minutos.
+
+Andaram na distância de dois operativos retornando de missão que correu dentro do planejado — sem a separação calculada de dois metros do cais, sem o que quer que fosse o oposto de separação calculada. A distância que havia quando não havia razão para nenhuma outra. Ela verificava o caderno nos pontos de confirmação. Ele mantinha a leitura do perímetro.
+
+No cais principal, antes da prancha de bombordo:
+
+"A rota alternativa funciona," ela disse.
+
+Era o dado da verificação — o que haviam ido confirmar.
+
+"Funciona," ele disse.
+
+Ela subiu a prancha. Ele subiu depois.
+
+---
+
+Às onze estava na amura.
+
+O relatório começou — o mesmo inventário operacional de todas as noites. Havia percebido mais cedo desta vez: não às onze e meia, no meio do cálculo, mas perto dos cinco minutos, quando havia começado a distribuir margem de erro nas variáveis de Sael para o dia seguinte.
+
+Não havia parado.
+
+O dado novo de Crane mudava a estrutura de contingência da operação final. Três pontos simultâneos com janelas específicas — Sael no armazém, ele no acesso sul, Lucasia no Mercator com Tavessa. Se qualquer um dos três atrasa, os outros dois ficam com janela menor. Havia contingência para dois. O terceiro — o tempo de Sael dentro do armazém — dependia de volume de documentação que ela só saberia quando estivesse dentro.
+
+Havia calculado a margem de erro usando os dois ciclos anteriores como base. Dez por cento de variação para mais ou para menos, distribuição conservadora.
+
+O relógio de bolso marcava meia-noite e vinte quando terminou.
+
+O vento havia caído depois das dez, como havia previsto na leitura matinal. O porto estava mais quieto que Ferris à mesma hora. Havia passado por muitos portos nos dezoito meses entre o Isolde e o Mercator — havia aprendido o ruído de cada um e seguido em frente antes que o ruído se tornasse familiaridade.
+
+O Mercator tinha o ruído desta noite específica.
+
+Ficou no convés por mais tempo do que precisava.
+
+A décima noite tinha qualidade diferente da primeira. Não estava em nenhum dado isolado — o porto era o mesmo, o slipsand era o mesmo, o trabalho do dia seguinte estava calculado. A diferença estava em que havia nove noites antes desta, e cada uma havia adicionado algo ao que ele sabia sobre este navio, este porto, as pessoas que acordavam antes do sol neste convés.
+
+Havia percebido o relatório mais cedo esta noite.
+
+Não havia parado.
 
 
