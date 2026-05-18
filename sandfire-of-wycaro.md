@@ -1773,3 +1773,227 @@ Três horas e meia.
 
 ---
 
+## Capítulo 12 — Saída de Neven
+
+*Lucasia*
+
+---
+
+Das treze e trinta às dezassete ela tinha quatro tarefas: verificar o protocolo de partida, confirmar os timestamps de manifesto com Maret, identificar o canal de saída mais limpo pelo cais norte, e não pensar em mais nada.
+
+Completou as três primeiras até às catorze e vinte.
+
+Os timestamps de manifesto eram o que havia esperado — Maret havia preparado a documentação de cobertura com a precisão que havia se tornado marca dela nos meses desde Arvene, desde a coisa que havia acontecido com Maret no último ano e que Lucasia havia observado de longe e chamado de crescimento sem examinar o que havia custado. O canal de saída pelo cais norte tinha duas variáveis que ela não controlava: o padrão de maré do slipsand no canal, variância aceitável de quatro minutos em qualquer direção, gerenciável; e se o posto de supervisão leste teria a mesma rotação de dois que havia tido de manhã. Havia pedido a Torbe que verificasse às quinze. Tinha.
+
+Às dezasseis a verificação estava completa três vezes.
+
+Ela estava olhando para o mesmo timestamp de manifesto pela terceira vez.
+
+Pousou-o.
+
+---
+
+A câmara do capitão do Mercator havia mudado nos onze dias de Neven — ou ela havia mudado e estava notando a câmara como extensão. Os mapas das rotas do leste cobriam as porções que haviam estado em branco quando havia saído de Cassavar: os seis meses de rota de Raban, o mapeamento próprio desde Arvene, o arranjo triangular que havia se tornado o arranjo de trabalho e que a câmara havia absorvido com a naturalidade com que câmaras absorvem hábitos.
+
+Havia algo no que a câmara havia se tornado que não era só os mapas — era a qualidade do espaço que os mapas criavam, a forma como o leste havia ficado completo em formas que o norte nunca havia sido, e que a completude havia chegado em parceria. Havia notado isso na segunda semana em Arvene sem examinar o que significava, porque a segunda semana em Arvene havia requerido que ela não examinasse.
+
+Às dezasseis e quarenta e cinco foi para o convés.
+
+---
+
+O convés estava com a tripulação em posição de pré-partida — não movimentação visível, apenas a qualidade de cada pessoa estar no lugar que precisava estar para partir em quinze minutos quando o momento chegasse. Torbe na proa, verificando amarração. Maret nos instrumentos com o caderno que era o caderno dela e não o de bordo oficial. Halve na plataforma de carga com dois manifestos que precisavam estar em posição antes da saída do canal.
+
+Vinte e cinco pessoas.
+
+O número havia ficado com ela desde a manhã — desde o momento na câmara de planejamento quando Raban havia contado automaticamente e ela havia visto o cálculo no ângulo dos ombros dele. Vinte e cinco tripulantes que estavam em Neven porque o Mercator estava em Neven porque o plano havia chegado a Neven. Havia a responsabilidade específica disso que não resolvia verificando manifesto pela terceira vez mas que requeria que ela verificasse de qualquer forma.
+
+Raban estava na lateral de estibordo.
+
+Havia parado de fingir, em algum ponto que não havia registrado com precisão, que a localização dele no convés era informação que requeria esforço para registrar. O convés do Mercator era de um tamanho específico. Ele estava em estibordo. Ela foi para o leme.
+
+---
+
+Às dezassete horas em ponto o slipsand do canal de Neven tinha a qualidade de tarde que a semana havia ensinado — mais denso que de manhã, a corrente de fundo mais visível na superfície porque a temperatura do dia havia mudado a viscosidade. Havia aprendido esse canal em sete dias. Tinha suficiente para sair por ele de noite se precisasse.
+
+Não ia precisar.
+
+Às dezassete e quatro havia uma figura saindo pelo corredor de fundos do armazém quatro — movendo-se com a velocidade de quem tinha tempo e estava usando o tempo inteiro. Não apressada. Sael não ia se apressar pelo corredor de fundos de um armazém quando apressar-se seria o único gesto que chamaria atenção.
+
+Ela chegou ao cais norte com a prancheta sob o braço e a postura de conferente de logística terminando turno.
+
+Lucasia foi até a escada de acesso.
+
+---
+
+Não houve abraço. Havia calibrado para não esperar abraço — havia observado Raban e Sael no corredor de logística e havia entendido que o tipo de reencontro que eles tinham não era o tipo que produzia abraço imediato. Produzira *vinte meses* e *sabia onde os mapas levavam*. O abraço viria mais tarde ou não viria, e isso era deles.
+
+O que havia: Sael chegando à escada de acesso, avaliando Lucasia em dois segundos com os olhos que eram os de Raban, e dizendo:
+
+— Capitã do Mercator.
+
+— Seja bem-vinda ao Mercator.
+
+Era a frase que dizia a passageiros. Não havia outra preparada. Mas havia algo em dizê-la que era diferente de dizê-la para qualquer passageiro anterior — havia a imagem de Sael no escritório de logística, de costas, verificando documentos com o ritmo de quem havia aprendido o ritmo ao longo de tempo suficiente para que fosse automático. Havia *alguém que sobrevive*. Havia o fato de que Sael havia formado essa imagem de alguma coisa e a imagem havia coincidido.
+
+— A janela, — disse Sael. Não era pergunta.
+
+— Calculamos uma hora a partir de quando o relatório chegou ao escritório central. — Lucasia já estava indo para o leme enquanto falava. — Estimamos que chegou às dezassete e vinte. Temos até às dezoito e vinte.
+
+— Às dezasseis e quarenta, — disse Sael, — o relatório havia chegado.
+
+Lucasia parou.
+
+— Como você sabe.
+
+— Porque eu é que o registrei. — Sael passou por ela com o passo de quem havia avaliado o navio e encontrado o nível de confiança que precisava. — A janela é até às dezassete e quarenta, não às dezoito e vinte. Sugiro que ponha a prancheta em algum lugar e que a senhora ponha o navio em movimento.
+
+---
+
+*Dezassete e quarenta.*
+
+Havia trinta e seis minutos.
+
+Ela subiu para o leme sem parar de calcular. Trinta e seis minutos para limpar o canal norte, passar pelo posto de supervisão leste, cruzar o ponto de saída do porto de Neven. Havia feito esse canal em teste mental três vezes desde a manhã. Vinte e dois minutos em velocidade normal. Onze em velocidade que levantaria questão nos postos de supervisão. Dezasseis em velocidade que pareceria urgência de maré mas que não seria incomum para navio de carga partindo com janela de saída.
+
+Dezasseis minutos.
+
+Margem de vinte.
+
+Era suficiente.
+
+— Torbe. — Não precisou elevar a voz. — Amarra de proa.
+
+— Soltando.
+
+— Maret. Canal norte, velocidade de maré de tarde. Quero a corrente do fundo no ângulo que vimos na terça.
+
+— Tenho. — Dois segundos. — Capitã. Tem alguém no cais.
+
+---
+
+O cais norte de Neven tinha, em qualquer tarde de semana, seis ou sete pessoas que faziam o tipo de trabalho que tornava invisível quem não queria ser visível. O homem que estava perto do ponto de amarração número quatro não era nenhuma dessas pessoas — ou era, mas de uma forma que requeria distinção.
+
+Ela o viu antes de Maret terminar a frase.
+
+— Eu conheço esse homem, — disse Maret, com o tom de quem havia chegado à conclusão independentemente e estava confirmando dado operacional.
+
+Era jovem. Mais jovem do que parecia à distância — a qualidade de rosto que havia aprendido a calibrar cedo para parecer ter menos anos do que tinha. Mapa dobrado na mão. Postura de alguém que estava no cais porque o cais era o lugar onde estaria.
+
+Ele acenou para Maret.
+
+Maret não acenou de volta. Havia algo no ângulo específico em que ficou de pé que era diferente do ângulo em que ficava quando não havia ninguém no cais.
+
+— Idris, — disse Lucasia. Havia cruzado com o nome no relatório de Aldric, havia cruzado com a descrição que Maret havia dado em Arvene com o tom de quem descrevia operativo de porto relevante e não alguém específico.
+
+— Opera rotas de informação em Neven. — Maret. Com eficiência de dado.
+
+— Você sabia que ele estava aqui.
+
+— Sabia que ele trabalhava este porto. — Uma pausa. — Não sabia que ia estar no cais quatro às dezassete e quatro.
+
+Havia algo na distinção — *trabalhava este porto* versus *estar no cais quatro* — que tinha qualidade de fronteira entre informação operacional e informação de outra categoria. Lucasia havia aprendido a reconhecer essa fronteira em Maret e havia aprendido a não comentar, porque comentar alteraria a forma como Maret a mantinha.
+
+— Trinta e quatro minutos, — disse Lucasia. — Pode falar com ele quando estivermos no canal.
+
+---
+
+Idris estava no cais quando o Mercator começou a soltar amarra — no ponto exato onde o passo do cais desacelerava naturalmente, no tipo de posição que não era obstáculo mas que requeria ser notado para não ser obstáculo. Era a posição que pessoas que sabiam usar posição usavam.
+
+Maret havia descido para a plataforma de saída. Ele a viu. Ela o viu.
+
+— Mercator. — A voz calibrada para o volume que chegava e não mais. — Longa semana.
+
+— Semana normal. — Maret. — Você está no caminho errado.
+
+— Estou no cais quatro. — Ele verificou algo no mapa com o gesto que Lucasia havia visto descrito em Arvene — o gesto de quem lia mapa que não precisava ler. — Ouvi que há rota de saída pelo leste passando pela Ilha de Sanantes.
+
+— Folclore de porto. — Maret não desviou os olhos dos instrumentos. — Sanantes não tem rota cartografada porque não tem rota verificada. Qualquer mapa que diga o contrário foi feito por alguém que não fez o trecho.
+
+— Razoável. — Ele dobrou o mapa. — Vocês vão bem.
+
+— Vamos bem.
+
+O Mercator estava passando pelo ponto de amarração quatro. Vinte e oito minutos.
+
+— Maret. — Ele não elevou a voz. — Neven de novo em três semanas. Se o Mercator passar.
+
+Maret não respondeu. Havia algo no ângulo em que ficou de pé na plataforma — a qualidade específica de não responder que era diferente de não ouvir.
+
+Lucasia olhou para o canal à frente.
+
+Vinte e sete minutos. A corrente do fundo que Maret havia calculado. A rotação de dois no posto de supervisão. O Mercator em movimento.
+
+Era o que havia.
+
+---
+
+O posto de supervisão leste passou sem incidente — o fiscal era o mesmo da terça, que havia inspecionado o manifesto de entrada e encontrado exatamente o que os manifestos de entrada continham. O manifesto de saída era equivalente. Ela o cumprimentou com a brevidade de capitã de rota leste que havia terminado o que havia vindo fazer, e ele a deixou ir.
+
+Às dezassete e trinta e dois o Mercator saiu do canal de Neven para o slipsand aberto.
+
+---
+
+O slipsand do leste à tarde era diferente do slipsand de Arvene ou do slipsand de Sanvel ou do norte que havia pilotado por sete anos. Mais escuro, mais denso, a luminescência mais baixa porque a areia do leste tinha menos luz interior — tinha a qualidade de fundo que nunca havia sido superfície. O *Isolde* havia afundado em slipsand assim. O *Mercator* navegava nele há onze dias e havia aprendido a pressão diferente nos painéis de casco, o ajuste de vela que a densidade requeria.
+
+Ela ajustou a vela de proa.
+
+Neven ficou para trás com a velocidade que o slipsand aberto permitia. Os postos de supervisão elevados. O armazém de madeira no cais sul. O corredor de fundos que Sael havia usado às dezassete e quatro. Neven desapareceu quando o Mercator dobrou o segundo ponto do canal de saída.
+
+---
+
+Ela ficou no leme.
+
+A tripulação havia redistribuído para rota aberta — Torbe na proa, Halve na plataforma de propulsão, Maret de volta aos instrumentos com o caderno que era o caderno dela. A qualidade de navio que havia terminado operação e estava retomando o que era: movimento com propósito, não com protocolo.
+
+Sael estava no convés.
+
+Não era surpreendente. Havia algo em Sael que parecia incapaz de ficar em interior por escolha — a qualidade de pessoa que havia passado vinte meses num espaço fechado e havia saído com a necessidade específica de ar que espaços fechados não tinham. Estava na lateral de boreste, com as mãos na grade, olhando para o slipsand aberto com o olhar de quem havia encerrado uma fase.
+
+Não era o olhar de quem havia sido resgatada.
+
+Havia uma distinção, e a distinção importava, e Lucasia havia entendido isso quando Sael havia dito *prefiro que a distinção seja explícita* num corredor de logística de Neven com a voz de quem havia aprendido a ser precisa porque imprecisão custava mais do que precisava custar. Havia algo na clareza de Sael que era familiar de uma forma que ela havia colocado em gaveta assim que havia reconhecido, porque gavetas serviam a propósito.
+
+Raban estava em estibordo.
+
+Sabia disso da mesma forma que sabia a profundidade do canal de saída — não porque havia verificado, mas porque havia aprendido a localizar a pressão específica do convés antes de precisar verificar. Ele não estava olhando para ela. Estava olhando para o slipsand com o olhar de quem tinha algo a processar — o olhar para o horizonte que havia notado em Arvene, no deck de observação, no corredor do cais quando havia voltado de encontrar Sael.
+
+O olhar de quem havia terminado uma coisa e ainda não começado outra.
+
+Havia algo no slipsand aberto — na forma como o leste se abria depois do estreitamento do canal de Neven, a amplitude que o slipsand produzia quando não havia estrutura de porto delimitando-o — que tornava o convés diferente do que havia sido nos onze dias anteriores. O porto havia comprimido o espaço, e o espaço comprimido havia tornado cada pessoa no convés mais visível para cada outra. Ela havia gerenciado isso com o protocolo de operação ativa.
+
+A operação havia encerrado.
+
+Havia slipsand aberto e Sael na grade de boreste e Raban em estibordo e vinte e cinco pessoas que haviam saído de Neven dentro da janela.
+
+Ela ajustou a bússola de proa.
+
+A agulha apontava norte-noroeste — a rota traçada para a saída de Neven, o ponto de passagem que os levaria fora da área de supervisão estendida de Verath antes do anoitecer. Havia dois dias e meio de rota até o ponto de passagem. Havia o que vinha depois do ponto de passagem, que era a questão que a operação havia estado postergando e que o slipsand aberto havia removido a justificativa de postergar.
+
+O que vinha depois.
+
+Sael tinha os documentos. Os documentos precisavam chegar a Tavessa. Tavessa estava a quatro dias de Neven na rota de Halcyon. Havia uma rota que cruzava a rota de Tavessa em dois dias e meio. Ela havia traçado essa rota.
+
+Era o que havia.
+
+— Capitã. — A voz de Maret, dos instrumentos, com o tom de dado relevante. — Velocidade de rota estável. Canal de saída limpo atrás.
+
+— Certo.
+
+Do estibordo, sem olhar, ela sabia que ele estava olhando para o mesmo horizonte.
+
+Havia algo no silêncio de dois instrumentos que haviam estado na mesma frequência por tempo suficiente — o silêncio que tinha textura distinta do silêncio de navio em operação, do silêncio de espera, do silêncio de tripulação. Ela havia aprendido esse silêncio nos dias de Neven. Era o silêncio de dois instrumentos que continuavam em frequência depois que o som que havia requerido a frequência havia acabado.
+
+O slipsand aberto.
+
+Ela não olhou para estibordo.
+
+O Mercator em movimento. Neven a trinta minutos de distância, ficando menor. A janela de Verath havia fechado sobre porto vazio.
+
+Era o que havia. Era, ela notou com a clareza de instrumento que registra o que não pode não registrar, o tipo de suficiente que havia aprendido a distinguir dos outros tipos — o suficiente que não era a coisa inteira mas que era a parte que pertencia ao agora. O restante pertencia a dois dias e meio de rota norte-noroeste e ao que havia do outro lado.
+
+Havia, ela soube, muito do restante.
+
+O leme na mão. O slipsand adiante.
+
+Por agora era suficiente.
+
