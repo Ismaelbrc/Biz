@@ -2667,4 +2667,175 @@ Ela fechou os olhos. O slipsand denso fazia seu ruído lá embaixo, e as amarras
 
 Suficiente soava diferente do que havia soado antes.
 
+---
+
+## Capítulo 17 — O Que Crane Sabe
+
+O último dia de ciclo em Ferris tinha o mesmo aspecto de todo último dia de ciclo: a mesa coberta de manifesto processado, o relatório de porto aberto no canto esquerdo esperando a seção de irregularidades, e a janela dando para o cais com o slipsand abaixo — preto-roxo no entardecer, mais denso que o das rotas do norte.
+
+A sala de administração de Ferris era menor do que a de Cassavar e maior do que a de Dassyr. Tinha uma lamparina de teto que funcionava quando o fornecimento de combustível estava regular e uma segunda sobre a mesa para os dias em que não estava. Hoje o fornecimento estava regular. A lamparina de teto criava sombra nos cantos da sala mas iluminava suficientemente a mesa. Era o que precisava.
+
+Crane não tinha opinião sobre beleza de slipsand. Tinha dado de observação: porto de Ferris, slipsand mais denso do que padrão de rota, reduz eficiência de saída em seis por cento comparado com Cassavar. Isso estava no relatório do ciclo anterior. Não precisava estar neste.
+
+Ele abriu o caderno.
+
+O caderno era o terceiro do mesmo tipo — couro cinza, encadernação reforçada no dorso, páginas sem margens impressas porque ele preferia definir as margens ele mesmo. Havia passado para o terceiro sete meses atrás, quando o segundo havia ficado sem páginas no meio de um ciclo de Halcyon e ele havia concluído que o sistema de colunas que usava consumia espaço a uma taxa que precisava de previsão melhor. O terceiro tinha o dobro de páginas do segundo.
+
+Estava na metade.
+
+---
+
+Abriu na seção de nomes.
+
+Três colunas: nome na esquerda, status no meio, observações pendentes na direita. As observações pendentes ficavam a lápis — podiam ser apagadas quando resolvidas. O nome e o status ficavam a tinta.
+
+Raban Serath. Dezoito meses. Status: ativo.
+
+Aldric Bren. Adicionado vinte e dois dias atrás. Status: em aberto.
+
+Sael Serath. Status: aguardando confirmação.
+
+Ele parou na linha de Sael por mais tempo do que o necessário para confirmar o que já sabia. Era hábito profissional — verificar que o que se sabe ainda é o que é, e não o que foi. Sael Serath: funcionária de logística, sub-setor três-B, porto de Neven. Havia permanecido no setor por onze meses. O relatório de movimentação da semana anterior indicava atividade no armazém quatro, que não era o armazém do seu setor regular. Ele havia marcado isso a lápis: *movimentação fora de setor — verificar próximo ciclo.*
+
+O próximo ciclo era em três semanas.
+
+O problema com Sael Serath era que ele não sabia, com certeza suficiente para registrar a tinta, se ela estava dentro ou contra. Infiltrar a rede do Inspetor era possível para os dois lados: funcionária de logística leal tentando avançar posição, ou operativo de resistência coletando informação de dentro. Onze meses era tempo suficiente para qualquer das duas hipóteses. Era também tempo demais para qualquer das duas ser confortável.
+
+Ele deixou a linha de Sael Serath em aguardando confirmação e virou a página.
+
+---
+
+A seção de casos auxiliares tinha formato diferente — sem colunas, sem status. Era onde ele colocava nomes que ainda não eram nomes: observações que podiam se tornar entradas ou podiam ser dispensadas, dependendo do que conseguisse verificar antes do próximo relatório.
+
+Havia três nomes na seção auxiliar.
+
+Dois eram mercadores de rota — inconsistências menores de manifesto que podiam ser descuido ou padrão. Ele tinha nota de acompanhamento para cada um.
+
+O terceiro nome havia sido adicionado hoje.
+
+*Vael, Lucasia. Capitã — Mercator. Primeiro contrato na rede (número sete-Leste, verificado limpo).*
+
+Abaixo, em letra menor: *Número limpo. Resposta correta. Velocidade incorreta.*
+
+Ele olhou para isso por um momento.
+
+"Velocidade incorreta" era imprecisão técnica e ele não gostava de imprecisão técnica nos próprios registros. O que havia estado errado não era a velocidade da resposta — era a qualidade. Havia diferença entre capitã nervosa respondendo rápido porque havia memorizado resposta e capitã competente respondendo no tempo certo porque sabia de fato. A segunda era mais perigosa porque era exatamente o que passava pela inspeção.
+
+A resposta de Lucasia Vael havia estado no segundo registro.
+
+Isso não era, em si, problema. Capitãs experientes na rede respondiam assim — sem hesitação, sem velocidade excessiva, com o peso de quem teve tempo suficiente para aprender o protocolo. O que não encaixava era o contexto: primeiro contrato na rede, número atribuído havia seis semanas. Capitãs de primeiro contrato tinham um dos dois tipos de resposta: muito rápidas, porque haviam decorado, ou muito lentas, porque estavam calculando.
+
+A terceira possibilidade era que não fosse primeiro contrato.
+
+Havia também a questão do sobrenome.
+
+Crane Aldaveth. Supervisor de segundo nível, região leste-norte. Não era nome público — estava disponível nos registros de inspeção de qualquer porto onde havia feito ciclo, mas exigia acesso aos registros, não apenas ao manifesto de cais. Capitã de primeiro contrato chegando a Ferris sem histórico na região não deveria tê-lo. Ela havia usado o sobrenome antes de ele se apresentar.
+
+Havia explicação inocente: alguém no cais havia dito o nome. Trabalhador de porto que o conhecia, outro capitão de rota anterior com quem ela havia conversado no dia de chegada. Isso acontecia. Não era raro.
+
+O que era raro: ela havia dito o sobrenome com o mesmo tom com que havia citado o número de série. Capitãs que ouvem um nome no cais fazem uma pausa antes de usá-lo.
+
+Lucasia Vael não havia feito essa pausa.
+
+Havia também explicação para isso: ela podia simplesmente ter boa memória e bom controle de voz. Algumas pessoas tinham as duas coisas sem que implicasse nada operacional.
+
+Sem poder verificar qual interpretação era correta, não tinha como passar o nome da seção auxiliar para a seção principal. Passar um nome para a seção principal sem certeza suficiente criava ruído. Ruído tornava o trabalho seguinte menos preciso.
+
+O Mercator, porém, tinha histórico.
+
+---
+
+Crane puxou o arquivo de rota — seção separada, com abas por porto. Arvene. O Mercator havia estado em Arvene dois meses atrás. Registro de manifesto: limpo. Tripulação: sem irregularidade. Mas nos três dias em que o Mercator estivera em Arvene, um homem usando o nome comercial "Raban" havia registrado passagem de trabalhador de cais no porto velho. Sem sobrenome no registro — o porto velho de Arvene não exigia sobrenome por negligência administrativa documentada há anos e nunca corrigida. O informante de cais havia incluído descrição: homem de trinta e poucos, casaco de borgonha desbotado, cicatrizes visíveis nas mãos.
+
+Raban Serath tinha trinta e três anos. Havia trabalhado como capitão do Isolde antes de o Isolde afundar dezoito meses atrás. Tinha cicatrizes nas mãos — registradas no arquivo físico de porto de Cassavar. Capitães de rota regular passavam por verificação de identificação física na primeira renovação de licença, e Cassavar mantinha o arquivo mais completo da região.
+
+Casaco de borgonha não era dado de identificação. Era coincidência de guarda-roupa.
+
+Crane não dispensava coincidências até ter razão para dispensá-las.
+
+Havia também Dassyr.
+
+---
+
+O arquivo de Dassyr estava na aba de relatos de campo, não de manifesto. Cinco meses atrás, o informante de porto havia enviado nota sobre um nó em amarra de berço. O nó em si era padrão de cais — ninguém notaria, a não ser que soubesse o que procurar. O que tornava esse nó específico eram dois detalhes: a posição no terço esquerdo da amarra, onde nós de segurança não eram feitos, e um terceiro giro no sentido inverso ao padrão de cais.
+
+Crane havia visto esse padrão de nó uma vez antes, em relatório de campo de dois anos atrás: amarra em porto de Halcyon, terceiro giro invertido, posição no terço esquerdo. Aquele relatório havia sido marcado como *padrão de comunicação — assinatura de operativo.* O operativo não havia sido identificado à época.
+
+Ele havia mantido a descrição do padrão no arquivo pessoal, não no sistema central. Hábito de trabalho: o sistema central tinha múltiplos acessos, e informação em múltiplos acessos era informação que vazava com mais frequência do que os administradores reconheciam. O arquivo pessoal era mais lento. Era mais seguro. A lentidão era o custo aceitável da segurança.
+
+Quando o informante de Dassyr havia enviado a nota, ele havia verificado contra o arquivo pessoal. O padrão batia em todos os detalhes relevantes: posição, terceiro giro, amarra de berço e não de casco.
+
+O Mercator havia estado em Dassyr na mesma semana. Berço adjacente ao da amarra com o nó.
+
+Sael Serath havia sido documentada em Dassyr dezesseis meses atrás, antes de entrar na rede de logística de Neven. A janela entre o relato de Dassyr e o documento de entrada de Sael em Neven era de três semanas — tempo suficiente para deslocamento entre os dois portos.
+
+A cadeia era: Mercator em Dassyr, nó de amarra com assinatura de Sael Serath, Sael Serath entra em Neven três semanas depois. Nenhum elo era prova. Cada elo por si só era coincidência dispensável. Juntos tinham estrutura suficiente para que ele não os dispensasse.
+
+Agora o Mercator estava em Ferris. Raban Serath, irmão de Sael Serath, havia estado em Arvene ao mesmo tempo que o Mercator dois meses atrás. A capitã do Mercator sabia o sobrenome de supervisor de segundo nível sem pausa de informação de segunda mão.
+
+Isso não era certeza. Era suficiente para manter o arquivo auxiliar aberto.
+
+---
+
+O que não ia para nenhuma coluna — porque não era dado verificável, era observação sem utilidade operacional direta — era a questão de preferência.
+
+Quando Lucasia Vael havia respondido à pergunta adicional, havia respondido com o tipo de precisão que indicava conhecimento, não memorização. Oito meses atrás. Carga de especiaria seca norte-leste, três dias de porto, saída com licença limpa. Quarto trimestre do ciclo comercial passado.
+
+Parte do procedimento era identificar se o interlocutor hesitava. Hesitação indicava incerteza. Incerteza indicava risco.
+
+Mas havia resultado que o procedimento não documentava: o interlocutor não hesitar porque era competente. Não porque havia memorizado. Porque havia trabalhado dentro de estruturas como essa o suficiente para conhecer o ritmo correto.
+
+Se Lucasia Vael era esse tipo, então o número limpo não era o dado relevante. O número limpo era o que alguém competente o suficiente usaria para cobrir operação que não era primeiro contrato.
+
+Ele havia dado a ela a abertura de que precisava. *Não vai ser necessário verificar.* Havia dito isso antes de fechar o caderno e ir embora.
+
+Se ela estava onde ele suspeitava, essa abertura havia sido presente.
+
+Não havia sentido satisfação nisso na hora. Não havia sentido culpa. Havia sentido o que sentia quando identificava que havia cometido erro técnico antes de o erro produzir consequência: o registro frio do que havia feito diferente para que não se repetisse.
+
+Preferia que ela tivesse vacilado.
+
+Com vacilação, teria prova. Com prova, teria entrada na seção principal a tinta, e status, e o trabalho seguinte seria definido. Sem prova, tinha a seção auxiliar e suspeita que não ia a lado nenhum antes do próximo ciclo.
+
+Não era a primeira vez que ele preferira que alguém tivesse vacilado. Capitãs de manifesto não costumavam ter esse peso. Eram entradas e saídas, números de série e cargas declaradas. O peso aparecia quando havia contexto suficiente para construir imagem de quem a entrada representava — e o contexto aqui era suficiente para isso.
+
+Capitã experiente disfarçada de primeiro contrato. Resposta de primeira mão quando deveria ser de segunda. Um navio com histórico em dois portos relevantes.
+
+Não era simplesmente arquivo auxiliar. Era arquivo auxiliar que ia virar seção principal se o próximo ciclo confirmasse o que este ciclo havia sugerido.
+
+Deixou assim por enquanto.
+
+---
+
+O relatório de ciclo ficou terminado às seis e vinte e dois da tarde, dezesseis minutos antes do prazo de correio de saída.
+
+Ferris: sem irregularidades registradas. Rota leste-norte: dois navios de monitoramento com necessidade de reabastecimento em Halcyon antes do ciclo de inverno. Taverna do porto velho: fechada para reforma — nota administrativa, sem relevância operacional.
+
+A última seção não era parte do formulário padrão. Era seção que ele acrescentava ao final de cada ciclo, em cifra diferente da cifra padrão, sem cabeçalho identificável no envelope.
+
+Escreveu:
+
+*Raban Serath: presença em Arvene confirmada via registro de porto, dois meses atrás. Aldric Bren: presença provável nas rotas leste, atividade documentada em Neven via informante, período recente. Mercator: ativo na rota leste-norte, dois ciclos consecutivos de presença verificada. Capitã Vael: arquivo auxiliar aberto — certeza insuficiente para lista principal. Avaliação pendente próximo ciclo.*
+
+Fechou o relatório. Selou o envelope da seção cifrada separado do envelope principal.
+
+O envelope principal ia para o arquivo de rota regular. O envelope cifrado ia para Verath diretamente — não via correio de porto, via courier privado que passava por Ferris no segundo e quarto dia de cada semana. Amanhã era quarto dia.
+
+---
+
+A janela da sala de administração dava para o cais principal. O entardecer de Ferris: slipsand mais denso do que rota norte, liberação de calor mais lenta. Já estava no relatório do ciclo anterior.
+
+Havia um navio no berço seis. O Mercator.
+
+No berço do Mercator, nessa hora, uma capitã estava provavelmente terminando o relatório de manifesto do dia. Era o que capitãs de rota faziam ao fim do segundo dia operacional — os documentos acumulavam e o fechamento precisava de verificação antes do turno da noite. Estava fazendo o trabalho certo. Usando o número certo. Respondendo no ritmo certo.
+
+Tinha um arquivo com o nome dela agora.
+
+Era o trabalho. Arquivos que existiam ou não existiam. Entradas a tinta que não podiam ser apagadas. Statuses que eram o que eram porque alguém havia determinado que fossem assim e ele executava o que havia sido determinado porque era o que havia acordado fazer, num momento específico de anos atrás, quando as opções disponíveis tinham o número que tinham e ele havia escolhido esta. Havia deixado de questionar há tempo suficiente para não saber mais quando havia parado.
+
+O slipsand abaixo do cais ficava mais escuro com a queda do sol. Preto-roxo virando quase preto. A transição era gradual — não havia um momento específico em que o roxo desaparecia. Acontecia sem que ninguém marcasse quando.
+
+Era o que era.
+
+Ele fechou o caderno.
 
