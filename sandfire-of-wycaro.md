@@ -1827,7 +1827,7 @@ Lucasia foi até a escada de acesso.
 
 Não houve abraço. Havia calibrado para não esperar abraço — havia observado Raban e Sael no corredor de logística e havia entendido que o tipo de reencontro que eles tinham não era o tipo que produzia abraço imediato. Produzira *vinte meses* e *sabia onde os mapas levavam*. O abraço viria mais tarde ou não viria, e isso era deles.
 
-O que havia: Sael chegando à escada de acesso, avaliando Lucasia em dois segundos com os olhos que eram os de Raban, e dizendo:
+O que havia: Sael chegando à escada de acesso, avaliando Lucasia em dois segundos com os olhos que eram os de Raban — dois segundos completos, não uma passagem de vista. A pausa de quem verificava algo além do que estava visível. E dizendo:
 
 — Capitã do Mercator.
 
@@ -1837,7 +1837,7 @@ Era a frase que dizia a passageiros. Não havia outra preparada. Mas havia algo 
 
 — A janela, — disse Sael. Não era pergunta.
 
-— Calculamos uma hora a partir de quando o relatório chegou ao escritório central. — Lucasia já estava indo para o leme enquanto falava. — Estimamos que chegou às dezassete e vinte. Temos até às dezoito e vinte.
+— Trabalhamos com uma hora a partir de quando o relatório chegou ao escritório central. — Lucasia já estava indo para o leme enquanto falava. — Estimamos que chegou às dezassete e vinte. Temos até às dezoito e vinte.
 
 — Às dezasseis e quarenta, — disse Sael, — o relatório havia chegado.
 
@@ -1881,7 +1881,7 @@ Era jovem. Mais jovem do que parecia à distância — a qualidade de rosto que 
 
 Ele acenou para Maret.
 
-Maret não acenou de volta. Havia algo no ângulo específico em que ficou de pé que era diferente do ângulo em que ficava quando não havia ninguém no cais.
+Maret não acenou de volta.
 
 — Idris, — disse Lucasia. Havia cruzado com o nome no relatório de Aldric, havia cruzado com a descrição que Maret havia dado em Arvene com o tom de quem descrevia operativo de porto relevante e não alguém específico.
 
@@ -1890,8 +1890,6 @@ Maret não acenou de volta. Havia algo no ângulo específico em que ficou de p�
 — Você sabia que ele estava aqui.
 
 — Sabia que ele trabalhava este porto. — Uma pausa. — Não sabia que ia estar no cais quatro às dezassete e quatro.
-
-Havia algo na distinção — *trabalhava este porto* versus *estar no cais quatro* — que tinha qualidade de fronteira entre informação operacional e informação de outra categoria. Lucasia havia aprendido a reconhecer essa fronteira em Maret e havia aprendido a não comentar, porque comentar alteraria a forma como Maret a mantinha.
 
 — Trinta e quatro minutos, — disse Lucasia. — Pode falar com ele quando estivermos no canal.
 
@@ -1943,21 +1941,19 @@ Neven ficou para trás com a velocidade que o slipsand aberto permitia. Os posto
 
 Ela ficou no leme.
 
-A tripulação havia redistribuído para rota aberta — Torbe na proa, Halve na plataforma de propulsão, Maret de volta aos instrumentos com o caderno que era o caderno dela. A qualidade de navio que havia terminado operação e estava retomando o que era: movimento com propósito, não com protocolo.
+A tripulação havia redistribuído para rota aberta — Torbe na proa, Halve na plataforma de propulsão, Maret de volta aos instrumentos com o caderno que era o caderno dela. Raban havia ajustado a tensão da amarra de popa antes que alguém pedisse — o gesto de ex-capitão que o corpo não desaprendia. A qualidade de navio que havia terminado operação e estava retomando o que era: movimento com propósito, não com protocolo.
 
 Sael estava no convés.
 
-Não era surpreendente. Havia algo em Sael que parecia incapaz de ficar em interior por escolha — a qualidade de pessoa que havia passado vinte meses num espaço fechado e havia saído com a necessidade específica de ar que espaços fechados não tinham. Estava na lateral de boreste, com as mãos na grade, olhando para o slipsand aberto com o olhar de quem havia encerrado uma fase.
+Não era surpreendente. Havia algo em Sael que parecia incapaz de ficar no interior por escolha — a qualidade de pessoa que havia passado vinte meses num espaço fechado e havia saído com a necessidade específica de ar que espaços fechados não tinham. Estava na lateral de boreste, com as mãos na grade, olhando para o slipsand aberto com o olhar de quem havia encerrado uma fase.
 
 Não era o olhar de quem havia sido resgatada.
 
-Havia uma distinção, e a distinção importava, e Lucasia havia entendido isso quando Sael havia dito *prefiro que a distinção seja explícita* num corredor de logística de Neven com a voz de quem havia aprendido a ser precisa porque imprecisão custava mais do que precisava custar. Havia algo na clareza de Sael que era familiar de uma forma que ela havia colocado em gaveta assim que havia reconhecido, porque gavetas serviam a propósito.
+Havia uma distinção, e a distinção importava, e Lucasia havia entendido isso quando Sael havia dito *prefiro que a distinção seja explícita* num corredor de logística de Neven com a voz de quem havia aprendido a ser precisa porque imprecisão custava mais do que precisava custar. Havia algo na clareza de Sael que era familiar de uma forma que ela havia colocado em gaveta assim que havia reconhecido.
 
 Raban estava em estibordo.
 
 Sabia disso da mesma forma que sabia a profundidade do canal de saída — não porque havia verificado, mas porque havia aprendido a localizar a pressão específica do convés antes de precisar verificar. Ele não estava olhando para ela. Estava olhando para o slipsand com o olhar de quem tinha algo a processar — o olhar para o horizonte que havia notado em Arvene, no deck de observação, no corredor do cais quando havia voltado de encontrar Sael.
-
-O olhar de quem havia terminado uma coisa e ainda não começado outra.
 
 Havia algo no slipsand aberto — na forma como o leste se abria depois do estreitamento do canal de Neven, a amplitude que o slipsand produzia quando não havia estrutura de porto delimitando-o — que tornava o convés diferente do que havia sido nos onze dias anteriores. O porto havia comprimido o espaço, e o espaço comprimido havia tornado cada pessoa no convés mais visível para cada outra. Ela havia gerenciado isso com o protocolo de operação ativa.
 
@@ -1981,17 +1977,13 @@ Era o que havia.
 
 Do estibordo, sem olhar, ela sabia que ele estava olhando para o mesmo horizonte.
 
-Havia algo no silêncio de dois instrumentos que haviam estado na mesma frequência por tempo suficiente — o silêncio que tinha textura distinta do silêncio de navio em operação, do silêncio de espera, do silêncio de tripulação. Ela havia aprendido esse silêncio nos dias de Neven. Era o silêncio de dois instrumentos que continuavam em frequência depois que o som que havia requerido a frequência havia acabado.
-
-O slipsand aberto.
+Havia algo no silêncio de dois instrumentos que haviam estado na mesma frequência por tempo suficiente — o silêncio que tinha textura distinta do silêncio de navio em operação, do silêncio de espera, do silêncio de tripulação. Ela havia aprendido esse silêncio nos dias de Neven. O slipsand aberto.
 
 Ela não olhou para estibordo.
 
 O Mercator em movimento. Neven a trinta minutos de distância, ficando menor. A janela de Verath havia fechado sobre porto vazio.
 
 Era o que havia. Era, ela notou com a clareza de instrumento que registra o que não pode não registrar, o tipo de suficiente que havia aprendido a distinguir dos outros tipos — o suficiente que não era a coisa inteira mas que era a parte que pertencia ao agora. O restante pertencia a dois dias e meio de rota norte-noroeste e ao que havia do outro lado.
-
-Havia, ela soube, muito do restante.
 
 O leme na mão. O slipsand adiante.
 
