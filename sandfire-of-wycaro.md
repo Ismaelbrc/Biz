@@ -3351,5 +3351,253 @@ O slipsand abaixo do cais tinha o ruído desta última noite neste porto — igu
 
 Ficou no convés.
 
+---
 
+## Capítulo 21 — O Que Sael Vê
+
+O manifesto de saída era diferente do manifesto de chegada em doze pontos técnicos e em um ponto que não era técnico: chegada era abertura, saída era encerramento de conta. Cada item que havia entrado neste porto nos doze dias precisava de justificativa de saída — carga comercial, carga de operação, pessoal temporário. O Mercator saía com mais do que havia entrado, e cada diferença precisava de coluna.
+
+Tavessa estava do lado oposto da mesa, o caderno de registro aberto. Havia desenvolvido o hábito de trabalhar em silêncio que a maioria dos membros de tripulação levava mais tempo para aprender — o silêncio produtivo, o que significa que a pessoa ao lado está pensando e não precisa de confirmação constante de que continua presente. Doze dias antes ela havia chegado a bordo com a urgência de quem carregava informação demais. Agora trabalhava com a precisão de quem havia aprendido ao que dar atenção e quê registrar sem destacar.
+
+Era o tipo de crescimento que se notava como se nota a mudança de temperatura — presente antes de ser nomeado.
+
+"Volume dois do arquivo de Crane," Tavessa disse sem levantar os olhos do caderno. "O que faço com o número de registro?"
+
+"Número fictício. Série Halcyon começa em noventa e dois." Ela deu a sequência sem parar na linha que estava verificando. "Quando a Câmara processar, o original vai validar o fictício retroativamente."
+
+Tavessa anotou. Continuou.
+
+A janela da sala de navegação tinha o ângulo do cais sul — o mesmo ângulo em que ela havia ficado parada ontem quando Raban e Sael subiram a prancha. Não havia olhado por essa janela ainda hoje. Havia motivo técnico para não olhar: a mesa estava do lado esquerdo, a janela do lado direito, e o trabalho estava na mesa.
+
+Não era por isso que não havia olhado.
+
+A porta abriu.
+
+Tavessa levantou os olhos — reflexo de quem havia desenvolvido sensibilidade de acesso em doze dias de operação. Quando viu quem era, o reflexo se resolveu num dado neutro: Sael. Ela recolheu o material com o gesto de quem acabou de lembrar de uma tarefa no porão.
+
+"Vou precisar do caderno de arquivo secundário." Já estava levantando. "Está no porão. Demorarei dez minutos." Um segundo de pausa enquanto empilhava os papéis. "Precisa de algo, Raban —"
+
+A mão parou meio segundo sobre a pilha.
+
+"— de algo que eu possa trazer enquanto estou lá embaixo?"
+
+"Não," Sael disse.
+
+Tavessa saiu. A porta ficou entreaberta antes de Sael ir até ela e fechar.
+
+Lucasia não disse nada ainda. Havia terminado a linha que estava verificando antes de levantar os olhos.
+
+---
+
+"A documentação está segura." Sael puxou a cadeira que Tavessa havia deixado. "Embalagem de preservação de segundo grau — Tavessa tem o material. O volume é menor do que calculei, o que melhora as condições de transporte. Com isso, a Câmara tem o original e a sequência de custódia intacta."
+
+"Qual é o risco residual de Crane até a saída?"
+
+"Baixo. Ele sabe que existe movimentação — não sabe o que foi retirado, não tem como verificar sem acesso ao inventário do setor três, e acesso de inventário requer autoridade de nível dois que Crane não quer usar porque cria registro." Pausa. "Ele vai saber depois que saírmos. Antes não."
+
+"Prazo de reação?"
+
+"Três dias a partir do momento que verificar. O Mercator vai estar a dois terços da rota até Halcyon quando ele confirmar o que está faltando."
+
+Era a avaliação certa. Lucasia havia chegado à mesma sequência ontem de noite, mas havia partes do processo interno de Crane que Sael conhecia e ela não. Que as análises batessem era confirmação, não descoberta.
+
+"Aldric precisa de saída de Ferris antes de três dias," ela disse. "Não pode estar associado ao Mercator quando Crane confirmar."
+
+"Ele tem rota independente. Já está em andamento."
+
+Isso fechava a conta operacional. Lucasia voltou ao manifesto — havia mais uma seção para terminar antes de Tavessa voltar com o caderno de arquivo secundário.
+
+Então Sael disse:
+
+"Você sabe o que você é para ele."
+
+Lucasia não parou de escrever de imediato. A linha que estava na ponta do lápis tinha dois dígitos que precisavam de registro antes que a informação fosse embora. Ela escreveu os dois dígitos.
+
+Depois parou.
+
+"Sou a capitã do navio que o levou ao leste."
+
+"Você sabe que não é isso."
+
+O slipsand lá embaixo tinha o ruído do meio da manhã — movimento de carga, pressão de corrente entre o berço quatro e o berço cinco, a textura específica que indicava que o vento havia girado dois graus desde o amanhecer. Ela havia aprendido esse ruído nos doze dias sem perceber que estava aprendendo.
+
+Silêncio.
+
+"Raban passou vinte anos aprendendo a não ficar em lugar nenhum." A voz de Sael era a voz da operação — informação precisa, sem ornamento. "Depois de seis meses com você, ele seguiu rota que você traçou pelo leste por mais seis meses. Essa não é a rota mais eficiente para nada."
+
+Pausa.
+
+"É a rota que passou por portos onde ele podia saber se o Mercator estava bem."
+
+Havia um músculo no ombro esquerdo que tensionava quando havia dado novo que precisava ser processado antes que ela pudesse responder. Era involuntário. Ela notou.
+
+Não disse nada.
+
+"Você foi verificá-la," Sael disse. "Não é acusação. É observação."
+
+Lucasia levantou os olhos do manifesto. "Por que você está me dizendo isso?"
+
+Sael considerou — não a consideração de quem calcula o que dizer, mas a de quem já sabe e está verificando se o momento é certo.
+
+"Porque meu irmão tem histórico de partir antes que as coisas fiquem difíceis. Se você não for específica sobre o que quer, ele vai interpretar ambiguidade como permissão para continuar em movimento."
+
+A sala de navegação tinha o cheiro de papel e óleo de lamparina e o fundo de especiaria do porto que havia permeado tudo em doze dias. Ela havia parado de notar esse cheiro depois do terceiro dia. Estava notando agora.
+
+"Ele não foi mais longe do que a pergunta," Sael acrescentou. "Não responde perguntas que ninguém fez."
+
+Lucasia ficou olhando para ela. Sael tinha os olhos de Raban — ela havia notado isso no dia em que Sael apareceu, havia arquivado como dado de reconhecimento, não havia voltado ao arquivo. Estava voltando agora.
+
+"Você está me dizendo o que fazer."
+
+"Estou te dizendo o que ele faz." Uma pausa de calibração. "O que você faz com isso é sua decisão. Sempre foi."
+
+Sael levantou. Deixou a cadeira como estava. Na porta, voltou-se.
+
+"Ele seguiu sua rota por seis meses porque era a única rota que fazia sentido para o lugar onde ele estava."
+
+A porta fechou.
+
+---
+
+O mapa de Halcyon estava dobrado sobre a mesa.
+
+A mesma dobra. A linha que ela havia traçado com a precisão de quem calcula há mais tempo do que o traçado da linha. A rota que havia escolhido com Raban confirmando condições de vento, a conversa de trabalho que era conversa de trabalho.
+
+Ela abriu o mapa.
+
+A linha estava lá. Catorze dias de nordeste com a variável de dezasseis se o canal norte dobrasse. Era a rota certa. Era a rota que ela teria escolhido com qualquer dado, com qualquer tripulação, com qualquer outro membro de bordo calculando o mesmo.
+
+Esse era o dado. A rota era a rota certa.
+
+Ela dobrou o mapa.
+
+O que Sael havia dito não era dado inteiramente novo — era dado que ela havia mantido fora do arquivo de análise porque havia razões operacionais para isso. Seis meses de rota leste. A rota que ela havia traçado em Arvene numa mesa como resposta ao pedido de passagem segura, calculada com a mesma precisão com que calculava qualquer coisa, entregue como dado operacional porque era dado operacional.
+
+Ele havia seguido essa rota por seis meses.
+
+Havia razões eficientes para seguir rota leste. Havia portos com menos presença de Verath, carga que pagava bem, uma série de razões que faziam sentido independente de qualquer outra coisa.
+
+A rota mais eficiente do leste não passava por Harven. Não passava por Crevos. Não passava por Neven.
+
+Ela conhecia esses portos porque o Mercator havia passado por eles nos anos anteriores à rota norte. Havia mencionado isso em Arvene quando traçou os mapas — não como sugestão específica, como contexto de porto. *Harven tem manifesto simplificado, se você tiver carga de segundo tipo. Crevos — cais reformado no ano passado, berços maiores do que indicam as cartas antigas. Neven, se precisar de suprimento de rota, o armazém três tem acordo de crédito com navios sem porto fixo.*
+
+Eram os portos onde o Mercator havia estado. Eram os portos que ela havia mencionado.
+
+Ele havia estado em portos que ela havia mencionado.
+
+Ela recolheu o material da mesa.
+
+Ela não estava evitando o que Sael havia dito. Estava arquivando para quando houvesse espaço para examinar com precisão — que não era agora, que era uma decisão operacionalmente defensável, que era —
+
+Parou o pensamento antes que terminasse.
+
+Havia notado o que estava fazendo.
+
+---
+
+Às três da tarde ela subiu ao convés.
+
+Havia motivo técnico: verificação de amarra de saída, diferente da amarra de porto estático dos doze dias anteriores. Amarra de saída precisava de tensão específica para navegação em slipsand de pressão variável, e o canal nordeste tinha pressão variável nesta época.
+
+Raban estava na amura de bombordo.
+
+Havia a escotilha de popa, que dava ao leme sem passar pela amura de bombordo. Era o acesso mais direto para verificação de amarra de saída.
+
+Ela havia subido pela escotilha de proa.
+
+Ele estava no modo de leitura de porto — olhar no slipsand, postura de descanso que não era descanso porque a leitura continuava. Estava verificando o porto que ia deixar amanhã. Ela havia estado no mesmo porto por doze dias. Não havia desenvolvido o hábito de lê-lo dessa forma.
+
+"Manifesto fechado," ela disse. A informação era relevante — ele havia estado no briefing de operação, sabia que o manifesto era a última peça.
+
+"Amarra de saída está certa para nordeste." Ele disse sem se voltar de imediato — um segundo antes de girar. "Verifiquei às duas."
+
+"Eu sei." Ela havia visto o registro no caderno de Maret. "Vinha fazer inspeção dupla."
+
+Ele não disse nada. Ela caminhou até a amura de boreste para a verificação — a rota de trabalho que passava pela amura de bombordo, onde ele estava.
+
+Ele notava quando ela estava perto. Ela havia aprendido esse sinal em Arvene e havia mantido no arquivo de leituras não nomeadas. O que era diferente hoje: estava perto dele com o dado de Sael ainda em processo de arquivamento, e o dado de Sael coloria tudo de forma que ela não havia solicitado.
+
+"Vento se mantém," ele disse. "Canal nordeste vai estar limpo amanhã."
+
+"Sabia." Ela havia verificado os instrumentos às duas e meia. "Dezasseis dias, não quatorze."
+
+"O giro de pressão do canal estabiliza no quarto dia. Depois disso é quatorze."
+
+Ela parou um segundo. "Você calculou o giro de pressão do canal?"
+
+"Ontem de noite." Uma pausa que não era hesitação. "Achei que era dado relevante."
+
+Era dado relevante. Era o tipo de dado que ela teria calculado — havia calculado, mas com a variável mais conservadora, que dava dezasseis. Com o giro de pressão como variável, dezasseis caía para quatorze com sessenta por cento de confiança.
+
+Ela havia calculado com a variável conservadora porque havia estado fazendo quatro outras coisas ontem de noite. Ele havia calculado o giro porque havia estado no convés.
+
+Fazendo relatório de saída. Para o navio que não era o dele.
+
+A tarde tinha o calor específico deste porto — não o calor de Ferris, não o de Arvene. Era o calor daqui, que havia aprendido sem catalogar como detalhe particular.
+
+"Vou registrar dezasseis com nota de revisão para quatorze," ela disse. "Margem mais segura para a Câmara."
+
+"Certo."
+
+Ela foi para a inspeção de amarra. Ele ficou na amura de bombordo.
+
+A amarra estava certa — havia estado certa quando Raban verificou às duas, continuava certa. Ela registrou no caderno de bordo. O sol no slipsand tinha o ângulo de quase fim de tarde, a areia com aquela luz amarantina que ficava densa perto do entardecer.
+
+"Duas amarras de popa precisam de revisão antes do amanhecer," ela disse sem se voltar. "Tensão de corrente."
+
+"Já pedi para Doryn."
+
+Ela se voltou. Ele estava olhando para ela. Não para o slipsand, não para as amarras — para ela. Com a mesma atenção com que havia lido o porto. Ela arquivou o dado e foi embora antes de examinar o arquivo.
+
+"Obrigada," ela disse. Sobre as amarras de popa.
+
+Ela foi embora pela escotilha de proa.
+
+---
+
+Às dez e meia a câmara do capitão estava quieta.
+
+O trabalho havia terminado às nove — manifesto completo, arquivo da Câmara numerado, confirmação de embalagem de preservação para o documento de Sael. O Mercator estava em ordem de saída. Havia nada operacional para fazer até o amanhecer.
+
+Ela estava de costas na cama com os olhos abertos.
+
+O que Sael havia dito havia ficado em arquivo intermediário pelo resto do dia. Agora era tarde, havia quietude, havia o espaço que havia decidido que era necessário para examinar com precisão.
+
+O que havia no arquivo: ele havia seguido a rota dela por seis meses. A rota não era a mais eficiente. Era a que passava pelos portos certos. Sael havia dito que ele não responde perguntas que ninguém faz.
+
+Ela havia passado os seis meses anteriores à chegada dele em Arvene acreditando que a distância havia feito o que a distância era suposta fazer. A Lie — que amor é fraqueza, que distância protege — havia funcionado porque havia distância real. Ele havia partido. Ela havia voltado à rota norte. Os seis meses haviam ocorrido.
+
+A distância havia existido.
+
+O que Sael estava dizendo era que durante essa distância ele havia estado em portos que ela havia mencionado em Arvene. Que havia estado em posições de saber se o Mercator estava bem. Em órbita — não próximo, não em contato, não de nenhuma forma que a Lie pudesse designar como problema. Em órbita.
+
+A distância havia existido e havia funcionado como distância.
+
+E ainda assim.
+
+A Lie havia soado como verdade razoável em Arvene, no primeiro mês depois, no terceiro mês quando o Mercator estava em Sanvel e havia dados de porto suficientes para preencher o espaço. Havia soado como verdade razoável cada vez que ela havia verificado a bússola e decidido que verificar a bússola era hábito.
+
+A diferença entre verdade e hábito era o tipo de diferença que ela havia aprendido a reconhecer em manifesto fraudado: os dois ocupam a mesma linha, mas um deles tem a numeração errada se você verificar com dados suficientes.
+
+Ela tinha dados suficientes.
+
+O que ainda não tinha: o que fazer com os dados. Sael havia dito que ela precisava ser específica, ou ele ia interpretar ambiguidade como permissão para partir.
+
+Depois de Halcyon não haveria operação. Haveria a Câmara, o documento, e depois o Mercator em rota aberta. Sem motivo externo para nada.
+
+Ela podia ser específica em Halcyon. Podia ser antes. Podia não ser e ver o que acontecia — mas Sael havia sido direta sobre o que acontecia quando ela não era.
+
+Ela não queria que ele partisse.
+
+Esse era o dado. O contorno que não havia tido ontem.
+
+O slipsand lá embaixo tinha o ruído de porto prestes a ficar para trás — a qualidade de lugar que já estava sendo deixado antes de o navio se mover. Ela havia aprendido esse ruído em cada porto nos sete anos de capitão do Mercator.
+
+Havia aprendido o ruído deste.
+
+A bússola estava no bolso do casaco, dobrado na cadeira do lado esquerdo. Ela não a tirou. Não era momento para bússola — era o momento de deixar o dado existir por uma noite sem construir a conclusão antes de ter o espaço certo para construí-la.
+
+Havia trabalho amanhã. O leme. A última manhã neste porto. A saída depois de amanhã ao amanhecer.
+
+Ela fechou os olhos.
 
