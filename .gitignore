@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+fipe_cache.json
+resultados.json
+oportunidades.html
