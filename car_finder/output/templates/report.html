@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Oportunidades de Carros – {{ generated_at }}</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #0f1117;
+      --surface: #1a1d27;
+      --border:  #2a2d3a;
+      --text:    #e2e8f0;
+      --muted:   #64748b;
+      --green:   #22c55e;
+      --red:     #ef4444;
+      --amber:   #f59e0b;
+      --blue:    #3b82f6;
+      --purple:  #8b5cf6;
+      --orange:  #f97316;
+    }
+
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+           background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(135deg, #1e1b4b 0%, #0f172a 60%, #1a0f2e 100%);
+      padding: 32px 40px; border-bottom: 1px solid var(--border);
+      position: relative; overflow: hidden;
+    }
+    header::before {
+      content: ""; position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 70% 50%, rgba(139,92,246,.15) 0%, transparent 70%);
+    }
+    header h1 { font-size: 2rem; font-weight: 800; position: relative;
+                background: linear-gradient(135deg, #a78bfa, #60a5fa); -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent; background-clip: text; }
+    header .sub { color: var(--muted); font-size: .9rem; margin-top: 6px; position: relative; }
+    header .ts  { color: #4ade80; font-size: .8rem; margin-top: 4px; position: relative; }
+
+    /* ── Graph pipeline banner ── */
+    .pipeline {
+      display: flex; align-items: center; gap: 0;
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 14px 40px; overflow-x: auto; font-size: .8rem;
+    }
+    .pipe-node {
+      display: flex; flex-direction: column; align-items: center; gap: 3px;
+      background: #0f1117; border: 1px solid var(--border);
+      border-radius: 8px; padding: 8px 16px; white-space: nowrap;
+    }
+    .pipe-node .label { color: var(--muted); font-size: .7rem; text-transform: uppercase; letter-spacing: .05em; }
+    .pipe-node .val   { font-weight: 700; font-size: .95rem; }
+    .pipe-arrow { color: var(--muted); margin: 0 8px; font-size: 1.2rem; }
+    .pipe-node.active { border-color: var(--purple); background: rgba(139,92,246,.08); }
+
+    /* ── Stats ── */
+    .stats { display: flex; flex-wrap: wrap; gap: 16px; padding: 24px 40px;
+             background: var(--surface); border-bottom: 1px solid var(--border); }
+    .stat { background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+            padding: 16px 24px; min-width: 130px; }
+    .stat .v { font-size: 2rem; font-weight: 800; }
+    .stat .l { font-size: .75rem; color: var(--muted); margin-top: 2px; }
+    .v.blue   { color: var(--blue);   }
+    .v.green  { color: var(--green);  }
+    .v.red    { color: var(--red);    }
+    .v.amber  { color: var(--amber);  }
+
+    /* ── Controls ── */
+    .controls {
+      display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+      padding: 16px 40px; background: var(--surface); border-bottom: 1px solid var(--border);
+    }
+    .controls select, .controls input {
+      background: var(--bg); color: var(--text);
+      border: 1px solid var(--border); border-radius: 6px;
+      padding: 7px 12px; font-size: .85rem; outline: none;
+    }
+    .controls select:focus, .controls input:focus { border-color: var(--purple); }
+    .controls label { font-size: .85rem; color: var(--muted); display: flex; align-items: center; gap: 8px; }
+    .count-badge { background: var(--purple); color: #fff; border-radius: 20px; padding: 2px 10px;
+                   font-size: .75rem; font-weight: 700; }
+
+    /* ── Grid ── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px; padding: 24px 40px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; overflow: hidden;
+      display: flex; flex-direction: column;
+      transition: border-color .2s, transform .15s, box-shadow .15s;
+    }
+    .card:hover {
+      border-color: var(--purple);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 32px rgba(139,92,246,.15);
+    }
+    .card[data-hidden="true"] { display: none; }
+
+    .card-img   { width: 100%; height: 200px; object-fit: cover; background: #111; }
+    .no-img     { width: 100%; height: 200px; display: flex; align-items: center;
+                  justify-content: center; background: #111; color: var(--muted); font-size: .85rem; }
+
+    .card-body  { padding: 16px; flex: 1; display: flex; flex-direction: column; gap: 10px; }
+
+    .card-top   { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .card-title { font-weight: 700; font-size: 1rem; line-height: 1.3; }
+
+    /* source badges */
+    .badge { font-size: .7rem; font-weight: 700; padding: 3px 8px; border-radius: 4px; white-space: nowrap; }
+    .badge-olx { background: #7c3aed; color: #fff; }
+    .badge-webmotors { background: #ea580c; color: #fff; }
+
+    /* discount badges */
+    .disc-fire { background: var(--red); color: #fff; font-weight: 800;
+                 padding: 4px 12px; border-radius: 20px; font-size: .85rem;
+                 animation: pulse 2s infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.75} }
+    .disc-good { background: var(--green); color: #000; font-weight: 800;
+                 padding: 4px 12px; border-radius: 20px; font-size: .85rem; }
+
+    .price-row   { display: flex; justify-content: space-between; align-items: center; }
+    .list-price  { font-size: 1.5rem; font-weight: 800; color: var(--green); }
+    .fipe-block  { text-align: right; font-size: .8rem; color: var(--muted); }
+    .fipe-block s{ display: block; }
+
+    .details     { display: grid; grid-template-columns: 1fr 1fr; gap: 6px;
+                   font-size: .85rem; color: #94a3b8; }
+
+    /* score bar */
+    .score-wrap  { }
+    .score-label { font-size: .7rem; color: var(--muted); margin-bottom: 3px; }
+    .score-bar   { height: 4px; border-radius: 2px; background: var(--border); overflow: hidden; }
+    .score-fill  { height: 100%; border-radius: 2px;
+                   background: linear-gradient(90deg, var(--blue), var(--purple)); }
+
+    /* alerts */
+    .alerts      { display: flex; flex-direction: column; gap: 4px; }
+    .alert-item  { font-size: .78rem; padding: 4px 8px; border-radius: 4px; }
+    .alert-ok    { background: rgba(34,197,94,.1);  color: #86efac; }
+    .alert-warn  { background: rgba(245,158,11,.1); color: #fcd34d; }
+    .alert-info  { background: rgba(59,130,246,.1); color: #93c5fd; }
+    .alert-fire  { background: rgba(239,68,68,.1);  color: #fca5a5; }
+
+    .btn-link {
+      display: block; text-align: center; padding: 10px;
+      background: linear-gradient(135deg, var(--purple), var(--blue));
+      color: #fff; text-decoration: none; border-radius: 8px;
+      font-size: .875rem; font-weight: 700; margin-top: auto;
+      transition: opacity .15s;
+    }
+    .btn-link:hover { opacity: .85; }
+
+    footer { text-align: center; padding: 40px; color: var(--muted); font-size: .8rem;
+             border-top: 1px solid var(--border); margin-top: 8px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🚗 Buscador de Oportunidades</h1>
+  <div class="sub">Grande Goiânia &amp; Anápolis &nbsp;·&nbsp; {{ total_listings }} anúncios analisados &nbsp;·&nbsp; Automático · 2009–2020 · Até R$&nbsp;60.000 · Até 100k km · ≥20% abaixo da FIPE</div>
+  <div class="ts">⏱ Gerado em {{ generated_at }} pelo Graph Agent</div>
+</header>
+
+<!-- Graph pipeline visualization -->
+<div class="pipeline">
+  <div class="pipe-node">
+    <span class="label">Entrada</span>
+    <span class="val">START</span>
+  </div>
+  <span class="pipe-arrow">──▶</span>
+  <div class="pipe-node active">
+    <span class="label">Node 1</span>
+    <span class="val">🔎 Scrape</span>
+  </div>
+  <span class="pipe-arrow">──▶</span>
+  <div class="pipe-node active">
+    <span class="label">Node 2</span>
+    <span class="val">📊 FIPE</span>
+  </div>
+  <span class="pipe-arrow">──▶</span>
+  <div class="pipe-node active">
+    <span class="label">Node 3</span>
+    <span class="val">🏆 Score</span>
+  </div>
+  <span class="pipe-arrow">──▶</span>
+  <div class="pipe-node active">
+    <span class="label">Node 4</span>
+    <span class="val">📄 Report</span>
+  </div>
+  <span class="pipe-arrow">──▶</span>
+  <div class="pipe-node">
+    <span class="label">Saída</span>
+    <span class="val">END</span>
+  </div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="v blue">{{ total_listings }}</div><div class="l">Anúncios analisados</div></div>
+  <div class="stat"><div class="v green">{{ total_opportunities }}</div><div class="l">Oportunidades ≥20% FIPE</div></div>
+  <div class="stat"><div class="v red">{{ best_discount }}%</div><div class="l">Maior desconto</div></div>
+  <div class="stat"><div class="v amber">{{ avg_discount }}%</div><div class="l">Desconto médio</div></div>
+</div>
+
+<div class="controls">
+  <label>Ordenar:
+    <select id="sortBy" onchange="applyFilters()">
+      <option value="discount">Maior desconto FIPE</option>
+      <option value="price">Menor preço</option>
+      <option value="score">Pontuação</option>
+      <option value="km">Menor KM</option>
+      <option value="year">Ano mais novo</option>
+    </select>
+  </label>
+  <label>Fonte:
+    <select id="srcFilter" onchange="applyFilters()">
+      <option value="">Todas</option>
+      <option value="olx">OLX</option>
+      <option value="webmotors">Webmotors</option>
+    </select>
+  </label>
+  <label>Preço até R$:
+    <input type="number" id="priceMax" placeholder="60000" step="1000" onchange="applyFilters()">
+  </label>
+  <label>Desconto mín %:
+    <input type="number" id="discMin" placeholder="20" step="1" value="20" onchange="applyFilters()">
+  </label>
+  <span class="count-badge" id="visCount">{{ total_opportunities }}</span> oportunidades
+</div>
+
+<div class="grid" id="carsGrid">
+  {% for car in cars %}
+  <div class="card"
+       data-source="{{ car.source }}"
+       data-price="{{ car.price }}"
+       data-discount="{{ car.discount_pct or 0 }}"
+       data-score="{{ car.opportunity_score }}"
+       data-km="{{ car.km or 999999 }}"
+       data-year="{{ car.year or 0 }}">
+
+    {% if car.images %}
+    <img class="card-img" src="{{ car.images[0] }}" alt="{{ car.title }}"
+         onerror="this.outerHTML='<div class=\'no-img\'>📷 Sem foto</div>'">
+    {% else %}
+    <div class="no-img">📷 Sem foto</div>
+    {% endif %}
+
+    <div class="card-body">
+      <div class="card-top">
+        <span class="card-title">{{ car.title }}</span>
+        <span class="badge badge-{{ car.source }}">{{ car.source | upper }}</span>
+      </div>
+
+      <div class="price-row">
+        <div class="list-price">R$&nbsp;{{ '{:,.0f}'.format(car.price).replace(',', '.') }}</div>
+        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px">
+          {% if car.discount_pct %}
+          <span class="{% if car.discount_pct >= 30 %}disc-fire{% else %}disc-good{% endif %}">
+            -{{ '{:.0f}'.format(car.discount_pct) }}% FIPE
+          </span>
+          {% endif %}
+          {% if car.fipe_price %}
+          <div class="fipe-block">
+            <s>FIPE: R$&nbsp;{{ '{:,.0f}'.format(car.fipe_price).replace(',', '.') }}</s>
+            {% if car.fipe_model_name %}<small style="font-size:.7rem">{{ car.fipe_model_name[:32] }}</small>{% endif %}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="details">
+        <span>📅 {{ car.year or '–' }}</span>
+        <span>🔢 {{ '{:,}'.format(car.km).replace(',', '.') ~ ' km' if car.km else '–' }}</span>
+        <span>⚙️ {{ (car.transmission or '–')[:18] }}</span>
+        <span>📍 {{ car.location or '–' }}</span>
+      </div>
+
+      {% if car.opportunity_score %}
+      <div class="score-wrap">
+        <div class="score-label">Pontuação: {{ car.opportunity_score | int }}/100</div>
+        <div class="score-bar">
+          <div class="score-fill" style="width:{{ [car.opportunity_score, 100] | min }}%"></div>
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="alerts">
+        {% for a in car.alerts %}
+        <div class="alert-item
+          {% if '✅' in a or '🔥' in a %}alert-{% if '🔥' in a %}fire{% else %}ok{% endif %}
+          {% elif '⚠️' in a %}alert-warn
+          {% elif '🔍' in a %}alert-info
+          {% else %}alert-info{% endif %}">{{ a }}</div>
+        {% endfor %}
+      </div>
+
+      <a href="{{ car.url }}" target="_blank" rel="noopener" class="btn-link">Ver anúncio →</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<footer>
+  Gerado pelo <strong>Car Opportunity Graph Agent</strong> &nbsp;·&nbsp;
+  Verifique sempre o histórico veicular no DETRAN-GO antes de comprar.
+</footer>
+
+<script>
+function applyFilters() {
+  const by      = document.getElementById('sortBy').value;
+  const src     = document.getElementById('srcFilter').value.toLowerCase();
+  const maxP    = parseFloat(document.getElementById('priceMax').value) || Infinity;
+  const minDisc = parseFloat(document.getElementById('discMin').value) || 0;
+
+  const grid  = document.getElementById('carsGrid');
+  const cards = [...grid.querySelectorAll('.card')];
+
+  // Filter
+  let visible = 0;
+  cards.forEach(c => {
+    const ok = (!src || c.dataset.source === src)
+            && parseFloat(c.dataset.price)    <= maxP
+            && parseFloat(c.dataset.discount) >= minDisc;
+    c.dataset.hidden = !ok;
+    if (ok) visible++;
+  });
+  document.getElementById('visCount').textContent = visible;
+
+  // Sort visible cards
+  const vis = cards.filter(c => c.dataset.hidden !== 'true');
+  vis.sort((a, b) => {
+    switch (by) {
+      case 'discount': return parseFloat(b.dataset.discount) - parseFloat(a.dataset.discount);
+      case 'price':    return parseFloat(a.dataset.price)    - parseFloat(b.dataset.price);
+      case 'score':    return parseFloat(b.dataset.score)    - parseFloat(a.dataset.score);
+      case 'km':       return parseFloat(a.dataset.km)       - parseFloat(b.dataset.km);
+      case 'year':     return parseFloat(b.dataset.year)     - parseFloat(a.dataset.year);
+      default: return 0;
+    }
+  });
+  vis.forEach(c => grid.appendChild(c));
+}
+</script>
+</body>
+</html>
